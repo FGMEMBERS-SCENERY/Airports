@@ -3,7 +3,7 @@
 <jetway n="0">
   <model type="string">generic</model>
   <gate type="string">0</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.71184431</latitude-deg>
   <longitude-deg type="double">-122.213741542</longitude-deg>
@@ -19,7 +19,7 @@
 <jetway n="1">
   <model type="string">generic</model>
   <gate type="string">1</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.711561877</latitude-deg>
   <longitude-deg type="double">-122.213572065</longitude-deg>
@@ -35,7 +35,7 @@
 <jetway n="2">
   <model type="string">generic</model>
   <gate type="string">2</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.711405717</latitude-deg>
   <longitude-deg type="double">-122.213280849</longitude-deg>
@@ -51,7 +51,7 @@
 <jetway n="3">
   <model type="string">generic</model>
   <gate type="string">3</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.711083643</latitude-deg>
   <longitude-deg type="double">-122.212719795</longitude-deg>
@@ -67,7 +67,7 @@
 <jetway n="4">
   <model type="string">generic</model>
   <gate type="string">4</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.711247043</latitude-deg>
   <longitude-deg type="double">-122.212998973</longitude-deg>
@@ -83,7 +83,7 @@
 <jetway n="5">
   <model type="string">generic</model>
   <gate type="string">5</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.710605882</latitude-deg>
   <longitude-deg type="double">-122.211597523</longitude-deg>
@@ -99,7 +99,7 @@
 <jetway n="6">
   <model type="string">generic</model>
   <gate type="string">6</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.71038703</latitude-deg>
   <longitude-deg type="double">-122.211799354</longitude-deg>
@@ -115,7 +115,7 @@
 <jetway n="7">
   <model type="string">generic</model>
   <gate type="string">7</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.710159245</latitude-deg>
   <longitude-deg type="double">-122.212006831</longitude-deg>
@@ -131,7 +131,7 @@
 <jetway n="8">
   <model type="string">generic</model>
   <gate type="string">8</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.709939276</latitude-deg>
   <longitude-deg type="double">-122.212207249</longitude-deg>
@@ -147,7 +147,7 @@
 <jetway n="9">
   <model type="string">generic</model>
   <gate type="string">9</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.709715958</latitude-deg>
   <longitude-deg type="double">-122.212409079</longitude-deg>
@@ -163,7 +163,7 @@
 <jetway n="10">
   <model type="string">generic</model>
   <gate type="string">10</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.709494873</latitude-deg>
   <longitude-deg type="double">-122.21261232</longitude-deg>
@@ -179,7 +179,7 @@
 <jetway n="11">
   <model type="string">generic</model>
   <gate type="string">11</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.711812281</latitude-deg>
   <longitude-deg type="double">-122.214324601</longitude-deg>
@@ -195,7 +195,7 @@
 <jetway n="12">
   <model type="string">generic</model>
   <gate type="string">12</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.711293929</latitude-deg>
   <longitude-deg type="double">-122.21524775</longitude-deg>
@@ -211,7 +211,7 @@
 <jetway n="13">
   <model type="string">generic</model>
   <gate type="string">13</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.711631074</latitude-deg>
   <longitude-deg type="double">-122.214823454</longitude-deg>
@@ -227,7 +227,7 @@
 <jetway n="14">
   <model type="string">generic</model>
   <gate type="string">14</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.711408583</latitude-deg>
   <longitude-deg type="double">-122.21502582</longitude-deg>
@@ -243,7 +243,7 @@
 <jetway n="15">
   <model type="string">generic</model>
   <gate type="string">15</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.711057809</latitude-deg>
   <longitude-deg type="double">-122.215733679</longitude-deg>
@@ -259,7 +259,7 @@
 <jetway n="16">
   <model type="string">generic</model>
   <gate type="string">16</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.710836641</latitude-deg>
   <longitude-deg type="double">-122.215937088</longitude-deg>
@@ -275,7 +275,7 @@
 <jetway n="17">
   <model type="string">generic</model>
   <gate type="string">17</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.710614328</latitude-deg>
   <longitude-deg type="double">-122.216140472</longitude-deg>
@@ -291,7 +291,7 @@
 <jetway n="18">
   <model type="string">generic</model>
   <gate type="string">18</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.711952585</latitude-deg>
   <longitude-deg type="double">-122.215271717</longitude-deg>
@@ -307,7 +307,7 @@
 <jetway n="19">
   <model type="string">generic</model>
   <gate type="string">19</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.712776648</latitude-deg>
   <longitude-deg type="double">-122.215616746</longitude-deg>
@@ -323,7 +323,7 @@
 <jetway n="20">
   <model type="string">generic</model>
   <gate type="string">20</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.711729169</latitude-deg>
   <longitude-deg type="double">-122.215471216</longitude-deg>
@@ -339,7 +339,7 @@
 <jetway n="21">
   <model type="string">generic</model>
   <gate type="string">21</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.711567887</latitude-deg>
   <longitude-deg type="double">-122.21579399</longitude-deg>
@@ -355,7 +355,7 @@
 <jetway n="22">
   <model type="string">generic</model>
   <gate type="string">22</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.711345283</latitude-deg>
   <longitude-deg type="double">-122.215997562</longitude-deg>
@@ -371,7 +371,7 @@
 <jetway n="23">
   <model type="string">generic</model>
   <gate type="string">23</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.711119445</latitude-deg>
   <longitude-deg type="double">-122.216195436</longitude-deg>
@@ -387,7 +387,7 @@
 <jetway n="24">
   <model type="string">generic</model>
   <gate type="string">24</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.710908405</latitude-deg>
   <longitude-deg type="double">-122.216400797</longitude-deg>
@@ -403,7 +403,7 @@
 <jetway n="25">
   <model type="string">generic</model>
   <gate type="string">25</gate>
-  <door type="int">1</door>
+  <door type="int">0</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">37.709268929</latitude-deg>
   <longitude-deg type="double">-122.212809419</longitude-deg>
