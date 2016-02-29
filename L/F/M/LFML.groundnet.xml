@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Cargo_2" lat="N43 26.747047" lon="E5 13.039184" heading="60.27"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="Gate_2A" lat="N43 26.343538" lon="E5 13.441718" heading="279.5"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="Gate_9B" lat="N43 26.490751" lon="E5 13.203630" heading="56.67"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Park_35E" lat="N43 26.352731" lon="E5 13.233970" heading="132.78"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="Ramp_25C" lat="N43 26.272840" lon="E5 13.273080" heading="320.09"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="Ramp_40C" lat="N43 26.409050" lon="E5 13.120037" heading="312"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="Ramp_47_MP2" lat="N43 26.531276" lon="E5 13.073318" heading="78.49"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="Ramp_61N" lat="N43 26.586530" lon="E5 12.697014" heading="117.4"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="Ramp_canadair" lat="N43 26.031082" lon="E5 13.564380" heading="132.4"  radius="44" airlineCodes="" />
+        <Parking index="9" type="gate" name="Ramp_GA1" lat="N43 26.688558" lon="E5 12.964618" heading="153.93"  radius="44" airlineCodes="" />
+        <Parking index="10" type="gate" name="Ramp_Gate_C" lat="N43 26.375689" lon="E5 13.343408" heading="69.75"  radius="44" airlineCodes="" />
+        <Parking index="11" type="gate" name="Ramp_Gate_7B" lat="N43 26.426498" lon="E5 13.283776" heading="41.19"  radius="44" airlineCodes="" />
+        <Parking index="12" type="gate" name="Ramp_hangar" lat="N43 26.039639" lon="E5 12.344642" heading="285.6"  radius="44" airlineCodes="" />
+        <Parking index="13" type="gate" name="Ramp_Helico" lat="N43 25.943491" lon="E5 13.596085" heading="0"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="West_Ramp" lat="N51 30.277568" lon="E0 2.557638" heading="88.33"  radius="19" airlineCodes="" />
+        <Parking index="1" type="gate" name="Stand_13" lat="N51 30.271689" lon="E0 2.682499" heading="147.03"  radius="19" airlineCodes="" />
+        <Parking index="2" type="gate" name="Stand_10" lat="N51 30.261249" lon="E0 2.783698" heading="181.26"  radius="19" airlineCodes="" />
+        <Parking index="3" type="ga" name="GA_Ramp" lat="N51 30.298839" lon="E0 2.450836" heading="336.71"  radius="10" airlineCodes="" />
+        <Parking index="4" type="gate" name="Stand_11" lat="N51 30.263514" lon="E0 2.737488" heading="182.14"  radius="19" airlineCodes="" />
+        <Parking index="5" type="gate" name="Stand_3" lat="N51 30.258575" lon="E0 3.030679" heading="180"  radius="19" airlineCodes="" />
+        <Parking index="6" type="gate" name="Stand_5" lat="N51 30.257504" lon="E0 2.945111" heading="181.49"  radius="19" airlineCodes="" />
+        <Parking index="7" type="gate" name="Stand_6" lat="N51 30.256200" lon="E0 2.908914" heading="181.67"  radius="19" airlineCodes="" />
+        <Parking index="8" type="gate" name="Stand_7" lat="N51 30.259392" lon="E0 2.871804" heading="181.14"  radius="19" airlineCodes="" />
+        <Parking index="9" type="gate" name="Stand_9" lat="N51 30.260204" lon="E0 2.828124" heading="-178.54"  radius="19" airlineCodes="" />
+ </parkingList>
+</groundnet>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Apron_II_Cargo" lat="N51 7.479809" lon="W114 0.649304" heading="89.02"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="Apron_VII_Cargo" lat="N51 7.299773" lon="W114 1.824022" heading="43.87"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="Concourse_A" lat="N51 7.684996" lon="W114 0.544338" heading="2.97"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Concourse_B" lat="N51 7.767079" lon="W114 0.724663" heading="310.47"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="Concourse_C" lat="N51 7.810822" lon="W114 0.773858" heading="117.12"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="Concourse_D" lat="N51 7.947722" lon="W114 0.865969" heading="23.08"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="General_Aviation" lat="N51 6.126237" lon="W114 2.126385" heading="303.77"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="Westjet_Hanger" lat="N51 7.260331" lon="W114 0.674603" heading="122.84"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

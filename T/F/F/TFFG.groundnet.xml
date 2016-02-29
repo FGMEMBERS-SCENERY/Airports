@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="GA_Ramp_1" lat="N18 6.087180" lon="W63 2.897520" heading="147.77"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA_Ramp_10" lat="N18 6.064260" lon="W63 2.790960" heading="107"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_Ramp_11" lat="N18 6.074220" lon="W63 2.788740" heading="107.17"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="GA_Ramp_2" lat="N18 6.079260" lon="W63 2.871180" heading="148.69"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="GA_Ramp_3" lat="N18 6.071520" lon="W63 2.844240" heading="149.08"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="GA_Ramp_4" lat="N18 6.067080" lon="W63 2.819220" heading="106.75"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="GA_Ramp_5" lat="N18 6.078240" lon="W63 2.815740" heading="107.36"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="GA_Ramp_6" lat="N18 6.057720" lon="W63 2.806140" heading="106.67"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="GA_Ramp_7" lat="N18 6.067680" lon="W63 2.803140" heading="106.98"  radius="44" airlineCodes="" />
+        <Parking index="9" type="gate" name="GA_Ramp_8" lat="N18 6.077520" lon="W63 2.799900" heading="106.81"  radius="44" airlineCodes="" />
+        <Parking index="10" type="gate" name="GA_Ramp_9" lat="N18 6.054180" lon="W63 2.794080" heading="107.14"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

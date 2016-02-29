@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="34_Sqn_Apron_1" lat="S35 18.203146" lon="E149 11.947008" heading="125.35"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="34_Sqn_Apron_2" lat="S35 18.181774" lon="E149 11.961485" heading="125.95"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="Fairbairn_Apron_25" lat="S35 18.110743" lon="E149 11.841418" heading="20.24"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Fairbairn_Apron_27" lat="S35 18.138785" lon="E149 11.888409" heading="35.31"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="Fairbairn_Helipad" lat="S35 18.210230" lon="E149 11.759734" heading="0.81"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="GA_Apron_1" lat="S35 18.192718" lon="E149 11.162225" heading="306.76"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="GA_Apron_2" lat="S35 18.218324" lon="E149 11.198801" heading="308.25"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="GA_Apron_3" lat="S35 18.243757" lon="E149 11.220146" heading="310.51"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="GA_Parking_Grass_1" lat="S35 18.112465" lon="E149 11.029250" heading="308.18"  radius="44" airlineCodes="" />
+        <Parking index="9" type="gate" name="GA_Parking_Grass_2" lat="S35 18.138641" lon="E149 11.050914" heading="305.72"  radius="44" airlineCodes="" />
+        <Parking index="10" type="gate" name="Public_Helipad_1" lat="S35 18.160782" lon="E149 11.155335" heading="222.09"  radius="44" airlineCodes="" />
+        <Parking index="11" type="gate" name="Public_Helipad_2" lat="S35 18.171895" lon="E149 11.171645" heading="219.05"  radius="44" airlineCodes="" />
+        <Parking index="12" type="gate" name="Public_Helipad_3" lat="S35 18.182396" lon="E149 11.187281" heading="220.52"  radius="44" airlineCodes="" />
+        <Parking index="13" type="gate" name="RPT_Gate_15" lat="S35 18.362954" lon="E149 11.352752" heading="211.71"  radius="44" airlineCodes="" />
+        <Parking index="14" type="gate" name="RPT_Gate_20" lat="S35 18.305477" lon="E149 11.357067" heading="312.65"  radius="44" airlineCodes="" />
+        <Parking index="15" type="gate" name="RPT_Gate_6" lat="S35 18.422983" lon="E149 11.493310" heading="215.13"  radius="44" airlineCodes="" />
+        <Parking index="16" type="gate" name="RPT_Gate_8" lat="S35 18.399267" lon="E149 11.443528" heading="213.69"  radius="44" airlineCodes="" />
+        <Parking index="17" type="gate" name="RPT_Gate_9" lat="S35 18.385654" lon="E149 11.417225" heading="211.2"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

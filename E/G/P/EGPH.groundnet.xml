@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Business_Aviation_1" lat="N55 56.711400" lon="W3 21.117660" heading="148"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="Business_Aviation_2" lat="N55 56.755140" lon="W3 20.988600" heading="238"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_Club_Parking_(Grass)" lat="N55 56.733143" lon="W3 20.897417" heading="75"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Stand_1_(Passenger_Terminal)" lat="N55 56.798400" lon="W3 21.981720" heading="90"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="Stand_10_(Passenger_Terminal)" lat="N55 56.965500" lon="W3 21.822600" heading="149"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="Stand_11_(Passenger_Terminal)" lat="N55 56.973480" lon="W3 21.799980" heading="149"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="Stand_12_(Passenger_Terminal)" lat="N55 56.982180" lon="W3 21.770520" heading="132"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="Stand_14_(Passenger_Terminal)" lat="N55 56.993880" lon="W3 21.756960" heading="114"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="Stand_15_(Passenger_Terminal)" lat="N55 57.061860" lon="W3 21.569820" heading="165"  radius="44" airlineCodes="" />
+        <Parking index="9" type="gate" name="Stand_16_(SE_Apron)" lat="N55 56.931360" lon="W3 21.541860" heading="210"  radius="44" airlineCodes="" />
+        <Parking index="10" type="gate" name="Stand_16L_(SE_Apron)" lat="N55 56.925420" lon="W3 21.524460" heading="210"  radius="44" airlineCodes="" />
+        <Parking index="11" type="gate" name="Stand_16R_(SE_Apron)" lat="N55 56.937780" lon="W3 21.561720" heading="210"  radius="44" airlineCodes="" />
+        <Parking index="12" type="gate" name="Stand_17_(SE_Apron)" lat="N55 56.914680" lon="W3 21.488040" heading="210"  radius="44" airlineCodes="" />
+        <Parking index="13" type="gate" name="Stand_1A_(Passenger_Terminal)" lat="N55 56.778960" lon="W3 21.988560" heading="90"  radius="44" airlineCodes="" />
+        <Parking index="14" type="gate" name="Stand_1B_(Passenger_Terminal)" lat="N55 56.761560" lon="W3 21.988560" heading="90"  radius="44" airlineCodes="" />
+        <Parking index="15" type="gate" name="Stand_2_(Passenger_Terminal)" lat="N55 56.821980" lon="W3 21.984300" heading="90"  radius="44" airlineCodes="" />
+        <Parking index="16" type="gate" name="Stand_24_(Remote)" lat="N55 56.774580" lon="W3 22.096860" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="17" type="gate" name="Stand_25_(Remote)" lat="N55 56.797020" lon="W3 22.095600" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="18" type="gate" name="Stand_26_(Remote)" lat="N55 56.829540" lon="W3 22.098360" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="19" type="gate" name="Stand_26L_(Remote)" lat="N55 56.818320" lon="W3 22.083360" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="20" type="gate" name="Stand_27_(Remote)" lat="N55 56.840040" lon="W3 22.081380" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="21" type="gate" name="Stand_28_(Remote)" lat="N55 56.851020" lon="W3 22.099020" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="22" type="gate" name="Stand_28R_(Remote)" lat="N55 56.857680" lon="W3 22.081320" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="23" type="gate" name="Stand_29_(Remote)" lat="N55 56.871420" lon="W3 22.097760" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="24" type="gate" name="Stand_3_(Passenger_Terminal)" lat="N55 56.849460" lon="W3 21.987120" heading="90"  radius="44" airlineCodes="" />
+        <Parking index="25" type="gate" name="Stand_30_(Nth_Cargo_Apron)" lat="N55 57.148140" lon="W3 21.425700" heading="29"  radius="44" airlineCodes="" />
+        <Parking index="26" type="gate" name="Stand_31_(Nth_Cargo_Apron)" lat="N55 57.138300" lon="W3 21.394440" heading="29"  radius="44" airlineCodes="" />
+        <Parking index="27" type="gate" name="Stand_32_(Nth_Cargo_Apron)" lat="N55 57.129360" lon="W3 21.364980" heading="29"  radius="44" airlineCodes="" />
+        <Parking index="28" type="gate" name="Stand_33_(Nth_Cargo_Apron)" lat="N55 57.120420" lon="W3 21.336180" heading="29"  radius="44" airlineCodes="" />
+        <Parking index="29" type="gate" name="Stand_34_(Nth_Cargo_Apron)" lat="N55 57.110340" lon="W3 21.303420" heading="29"  radius="44" airlineCodes="" />
+        <Parking index="30" type="gate" name="Stand_35_(Nth_Cargo_Apron)" lat="N55 57.100740" lon="W3 21.268920" heading="29"  radius="44" airlineCodes="" />
+        <Parking index="31" type="gate" name="Stand_36_(Nth_Cargo_Apron)" lat="N55 57.090480" lon="W3 21.233460" heading="29"  radius="44" airlineCodes="" />
+        <Parking index="32" type="gate" name="Stand_37_(Nth_Cargo_Apron)" lat="N55 57.081060" lon="W3 21.197940" heading="29"  radius="44" airlineCodes="" />
+        <Parking index="33" type="gate" name="Stand_38_(Nth_Cargo_Apron)" lat="N55 57.065760" lon="W3 21.159240" heading="55"  radius="44" airlineCodes="" />
+        <Parking index="34" type="gate" name="Stand_38A_(Nth_Cargo_Apron)" lat="N55 57.068700" lon="W3 21.180120" heading="55"  radius="44" airlineCodes="" />
+        <Parking index="35" type="gate" name="Stand_4_(Passenger_Terminal)" lat="N55 56.874180" lon="W3 21.985860" heading="90"  radius="44" airlineCodes="" />
+        <Parking index="36" type="gate" name="Stand_40_(Sth_Cargo_Apron)" lat="N55 57.020400" lon="W3 20.947320" heading="28"  radius="44" airlineCodes="" />
+        <Parking index="37" type="gate" name="Stand_41_(Sth_Cargo_Apron)" lat="N55 57.004140" lon="W3 20.895120" heading="28"  radius="44" airlineCodes="" />
+        <Parking index="38" type="gate" name="Stand_42_(Sth_Cargo_Apron)" lat="N55 56.987940" lon="W3 20.843400" heading="28"  radius="44" airlineCodes="" />
+        <Parking index="39" type="gate" name="Stand_5_(Passenger_Terminal)" lat="N55 56.902800" lon="W3 22.000260" heading="105"  radius="44" airlineCodes="" />
+        <Parking index="40" type="gate" name="Stand_6_(Passenger_Terminal)" lat="N55 56.920380" lon="W3 21.956400" heading="149"  radius="44" airlineCodes="" />
+        <Parking index="41" type="gate" name="Stand_6A_(Passenger_Terminal)" lat="N55 56.909880" lon="W3 21.972600" heading="110"  radius="44" airlineCodes="" />
+        <Parking index="42" type="gate" name="Stand_8_(Passenger_Terminal)" lat="N55 56.941020" lon="W3 21.895800" heading="149"  radius="44" airlineCodes="" />
+        <Parking index="43" type="gate" name="Stand_9_(Passenger_Terminal)" lat="N55 56.953380" lon="W3 21.859860" heading="149"  radius="44" airlineCodes="" />
+        <Parking index="44" type="gate" name="Subsidary_Apron_1" lat="N55 56.688217" lon="W3 20.180240" heading="260"  radius="44" airlineCodes="" />
+        <Parking index="45" type="gate" name="Subsidary_Apron_2" lat="N55 56.664306" lon="W3 20.108200" heading="260"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Ramp_8" lat="N33 1.202304" lon="W118 35.088683" heading="14.93"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="Ramp_7" lat="N33 1.195169" lon="W118 35.107705" heading="14.93"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="Ramp_6" lat="N33 1.188873" lon="W118 35.127977" heading="14.93"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Ramp_5" lat="N33 1.180479" lon="W118 35.148250" heading="14.93"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="Ramp_4" lat="N33 1.246585" lon="W118 35.110708" heading="14.93"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="Ramp_3" lat="N33 1.240499" lon="W118 35.131982" heading="14.93"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="Ramp_2" lat="N33 1.233993" lon="W118 35.152005" heading="14.93"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="Ramp_1" lat="N33 1.226229" lon="W118 35.173028" heading="14.93"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

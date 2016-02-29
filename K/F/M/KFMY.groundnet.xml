@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="ga" name="FBO_BASE_OPS" lat="N26 35.174515" lon="W81 52.061386" heading="127.94"  radius="10" airlineCodes="" />
+        <Parking index="1" type="ga" name="TERMINAL" lat="N26 35.421119" lon="W81 51.713612" heading="136.85"  radius="10" airlineCodes="" />
+        <Parking index="2" type="ga" name="SOUTHEAST_RAMP" lat="N26 34.883570" lon="W81 51.456957" heading="0"  radius="10" airlineCodes="" />
+        <Parking index="3" type="ga" name="SOUTH_RAMP" lat="N26 34.971964" lon="W81 51.663382" heading="179.25"  radius="10" airlineCodes="" />
+        <Parking index="4" type="ga" name="SOUTHWEST_RAMP" lat="N26 34.890464" lon="W81 51.937396" heading="0"  radius="10" airlineCodes="" />
+        <Parking index="5" type="ga" name="F_RAMP" lat="N26 35.124070" lon="W81 51.423028" heading="-50.53"  radius="10" airlineCodes="" />
+ </parkingList>
+</groundnet>

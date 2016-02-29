@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="203B" lat="N40 54.372648" lon="E29 18.939912" heading="330"  radius="10" airlineCodes="" />
+        <Parking index="1" type="gate" name="202B" lat="N40 54.352003" lon="E29 18.886460" heading="330"  radius="10" airlineCodes="" />
+        <Parking index="2" type="gate" name="203" lat="N40 54.362383" lon="E29 18.934760" heading="330"  radius="10" airlineCodes="" />
+        <Parking index="3" type="gate" name="202" lat="N40 54.341803" lon="E29 18.881960" heading="330"  radius="10" airlineCodes="" />
+        <Parking index="4" type="gate" name="203A" lat="N40 54.343603" lon="E29 18.926360" heading="330"  radius="10" airlineCodes="" />
+        <Parking index="5" type="gate" name="202A" lat="N40 54.323323" lon="E29 18.872780" heading="330"  radius="10" airlineCodes="" />
+        <Parking index="6" type="gate" name="201B" lat="N40 54.330561" lon="E29 18.828067" heading="330"  radius="10" airlineCodes="" />
+        <Parking index="7" type="gate" name="201" lat="N40 54.321463" lon="E29 18.822080" heading="330"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="GA1" lat="N40 53.924323" lon="E29 18.052384" heading="155.11"  radius="19" airlineCodes="" />
+        <Parking index="9" type="gate" name="201A" lat="N40 54.300823" lon="E29 18.814820" heading="330"  radius="10" airlineCodes="" />
+ </parkingList>
+</groundnet>

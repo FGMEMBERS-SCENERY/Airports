@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Cargo" lat="N51 9.432300" lon="W0 11.030280" heading="348"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="EGKK_London_Gatwick_Ramp_#1" lat="N51 9.359880" lon="W0 10.196760" heading="168"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="EGKK_London_Gatwick_Ramp_#5" lat="N51 8.877420" lon="W0 9.904500" heading="351"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Gate_17" lat="N51 9.359880" lon="W0 10.196760" heading="168"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="Gate_36" lat="N51 9.546918" lon="W0 10.059605" heading="196.54"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="Maintenance_Area_2" lat="N51 9.265534" lon="W0 11.578532" heading="168"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="North_park" lat="N51 9.738240" lon="W0 10.952580" heading="76"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="North_terminal" lat="N51 9.500785" lon="W0 10.579251" heading="352.4"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="Pier_1" lat="N51 9.265200" lon="W0 9.928740" heading="160"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

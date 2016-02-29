@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Hold_Short_Rwy_06" lat="N22 58.791027" lon="W82 25.544811" heading="144"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="Hold_Short_Rwy_24" lat="N23 0.043385" lon="W82 23.656486" heading="144"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="Terminal_2" lat="N23 0.086270" lon="W82 23.838201" heading="55.28"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Terminal_3" lat="N22 59.767489" lon="W82 24.451781" heading="55.28"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="Domestic_Terminal" lat="N22 59.798398" lon="W82 23.714651" heading="88"  radius="19" airlineCodes="" />
+ </parkingList>
+</groundnet>

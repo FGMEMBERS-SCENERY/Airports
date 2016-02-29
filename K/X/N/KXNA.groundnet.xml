@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Hold_Short_Rwy_16_or_17" lat="N36 17.611111" lon="W94 18.627640" heading="249.8"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="Hold_Short_Rwy_34_or_35" lat="N36 16.263839" lon="W94 18.013535" heading="249.8"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="Air_Carrier_Terminal" lat="N36 16.603884" lon="W94 17.835499" heading="188.15"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Regional_Jet_Center_FBO" lat="N36 16.879890" lon="W94 18.169226" heading="196.49"  radius="19" airlineCodes="" />
+        <Parking index="4" type="gate" name="Cargo_Ramp" lat="N36 16.795095" lon="W94 17.962519" heading="69.8"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

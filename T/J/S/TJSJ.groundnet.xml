@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Airport_Aviation_Services" lat="N18 26.422622" lon="W66 0.033539" heading="157"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="ANG_Ramp" lat="N18 26.681227" lon="W65 59.556997" heading="157"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="Concourse_A" lat="N18 26.141701" lon="W66 0.330268" heading="0"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Concourse_B" lat="N18 26.177519" lon="W66 0.081252" heading="0"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="Concourse_C" lat="N18 26.294356" lon="W66 0.112308" heading="7.38"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="Concourse_D" lat="N18 26.457650" lon="W66 0.173138" heading="180"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="Concourse_E" lat="N18 26.418514" lon="W66 0.312342" heading="156.86"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="Hold_Short_Rwy_10" lat="N18 26.062145" lon="W66 0.810691" heading="177.27"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="Hold_Short_Rwy_26" lat="N18 26.771782" lon="W65 59.633030" heading="13.37"  radius="44" airlineCodes="" />
+        <Parking index="9" type="gate" name="Hold_Short_Rwy_28" lat="N18 26.065668" lon="W65 59.441441" heading="177.27"  radius="44" airlineCodes="" />
+        <Parking index="10" type="gate" name="Hold_Short_Rwy_8" lat="N18 26.277334" lon="W66 0.850304" heading="290.92"  radius="44" airlineCodes="" />
+        <Parking index="11" type="gate" name="M_and_N_Aviation_Jet_Services" lat="N18 26.511547" lon="W65 59.916154" heading="243.29"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

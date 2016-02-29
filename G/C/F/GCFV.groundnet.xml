@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="ga" name="H6" lat="N28 27.416231" lon="W13 52.070904" heading="90"  radius="8" airlineCodes="" />
+        <Parking index="1" type="ga" name="H5" lat="N28 27.439925" lon="W13 52.071742" heading="90"  radius="8" airlineCodes="" />
+        <Parking index="2" type="gate" name="11" lat="N28 27.440337" lon="W13 52.099338" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="12" lat="N28 27.416572" lon="W13 52.098361" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="13" lat="N28 27.392087" lon="W13 52.099991" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="14" lat="N28 27.363080" lon="W13 52.101733" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="17" lat="N28 27.267894" lon="W13 52.102729" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="16" lat="N28 27.297720" lon="W13 52.103130" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="15" lat="N28 27.327932" lon="W13 52.101205" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="9" type="gate" name="18" lat="N28 27.229891" lon="W13 52.099171" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="10" type="gate" name="18B" lat="N28 27.231098" lon="W13 52.102033" heading="-95.19"  radius="44" airlineCodes="" />
+        <Parking index="11" type="gate" name="19" lat="N28 27.197711" lon="W13 52.107835" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="12" type="gate" name="19B" lat="N28 27.199402" lon="W13 52.103318" heading="-98.65"  radius="44" airlineCodes="" />
+        <Parking index="13" type="gate" name="20" lat="N28 27.161662" lon="W13 52.100371" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="14" type="gate" name="21" lat="N28 27.131427" lon="W13 52.108087" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="15" type="gate" name="21B" lat="N28 27.139868" lon="W13 52.085798" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="16" type="gate" name="21C" lat="N28 27.120950" lon="W13 52.088989" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="17" type="gate" name="22B" lat="N28 27.102720" lon="W13 52.088575" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="18" type="gate" name="22" lat="N28 27.105309" lon="W13 52.101092" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="19" type="gate" name="23" lat="N28 27.075080" lon="W13 52.113041" heading="-87.92"  radius="44" airlineCodes="" />
+        <Parking index="20" type="gate" name="23B" lat="N28 27.073387" lon="W13 52.109905" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="21" type="gate" name="24" lat="N28 27.052922" lon="W13 52.099701" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="22" type="gate" name="25" lat="N28 27.030061" lon="W13 52.111970" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="23" type="gate" name="26" lat="N28 26.997958" lon="W13 52.113688" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="24" type="gate" name="27" lat="N28 26.959067" lon="W13 52.115825" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="25" type="gate" name="28" lat="N28 26.922970" lon="W13 52.114919" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="26" type="gate" name="31" lat="N28 27.392776" lon="W13 51.993041" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="27" type="gate" name="32" lat="N28 27.369118" lon="W13 51.993782" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="28" type="gate" name="41" lat="N28 27.183593" lon="W13 52.000678" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="29" type="gate" name="42" lat="N28 27.156365" lon="W13 52.001128" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="30" type="gate" name="43" lat="N28 27.127609" lon="W13 52.002711" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="31" type="gate" name="44" lat="N28 27.099216" lon="W13 52.002819" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="32" type="gate" name="45" lat="N28 27.018746" lon="W13 52.005380" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="33" type="gate" name="46" lat="N28 26.986804" lon="W13 52.008831" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="34" type="gate" name="47" lat="N28 26.954796" lon="W13 52.009339" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="35" type="gate" name="51" lat="N28 26.657271" lon="W13 52.115427" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="36" type="ga" name="52B" lat="N28 26.622979" lon="W13 52.096153" heading="0"  radius="10" airlineCodes="" />
+        <Parking index="37" type="ga" name="52C" lat="N28 26.623371" lon="W13 52.112810" heading="0"  radius="10" airlineCodes="" />
+        <Parking index="38" type="ga" name="52B" lat="N28 26.623797" lon="W13 52.129567" heading="0"  radius="10" airlineCodes="" />
+        <Parking index="39" type="gate" name="52" lat="N28 26.637766" lon="W13 52.124480" heading="1"  radius="44" airlineCodes="" />
+        <Parking index="40" type="gate" name="53" lat="N28 26.634241" lon="W13 52.100375" heading="1"  radius="44" airlineCodes="" />
+        <Parking index="41" type="gate" name="54" lat="N28 26.581746" lon="W13 52.130585" heading="180.99"  radius="44" airlineCodes="" />
+        <Parking index="42" type="gate" name="55" lat="N28 26.581309" lon="W13 52.114216" heading="178.32"  radius="44" airlineCodes="" />
+        <Parking index="43" type="gate" name="56" lat="N28 26.581307" lon="W13 52.097867" heading="178.71"  radius="44" airlineCodes="" />
+        <Parking index="44" type="gate" name="58" lat="N28 26.562643" lon="W13 52.121300" heading="1.79"  radius="44" airlineCodes="" />
+        <Parking index="45" type="gate" name="59" lat="N28 26.561993" lon="W13 52.108291" heading="0"  radius="44" airlineCodes="" />
+        <Parking index="46" type="ga" name="57" lat="N28 26.563280" lon="W13 52.133978" heading="0"  radius="10" airlineCodes="" />
+        <Parking index="47" type="gate" name="60" lat="N28 26.562112" lon="W13 52.095539" heading="0"  radius="44" airlineCodes="" />
+        <Parking index="48" type="gate" name="36" lat="N28 27.274439" lon="W13 51.993877" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="49" type="gate" name="36B" lat="N28 27.273748" lon="W13 51.968320" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="50" type="gate" name="33" lat="N28 27.354575" lon="W13 51.994043" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="51" type="gate" name="33B" lat="N28 27.354058" lon="W13 51.967663" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="52" type="gate" name="34" lat="N28 27.320324" lon="W13 51.993140" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="53" type="gate" name="34B" lat="N28 27.319302" lon="W13 51.968279" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="54" type="gate" name="35" lat="N28 27.299240" lon="W13 51.993392" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="55" type="gate" name="35B" lat="N28 27.298474" lon="W13 51.968497" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="56" type="gate" name="H1" lat="N28 27.395702" lon="W13 51.976356" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="57" type="gate" name="H2" lat="N28 27.378731" lon="W13 51.977254" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="58" type="gate" name="H3" lat="N28 27.362419" lon="W13 51.977231" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="59" type="gate" name="H4" lat="N28 27.369679" lon="W13 51.977518" heading="270"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

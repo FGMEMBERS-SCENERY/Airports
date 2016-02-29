@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Air_National_Guard" lat="N61 9.877350" lon="W149 58.717361" heading="70.36"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="Fedex_Ramp" lat="N61 11.401173" lon="W149 59.949791" heading="252.49"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="Lake_Hood_Taxiway_vicinity" lat="N61 10.856024" lon="W149 59.491156" heading="81.37"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="North_Airpark_1" lat="N61 11.835551" lon="W149 59.951903" heading="342.49"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="North_Airpark_2" lat="N61 11.789530" lon="W150 0.445913" heading="161.08"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="North_Terminal_(International)" lat="N61 10.657150" lon="W149 59.376179" heading="15.93"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="South_Air_Park" lat="N61 9.794470" lon="W149 59.094268" heading="31.81"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="South_Terminal_(Domestic)" lat="N61 10.359669" lon="W149 58.941964" heading="325.66"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="UPS_Ramp" lat="N61 11.610732" lon="W150 0.084880" heading="251.16"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

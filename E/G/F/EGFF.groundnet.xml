@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="GA_Apron" lat="N51 23.723441" lon="W3 20.736656" heading="254.96"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="Maintenance_Bay_North" lat="N51 24.091947" lon="W3 20.924734" heading="112.24"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="Terminal" lat="N51 23.884211" lon="W3 20.368591" heading="78"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

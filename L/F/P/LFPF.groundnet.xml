@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Starter_RWY12" lat="N48 50.698003" lon="E1 54.084664" heading="115.84"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="Hangar" lat="N48 50.748941" lon="E1 54.001396" heading="-241.19"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="Starter_RWY30" lat="N48 50.531458" lon="E1 54.664714" heading="292.32"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

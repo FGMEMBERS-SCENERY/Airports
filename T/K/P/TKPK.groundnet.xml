@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="GA_Spot_1B" lat="N17 18.710026" lon="W62 42.827081" heading="264.96"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA_Spot_1C" lat="N17 18.718229" lon="W62 42.813056" heading="264.96"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_Spot_1D" lat="N17 18.727337" lon="W62 42.797893" heading="264.96"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="GA_Spot_1E" lat="N17 18.739757" lon="W62 42.842774" heading="216.66"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="GA_Spot_1F" lat="N17 18.747793" lon="W62 42.829270" heading="216.66"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="GA_Spot_1G" lat="N17 18.756977" lon="W62 42.814008" heading="216.66"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="Hold_Short_Rwy_07" lat="N17 18.453707" lon="W62 43.333996" heading="262"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="Hold_Short_Rwy_25" lat="N17 18.774985" lon="W62 42.854527" heading="30"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="Spot_1A" lat="N17 18.706650" lon="W62 42.853967" heading="264.96"  radius="44" airlineCodes="" />
+        <Parking index="9" type="gate" name="Spot_2" lat="N17 18.711095" lon="W62 42.873392" heading="147"  radius="44" airlineCodes="" />
+        <Parking index="10" type="gate" name="Spot_2B" lat="N17 18.691611" lon="W62 42.901100" heading="147"  radius="44" airlineCodes="" />
+        <Parking index="11" type="gate" name="Spot_3" lat="N17 18.677328" lon="W62 42.925185" heading="147"  radius="44" airlineCodes="" />
+        <Parking index="12" type="gate" name="Spot_4" lat="N17 18.633619" lon="W62 42.936901" heading="147"  radius="44" airlineCodes="" />
+        <Parking index="13" type="gate" name="Spot_5" lat="N17 18.616921" lon="W62 42.963929" heading="147"  radius="44" airlineCodes="" />
+        <Parking index="14" type="gate" name="Spot_6" lat="N17 18.600163" lon="W62 42.991896" heading="147"  radius="44" airlineCodes="" />
+        <Parking index="15" type="gate" name="Spot_7" lat="N17 18.583280" lon="W62 43.019204" heading="147"  radius="44" airlineCodes="" />
+        <Parking index="16" type="gate" name="Spot_8" lat="N17 18.567572" lon="W62 43.047766" heading="147"  radius="44" airlineCodes="" />
+        <Parking index="17" type="gate" name="Spot_9" lat="N17 18.551802" lon="W62 43.076620" heading="147"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="GA_Stand_30" lat="N51 22.813350" lon="W2 42.601042" heading="111.93"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA_Stand_31" lat="N51 22.795460" lon="W2 42.610279" heading="106.32"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_Stand_32" lat="N51 22.827812" lon="W2 42.592439" heading="113.82"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="GA_Stand_37" lat="N51 22.840984" lon="W2 42.584447" heading="109.87"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="Gate_1" lat="N51 23.136118" lon="W2 42.685209" heading="176.64"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="Gate_2" lat="N51 23.137477" lon="W2 42.645841" heading="176.38"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="Gate_3" lat="N51 23.138763" lon="W2 42.606300" heading="176.96"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="Stand_10" lat="N51 23.113316" lon="W2 42.430573" heading="88.2"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="Stand_11" lat="N51 23.136576" lon="W2 42.432323" heading="83.07"  radius="44" airlineCodes="" />
+        <Parking index="9" type="gate" name="Stand_12" lat="N51 23.157905" lon="W2 42.434801" heading="87.78"  radius="44" airlineCodes="" />
+        <Parking index="10" type="gate" name="Stand_13" lat="N51 23.165690" lon="W2 42.342704" heading="263.2"  radius="44" airlineCodes="" />
+        <Parking index="11" type="gate" name="Stand_14" lat="N51 23.148963" lon="W2 42.338950" heading="264.31"  radius="44" airlineCodes="" />
+        <Parking index="12" type="gate" name="Stand_15" lat="N51 23.129467" lon="W2 42.337357" heading="265.48"  radius="44" airlineCodes="" />
+        <Parking index="13" type="gate" name="Stand_16" lat="N51 23.109885" lon="W2 42.335172" heading="271.52"  radius="44" airlineCodes="" />
+        <Parking index="14" type="gate" name="Stand_4" lat="N51 23.109168" lon="W2 42.557546" heading="91.1"  radius="44" airlineCodes="" />
+        <Parking index="15" type="gate" name="Stand_5" lat="N51 23.131679" lon="W2 42.559801" heading="84.35"  radius="44" airlineCodes="" />
+        <Parking index="16" type="gate" name="Stand_8" lat="N51 23.135881" lon="W2 42.456765" heading="265.01"  radius="44" airlineCodes="" />
+        <Parking index="17" type="gate" name="Stand_9" lat="N51 23.112701" lon="W2 42.454891" heading="270.52"  radius="44" airlineCodes="" />
+        <Parking index="18" type="gate" name="West_Stand_21" lat="N51 23.089124" lon="W2 42.795453" heading="297.48"  radius="44" airlineCodes="" />
+        <Parking index="19" type="gate" name="West_Stand_22" lat="N51 23.109991" lon="W2 42.794699" heading="290.56"  radius="44" airlineCodes="" />
+        <Parking index="20" type="gate" name="West_Stand_23" lat="N51 23.127609" lon="W2 42.889939" heading="81.97"  radius="44" airlineCodes="" />
+        <Parking index="21" type="gate" name="West_Stand_24L" lat="N51 23.088245" lon="W2 42.884585" heading="0"  radius="44" airlineCodes="" />
+        <Parking index="22" type="gate" name="West_Stand_24R" lat="N51 23.093675" lon="W2 42.864106" heading="314.47"  radius="44" airlineCodes="" />
+        <Parking index="23" type="gate" name="West_Stand_25L" lat="N51 23.091175" lon="W2 42.928436" heading="23.45"  radius="44" airlineCodes="" />
+        <Parking index="24" type="gate" name="West_Stand_25R" lat="N51 23.086781" lon="W2 42.906987" heading="322.79"  radius="44" airlineCodes="" />
+        <Parking index="25" type="gate" name="West_Stand_26" lat="N51 23.126845" lon="W2 42.910922" heading="263.78"  radius="44" airlineCodes="" />
+        <Parking index="26" type="gate" name="West_Stand_26N" lat="N51 23.132185" lon="W2 42.963708" heading="174.68"  radius="44" airlineCodes="" />
+        <Parking index="27" type="gate" name="West_Stand_27" lat="N51 23.112852" lon="W2 43.019951" heading="85.71"  radius="44" airlineCodes="" />
+        <Parking index="28" type="gate" name="West_Stand_28" lat="N51 23.090374" lon="W2 43.017333" heading="84.77"  radius="44" airlineCodes="" />
+        <Parking index="29" type="gate" name="West_Stand_29" lat="N51 23.099994" lon="W2 43.032824" heading="267.49"  radius="44" airlineCodes="" />
+        <Parking index="30" type="gate" name="West_Stand_29L" lat="N51 23.112361" lon="W2 43.041412" heading="268.26"  radius="44" airlineCodes="" />
+        <Parking index="31" type="gate" name="West_Stand_29R" lat="N51 23.089190" lon="W2 43.040076" heading="267.07"  radius="44" airlineCodes="" />
+        <Parking index="32" type="gate" name="West_Stand_30" lat="N51 23.129842" lon="W2 43.036157" heading="265.65"  radius="44" airlineCodes="" />
+        <Parking index="33" type="gate" name="West_Stand_30L" lat="N51 23.135407" lon="W2 43.044260" heading="266.77"  radius="44" airlineCodes="" />
+        <Parking index="34" type="gate" name="West_Stand_31" lat="N51 23.135249" lon="W2 43.171369" heading="87.32"  radius="44" airlineCodes="" />
+        <Parking index="35" type="gate" name="West_Stand_32" lat="N51 23.111456" lon="W2 43.171509" heading="84.18"  radius="44" airlineCodes="" />
+        <Parking index="36" type="gate" name="West_Stand_33" lat="N51 23.087596" lon="W2 43.168709" heading="81.98"  radius="44" airlineCodes="" />
+        <Parking index="37" type="gate" name="West_Stand_61" lat="N51 23.124778" lon="W2 43.142102" heading="87.64"  radius="44" airlineCodes="" />
+        <Parking index="38" type="gate" name="West_Stand_62" lat="N51 23.100931" lon="W2 43.138306" heading="90.02"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>

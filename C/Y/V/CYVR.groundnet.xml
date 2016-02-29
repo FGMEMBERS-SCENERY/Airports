@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Air_Canada_Jazz_Ramp" lat="N49 11.353122" lon="W123 10.077455" heading="14.65"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="Coast_Guard_Seaplane_Ramp" lat="N49 10.867560" lon="W123 10.992960" heading="270.59"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="Commuter_Turboprop" lat="N49 11.493480" lon="W123 11.010300" heading="39"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Flying_Beaver_Seaplane_Dock" lat="N49 10.612620" lon="W123 10.089840" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="Gate_1_(Domestic-RJ)" lat="N49 11.525160" lon="W123 10.881420" heading="39"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="Gate_20_(Domestic-RJ)" lat="N49 11.511420" lon="W123 11.094060" heading="46"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="Gate_37_(Domestic-Narrow)" lat="N49 11.786021" lon="W123 10.976782" heading="192.51"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="Gate_42_(Domestic-Narrow)" lat="N49 11.718170" lon="W123 11.082963" heading="133.78"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="Gate_70_(INTL-Wide)" lat="N49 11.876185" lon="W123 10.678134" heading="203"  radius="44" airlineCodes="" />
+        <Parking index="9" type="gate" name="Gate_80_(INTL-Narrow)" lat="N49 11.851270" lon="W123 10.414579" heading="295.16"  radius="44" airlineCodes="" />
+        <Parking index="10" type="gate" name="Harbour_Air_Hanger" lat="N49 10.786920" lon="W123 9.841980" heading="93"  radius="44" airlineCodes="" />
+        <Parking index="11" type="gate" name="INTL_Ramp" lat="N49 11.907809" lon="W123 10.320461" heading="279.08"  radius="44" airlineCodes="" />
+        <Parking index="12" type="gate" name="South_Cargo_Ramp" lat="N49 11.189280" lon="W123 9.384540" heading="270"  radius="44" airlineCodes="" />
+        <Parking index="13" type="gate" name="South_GA_Ramp" lat="N49 10.831705" lon="W123 10.069000" heading="7.56"  radius="44" airlineCodes="" />
+        <Parking index="14" type="gate" name="UPS_Ramp" lat="N49 12.197837" lon="W123 9.612821" heading="283.32"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>
