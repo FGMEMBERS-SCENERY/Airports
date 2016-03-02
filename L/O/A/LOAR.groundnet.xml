@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Ramp_1" lat="N48 40.033023" lon="E16 49.530691" heading="130"  radius="44" pushBackRoute="11" airlineCodes="" />
-        <Parking index="1" type="gate" name="Ramp_2" lat="N48 40.027862" lon="E16 49.524466" heading="130"  radius="44" pushBackRoute="11" airlineCodes="" />
-        <Parking index="2" type="gate" name="Ramp_3" lat="N48 40.022002" lon="E16 49.516255" heading="130"  radius="44" pushBackRoute="11" airlineCodes="" />
-        <Parking index="3" type="gate" name="Ramp_4" lat="N48 40.017017" lon="E16 49.510163" heading="130"  radius="44" pushBackRoute="14" airlineCodes="" />
+        <Parking index="0" type="gate" name="Ramp_1" lat="N48 40.033023" lon="E16 49.530691" heading="130"  radius="17" pushBackRoute="11" airlineCodes="" />
+        <Parking index="1" type="gate" name="Ramp_2" lat="N48 40.027862" lon="E16 49.524466" heading="130"  radius="17" pushBackRoute="11" airlineCodes="" />
+        <Parking index="2" type="gate" name="Ramp_3" lat="N48 40.022002" lon="E16 49.516255" heading="130"  radius="17" pushBackRoute="11" airlineCodes="" />
+        <Parking index="3" type="gate" name="Ramp_4" lat="N48 40.017017" lon="E16 49.510163" heading="130"  radius="17" pushBackRoute="14" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="4" lat="N48 40.077211" lon="E16 49.631264" isOnRunway="1" holdPointType="none"  />

@@ -2,13 +2,13 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Gen_Avia_Ramp" lat="N30 7.531922" lon="W93 13.348973" heading="245.96"  radius="44" pushBackRoute="66" airlineCodes="" />
-        <Parking index="1" type="gate" name="Hold_Short_Rwy_15" lat="N30 7.721475" lon="W93 13.603433" heading="231.8"  radius="44" pushBackRoute="18" airlineCodes="" />
-        <Parking index="2" type="gate" name="Hold_Short_Rwy_23" lat="N30 8.205142" lon="W93 12.984097" heading="326.28"  radius="44" pushBackRoute="13" airlineCodes="" />
-        <Parking index="3" type="gate" name="Hold_Short_Rwy_33" lat="N30 6.773083" lon="W93 13.088410" heading="245.82"  radius="44" pushBackRoute="46" airlineCodes="" />
-        <Parking index="4" type="gate" name="Hold_Short_Rwy_5" lat="N30 7.670865" lon="W93 13.739789" heading="304.15"  radius="44" pushBackRoute="21" airlineCodes="" />
-        <Parking index="5" type="gate" name="South_Ramp" lat="N30 7.131228" lon="W93 13.104121" heading="164.03"  radius="44" pushBackRoute="71" airlineCodes="" />
-        <Parking index="6" type="gate" name="Vision_Aviation_FBO" lat="N30 7.521542" lon="W93 13.306013" heading="245.96"  radius="44" pushBackRoute="72" airlineCodes="" />
+        <Parking index="0" type="gate" name="Gen_Avia_Ramp" lat="N30 7.531922" lon="W93 13.348973" heading="245.96"  radius="17" pushBackRoute="66" airlineCodes="" />
+        <Parking index="1" type="gate" name="Hold_Short_Rwy_15" lat="N30 7.721475" lon="W93 13.603433" heading="231.8"  radius="17" pushBackRoute="18" airlineCodes="" />
+        <Parking index="2" type="gate" name="Hold_Short_Rwy_23" lat="N30 8.205142" lon="W93 12.984097" heading="326.28"  radius="17" pushBackRoute="13" airlineCodes="" />
+        <Parking index="3" type="gate" name="Hold_Short_Rwy_33" lat="N30 6.773083" lon="W93 13.088410" heading="245.82"  radius="17" pushBackRoute="46" airlineCodes="" />
+        <Parking index="4" type="gate" name="Hold_Short_Rwy_5" lat="N30 7.670865" lon="W93 13.739789" heading="304.15"  radius="17" pushBackRoute="21" airlineCodes="" />
+        <Parking index="5" type="gate" name="South_Ramp" lat="N30 7.131228" lon="W93 13.104121" heading="164.03"  radius="17" pushBackRoute="71" airlineCodes="" />
+        <Parking index="6" type="gate" name="Vision_Aviation_FBO" lat="N30 7.521542" lon="W93 13.306013" heading="245.96"  radius="17" pushBackRoute="72" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="7" lat="N30 8.055661" lon="W93 13.216069" isOnRunway="0" holdPointType="none"  />

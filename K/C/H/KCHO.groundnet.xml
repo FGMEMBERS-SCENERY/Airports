@@ -2,8 +2,8 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Hold_Short_Rwy_3" lat="N38 7.849514" lon="W78 27.326058" heading="251.17"  radius="44" airlineCodes="" />
-        <Parking index="1" type="gate" name="Hold_Short_Rwy_21" lat="N38 8.872504" lon="W78 26.813132" heading="290.61"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="Hold_Short_Rwy_3" lat="N38 7.849514" lon="W78 27.326058" heading="251.17"  radius="17" airlineCodes="" />
+        <Parking index="1" type="gate" name="Hold_Short_Rwy_21" lat="N38 8.872504" lon="W78 26.813132" heading="290.61"  radius="17" airlineCodes="" />
         <Parking index="2" type="gate" name="Terminal" lat="N38 8.341009" lon="W78 27.028059" heading="79.35"  radius="44" airlineCodes="" />
         <Parking index="3" type="gate" name="Landmark_Aviation_FBO" lat="N38 8.179972" lon="W78 27.083918" heading="199.86"  radius="44" airlineCodes="" />
         <Parking index="4" type="gate" name="General_Avia_Parking" lat="N38 8.053845" lon="W78 27.128527" heading="290.02"  radius="19" airlineCodes="" />

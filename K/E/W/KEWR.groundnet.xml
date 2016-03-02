@@ -2,14 +2,14 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Hold_Short_Rwy4L" lat="N40 40.699694" lon="W74 10.547471" heading="116.08"  radius="44" airlineCodes="" />
-        <Parking index="1" type="gate" name="Hold_Short_Rwy4R" lat="N40 40.565033" lon="W74 10.834680" heading="129.81"  radius="44" airlineCodes="" />
-        <Parking index="2" type="gate" name="Hold_Short_Rwy11_@_W" lat="N40 42.107271" lon="W74 10.836997" heading="322.68"  radius="44" airlineCodes="" />
-        <Parking index="3" type="gate" name="Hold_Short_Rwy11_@_Z" lat="N40 42.222410" lon="W74 10.776687" heading="268.5"  radius="44" airlineCodes="" />
-        <Parking index="4" type="gate" name="Hold_Short_Rwy22L" lat="N40 42.151918" lon="W74 9.594639" heading="89.13"  radius="44" airlineCodes="" />
-        <Parking index="5" type="gate" name="Hold_Short_Rwy22R" lat="N40 42.168184" lon="W74 9.848044" heading="94.98"  radius="44" airlineCodes="" />
-        <Parking index="6" type="gate" name="Hold_Short_Rwy29_@_CC" lat="N40 42.018843" lon="W74 9.453271" heading="30"  radius="44" airlineCodes="" />
-        <Parking index="7" type="gate" name="Hold_Short_Rwy29_@_Z" lat="N40 42.127114" lon="W74 9.394447" heading="185.1"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="Hold_Short_Rwy4L" lat="N40 40.699694" lon="W74 10.547471" heading="116.08"  radius="17" airlineCodes="" />
+        <Parking index="1" type="gate" name="Hold_Short_Rwy4R" lat="N40 40.565033" lon="W74 10.834680" heading="129.81"  radius="17" airlineCodes="" />
+        <Parking index="2" type="gate" name="Hold_Short_Rwy11_@_W" lat="N40 42.107271" lon="W74 10.836997" heading="322.68"  radius="17" airlineCodes="" />
+        <Parking index="3" type="gate" name="Hold_Short_Rwy11_@_Z" lat="N40 42.222410" lon="W74 10.776687" heading="268.5"  radius="17" airlineCodes="" />
+        <Parking index="4" type="gate" name="Hold_Short_Rwy22L" lat="N40 42.151918" lon="W74 9.594639" heading="89.13"  radius="17" airlineCodes="" />
+        <Parking index="5" type="gate" name="Hold_Short_Rwy22R" lat="N40 42.168184" lon="W74 9.848044" heading="94.98"  radius="17" airlineCodes="" />
+        <Parking index="6" type="gate" name="Hold_Short_Rwy29_@_CC" lat="N40 42.018843" lon="W74 9.453271" heading="30"  radius="17" airlineCodes="" />
+        <Parking index="7" type="gate" name="Hold_Short_Rwy29_@_Z" lat="N40 42.127114" lon="W74 9.394447" heading="185.1"  radius="17" airlineCodes="" />
         <Parking index="8" type="gate" name="Terminal_A_Gate_16" lat="N40 41.177348" lon="W74 11.104457" heading="347.17"  radius="44" airlineCodes="" />
         <Parking index="9" type="gate" name="Terminal_A_Gate_24A" lat="N40 41.161889" lon="W74 11.033256" heading="117.77"  radius="10" airlineCodes="" />
         <Parking index="10" type="gate" name="Terminal_A_Gate_33" lat="N40 41.121167" lon="W74 10.776040" heading="0.58"  radius="44" airlineCodes="" />
@@ -19,13 +19,13 @@
         <Parking index="14" type="gate" name="Terminal_C_Gate_74" lat="N40 41.641396" lon="W74 10.457718" heading="12.4"  radius="19" airlineCodes="" />
         <Parking index="15" type="gate" name="Terminal_C_Gate_106A" lat="N40 41.855050" lon="W74 10.583102" heading="131.55"  radius="44" airlineCodes="" />
         <Parking index="16" type="gate" name="Signature_Flight_Support" lat="N40 42.380574" lon="W74 10.224204" heading="3.07"  radius="44" airlineCodes="" />
-        <Parking index="17" type="gate" name="Ball_Park" lat="N40 41.915995" lon="W74 10.180063" heading="95.19"  radius="44" airlineCodes="" />
+        <Parking index="17" type="gate" name="Ball_Park" lat="N40 41.915995" lon="W74 10.180063" heading="95.19"  radius="17" airlineCodes="" />
         <Parking index="18" type="gate" name="FedEx_Ramp" lat="N40 40.761560" lon="W74 10.858337" heading="120"  radius="44" airlineCodes="" />
         <Parking index="19" type="gate" name="UPS_Ramp" lat="N40 40.937956" lon="W74 11.203219" heading="295.33"  radius="44" airlineCodes="" />
         <Parking index="20" type="gate" name="Air_Cargo_Ramp" lat="N40 42.307536" lon="W74 10.431630" heading="90"  radius="44" airlineCodes="" />
-        <Parking index="21" type="gate" name="Parking_Area_340" lat="N40 42.268351" lon="W74 9.939726" heading="93.47"  radius="44" airlineCodes="" />
-        <Parking index="22" type="gate" name="Parking_Area_Amelia" lat="N40 41.061153" lon="W74 10.899574" heading="0"  radius="44" airlineCodes="" />
-        <Parking index="23" type="gate" name="Parking_Area_Lindy" lat="N40 41.058107" lon="W74 10.767057" heading="341.72"  radius="44" airlineCodes="" />
-        <Parking index="24" type="gate" name="Parking_Area_Wilbur" lat="N40 41.080519" lon="W74 11.238638" heading="42.87"  radius="44" airlineCodes="" />
+        <Parking index="21" type="gate" name="Parking_Area_340" lat="N40 42.268351" lon="W74 9.939726" heading="93.47"  radius="17" airlineCodes="" />
+        <Parking index="22" type="gate" name="Parking_Area_Amelia" lat="N40 41.061153" lon="W74 10.899574" heading="0"  radius="17" airlineCodes="" />
+        <Parking index="23" type="gate" name="Parking_Area_Lindy" lat="N40 41.058107" lon="W74 10.767057" heading="341.72"  radius="17" airlineCodes="" />
+        <Parking index="24" type="gate" name="Parking_Area_Wilbur" lat="N40 41.080519" lon="W74 11.238638" heading="42.87"  radius="17" airlineCodes="" />
  </parkingList>
 </groundnet>

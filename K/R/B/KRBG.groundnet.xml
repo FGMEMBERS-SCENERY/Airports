@@ -9,7 +9,7 @@
         <Parking index="4" type="gate" name="Transient_Parking" lat="N43 14.105280" lon="W123 21.441522" heading="0"  radius="44" airlineCodes="" />
         <Parking index="5" type="gate" name="Gate" lat="N43 14.131872" lon="W123 21.458996" heading="0"  radius="44" airlineCodes="" />
         <Parking index="6" type="gate" name="Fuel_Pump" lat="N43 14.174042" lon="W123 21.424219" heading="270"  radius="44" airlineCodes="" />
-        <Parking index="7" type="gate" name="North_Hangars" lat="N43 14.496604" lon="W123 21.535790" heading="87.26"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="North_Hangars" lat="N43 14.496604" lon="W123 21.535790" heading="87.26"  radius="17" airlineCodes="" />
         <Parking index="8" type="ga" name="South_Hangars" lat="N43 14.263933" lon="W123 21.511524" heading="90"  radius="10" airlineCodes="" />
  </parkingList>
 </groundnet>

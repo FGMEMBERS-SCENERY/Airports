@@ -2,7 +2,7 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Gate_28" lat="N39 15.177100" lon="E9 3.606782" heading="-37.31"  radius="44" pushBackRoute="69" airlineCodes="" />
+        <Parking index="0" type="gate" name="Gate_28" lat="N39 15.177100" lon="E9 3.606782" heading="-37.31"  radius="17" pushBackRoute="69" airlineCodes="" />
         <Parking index="1" type="gate" name="Gate_26" lat="N39 15.111231" lon="E9 3.666654" heading="142.6"  radius="19" pushBackRoute="70" airlineCodes="" />
         <Parking index="2" type="gate" name="Gate_25" lat="N39 15.157261" lon="E9 3.589721" heading="322.21"  radius="19" pushBackRoute="69" airlineCodes="" />
         <Parking index="3" type="gate" name="Gate_24" lat="N39 15.080681" lon="E9 3.644021" heading="141.64"  radius="19" pushBackRoute="72" airlineCodes="" />

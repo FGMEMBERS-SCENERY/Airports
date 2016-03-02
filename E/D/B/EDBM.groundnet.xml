@@ -2,8 +2,8 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Apron_1" lat="N52 4.659022" lon="E11 37.506466" heading="-0.35"  radius="44" airlineCodes="" />
-        <Parking index="1" type="gate" name="Apron_2" lat="N52 4.622529" lon="E11 37.628050" heading="182.46"  radius="44" airlineCodes="" />
-        <Parking index="2" type="gate" name="Apron_3" lat="N52 4.616700" lon="E11 37.236300" heading="0"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="Apron_1" lat="N52 4.659022" lon="E11 37.506466" heading="-0.35"  radius="17" airlineCodes="" />
+        <Parking index="1" type="gate" name="Apron_2" lat="N52 4.622529" lon="E11 37.628050" heading="182.46"  radius="17" airlineCodes="" />
+        <Parking index="2" type="gate" name="Apron_3" lat="N52 4.616700" lon="E11 37.236300" heading="0"  radius="17" airlineCodes="" />
  </parkingList>
 </groundnet>

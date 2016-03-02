@@ -6,7 +6,7 @@
         <Parking index="1" type="gate" name="IL_State_GA" lat="N39 51.195889" lon="W89 40.376242" heading="0"  radius="19" pushBackRoute="159" airlineCodes="" />
         <Parking index="2" type="gate" name="Term_Ramp_1" lat="N39 50.667175" lon="W89 40.401984" heading="76.84"  radius="44" pushBackRoute="201" airlineCodes="" />
         <Parking index="3" type="gate" name="ANG_InHgr" lat="N39 50.752244" lon="W89 40.201631" heading="-21.25"  radius="19" pushBackRoute="204" airlineCodes="" />
-        <Parking index="4" type="gate" name="S_Hngr_Stt" lat="N39 50.548288" lon="W89 40.114516" heading="-99.9"  radius="44" pushBackRoute="108" airlineCodes="" />
+        <Parking index="4" type="gate" name="S_Hngr_Stt" lat="N39 50.548288" lon="W89 40.114516" heading="-99.9"  radius="17" pushBackRoute="108" airlineCodes="" />
         <Parking index="5" type="gate" name="IL_State_AC" lat="N39 51.284711" lon="W89 40.295525" heading="180"  radius="19" pushBackRoute="157" airlineCodes="" />
         <Parking index="6" type="ga" name="Rmp_C_GA_Fuel" lat="N39 50.271140" lon="W89 40.571308" heading="-95.17"  radius="10" pushBackRoute="95" airlineCodes="" />
         <Parking index="7" type="ga" name="Mnt_Hgr_Stt" lat="N39 51.097673" lon="W89 40.491091" heading="170"  radius="10" pushBackRoute="208" airlineCodes="" />

@@ -23,7 +23,7 @@
         <Parking index="18" type="ga" name="GE2" lat="N28 29.279333" lon="W16 21.105770" heading="290.99"  radius="10" airlineCodes="" />
         <Parking index="19" type="ga" name="GE3" lat="N28 29.272979" lon="W16 21.108129" heading="291.12"  radius="10" airlineCodes="" />
         <Parking index="20" type="ga" name="GE4" lat="N28 29.298820" lon="W16 21.135064" heading="201.66"  radius="10" airlineCodes="" />
-        <Parking index="21" type="gate" name="GE5" lat="N28 29.281096" lon="W16 21.142693" heading="21.04"  radius="44" airlineCodes="" />
+        <Parking index="21" type="gate" name="GE5" lat="N28 29.281096" lon="W16 21.142693" heading="21.04"  radius="17" airlineCodes="" />
         <Parking index="22" type="gate" name="T1" lat="N28 29.173525" lon="W16 20.674818" heading="348.47"  radius="44" airlineCodes="" />
         <Parking index="23" type="gate" name="T2" lat="N28 29.165264" lon="W16 20.702844" heading="34.62"  radius="19" airlineCodes="" />
         <Parking index="24" type="gate" name="T3" lat="N28 29.175583" lon="W16 20.730195" heading="20.73"  radius="44" airlineCodes="" />

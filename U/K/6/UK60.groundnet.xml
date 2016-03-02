@@ -2,13 +2,13 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="1" lat="N50 1.927900" lon="E36 16.270669" heading="303.72"  radius="44" pushBackRoute="32" airlineCodes="" />
-        <Parking index="1" type="gate" name="2" lat="N50 1.912665" lon="E36 16.255345" heading="304.7"  radius="44" pushBackRoute="34" airlineCodes="" />
-        <Parking index="2" type="gate" name="3" lat="N50 1.706473" lon="E36 16.667552" heading="302.9"  radius="44" pushBackRoute="11" airlineCodes="" />
-        <Parking index="3" type="gate" name="4" lat="N50 1.678841" lon="E36 16.639547" heading="303.25"  radius="44" pushBackRoute="27" airlineCodes="" />
-        <Parking index="4" type="gate" name="Ramp_Start_22" lat="N50 1.743611" lon="E36 16.614311" heading="122.74"  radius="44" pushBackRoute="28" airlineCodes="" />
-        <Parking index="5" type="gate" name="Ramp_Start_23" lat="N50 1.758542" lon="E36 16.628776" heading="122.91"  radius="44" pushBackRoute="29" airlineCodes="" />
-        <Parking index="6" type="gate" name="Ramp_Start_25" lat="N50 1.774082" lon="E36 16.644837" heading="122.28"  radius="44" pushBackRoute="30" airlineCodes="" />
+        <Parking index="0" type="gate" name="1" lat="N50 1.927900" lon="E36 16.270669" heading="303.72"  radius="17" pushBackRoute="32" airlineCodes="" />
+        <Parking index="1" type="gate" name="2" lat="N50 1.912665" lon="E36 16.255345" heading="304.7"  radius="17" pushBackRoute="34" airlineCodes="" />
+        <Parking index="2" type="gate" name="3" lat="N50 1.706473" lon="E36 16.667552" heading="302.9"  radius="17" pushBackRoute="11" airlineCodes="" />
+        <Parking index="3" type="gate" name="4" lat="N50 1.678841" lon="E36 16.639547" heading="303.25"  radius="17" pushBackRoute="27" airlineCodes="" />
+        <Parking index="4" type="gate" name="Ramp_Start_22" lat="N50 1.743611" lon="E36 16.614311" heading="122.74"  radius="17" pushBackRoute="28" airlineCodes="" />
+        <Parking index="5" type="gate" name="Ramp_Start_23" lat="N50 1.758542" lon="E36 16.628776" heading="122.91"  radius="17" pushBackRoute="29" airlineCodes="" />
+        <Parking index="6" type="gate" name="Ramp_Start_25" lat="N50 1.774082" lon="E36 16.644837" heading="122.28"  radius="17" pushBackRoute="30" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="7" lat="N50 1.934493" lon="E36 16.255330" isOnRunway="0" holdPointType="none"  />

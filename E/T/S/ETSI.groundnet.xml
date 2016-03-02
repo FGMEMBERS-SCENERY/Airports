@@ -21,8 +21,8 @@
         <Parking index="16" type="gate" name="RAMP_2_-_1" lat="N48 43.065190" lon="E11 32.568567" heading="160.1"  radius="44" pushBackRoute="180" airlineCodes="" />
         <Parking index="17" type="gate" name="RAMP_2_-_2" lat="N48 43.073807" lon="E11 32.603473" heading="158.2"  radius="44" pushBackRoute="177" airlineCodes="" />
         <Parking index="18" type="gate" name="RAMP_2_-_3" lat="N48 43.083738" lon="E11 32.639186" heading="158.38"  radius="44" pushBackRoute="183" airlineCodes="" />
-        <Parking index="19" type="gate" name="RAMP_3_-_1" lat="N48 43.219133" lon="E11 32.250426" heading="67.85"  radius="44" pushBackRoute="205" airlineCodes="" />
-        <Parking index="20" type="gate" name="RAMP_3_-_2" lat="N48 43.197014" lon="E11 32.263556" heading="68.33"  radius="44" pushBackRoute="253" airlineCodes="" />
+        <Parking index="19" type="gate" name="RAMP_3_-_1" lat="N48 43.219133" lon="E11 32.250426" heading="67.85"  radius="17" pushBackRoute="205" airlineCodes="" />
+        <Parking index="20" type="gate" name="RAMP_3_-_2" lat="N48 43.197014" lon="E11 32.263556" heading="68.33"  radius="17" pushBackRoute="253" airlineCodes="" />
         <Parking index="21" type="gate" name="EADS_North_1" lat="N48 42.721833" lon="E11 31.568948" heading="158.79"  radius="44" pushBackRoute="36" airlineCodes="" />
         <Parking index="22" type="gate" name="EADS_North_2" lat="N48 42.721061" lon="E11 31.616048" heading="248.11"  radius="44" pushBackRoute="37" airlineCodes="" />
         <Parking index="23" type="gate" name="EADS_West_1" lat="N48 42.439245" lon="E11 31.249528" heading="337.42"  radius="44" pushBackRoute="53" airlineCodes="" />

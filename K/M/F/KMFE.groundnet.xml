@@ -3,7 +3,7 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="gate" name="Hold_Short_Rwy_13" lat="N26 10.973860" lon="W98 14.680910" heading="320.7"  radius="44" airlineCodes="" />
-        <Parking index="1" type="gate" name="Hold_Short_Rwy_18" lat="N26 10.853692" lon="W98 14.088928" heading="278.7"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="Hold_Short_Rwy_18" lat="N26 10.853692" lon="W98 14.088928" heading="278.7"  radius="17" airlineCodes="" />
         <Parking index="2" type="gate" name="Hold_Short_Rwy_31" lat="N26 10.141020" lon="W98 13.922873" heading="140.7"  radius="44" airlineCodes="" />
         <Parking index="3" type="gate" name="Hold_Short_Rwy_36" lat="N26 10.492509" lon="W98 14.242183" heading="140.7"  radius="44" airlineCodes="" />
         <Parking index="4" type="gate" name="Terminal" lat="N26 10.797570" lon="W98 14.348191" heading="320"  radius="44" airlineCodes="" />

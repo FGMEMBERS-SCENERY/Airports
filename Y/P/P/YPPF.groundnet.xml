@@ -10,11 +10,11 @@
         <Parking index="5" type="ga" name="West_Apron_1" lat="S34 47.235658" lon="E138 38.010270" heading="215.07"  radius="10" pushBackRoute="144" airlineCodes="" />
         <Parking index="6" type="ga" name="West_Apron_2" lat="S34 47.204408" lon="E138 38.049058" heading="218.83"  radius="10" pushBackRoute="141" airlineCodes="" />
         <Parking index="7" type="ga" name="Helo_Parking_Area" lat="S34 47.446800" lon="E138 38.090529" heading="36.47"  radius="8" pushBackRoute="221" airlineCodes="" />
-        <Parking index="8" type="gate" name="Runup_Bay_B" lat="S34 47.764517" lon="E138 38.036017" heading="119.64"  radius="44" pushBackRoute="226" airlineCodes="" />
-        <Parking index="9" type="gate" name="Runup_Bay_F" lat="S34 47.489771" lon="E138 38.408808" heading="207.86"  radius="44" pushBackRoute="29" airlineCodes="" />
-        <Parking index="10" type="gate" name="Runup_Bay_J" lat="S34 47.489942" lon="E138 38.080334" heading="174.71"  radius="44" pushBackRoute="225" airlineCodes="" />
-        <Parking index="11" type="gate" name="Helipad_East" lat="S34 47.384563" lon="E138 38.380914" heading="208.91"  radius="44" pushBackRoute="229" airlineCodes="" />
-        <Parking index="12" type="gate" name="Helipad_West" lat="S34 47.302629" lon="E138 37.848066" heading="182.44"  radius="44" pushBackRoute="111" airlineCodes="" />
+        <Parking index="8" type="gate" name="Runup_Bay_B" lat="S34 47.764517" lon="E138 38.036017" heading="119.64"  radius="17" pushBackRoute="226" airlineCodes="" />
+        <Parking index="9" type="gate" name="Runup_Bay_F" lat="S34 47.489771" lon="E138 38.408808" heading="207.86"  radius="17" pushBackRoute="29" airlineCodes="" />
+        <Parking index="10" type="gate" name="Runup_Bay_J" lat="S34 47.489942" lon="E138 38.080334" heading="174.71"  radius="17" pushBackRoute="225" airlineCodes="" />
+        <Parking index="11" type="gate" name="Helipad_East" lat="S34 47.384563" lon="E138 38.380914" heading="208.91"  radius="17" pushBackRoute="229" airlineCodes="" />
+        <Parking index="12" type="gate" name="Helipad_West" lat="S34 47.302629" lon="E138 37.848066" heading="182.44"  radius="17" pushBackRoute="111" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="13" lat="S34 47.460550" lon="E138 38.229964" isOnRunway="0" holdPointType="none"  />

@@ -2,15 +2,15 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="East_Ramp_1" lat="N40 4.489025" lon="W83 4.161119" heading="272"  radius="44" pushBackRoute="102" airlineCodes="" />
-        <Parking index="1" type="gate" name="East_Ramp_2" lat="N40 4.501547" lon="W83 4.209080" heading="92"  radius="44" pushBackRoute="79" airlineCodes="" />
-        <Parking index="2" type="gate" name="Hanger_4_Ramp" lat="N40 4.483117" lon="W83 4.398885" heading="2"  radius="44" pushBackRoute="104" airlineCodes="" />
-        <Parking index="3" type="gate" name="Medflight_Hanger" lat="N40 5.150087" lon="W83 4.036959" heading="184"  radius="44" pushBackRoute="105" airlineCodes="" />
-        <Parking index="4" type="gate" name="Medflight_Helipad" lat="N40 5.092228" lon="W83 4.115399" heading="0"  radius="44" pushBackRoute="106" airlineCodes="" />
-        <Parking index="5" type="gate" name="Student_Parking_1" lat="N40 4.531772" lon="W83 4.462430" heading="2"  radius="44" pushBackRoute="107" airlineCodes="" />
-        <Parking index="6" type="gate" name="Student_Parking_2" lat="N40 4.546021" lon="W83 4.494029" heading="2"  radius="44" pushBackRoute="108" airlineCodes="" />
-        <Parking index="7" type="gate" name="West_Ramp_1" lat="N40 4.421365" lon="W83 4.636174" heading="4.68"  radius="44" pushBackRoute="109" airlineCodes="" />
-        <Parking index="8" type="gate" name="West_Ramp_2" lat="N40 4.504570" lon="W83 4.651456" heading="92"  radius="44" pushBackRoute="110" airlineCodes="" />
+        <Parking index="0" type="gate" name="East_Ramp_1" lat="N40 4.489025" lon="W83 4.161119" heading="272"  radius="17" pushBackRoute="102" airlineCodes="" />
+        <Parking index="1" type="gate" name="East_Ramp_2" lat="N40 4.501547" lon="W83 4.209080" heading="92"  radius="17" pushBackRoute="79" airlineCodes="" />
+        <Parking index="2" type="gate" name="Hanger_4_Ramp" lat="N40 4.483117" lon="W83 4.398885" heading="2"  radius="17" pushBackRoute="104" airlineCodes="" />
+        <Parking index="3" type="gate" name="Medflight_Hanger" lat="N40 5.150087" lon="W83 4.036959" heading="184"  radius="17" pushBackRoute="105" airlineCodes="" />
+        <Parking index="4" type="gate" name="Medflight_Helipad" lat="N40 5.092228" lon="W83 4.115399" heading="0"  radius="17" pushBackRoute="106" airlineCodes="" />
+        <Parking index="5" type="gate" name="Student_Parking_1" lat="N40 4.531772" lon="W83 4.462430" heading="2"  radius="17" pushBackRoute="107" airlineCodes="" />
+        <Parking index="6" type="gate" name="Student_Parking_2" lat="N40 4.546021" lon="W83 4.494029" heading="2"  radius="17" pushBackRoute="108" airlineCodes="" />
+        <Parking index="7" type="gate" name="West_Ramp_1" lat="N40 4.421365" lon="W83 4.636174" heading="4.68"  radius="17" pushBackRoute="109" airlineCodes="" />
+        <Parking index="8" type="gate" name="West_Ramp_2" lat="N40 4.504570" lon="W83 4.651456" heading="92"  radius="17" pushBackRoute="110" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="9" lat="N40 4.604323" lon="W83 4.667236" isOnRunway="1" holdPointType="none"  />

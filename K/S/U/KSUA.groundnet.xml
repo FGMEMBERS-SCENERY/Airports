@@ -2,7 +2,7 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Cntr_Jet_Ramp" lat="N27 10.530049" lon="W80 13.318395" heading="0"  radius="44" pushBackRoute="89" airlineCodes="" />
+        <Parking index="0" type="gate" name="Cntr_Jet_Ramp" lat="N27 10.530049" lon="W80 13.318395" heading="0"  radius="17" pushBackRoute="89" airlineCodes="" />
         <Parking index="1" type="ga" name="Glxy_T_Hngr" lat="N27 10.547619" lon="W80 13.521107" heading="28"  radius="10" pushBackRoute="90" airlineCodes="" />
         <Parking index="2" type="gate" name="NW_Ramp_Stt" lat="N27 10.506696" lon="W80 13.101950" heading="295.38"  radius="19" pushBackRoute="91" airlineCodes="" />
         <Parking index="3" type="gate" name="NWT_Stt" lat="N27 10.501476" lon="W80 13.156821" heading="25"  radius="19" pushBackRoute="92" airlineCodes="" />

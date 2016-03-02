@@ -8,9 +8,9 @@
         <Parking index="3" type="gate" name="Hero_hangars" lat="N32 39.731937" lon="W114 36.642629" heading="178.94"  radius="19" pushBackRoute="48" airlineCodes="" />
         <Parking index="4" type="gate" name="AV-8_ramp" lat="N32 39.483061" lon="W114 35.776690" heading="0"  radius="10" pushBackRoute="123" airlineCodes="" />
         <Parking index="5" type="gate" name="C-130_Ramp" lat="N32 39.567763" lon="W114 35.725488" heading="44.19"  radius="19" pushBackRoute="124" airlineCodes="" />
-        <Parking index="6" type="gate" name="Exercise_ramp_north" lat="N32 38.972309" lon="W114 35.988483" heading="341"  radius="44" pushBackRoute="33" airlineCodes="" />
-        <Parking index="7" type="gate" name="GA_ramp_1" lat="N32 39.623563" lon="W114 36.628226" heading="178.76"  radius="44" pushBackRoute="126" airlineCodes="" />
-        <Parking index="8" type="gate" name="Customs_border_control" lat="N32 39.122636" lon="W114 37.016582" heading="180"  radius="44" pushBackRoute="127" airlineCodes="" />
+        <Parking index="6" type="gate" name="Exercise_ramp_north" lat="N32 38.972309" lon="W114 35.988483" heading="341"  radius="17" pushBackRoute="33" airlineCodes="" />
+        <Parking index="7" type="gate" name="GA_ramp_1" lat="N32 39.623563" lon="W114 36.628226" heading="178.76"  radius="17" pushBackRoute="126" airlineCodes="" />
+        <Parking index="8" type="gate" name="Customs_border_control" lat="N32 39.122636" lon="W114 37.016582" heading="180"  radius="17" pushBackRoute="127" airlineCodes="" />
         <Parking index="9" type="ga" name="MCAS_helicopter_ramp" lat="N32 39.707186" lon="W114 35.305277" heading="90"  radius="8" pushBackRoute="128" airlineCodes="" />
         <Parking index="10" type="gate" name="MCAS_visiting_aircraft_ramp" lat="N32 39.609804" lon="W114 35.659343" heading="49.57"  radius="19" pushBackRoute="129" airlineCodes="" />
         <Parking index="11" type="ga" name="GA_ramp_helipad" lat="N32 39.575311" lon="W114 36.589662" heading="178.45"  radius="8" pushBackRoute="130" airlineCodes="" />

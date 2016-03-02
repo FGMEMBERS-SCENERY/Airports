@@ -2,7 +2,7 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Main_terminal" lat="N60 25.731977" lon="E15 30.448471" heading="263.29"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="Main_terminal" lat="N60 25.731977" lon="E15 30.448471" heading="263.29"  radius="17" airlineCodes="" />
         <Parking index="1" type="gate" name="TO_grass_12" lat="N60 25.750936" lon="E15 29.377405" heading="210.73"  radius="19" airlineCodes="" />
         <Parking index="2" type="gate" name="Paraclub_area" lat="N60 25.790934" lon="E15 29.326097" heading="158.55"  radius="19" airlineCodes="" />
         <Parking index="3" type="gate" name="Club_area" lat="N60 25.797360" lon="E15 29.432957" heading="182.2"  radius="19" airlineCodes="" />

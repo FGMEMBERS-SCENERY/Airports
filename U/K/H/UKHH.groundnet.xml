@@ -2,30 +2,30 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="APRON_M1" lat="N49 55.315430" lon="E36 17.310149" heading="225"  radius="44" pushBackRoute="36" airlineCodes="" />
-        <Parking index="1" type="gate" name="APRON_M2" lat="N49 55.329257" lon="E36 17.288762" heading="225"  radius="44" pushBackRoute="130" airlineCodes="" />
-        <Parking index="2" type="gate" name="APRON_M3" lat="N49 55.342610" lon="E36 17.268341" heading="225"  radius="44" pushBackRoute="26" airlineCodes="" />
-        <Parking index="3" type="gate" name="APRON_M4" lat="N49 55.356496" lon="E36 17.248713" heading="225"  radius="44" pushBackRoute="26" airlineCodes="" />
-        <Parking index="4" type="gate" name="APRON_N1" lat="N49 55.272243" lon="E36 17.347866" heading="350"  radius="44" pushBackRoute="53" airlineCodes="" />
-        <Parking index="5" type="gate" name="K1-1" lat="N49 55.379640" lon="E36 16.822662" heading="238.31"  radius="44" pushBackRoute="133" airlineCodes="" />
-        <Parking index="6" type="gate" name="K1-2" lat="N49 55.356284" lon="E36 16.845188" heading="240.57"  radius="44" pushBackRoute="134" airlineCodes="" />
-        <Parking index="7" type="gate" name="K1-3" lat="N49 55.332911" lon="E36 16.866253" heading="239.42"  radius="44" pushBackRoute="135" airlineCodes="" />
-        <Parking index="8" type="gate" name="K1-4" lat="N49 55.309117" lon="E36 16.887366" heading="239.13"  radius="44" pushBackRoute="136" airlineCodes="" />
-        <Parking index="9" type="gate" name="K1-5" lat="N49 55.285816" lon="E36 16.908944" heading="239.49"  radius="44" pushBackRoute="137" airlineCodes="" />
-        <Parking index="10" type="gate" name="K1-6" lat="N49 55.262137" lon="E36 16.930958" heading="239.61"  radius="44" pushBackRoute="138" airlineCodes="" />
-        <Parking index="11" type="gate" name="K1-7" lat="N49 55.238807" lon="E36 16.951920" heading="239.16"  radius="44" pushBackRoute="139" airlineCodes="" />
-        <Parking index="12" type="gate" name="K2-1" lat="N49 55.363927" lon="E36 16.947866" heading="57.38"  radius="44" pushBackRoute="140" airlineCodes="" />
-        <Parking index="13" type="gate" name="K2-2" lat="N49 55.340563" lon="E36 16.969309" heading="59.92"  radius="44" pushBackRoute="141" airlineCodes="" />
-        <Parking index="14" type="gate" name="K2-3" lat="N49 55.320188" lon="E36 16.998699" heading="59.8"  radius="44" pushBackRoute="142" airlineCodes="" />
-        <Parking index="15" type="gate" name="K2-4" lat="N49 55.293752" lon="E36 17.012233" heading="55.76"  radius="44" pushBackRoute="143" airlineCodes="" />
-        <Parking index="16" type="gate" name="K2-5" lat="N49 55.270382" lon="E36 17.035064" heading="58.17"  radius="44" pushBackRoute="144" airlineCodes="" />
-        <Parking index="17" type="gate" name="K3-1" lat="N49 55.376621" lon="E36 17.025034" heading="238.98"  radius="44" pushBackRoute="40" airlineCodes="" />
-        <Parking index="18" type="gate" name="K3-2" lat="N49 55.362233" lon="E36 17.038172" heading="239.61"  radius="44" pushBackRoute="41" airlineCodes="" />
-        <Parking index="19" type="gate" name="K3-3" lat="N49 55.347944" lon="E36 17.051477" heading="238.07"  radius="44" pushBackRoute="42" airlineCodes="" />
-        <Parking index="20" type="gate" name="K3-4" lat="N49 55.333586" lon="E36 17.064500" heading="239.13"  radius="44" pushBackRoute="114" airlineCodes="" />
-        <Parking index="21" type="gate" name="K3-5" lat="N49 55.319232" lon="E36 17.078168" heading="239.41"  radius="44" pushBackRoute="150" airlineCodes="" />
-        <Parking index="22" type="gate" name="K3-6" lat="N49 55.304744" lon="E36 17.090836" heading="238.3"  radius="44" pushBackRoute="116" airlineCodes="" />
-        <Parking index="23" type="gate" name="K3-7" lat="N49 55.290255" lon="E36 17.104510" heading="237.75"  radius="44" pushBackRoute="116" airlineCodes="" />
+        <Parking index="0" type="gate" name="APRON_M1" lat="N49 55.315430" lon="E36 17.310149" heading="225"  radius="17" pushBackRoute="36" airlineCodes="" />
+        <Parking index="1" type="gate" name="APRON_M2" lat="N49 55.329257" lon="E36 17.288762" heading="225"  radius="17" pushBackRoute="130" airlineCodes="" />
+        <Parking index="2" type="gate" name="APRON_M3" lat="N49 55.342610" lon="E36 17.268341" heading="225"  radius="17" pushBackRoute="26" airlineCodes="" />
+        <Parking index="3" type="gate" name="APRON_M4" lat="N49 55.356496" lon="E36 17.248713" heading="225"  radius="17" pushBackRoute="26" airlineCodes="" />
+        <Parking index="4" type="gate" name="APRON_N1" lat="N49 55.272243" lon="E36 17.347866" heading="350"  radius="17" pushBackRoute="53" airlineCodes="" />
+        <Parking index="5" type="gate" name="K1-1" lat="N49 55.379640" lon="E36 16.822662" heading="238.31"  radius="17" pushBackRoute="133" airlineCodes="" />
+        <Parking index="6" type="gate" name="K1-2" lat="N49 55.356284" lon="E36 16.845188" heading="240.57"  radius="17" pushBackRoute="134" airlineCodes="" />
+        <Parking index="7" type="gate" name="K1-3" lat="N49 55.332911" lon="E36 16.866253" heading="239.42"  radius="17" pushBackRoute="135" airlineCodes="" />
+        <Parking index="8" type="gate" name="K1-4" lat="N49 55.309117" lon="E36 16.887366" heading="239.13"  radius="17" pushBackRoute="136" airlineCodes="" />
+        <Parking index="9" type="gate" name="K1-5" lat="N49 55.285816" lon="E36 16.908944" heading="239.49"  radius="17" pushBackRoute="137" airlineCodes="" />
+        <Parking index="10" type="gate" name="K1-6" lat="N49 55.262137" lon="E36 16.930958" heading="239.61"  radius="17" pushBackRoute="138" airlineCodes="" />
+        <Parking index="11" type="gate" name="K1-7" lat="N49 55.238807" lon="E36 16.951920" heading="239.16"  radius="17" pushBackRoute="139" airlineCodes="" />
+        <Parking index="12" type="gate" name="K2-1" lat="N49 55.363927" lon="E36 16.947866" heading="57.38"  radius="17" pushBackRoute="140" airlineCodes="" />
+        <Parking index="13" type="gate" name="K2-2" lat="N49 55.340563" lon="E36 16.969309" heading="59.92"  radius="17" pushBackRoute="141" airlineCodes="" />
+        <Parking index="14" type="gate" name="K2-3" lat="N49 55.320188" lon="E36 16.998699" heading="59.8"  radius="17" pushBackRoute="142" airlineCodes="" />
+        <Parking index="15" type="gate" name="K2-4" lat="N49 55.293752" lon="E36 17.012233" heading="55.76"  radius="17" pushBackRoute="143" airlineCodes="" />
+        <Parking index="16" type="gate" name="K2-5" lat="N49 55.270382" lon="E36 17.035064" heading="58.17"  radius="17" pushBackRoute="144" airlineCodes="" />
+        <Parking index="17" type="gate" name="K3-1" lat="N49 55.376621" lon="E36 17.025034" heading="238.98"  radius="17" pushBackRoute="40" airlineCodes="" />
+        <Parking index="18" type="gate" name="K3-2" lat="N49 55.362233" lon="E36 17.038172" heading="239.61"  radius="17" pushBackRoute="41" airlineCodes="" />
+        <Parking index="19" type="gate" name="K3-3" lat="N49 55.347944" lon="E36 17.051477" heading="238.07"  radius="17" pushBackRoute="42" airlineCodes="" />
+        <Parking index="20" type="gate" name="K3-4" lat="N49 55.333586" lon="E36 17.064500" heading="239.13"  radius="17" pushBackRoute="114" airlineCodes="" />
+        <Parking index="21" type="gate" name="K3-5" lat="N49 55.319232" lon="E36 17.078168" heading="239.41"  radius="17" pushBackRoute="150" airlineCodes="" />
+        <Parking index="22" type="gate" name="K3-6" lat="N49 55.304744" lon="E36 17.090836" heading="238.3"  radius="17" pushBackRoute="116" airlineCodes="" />
+        <Parking index="23" type="gate" name="K3-7" lat="N49 55.290255" lon="E36 17.104510" heading="237.75"  radius="17" pushBackRoute="116" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="24" lat="N49 55.481525" lon="E36 17.461103" isOnRunway="1" holdPointType="none"  />

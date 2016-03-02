@@ -3,9 +3,9 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="gate" name="Gate_D88" lat="N40 29.905863" lon="W80 14.919022" heading="191.09"  radius="44" pushBackRoute="16" airlineCodes="" />
-        <Parking index="1" type="gate" name="Gate_A2" lat="N40 29.778017" lon="W80 14.673651" heading="315"  radius="44" pushBackRoute="457" airlineCodes="" />
-        <Parking index="2" type="gate" name="Gate_B30" lat="N40 29.653306" lon="W80 14.698517" heading="50"  radius="44" pushBackRoute="458" airlineCodes="" />
-        <Parking index="3" type="gate" name="Gate_C56" lat="N40 29.710020" lon="W80 14.859000" heading="139"  radius="44" pushBackRoute="459" airlineCodes="" />
+        <Parking index="1" type="gate" name="Gate_A2" lat="N40 29.778017" lon="W80 14.673651" heading="315"  radius="17" pushBackRoute="457" airlineCodes="" />
+        <Parking index="2" type="gate" name="Gate_B30" lat="N40 29.653306" lon="W80 14.698517" heading="50"  radius="17" pushBackRoute="458" airlineCodes="" />
+        <Parking index="3" type="gate" name="Gate_C56" lat="N40 29.710020" lon="W80 14.859000" heading="139"  radius="17" pushBackRoute="459" airlineCodes="" />
         <Parking index="4" type="gate" name="Gate_D76" lat="N40 29.806563" lon="W80 14.792700" heading="-132.25"  radius="44" pushBackRoute="460" airlineCodes="" />
         <Parking index="5" type="gate" name="Gate_D78" lat="N40 29.827111" lon="W80 14.815501" heading="-133.07"  radius="44" pushBackRoute="462" airlineCodes="" />
         <Parking index="6" type="gate" name="Gate_D80" lat="N40 29.842376" lon="W80 14.839173" heading="-133.73"  radius="44" pushBackRoute="463" airlineCodes="" />

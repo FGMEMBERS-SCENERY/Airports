@@ -5,7 +5,7 @@
         <Parking index="0" type="gate" name="Hold_Short_Rwy7L_@N" lat="N29 10.463191" lon="W81 4.585019" heading="199.53"  radius="44" airlineCodes="" />
         <Parking index="1" type="gate" name="Hold_Short_Rwy7R_@_S" lat="N29 10.609032" lon="W81 3.403338" heading="231.56"  radius="19" airlineCodes="" />
         <Parking index="2" type="gate" name="Hold_Short_Rwy16_@_W" lat="N29 11.403808" lon="W81 3.440118" heading="19.07"  radius="19" airlineCodes="" />
-        <Parking index="3" type="gate" name="Hold_Short_Rwy25R_@_N" lat="N29 11.136434" lon="W81 2.917495" heading="132.23"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Hold_Short_Rwy25R_@_N" lat="N29 11.136434" lon="W81 2.917495" heading="132.23"  radius="17" airlineCodes="" />
         <Parking index="4" type="gate" name="Hold_Short_Rwy25L_@_S" lat="N29 10.814382" lon="W81 2.896787" heading="112.67"  radius="19" airlineCodes="" />
         <Parking index="5" type="gate" name="Hold_Short_Rwy34_@_W" lat="N29 10.530029" lon="W81 3.009739" heading="94"  radius="19" airlineCodes="" />
         <Parking index="6" type="gate" name="Gate_1" lat="N29 11.055989" lon="W81 3.693858" heading="101.56"  radius="44" airlineCodes="" />

@@ -16,7 +16,7 @@
         <Parking index="11" type="gate" name="New_Ramp_Start_4" lat="N46 9.340741" lon="W123 52.822912" heading="245.05"  radius="44" airlineCodes="" />
         <Parking index="12" type="gate" name="New_Ramp_Start_3" lat="N46 9.349687" lon="W123 52.828824" heading="238.9"  radius="44" airlineCodes="" />
         <Parking index="13" type="gate" name="New_Ramp_Start_2" lat="N46 9.369847" lon="W123 52.842367" heading="242.33"  radius="44" airlineCodes="" />
-        <Parking index="14" type="gate" name="Main_Ramp" lat="N46 9.296969" lon="W123 52.833703" heading="242.69"  radius="44" airlineCodes="" />
-        <Parking index="15" type="gate" name="New_Ramp_Start_5" lat="N46 9.329434" lon="W123 52.825143" heading="242.8"  radius="44" airlineCodes="" />
+        <Parking index="14" type="gate" name="Main_Ramp" lat="N46 9.296969" lon="W123 52.833703" heading="242.69"  radius="17" airlineCodes="" />
+        <Parking index="15" type="gate" name="New_Ramp_Start_5" lat="N46 9.329434" lon="W123 52.825143" heading="242.8"  radius="17" airlineCodes="" />
  </parkingList>
 </groundnet>

@@ -3,7 +3,7 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="gate" name="Apron_East_20" lat="N52 7.950732" lon="E7 41.414426" heading="160.56"  radius="19" pushBackRoute="53" airlineCodes="" />
-        <Parking index="1" type="gate" name="Apron_East_24" lat="N52 7.997596" lon="E7 41.653370" heading="161.03"  radius="44" pushBackRoute="54" airlineCodes="" />
+        <Parking index="1" type="gate" name="Apron_East_24" lat="N52 7.997596" lon="E7 41.653370" heading="161.03"  radius="17" pushBackRoute="54" airlineCodes="" />
         <Parking index="2" type="gate" name="Central_Apron_18" lat="N52 7.900315" lon="E7 41.248023" heading="253.33"  radius="19" pushBackRoute="55" airlineCodes="" />
         <Parking index="3" type="gate" name="GAT_1" lat="N52 7.872086" lon="E7 40.933052" heading="90.53"  radius="19" pushBackRoute="56" airlineCodes="" />
         <Parking index="4" type="gate" name="GAT_2" lat="N52 7.875349" lon="E7 40.985762" heading="87.24"  radius="19" pushBackRoute="57" airlineCodes="" />

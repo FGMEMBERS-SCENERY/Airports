@@ -2,12 +2,12 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Ramp_105_-_Busy" lat="N43 48.172005" lon="E11 11.978810" heading="-173.73"  radius="44" pushBackRoute="40" airlineCodes="" />
-        <Parking index="1" type="gate" name="Ramp_201" lat="N43 48.394141" lon="E11 11.744479" heading="268.13"  radius="44" pushBackRoute="41" airlineCodes="" />
-        <Parking index="2" type="gate" name="Ramp_207" lat="N43 48.433380" lon="E11 11.696786" heading="228.25"  radius="44" pushBackRoute="42" airlineCodes="" />
-        <Parking index="3" type="gate" name="Ramp_304_(B_146)" lat="N43 48.456590" lon="E11 11.753641" heading="324.16"  radius="44" pushBackRoute="7" airlineCodes="" />
-        <Parking index="4" type="gate" name="Ramp_306_(B_146)" lat="N43 48.486059" lon="E11 11.791046" heading="-127.48"  radius="44" pushBackRoute="44" airlineCodes="" />
-        <Parking index="5" type="gate" name="RWY_23-05_Hold_(Emergency_Stand)" lat="N43 48.710704" lon="E11 12.280137" heading="138.2"  radius="44" pushBackRoute="45" airlineCodes="" />
+        <Parking index="0" type="gate" name="Ramp_105_-_Busy" lat="N43 48.172005" lon="E11 11.978810" heading="-173.73"  radius="17" pushBackRoute="40" airlineCodes="" />
+        <Parking index="1" type="gate" name="Ramp_201" lat="N43 48.394141" lon="E11 11.744479" heading="268.13"  radius="17" pushBackRoute="41" airlineCodes="" />
+        <Parking index="2" type="gate" name="Ramp_207" lat="N43 48.433380" lon="E11 11.696786" heading="228.25"  radius="17" pushBackRoute="42" airlineCodes="" />
+        <Parking index="3" type="gate" name="Ramp_304_(B_146)" lat="N43 48.456590" lon="E11 11.753641" heading="324.16"  radius="17" pushBackRoute="7" airlineCodes="" />
+        <Parking index="4" type="gate" name="Ramp_306_(B_146)" lat="N43 48.486059" lon="E11 11.791046" heading="-127.48"  radius="17" pushBackRoute="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="RWY_23-05_Hold_(Emergency_Stand)" lat="N43 48.710704" lon="E11 12.280137" heading="138.2"  radius="17" pushBackRoute="45" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="6" lat="N43 48.467107" lon="E11 11.812105" isOnRunway="0" holdPointType="PushBack"  />

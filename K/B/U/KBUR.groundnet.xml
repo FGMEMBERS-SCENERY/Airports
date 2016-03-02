@@ -2,20 +2,20 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="By-Pass_Apron" lat="N34 12.644396" lon="W118 21.476788" heading="257.2"  radius="44" pushBackRoute="76" airlineCodes="" />
-        <Parking index="1" type="gate" name="Cargo_Ramp" lat="N34 11.771827" lon="W118 21.830275" heading="149.45"  radius="44" pushBackRoute="35" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA_ramp" lat="N34 11.780291" lon="W118 22.053826" heading="358.9"  radius="44" pushBackRoute="34" airlineCodes="" />
-        <Parking index="3" type="gate" name="Gate_A1" lat="N34 11.807215" lon="W118 21.169455" heading="178.03"  radius="44" pushBackRoute="43" airlineCodes="" />
-        <Parking index="4" type="gate" name="Gate_A2" lat="N34 11.806909" lon="W118 21.142404" heading="180"  radius="44" pushBackRoute="42" airlineCodes="" />
-        <Parking index="5" type="gate" name="Gate_A4" lat="N34 11.806352" lon="W118 21.087875" heading="180"  radius="44" pushBackRoute="41" airlineCodes="" />
-        <Parking index="6" type="gate" name="Gate_A5" lat="N34 11.806156" lon="W118 21.060996" heading="179.22"  radius="44" pushBackRoute="40" airlineCodes="" />
-        <Parking index="7" type="gate" name="Gate_A7" lat="N34 11.805836" lon="W118 21.006562" heading="179.63"  radius="44" pushBackRoute="39" airlineCodes="" />
-        <Parking index="8" type="gate" name="Gate_A9" lat="N34 11.795191" lon="W118 20.956873" heading="179.37"  radius="44" pushBackRoute="84" airlineCodes="" />
-        <Parking index="9" type="gate" name="Gate_B1" lat="N34 11.725228" lon="W118 21.287673" heading="63.97"  radius="44" pushBackRoute="85" airlineCodes="" />
-        <Parking index="10" type="gate" name="Gate_B3" lat="N34 11.763340" lon="W118 21.291051" heading="125.36"  radius="44" pushBackRoute="86" airlineCodes="" />
-        <Parking index="11" type="gate" name="Gate_B4" lat="N34 11.788605" lon="W118 21.295983" heading="131.99"  radius="44" pushBackRoute="86" airlineCodes="" />
-        <Parking index="12" type="gate" name="Mercury_ramp" lat="N34 12.030072" lon="W118 21.959657" heading="182.1"  radius="44" pushBackRoute="32" airlineCodes="" />
-        <Parking index="13" type="gate" name="Million_Air_ramp" lat="N34 12.012222" lon="W118 21.524660" heading="263.77"  radius="44" pushBackRoute="31" airlineCodes="" />
+        <Parking index="0" type="gate" name="By-Pass_Apron" lat="N34 12.644396" lon="W118 21.476788" heading="257.2"  radius="17" pushBackRoute="76" airlineCodes="" />
+        <Parking index="1" type="gate" name="Cargo_Ramp" lat="N34 11.771827" lon="W118 21.830275" heading="149.45"  radius="17" pushBackRoute="35" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_ramp" lat="N34 11.780291" lon="W118 22.053826" heading="358.9"  radius="17" pushBackRoute="34" airlineCodes="" />
+        <Parking index="3" type="gate" name="Gate_A1" lat="N34 11.807215" lon="W118 21.169455" heading="178.03"  radius="17" pushBackRoute="43" airlineCodes="" />
+        <Parking index="4" type="gate" name="Gate_A2" lat="N34 11.806909" lon="W118 21.142404" heading="180"  radius="17" pushBackRoute="42" airlineCodes="" />
+        <Parking index="5" type="gate" name="Gate_A4" lat="N34 11.806352" lon="W118 21.087875" heading="180"  radius="17" pushBackRoute="41" airlineCodes="" />
+        <Parking index="6" type="gate" name="Gate_A5" lat="N34 11.806156" lon="W118 21.060996" heading="179.22"  radius="17" pushBackRoute="40" airlineCodes="" />
+        <Parking index="7" type="gate" name="Gate_A7" lat="N34 11.805836" lon="W118 21.006562" heading="179.63"  radius="17" pushBackRoute="39" airlineCodes="" />
+        <Parking index="8" type="gate" name="Gate_A9" lat="N34 11.795191" lon="W118 20.956873" heading="179.37"  radius="17" pushBackRoute="84" airlineCodes="" />
+        <Parking index="9" type="gate" name="Gate_B1" lat="N34 11.725228" lon="W118 21.287673" heading="63.97"  radius="17" pushBackRoute="85" airlineCodes="" />
+        <Parking index="10" type="gate" name="Gate_B3" lat="N34 11.763340" lon="W118 21.291051" heading="125.36"  radius="17" pushBackRoute="86" airlineCodes="" />
+        <Parking index="11" type="gate" name="Gate_B4" lat="N34 11.788605" lon="W118 21.295983" heading="131.99"  radius="17" pushBackRoute="86" airlineCodes="" />
+        <Parking index="12" type="gate" name="Mercury_ramp" lat="N34 12.030072" lon="W118 21.959657" heading="182.1"  radius="17" pushBackRoute="32" airlineCodes="" />
+        <Parking index="13" type="gate" name="Million_Air_ramp" lat="N34 12.012222" lon="W118 21.524660" heading="263.77"  radius="17" pushBackRoute="31" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="14" lat="N34 12.730122" lon="W118 21.677326" isOnRunway="0" holdPointType="none"  />

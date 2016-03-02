@@ -60,14 +60,14 @@
         <Parking index="55" type="gate" name="F79" lat="N27 58.659364" lon="W82 32.320563" heading="509.36"  radius="10" pushBackRoute="442" airlineCodes="" />
         <Parking index="56" type="gate" name="F78" lat="N27 58.665318" lon="W82 32.297449" heading="177.61"  radius="10" pushBackRoute="443" airlineCodes="" />
         <Parking index="57" type="gate" name="F77" lat="N27 58.666346" lon="W82 32.276888" heading="203.09"  radius="10" pushBackRoute="444" airlineCodes="" />
-        <Parking index="58" type="gate" name="GA_1" lat="N27 58.017731" lon="W82 31.588486" heading="2.12"  radius="44" pushBackRoute="445" airlineCodes="" />
-        <Parking index="59" type="gate" name="GA_2" lat="N27 58.097551" lon="W82 31.543487" heading="271.2"  radius="44" pushBackRoute="446" airlineCodes="" />
-        <Parking index="60" type="gate" name="GA_3" lat="N27 58.101607" lon="W82 31.293188" heading="271.2"  radius="44" pushBackRoute="447" airlineCodes="" />
+        <Parking index="58" type="gate" name="GA_1" lat="N27 58.017731" lon="W82 31.588486" heading="2.12"  radius="17" pushBackRoute="445" airlineCodes="" />
+        <Parking index="59" type="gate" name="GA_2" lat="N27 58.097551" lon="W82 31.543487" heading="271.2"  radius="17" pushBackRoute="446" airlineCodes="" />
+        <Parking index="60" type="gate" name="GA_3" lat="N27 58.101607" lon="W82 31.293188" heading="271.2"  radius="17" pushBackRoute="447" airlineCodes="" />
         <Parking index="61" type="gate" name="Air_Cargo_2" lat="N27 58.394383" lon="W82 31.241555" heading="91.6"  radius="44" pushBackRoute="448" airlineCodes="" />
         <Parking index="62" type="gate" name="Air_Cargo_1" lat="N27 58.555274" lon="W82 31.239474" heading="91.6"  radius="44" pushBackRoute="449" airlineCodes="" />
         <Parking index="63" type="gate" name="Remote_Parking_47" lat="N27 59.034821" lon="W82 32.247922" heading="163.68"  radius="44" pushBackRoute="450" airlineCodes="" />
-        <Parking index="64" type="gate" name="North_Hangar" lat="N27 59.060270" lon="W82 31.534552" heading="180.7"  radius="44" pushBackRoute="451" airlineCodes="" />
-        <Parking index="65" type="gate" name="South_Hangar" lat="N27 58.645484" lon="W82 31.563095" heading="181.26"  radius="44" pushBackRoute="452" airlineCodes="" />
+        <Parking index="64" type="gate" name="North_Hangar" lat="N27 59.060270" lon="W82 31.534552" heading="180.7"  radius="17" pushBackRoute="451" airlineCodes="" />
+        <Parking index="65" type="gate" name="South_Hangar" lat="N27 58.645484" lon="W82 31.563095" heading="181.26"  radius="17" pushBackRoute="452" airlineCodes="" />
         <Parking index="66" type="gate" name="East_Hangar" lat="N27 58.364565" lon="W82 30.849829" heading="271.02"  radius="19" pushBackRoute="68" airlineCodes="" />
  </parkingList>
  <TaxiNodes>

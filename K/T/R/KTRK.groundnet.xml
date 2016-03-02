@@ -10,11 +10,11 @@
         <Parking index="5" type="ga" name="sml_prop_tiedown_W" lat="N39 19.284641" lon="W120 8.926646" heading="209.67"  radius="10" airlineCodes="" />
         <Parking index="6" type="ga" name="sml_prop_tiedown_mid" lat="N39 19.231106" lon="W120 8.795242" heading="31.12"  radius="10" airlineCodes="" />
         <Parking index="7" type="gate" name="lrg_tiedown_W" lat="N39 19.272044" lon="W120 8.874992" heading="206.06"  radius="44" airlineCodes="" />
-        <Parking index="8" type="gate" name="lrg_tiedown_mid" lat="N39 19.139210" lon="W120 8.602898" heading="-151.81"  radius="44" airlineCodes="" />
-        <Parking index="9" type="gate" name="RWY_29_HS" lat="N39 18.884522" lon="W120 7.914584" heading="85.51"  radius="44" airlineCodes="" />
-        <Parking index="10" type="gate" name="RWY_29_Runup" lat="N39 18.940192" lon="W120 8.103210" heading="120.5"  radius="44" airlineCodes="" />
-        <Parking index="11" type="gate" name="RWY_11_Runup-HS" lat="N39 19.437436" lon="W120 9.205637" heading="8.26"  radius="44" airlineCodes="" />
-        <Parking index="12" type="gate" name="RWY_20_HS" lat="N39 19.542339" lon="W120 7.937568" heading="88.66"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="lrg_tiedown_mid" lat="N39 19.139210" lon="W120 8.602898" heading="-151.81"  radius="17" airlineCodes="" />
+        <Parking index="9" type="gate" name="RWY_29_HS" lat="N39 18.884522" lon="W120 7.914584" heading="85.51"  radius="17" airlineCodes="" />
+        <Parking index="10" type="gate" name="RWY_29_Runup" lat="N39 18.940192" lon="W120 8.103210" heading="120.5"  radius="17" airlineCodes="" />
+        <Parking index="11" type="gate" name="RWY_11_Runup-HS" lat="N39 19.437436" lon="W120 9.205637" heading="8.26"  radius="17" airlineCodes="" />
+        <Parking index="12" type="gate" name="RWY_20_HS" lat="N39 19.542339" lon="W120 7.937568" heading="88.66"  radius="17" airlineCodes="" />
         <Parking index="13" type="gate" name="RWY_2_HS" lat="N39 18.900950" lon="W120 8.424957" heading="170.77"  radius="44" airlineCodes="" />
         <Parking index="14" type="ga" name="grav_E_of_RWY_20" lat="N39 19.358723" lon="W120 7.965244" heading="269.62"  radius="10" airlineCodes="" />
  </parkingList>

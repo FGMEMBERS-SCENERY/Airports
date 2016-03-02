@@ -4,8 +4,8 @@
   <parkingList>
         <Parking index="0" type="gate" name="Gate_20" lat="N40 52.677227" lon="E14 16.822072" heading="135"  radius="44" pushBackRoute="56" airlineCodes="" />
         <Parking index="1" type="gate" name="Gate_12" lat="N40 52.733688" lon="E14 17.058401" heading="188.57"  radius="44" pushBackRoute="57" airlineCodes="" />
-        <Parking index="2" type="gate" name="Gate_14" lat="N40 52.740517" lon="E14 16.985685" heading="187.22"  radius="44" pushBackRoute="58" airlineCodes="" />
-        <Parking index="3" type="gate" name="Gate_15" lat="N40 52.743371" lon="E14 16.952281" heading="187.22"  radius="44" pushBackRoute="59" airlineCodes="" />
+        <Parking index="2" type="gate" name="Gate_14" lat="N40 52.740517" lon="E14 16.985685" heading="187.22"  radius="17" pushBackRoute="58" airlineCodes="" />
+        <Parking index="3" type="gate" name="Gate_15" lat="N40 52.743371" lon="E14 16.952281" heading="187.22"  radius="17" pushBackRoute="59" airlineCodes="" />
         <Parking index="4" type="gate" name="Gate_17" lat="N40 52.730503" lon="E14 16.897333" heading="141.01"  radius="44" pushBackRoute="60" airlineCodes="" />
         <Parking index="5" type="gate" name="Gate_23" lat="N40 52.687042" lon="E14 16.742556" heading="292.53"  radius="19" pushBackRoute="61" airlineCodes="" />
         <Parking index="6" type="gate" name="Ramp_42" lat="N40 52.809829" lon="E14 17.010845" heading="334.34"  radius="19" pushBackRoute="62" airlineCodes="" />

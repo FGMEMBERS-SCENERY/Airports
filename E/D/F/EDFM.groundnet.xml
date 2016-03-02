@@ -12,7 +12,7 @@
         <Parking index="7" type="ga" name="GA_Hangar_1" lat="N49 28.567411" lon="E8 31.177725" heading="182.1"  radius="10" pushBackRoute="60" airlineCodes="" />
         <Parking index="8" type="ga" name="GA_Hangar_2" lat="N49 28.569362" lon="E8 31.113359" heading="172.89"  radius="10" pushBackRoute="49" airlineCodes="" />
         <Parking index="9" type="gate" name="Hangar_Cirrus" lat="N49 28.631088" lon="E8 31.141188" heading="184.26"  radius="19" pushBackRoute="15" airlineCodes="" />
-        <Parking index="10" type="gate" name="Airline_2" lat="N49 28.569204" lon="E8 31.274793" heading="271.6"  radius="44" pushBackRoute="55" airlineCodes="" />
+        <Parking index="10" type="gate" name="Airline_2" lat="N49 28.569204" lon="E8 31.274793" heading="271.6"  radius="17" pushBackRoute="55" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="11" lat="N49 28.549049" lon="E8 31.305763" isOnRunway="0" holdPointType="PushBack"  />

@@ -4,7 +4,7 @@
   <parkingList>
         <Parking index="0" type="gate" name="Apron_1" lat="S33 41.198195" lon="E115 23.967364" heading="340.35"  radius="19" airlineCodes="" />
         <Parking index="1" type="gate" name="Apron_2" lat="S33 41.171479" lon="E115 23.982493" heading="341.35"  radius="19" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA_Parking" lat="S33 41.224461" lon="E115 23.929577" heading="23.87"  radius="44" airlineCodes="" />
-        <Parking index="3" type="gate" name="Hangers" lat="S33 41.268752" lon="E115 23.874641" heading="117.58"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_Parking" lat="S33 41.224461" lon="E115 23.929577" heading="23.87"  radius="17" airlineCodes="" />
+        <Parking index="3" type="gate" name="Hangers" lat="S33 41.268752" lon="E115 23.874641" heading="117.58"  radius="17" airlineCodes="" />
  </parkingList>
 </groundnet>

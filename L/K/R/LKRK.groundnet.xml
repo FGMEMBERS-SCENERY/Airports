@@ -2,6 +2,19 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Stojanka" lat="N50 5.774589" lon="E13 41.447513" heading="180"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="Stojanka" lat="N50 5.774589" lon="E13 41.447513" heading="180"  radius="17" airlineCodes="" />
+        <Parking index="0" type="gate" name="Hold_Short_Rwy_5L" lat="N35 52.443013" lon="W78 48.030694" heading="240"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="Hold_Short_Rwy_5R" lat="N35 51.955306" lon="W78 47.864121" heading="215.85"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="Hold_Short_Rwy_14" lat="N35 52.532091" lon="W78 46.918523" heading="225"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Hold_Short_Rwy_23L" lat="N35 52.776444" lon="W78 46.844108" heading="60"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="Hold_Short_Rwy_23R" lat="N35 53.557390" lon="W78 46.654240" heading="30"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="Hold_Short_Rwy_32" lat="N35 52.074180" lon="W78 46.551133" heading="45"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="Air_Cargo_North" lat="N35 53.300577" lon="W78 46.789200" heading="135"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="Cargo_Ramp" lat="N35 52.385658" lon="W78 47.986554" heading="135"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="Landmark_Aviation_FBO" lat="N35 52.856232" lon="W78 46.973479" heading="225"  radius="19" airlineCodes="" />
+        <Parking index="9" type="gate" name="General_Aviation_Ramp_2" lat="N35 53.007307" lon="W78 47.202148" heading="100"  radius="19" airlineCodes="" />
+        <Parking index="10" type="gate" name="National_Guard_Ramp" lat="N35 52.034689" lon="W78 46.619639" heading="140"  radius="44" airlineCodes="" />
+        <Parking index="11" type="gate" name="Terminal_A" lat="N35 52.467886" lon="W78 47.284357" heading="-3.37"  radius="44" airlineCodes="" />
+        <Parking index="12" type="gate" name="Terminal_C" lat="N35 52.681534" lon="W78 47.640151" heading="135"  radius="44" airlineCodes="" />
  </parkingList>
 </groundnet>

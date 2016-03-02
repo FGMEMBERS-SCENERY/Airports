@@ -2,9 +2,9 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="B190_Parking" lat="N42 9.123684" lon="W79 15.857060" heading="328.87"  radius="44" pushBackRoute="14" airlineCodes="" />
+        <Parking index="0" type="gate" name="B190_Parking" lat="N42 9.123684" lon="W79 15.857060" heading="328.87"  radius="17" pushBackRoute="14" airlineCodes="" />
         <Parking index="1" type="gate" name="GA_FBO" lat="N42 9.451611" lon="W79 15.433879" heading="180"  radius="19" pushBackRoute="50" airlineCodes="" />
-        <Parking index="2" type="gate" name="Jamestown_Aviation" lat="N42 9.099904" lon="W79 15.934639" heading="333.02"  radius="44" pushBackRoute="6" airlineCodes="" />
+        <Parking index="2" type="gate" name="Jamestown_Aviation" lat="N42 9.099904" lon="W79 15.934639" heading="333.02"  radius="17" pushBackRoute="6" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="3" lat="N42 9.062285" lon="W79 15.959581" isOnRunway="0" holdPointType="none"  />

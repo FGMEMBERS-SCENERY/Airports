@@ -29,8 +29,8 @@
         <Parking index="24" type="gate" name="Ryanair_-_Hangar_10" lat="N51 52.713422" lon="E0 14.148941" heading="132.3"  radius="44" pushBackRoute="157" airlineCodes="" />
         <Parking index="25" type="gate" name="D70" lat="N51 53.617057" lon="E0 15.742689" heading="47.12"  radius="44" pushBackRoute="118" airlineCodes="" />
         <Parking index="26" type="gate" name="D71" lat="N51 53.640113" lon="E0 15.704486" heading="45"  radius="44" pushBackRoute="159" airlineCodes="" />
-        <Parking index="27" type="gate" name="E84R" lat="N51 53.774222" lon="E0 15.720662" heading="221.18"  radius="44" pushBackRoute="160" airlineCodes="" />
-        <Parking index="28" type="gate" name="Western_Apron" lat="N51 52.920205" lon="E0 13.267706" heading="167.91"  radius="44" pushBackRoute="32" airlineCodes="" />
+        <Parking index="27" type="gate" name="E84R" lat="N51 53.774222" lon="E0 15.720662" heading="221.18"  radius="17" pushBackRoute="160" airlineCodes="" />
+        <Parking index="28" type="gate" name="Western_Apron" lat="N51 52.920205" lon="E0 13.267706" heading="167.91"  radius="17" pushBackRoute="32" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="29" lat="N51 52.713108" lon="E0 13.264263" isOnRunway="0" holdPointType="none"  />

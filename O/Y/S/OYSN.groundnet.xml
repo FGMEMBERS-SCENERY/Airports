@@ -42,7 +42,7 @@
         <Parking index="37" type="gate" name="North_West_Military_Ramp_27" lat="N15 28.594905" lon="E44 12.969943" heading="0.25"  radius="19" pushBackRoute="53" airlineCodes="" />
         <Parking index="38" type="gate" name="North_West_Military_Ramp_28" lat="N15 28.595642" lon="E44 13.003551" heading="0.25"  radius="19" pushBackRoute="52" airlineCodes="" />
         <Parking index="39" type="gate" name="North_West_Military_Ramp_29" lat="N15 28.595975" lon="E44 13.037858" heading="0.25"  radius="19" pushBackRoute="51" airlineCodes="" />
-        <Parking index="40" type="gate" name="South_Military_Old_Ramp_16" lat="N15 27.570413" lon="E44 12.916720" heading="104.56"  radius="44" pushBackRoute="275" airlineCodes="" />
+        <Parking index="40" type="gate" name="South_Military_Old_Ramp_16" lat="N15 27.570413" lon="E44 12.916720" heading="104.56"  radius="17" pushBackRoute="275" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="41" lat="N15 27.681605" lon="E44 13.159202" isOnRunway="0" holdPointType="none"  />

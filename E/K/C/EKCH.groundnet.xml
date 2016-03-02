@@ -98,8 +98,8 @@
         <Parking index="93" type="gate" name="GA_Hanger" lat="N55 36.623959" lon="E12 39.579264" heading="90"  radius="19" pushBackRoute="501" airlineCodes="" />
         <Parking index="94" type="gate" name="GA_Hanger_2" lat="N55 36.653412" lon="E12 39.147532" heading="131.79"  radius="19" pushBackRoute="269" airlineCodes="" />
         <Parking index="95" type="gate" name="GA_Light_Aircraft" lat="N55 36.571083" lon="E12 39.818384" heading="260"  radius="19" pushBackRoute="280" airlineCodes="" />
-        <Parking index="96" type="gate" name="Parking_Light_Jet" lat="N55 37.677296" lon="E12 39.590947" heading="0"  radius="44" pushBackRoute="504" airlineCodes="" />
-        <Parking index="97" type="gate" name="Compass_Base" lat="N55 36.478468" lon="E12 38.910152" heading="0"  radius="44" pushBackRoute="505" airlineCodes="" />
+        <Parking index="96" type="gate" name="Parking_Light_Jet" lat="N55 37.677296" lon="E12 39.590947" heading="0"  radius="17" pushBackRoute="504" airlineCodes="" />
+        <Parking index="97" type="gate" name="Compass_Base" lat="N55 36.478468" lon="E12 38.910152" heading="0"  radius="17" pushBackRoute="505" airlineCodes="" />
         <Parking index="98" type="gate" name="Engine_Test_Ramp" lat="N55 37.874376" lon="E12 39.898409" heading="221.5"  radius="44" pushBackRoute="506" airlineCodes="" />
         <Parking index="99" type="gate" name="Main_Service_Ramp" lat="N55 37.895272" lon="E12 39.849527" heading="221.2"  radius="44" pushBackRoute="507" airlineCodes="" />
         <Parking index="100" type="gate" name="My_Travel_Hanger_1_(A320)" lat="N55 36.457257" lon="E12 39.753206" heading="177.96"  radius="19" pushBackRoute="508" airlineCodes="" />
@@ -113,7 +113,7 @@
         <Parking index="108" type="gate" name="Service_North_Star" lat="N55 36.513124" lon="E12 39.542620" heading="178.77"  radius="44" pushBackRoute="516" airlineCodes="" />
         <Parking index="109" type="gate" name="GX_(SAS_Commuter)" lat="N55 36.930067" lon="E12 40.579253" heading="169.99"  radius="19" pushBackRoute="239" airlineCodes="" />
         <Parking index="110" type="gate" name="Service_Sterling_European" lat="N55 36.472211" lon="E12 39.445888" heading="313.02"  radius="44" pushBackRoute="518" airlineCodes="" />
-        <Parking index="111" type="gate" name="Spawn_Location" lat="N55 37.782489" lon="E12 39.771777" heading="221.5"  radius="44" pushBackRoute="519" airlineCodes="" />
+        <Parking index="111" type="gate" name="Spawn_Location" lat="N55 37.782489" lon="E12 39.771777" heading="221.5"  radius="17" pushBackRoute="519" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="112" lat="N55 36.902217" lon="E12 38.209381" isOnRunway="0" holdPointType="none"  />

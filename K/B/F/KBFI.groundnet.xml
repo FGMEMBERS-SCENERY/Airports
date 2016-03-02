@@ -2,12 +2,12 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="A8_Run_Up" lat="N47 31.754560" lon="W122 17.951753" heading="304.16"  radius="44" pushBackRoute="70" airlineCodes="" />
-        <Parking index="1" type="gate" name="A9_Run_Up" lat="N47 31.660377" lon="W122 17.941437" heading="150.68"  radius="44" pushBackRoute="92" airlineCodes="" />
-        <Parking index="2" type="gate" name="Boeing_acceptance_ramp" lat="N47 32.224360" lon="W122 18.682487" heading="240"  radius="44" pushBackRoute="117" airlineCodes="" />
-        <Parking index="3" type="gate" name="Galvin_Ramp" lat="N47 32.343998" lon="W122 18.396126" heading="150.31"  radius="44" pushBackRoute="129" airlineCodes="" />
-        <Parking index="4" type="gate" name="Hold_Short_13R_at_B1" lat="N47 32.388640" lon="W122 18.743759" heading="60"  radius="44" pushBackRoute="93" airlineCodes="" />
-        <Parking index="5" type="gate" name="RWY_13L_Run_Up" lat="N47 32.303395" lon="W122 18.425700" heading="180"  radius="44" pushBackRoute="73" airlineCodes="" />
+        <Parking index="0" type="gate" name="A8_Run_Up" lat="N47 31.754560" lon="W122 17.951753" heading="304.16"  radius="17" pushBackRoute="70" airlineCodes="" />
+        <Parking index="1" type="gate" name="A9_Run_Up" lat="N47 31.660377" lon="W122 17.941437" heading="150.68"  radius="17" pushBackRoute="92" airlineCodes="" />
+        <Parking index="2" type="gate" name="Boeing_acceptance_ramp" lat="N47 32.224360" lon="W122 18.682487" heading="240"  radius="17" pushBackRoute="117" airlineCodes="" />
+        <Parking index="3" type="gate" name="Galvin_Ramp" lat="N47 32.343998" lon="W122 18.396126" heading="150.31"  radius="17" pushBackRoute="129" airlineCodes="" />
+        <Parking index="4" type="gate" name="Hold_Short_13R_at_B1" lat="N47 32.388640" lon="W122 18.743759" heading="60"  radius="17" pushBackRoute="93" airlineCodes="" />
+        <Parking index="5" type="gate" name="RWY_13L_Run_Up" lat="N47 32.303395" lon="W122 18.425700" heading="180"  radius="17" pushBackRoute="73" airlineCodes="" />
         <Parking index="6" type="gate" name="Airbourne_Express_Ramp" lat="N47 31.751366" lon="W122 17.858555" heading="59.21"  radius="10" pushBackRoute="121" airlineCodes="" />
         <Parking index="7" type="gate" name="Boeing_North_Ramp_Heavy" lat="N47 32.417970" lon="W122 18.826532" heading="182.5"  radius="44" pushBackRoute="122" airlineCodes="" />
         <Parking index="8" type="gate" name="Boeing_Ramp_3" lat="N47 32.135417" lon="W122 18.581827" heading="240.13"  radius="10" pushBackRoute="123" airlineCodes="" />

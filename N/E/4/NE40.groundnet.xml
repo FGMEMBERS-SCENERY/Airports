@@ -2,6 +2,36 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="New_Ramp_Start_2" lat="N40 42.930146" lon="W96 52.247468" heading="180"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="New_Ramp_Start_2" lat="N40 42.930146" lon="W96 52.247468" heading="180"  radius="17" airlineCodes="" />
+        <Parking index="0" type="gate" name="ABELAG" lat="N50 53.612700" lon="E4 27.962820" heading="340"  radius="17" airlineCodes="" />
+        <Parking index="1" type="gate" name="Apron_1_North" lat="N50 54.227520" lon="E4 29.108940" heading="155"  radius="17" airlineCodes="" />
+        <Parking index="2" type="gate" name="Apron_1_South" lat="N50 54.207600" lon="E4 29.333940" heading="335"  radius="17" airlineCodes="" />
+        <Parking index="3" type="gate" name="Apron_10" lat="N50 54.395419" lon="E4 28.153880" heading="155"  radius="17" airlineCodes="" />
+        <Parking index="4" type="gate" name="Apron_11" lat="N50 54.476640" lon="E4 28.524360" heading="155"  radius="17" airlineCodes="" />
+        <Parking index="5" type="gate" name="Apron_2_North" lat="N50 54.117060" lon="E4 29.368260" heading="155"  radius="17" airlineCodes="" />
+        <Parking index="6" type="gate" name="Apron_2_South" lat="N50 54.004338" lon="E4 29.305462" heading="335"  radius="17" airlineCodes="" />
+        <Parking index="7" type="gate" name="Apron_3_North" lat="N50 53.840343" lon="E4 29.316065" heading="155"  radius="17" airlineCodes="" />
+        <Parking index="8" type="gate" name="Apron_3_South" lat="N50 53.768543" lon="E4 29.297450" heading="335"  radius="17" airlineCodes="" />
+        <Parking index="9" type="gate" name="Apron_60" lat="N50 53.947500" lon="E4 28.228080" heading="245"  radius="17" airlineCodes="" />
+        <Parking index="10" type="gate" name="Brussels_Airlines" lat="N50 53.517467" lon="E4 28.764356" heading="160"  radius="17" airlineCodes="" />
+        <Parking index="11" type="gate" name="Cargo_Area" lat="N50 54.198560" lon="E4 27.350437" heading="335"  radius="17" airlineCodes="" />
+        <Parking index="12" type="gate" name="CAX_FBO" lat="N50 53.688000" lon="E4 28.369465" heading="340"  radius="17" airlineCodes="" />
+        <Parking index="13" type="gate" name="CAX_FBO_Heli_Rooftop" lat="N50 53.653020" lon="E4 28.360380" heading="340"  radius="17" airlineCodes="" />
+        <Parking index="14" type="gate" name="General_Aviation" lat="N50 53.727300" lon="E4 28.443265" heading="340"  radius="17" airlineCodes="" />
+        <Parking index="15" type="gate" name="Helipad_ABELAG" lat="N50 53.633640" lon="E4 28.141080" heading="340"  radius="17" airlineCodes="" />
+        <Parking index="16" type="gate" name="Helipad_Cargo_Area" lat="N50 54.263580" lon="E4 27.682320" heading="155"  radius="17" airlineCodes="" />
+        <Parking index="17" type="gate" name="Helipad_CAX_FBO" lat="N50 53.721255" lon="E4 28.186210" heading="65.2"  radius="17" airlineCodes="" />
+        <Parking index="18" type="gate" name="Helipad_Main_Terminal" lat="N50 53.850220" lon="E4 29.443822" heading="246"  radius="17" airlineCodes="" />
+        <Parking index="19" type="gate" name="Helipad_Military_Wing" lat="N50 54.761594" lon="E4 29.420231" heading="150"  radius="17" airlineCodes="" />
+        <Parking index="20" type="gate" name="Helipad_South_Satellite" lat="N50 53.612699" lon="E4 29.058234" heading="160"  radius="17" airlineCodes="" />
+        <Parking index="21" type="gate" name="Hold_Short_Rwy_02_on_P7" lat="N50 53.243060" lon="E4 29.352542" heading="106.2"  radius="17" airlineCodes="" />
+        <Parking index="22" type="gate" name="Hold_Short_Rwy_07L_on_A7" lat="N50 53.999855" lon="E4 27.322722" heading="154.53"  radius="17" airlineCodes="" />
+        <Parking index="23" type="gate" name="Hold_Short_Rwy_07L_on_P1" lat="N50 53.886456" lon="E4 27.350792" heading="14.71"  radius="17" airlineCodes="" />
+        <Parking index="24" type="gate" name="Hold_Short_Rwy_07R_on_P9" lat="N50 53.419627" lon="E4 28.770529" heading="159.67"  radius="17" airlineCodes="" />
+        <Parking index="25" type="gate" name="Hold_Short_Rwy_20/25R_on_A1" lat="N50 54.833991" lon="E4 30.000509" heading="159.53"  radius="17" airlineCodes="" />
+        <Parking index="26" type="gate" name="Hold_Short_Rwy_20/25R_on_P3" lat="N50 54.718212" lon="E4 30.318585" heading="291.24"  radius="17" airlineCodes="" />
+        <Parking index="27" type="gate" name="Hold_Short_Rwy_25L_on_C1" lat="N50 53.816753" lon="E4 30.572795" heading="121.81"  radius="17" airlineCodes="" />
+        <Parking index="28" type="gate" name="Military_Wing" lat="N50 54.729240" lon="E4 29.285100" heading="150"  radius="17" airlineCodes="" />
+        <Parking index="29" type="gate" name="South_Satellite" lat="N50 53.650397" lon="E4 29.303459" heading="293"  radius="17" airlineCodes="" />
  </parkingList>
 </groundnet>

@@ -43,19 +43,19 @@
         <Parking index="38" type="gate" name="Atlantic_Aviation_9" lat="N37 53.630120" lon="W121 14.796058" heading="205.2"  radius="10" airlineCodes="" />
         <Parking index="39" type="gate" name="Atlantic_Aviation_4" lat="N37 53.650313" lon="W121 14.784686" heading="205.2"  radius="10" airlineCodes="" />
         <Parking index="40" type="gate" name="Atlantic_Aviation_1" lat="N37 53.672386" lon="W121 14.773005" heading="205.2"  radius="10" airlineCodes="" />
-        <Parking index="41" type="gate" name="FBO-6" lat="N37 53.711041" lon="W121 14.880380" heading="298.25"  radius="44" airlineCodes="" />
-        <Parking index="42" type="gate" name="FBO-5" lat="N37 53.703841" lon="W121 14.885764" heading="298.25"  radius="44" airlineCodes="" />
-        <Parking index="43" type="gate" name="FBO-4" lat="N37 53.695696" lon="W121 14.891149" heading="298.25"  radius="44" airlineCodes="" />
-        <Parking index="44" type="gate" name="FBO-3" lat="N37 53.687788" lon="W121 14.896833" heading="298.25"  radius="44" airlineCodes="" />
-        <Parking index="45" type="gate" name="FBO-2" lat="N37 53.679879" lon="W121 14.902517" heading="298.25"  radius="44" airlineCodes="" />
-        <Parking index="46" type="gate" name="FBO-1" lat="N37 53.671616" lon="W121 14.909397" heading="298.25"  radius="44" airlineCodes="" />
-        <Parking index="47" type="gate" name="GA_Parking" lat="N37 53.731702" lon="W121 14.991016" heading="115.8"  radius="44" airlineCodes="" />
+        <Parking index="41" type="gate" name="FBO-6" lat="N37 53.711041" lon="W121 14.880380" heading="298.25"  radius="17" airlineCodes="" />
+        <Parking index="42" type="gate" name="FBO-5" lat="N37 53.703841" lon="W121 14.885764" heading="298.25"  radius="17" airlineCodes="" />
+        <Parking index="43" type="gate" name="FBO-4" lat="N37 53.695696" lon="W121 14.891149" heading="298.25"  radius="17" airlineCodes="" />
+        <Parking index="44" type="gate" name="FBO-3" lat="N37 53.687788" lon="W121 14.896833" heading="298.25"  radius="17" airlineCodes="" />
+        <Parking index="45" type="gate" name="FBO-2" lat="N37 53.679879" lon="W121 14.902517" heading="298.25"  radius="17" airlineCodes="" />
+        <Parking index="46" type="gate" name="FBO-1" lat="N37 53.671616" lon="W121 14.909397" heading="298.25"  radius="17" airlineCodes="" />
+        <Parking index="47" type="gate" name="GA_Parking" lat="N37 53.731702" lon="W121 14.991016" heading="115.8"  radius="17" airlineCodes="" />
         <Parking index="48" type="ga" name="Chinook_-_3" lat="N37 53.196318" lon="W121 14.350157" heading="0"  radius="8" airlineCodes="" />
         <Parking index="49" type="ga" name="Chinook_-_2" lat="N37 53.187162" lon="W121 14.399755" heading="0"  radius="8" airlineCodes="" />
         <Parking index="50" type="ga" name="Chinook_-_1" lat="N37 53.175590" lon="W121 14.451559" heading="0"  radius="8" airlineCodes="" />
-        <Parking index="51" type="gate" name="Northwest_Ramp_4" lat="N37 54.123038" lon="W121 14.454040" heading="307.51"  radius="44" airlineCodes="" />
-        <Parking index="52" type="gate" name="Northwest_Ramp_3" lat="N37 54.097513" lon="W121 14.477167" heading="307.51"  radius="44" airlineCodes="" />
-        <Parking index="53" type="gate" name="Northwest_Ramp_1" lat="N37 54.046925" lon="W121 14.524553" heading="307.51"  radius="44" airlineCodes="" />
-        <Parking index="54" type="gate" name="Northwest_Ramp_2" lat="N37 54.071590" lon="W121 14.499068" heading="307.51"  radius="44" airlineCodes="" />
+        <Parking index="51" type="gate" name="Northwest_Ramp_4" lat="N37 54.123038" lon="W121 14.454040" heading="307.51"  radius="17" airlineCodes="" />
+        <Parking index="52" type="gate" name="Northwest_Ramp_3" lat="N37 54.097513" lon="W121 14.477167" heading="307.51"  radius="17" airlineCodes="" />
+        <Parking index="53" type="gate" name="Northwest_Ramp_1" lat="N37 54.046925" lon="W121 14.524553" heading="307.51"  radius="17" airlineCodes="" />
+        <Parking index="54" type="gate" name="Northwest_Ramp_2" lat="N37 54.071590" lon="W121 14.499068" heading="307.51"  radius="17" airlineCodes="" />
  </parkingList>
 </groundnet>

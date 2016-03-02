@@ -3,7 +3,7 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="ga" name="North_GA_Ramp_2" lat="N43 30.310801" lon="E5 22.210672" heading="-213.82"  radius="10" pushBackRoute="43" airlineCodes="" />
-        <Parking index="1" type="gate" name="North_GA_Ramp_5" lat="N43 30.240836" lon="E5 22.257224" heading="325.7"  radius="44" pushBackRoute="45" airlineCodes="" />
+        <Parking index="1" type="gate" name="North_GA_Ramp_5" lat="N43 30.240836" lon="E5 22.257224" heading="325.7"  radius="17" pushBackRoute="45" airlineCodes="" />
         <Parking index="2" type="gate" name="North_GA_Ramp_7" lat="N43 30.254250" lon="E5 22.224817" heading="325.8"  radius="19" pushBackRoute="45" airlineCodes="" />
         <Parking index="3" type="gate" name="Sierra-Est_GA_Ramp_S2" lat="N43 30.203794" lon="E5 22.279033" heading="325.59"  radius="19" pushBackRoute="15" airlineCodes="" />
         <Parking index="4" type="ga" name="Sierra-Est_GA_Ramp_S11" lat="N43 30.182698" lon="E5 22.268872" heading="325.49"  radius="10" pushBackRoute="15" airlineCodes="" />

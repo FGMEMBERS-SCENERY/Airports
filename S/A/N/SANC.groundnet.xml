@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="start" lat="S28 35.556100" lon="W65 45.280294" heading="98.86"  radius="44" pushBackRoute="25" airlineCodes="" />
-        <Parking index="1" type="gate" name="start" lat="S28 35.533505" lon="W65 45.275026" heading="100.18"  radius="44" pushBackRoute="24" airlineCodes="" />
-        <Parking index="2" type="gate" name="start" lat="S28 35.571216" lon="W65 45.268129" heading="101.82"  radius="44" pushBackRoute="27" airlineCodes="" />
-        <Parking index="3" type="gate" name="start" lat="S28 35.526052" lon="W65 45.254474" heading="102.53"  radius="44" pushBackRoute="26" airlineCodes="" />
+        <Parking index="0" type="gate" name="start" lat="S28 35.556100" lon="W65 45.280294" heading="98.86"  radius="17" pushBackRoute="25" airlineCodes="" />
+        <Parking index="1" type="gate" name="start" lat="S28 35.533505" lon="W65 45.275026" heading="100.18"  radius="17" pushBackRoute="24" airlineCodes="" />
+        <Parking index="2" type="gate" name="start" lat="S28 35.571216" lon="W65 45.268129" heading="101.82"  radius="17" pushBackRoute="27" airlineCodes="" />
+        <Parking index="3" type="gate" name="start" lat="S28 35.526052" lon="W65 45.254474" heading="102.53"  radius="17" pushBackRoute="26" airlineCodes="" />
         <Parking index="4" type="ga" name="GA" lat="S28 35.683749" lon="W65 45.334742" heading="141.84"  radius="10" pushBackRoute="56" airlineCodes="" />
         <Parking index="5" type="ga" name="GA" lat="S28 35.708354" lon="W65 45.340930" heading="64.65"  radius="10" pushBackRoute="63" airlineCodes="" />
         <Parking index="6" type="ga" name="start_GA" lat="S28 35.739376" lon="W65 45.347173" heading="194.44"  radius="10" pushBackRoute="14" airlineCodes="" />

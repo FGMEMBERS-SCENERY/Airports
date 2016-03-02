@@ -2,6 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Custom_Startup_Location" lat="N9 59.919120" lon="W84 12.205800" heading="0"  radius="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="Custom_Startup_Location" lat="N9 59.919120" lon="W84 12.205800" heading="0"  radius="17" airlineCodes="" />
+        <Parking index="0" type="gate" name="Gate_A16" lat="N37 22.234217" lon="W121 55.905582" heading="49"  radius="17" airlineCodes="" />
+        <Parking index="1" type="gate" name="Gate_A6" lat="N37 22.172911" lon="W121 55.824023" heading="48"  radius="17" airlineCodes="" />
+        <Parking index="2" type="gate" name="Gate_B" lat="N37 21.976922" lon="W121 55.622889" heading="48"  radius="17" airlineCodes="" />
+        <Parking index="3" type="gate" name="Gate_C6" lat="N37 21.740340" lon="W121 55.335900" heading="51"  radius="17" airlineCodes="" />
  </parkingList>
 </groundnet>

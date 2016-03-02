@@ -2,11 +2,11 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="ANG_Stt" lat="N42 44.520707" lon="W73 48.050131" heading="0"  radius="44" pushBackRoute="144" airlineCodes="" />
-        <Parking index="1" type="gate" name="FedX_Stt" lat="N42 45.503678" lon="W73 48.106370" heading="0"  radius="44" pushBackRoute="145" airlineCodes="" />
-        <Parking index="2" type="gate" name="MainTrm_Stt" lat="N42 44.750713" lon="W73 48.507653" heading="0"  radius="44" pushBackRoute="146" airlineCodes="" />
-        <Parking index="3" type="gate" name="MilAir_Stt" lat="N42 44.420113" lon="W73 48.410511" heading="0"  radius="44" pushBackRoute="147" airlineCodes="" />
-        <Parking index="4" type="gate" name="N_Rmp1_Stt" lat="N42 45.114476" lon="W73 48.459443" heading="90"  radius="44" pushBackRoute="23" airlineCodes="" />
+        <Parking index="0" type="gate" name="ANG_Stt" lat="N42 44.520707" lon="W73 48.050131" heading="0"  radius="17" pushBackRoute="144" airlineCodes="" />
+        <Parking index="1" type="gate" name="FedX_Stt" lat="N42 45.503678" lon="W73 48.106370" heading="0"  radius="17" pushBackRoute="145" airlineCodes="" />
+        <Parking index="2" type="gate" name="MainTrm_Stt" lat="N42 44.750713" lon="W73 48.507653" heading="0"  radius="17" pushBackRoute="146" airlineCodes="" />
+        <Parking index="3" type="gate" name="MilAir_Stt" lat="N42 44.420113" lon="W73 48.410511" heading="0"  radius="17" pushBackRoute="147" airlineCodes="" />
+        <Parking index="4" type="gate" name="N_Rmp1_Stt" lat="N42 45.114476" lon="W73 48.459443" heading="90"  radius="17" pushBackRoute="23" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="5" lat="N42 45.274445" lon="W73 48.528013" isOnRunway="0" holdPointType="none"  />

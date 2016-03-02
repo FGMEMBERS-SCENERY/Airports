@@ -19,11 +19,11 @@
         <Parking index="14" type="gate" name="Mil_Hangar_15" lat="N52 38.426002" lon="E0 32.491234" heading="259.7"  radius="10" airlineCodes="" />
         <Parking index="15" type="gate" name="Mil_Hangar_14" lat="N52 38.423943" lon="E0 32.398966" heading="181.76"  radius="10" airlineCodes="" />
         <Parking index="16" type="gate" name="Mil_Hangar_13" lat="N52 38.338513" lon="E0 32.531632" heading="105.25"  radius="10" airlineCodes="" />
-        <Parking index="17" type="gate" name="Mil_Apron_1" lat="N52 39.134778" lon="E0 33.201175" heading="0.14"  radius="44" airlineCodes="" />
-        <Parking index="18" type="gate" name="Mil_Apron_2" lat="N52 39.144529" lon="E0 33.221416" heading="0.14"  radius="44" airlineCodes="" />
-        <Parking index="19" type="gate" name="Mil_Apron_3" lat="N52 39.154100" lon="E0 33.246121" heading="0.14"  radius="44" airlineCodes="" />
-        <Parking index="20" type="gate" name="Mil_Apron_4" lat="N52 39.164032" lon="E0 33.269339" heading="0.14"  radius="44" airlineCodes="" />
-        <Parking index="21" type="gate" name="Mil_Apron_5" lat="N52 39.173165" lon="E0 33.291524" heading="0.14"  radius="44" airlineCodes="" />
-        <Parking index="22" type="gate" name="Mil_Apron_6" lat="N52 39.181337" lon="E0 33.312125" heading="0.14"  radius="44" airlineCodes="" />
+        <Parking index="17" type="gate" name="Mil_Apron_1" lat="N52 39.134778" lon="E0 33.201175" heading="0.14"  radius="17" airlineCodes="" />
+        <Parking index="18" type="gate" name="Mil_Apron_2" lat="N52 39.144529" lon="E0 33.221416" heading="0.14"  radius="17" airlineCodes="" />
+        <Parking index="19" type="gate" name="Mil_Apron_3" lat="N52 39.154100" lon="E0 33.246121" heading="0.14"  radius="17" airlineCodes="" />
+        <Parking index="20" type="gate" name="Mil_Apron_4" lat="N52 39.164032" lon="E0 33.269339" heading="0.14"  radius="17" airlineCodes="" />
+        <Parking index="21" type="gate" name="Mil_Apron_5" lat="N52 39.173165" lon="E0 33.291524" heading="0.14"  radius="17" airlineCodes="" />
+        <Parking index="22" type="gate" name="Mil_Apron_6" lat="N52 39.181337" lon="E0 33.312125" heading="0.14"  radius="17" airlineCodes="" />
  </parkingList>
 </groundnet>

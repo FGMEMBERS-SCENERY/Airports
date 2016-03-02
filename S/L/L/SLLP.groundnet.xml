@@ -20,15 +20,15 @@
         <Parking index="15" type="gate" name="Terminal_5" lat="S16 30.595364" lon="W68 10.637834" heading="17.22"  radius="44" pushBackRoute="117" airlineCodes="" />
         <Parking index="16" type="gate" name="Terminal_6" lat="S16 30.604804" lon="W68 10.617578" heading="20.74"  radius="44" pushBackRoute="107" airlineCodes="" />
         <Parking index="17" type="gate" name="Terminal_7" lat="S16 30.615519" lon="W68 10.595383" heading="27.81"  radius="44" pushBackRoute="74" airlineCodes="" />
-        <Parking index="18" type="gate" name="Terminal_1" lat="S16 30.565750" lon="W68 10.736619" heading="358.98"  radius="44" pushBackRoute="109" airlineCodes="" />
+        <Parking index="18" type="gate" name="Terminal_1" lat="S16 30.565750" lon="W68 10.736619" heading="358.98"  radius="17" pushBackRoute="109" airlineCodes="" />
         <Parking index="19" type="gate" name="apron" lat="S16 30.264304" lon="W68 10.875662" heading="36.87"  radius="19" pushBackRoute="110" airlineCodes="" />
         <Parking index="20" type="gate" name="apron" lat="S16 30.241932" lon="W68 10.916337" heading="84.69"  radius="19" pushBackRoute="111" airlineCodes="" />
         <Parking index="21" type="gate" name="apron" lat="S16 30.146438" lon="W68 10.908176" heading="176.82"  radius="19" pushBackRoute="112" airlineCodes="" />
         <Parking index="22" type="gate" name="apron" lat="S16 30.177314" lon="W68 10.938202" heading="128.33"  radius="19" pushBackRoute="57" airlineCodes="" />
         <Parking index="23" type="gate" name="apron" lat="S16 30.199903" lon="W68 10.954175" heading="129.47"  radius="19" pushBackRoute="57" airlineCodes="" />
         <Parking index="24" type="gate" name="Ramp" lat="S16 30.648220" lon="W68 10.457793" heading="270"  radius="19" pushBackRoute="86" airlineCodes="" />
-        <Parking index="25" type="gate" name="Terminal_2" lat="S16 30.565516" lon="W68 10.707222" heading="0"  radius="44" pushBackRoute="116" airlineCodes="" />
-        <Parking index="26" type="gate" name="Terminal_4" lat="S16 30.570221" lon="W68 10.653647" heading="16.19"  radius="44" pushBackRoute="117" airlineCodes="" />
+        <Parking index="25" type="gate" name="Terminal_2" lat="S16 30.565516" lon="W68 10.707222" heading="0"  radius="17" pushBackRoute="116" airlineCodes="" />
+        <Parking index="26" type="gate" name="Terminal_4" lat="S16 30.570221" lon="W68 10.653647" heading="16.19"  radius="17" pushBackRoute="117" airlineCodes="" />
         <Parking index="27" type="gate" name="apron" lat="S16 30.200484" lon="W68 10.753523" heading="95.59"  radius="19" pushBackRoute="47" airlineCodes="" />
         <Parking index="28" type="gate" name="apron" lat="S16 30.159225" lon="W68 10.709308" heading="173.57"  radius="19" pushBackRoute="46" airlineCodes="" />
         <Parking index="29" type="gate" name="apron" lat="S16 30.175353" lon="W68 10.773773" heading="94.18"  radius="19" pushBackRoute="49" airlineCodes="" />

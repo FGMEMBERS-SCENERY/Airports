@@ -11,7 +11,7 @@
         <Parking index="6" type="gate" name="General_Aviation_4" lat="N46 13.206822" lon="E7 19.568276" heading="72.73"  radius="19" pushBackRoute="157" airlineCodes="" />
         <Parking index="7" type="ga" name="Helicopters" lat="N46 13.358241" lon="E7 20.363033" heading="163.74"  radius="8" pushBackRoute="43" airlineCodes="" />
         <Parking index="8" type="gate" name="Military" lat="N46 13.227757" lon="E7 20.339853" heading="340.25"  radius="44" pushBackRoute="84" airlineCodes="" />
-        <Parking index="9" type="gate" name="Tower" lat="N46 13.176602" lon="E7 20.161645" heading="-17.3"  radius="44" pushBackRoute="160" airlineCodes="" />
+        <Parking index="9" type="gate" name="Tower" lat="N46 13.176602" lon="E7 20.161645" heading="-17.3"  radius="17" pushBackRoute="160" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="10" lat="N46 13.009516" lon="E7 18.914192" isOnRunway="1" holdPointType="none"  />

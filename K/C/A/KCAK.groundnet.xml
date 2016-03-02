@@ -14,7 +14,7 @@
         <Parking index="9" type="gate" name="NE_Parking" lat="N40 55.209321" lon="W81 25.888613" heading="273.82"  radius="19" pushBackRoute="21" airlineCodes="" />
         <Parking index="10" type="gate" name="ANG_1" lat="N40 55.584473" lon="W81 26.873181" heading="-144.86"  radius="44" pushBackRoute="141" airlineCodes="" />
         <Parking index="11" type="gate" name="ANG_2" lat="N40 55.545680" lon="W81 26.944027" heading="114.22"  radius="19" pushBackRoute="142" airlineCodes="" />
-        <Parking index="12" type="gate" name="SW_Parking_1" lat="N40 55.041952" lon="W81 27.170833" heading="-72.15"  radius="44" pushBackRoute="143" airlineCodes="" />
+        <Parking index="12" type="gate" name="SW_Parking_1" lat="N40 55.041952" lon="W81 27.170833" heading="-72.15"  radius="17" pushBackRoute="143" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="13" lat="N40 54.855944" lon="W81 26.219990" isOnRunway="0" holdPointType="PushBack"  />

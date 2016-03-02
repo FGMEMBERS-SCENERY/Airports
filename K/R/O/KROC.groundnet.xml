@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="GA_Hgr_Stt" lat="N43 7.134580" lon="W77 39.525899" heading="330"  radius="44" pushBackRoute="15" airlineCodes="" />
-        <Parking index="1" type="gate" name="GA_Tml_Gate" lat="N43 7.617162" lon="W77 39.877225" heading="275"  radius="44" pushBackRoute="170" airlineCodes="" />
-        <Parking index="2" type="gate" name="Jet_Gate_A1" lat="N43 7.571641" lon="W77 39.978879" heading="280"  radius="44" pushBackRoute="171" airlineCodes="" />
-        <Parking index="3" type="gate" name="T_Hgr1_Stt" lat="N43 6.987452" lon="W77 39.871469" heading="269.24"  radius="44" pushBackRoute="172" airlineCodes="" />
+        <Parking index="0" type="gate" name="GA_Hgr_Stt" lat="N43 7.134580" lon="W77 39.525899" heading="330"  radius="17" pushBackRoute="15" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA_Tml_Gate" lat="N43 7.617162" lon="W77 39.877225" heading="275"  radius="17" pushBackRoute="170" airlineCodes="" />
+        <Parking index="2" type="gate" name="Jet_Gate_A1" lat="N43 7.571641" lon="W77 39.978879" heading="280"  radius="17" pushBackRoute="171" airlineCodes="" />
+        <Parking index="3" type="gate" name="T_Hgr1_Stt" lat="N43 6.987452" lon="W77 39.871469" heading="269.24"  radius="17" pushBackRoute="172" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="4" lat="N43 7.508498" lon="W77 40.559356" isOnRunway="0" holdPointType="none"  />

@@ -103,8 +103,8 @@
         <Parking index="98" type="ga" name="106" lat="N40 22.075798" lon="W3 46.344249" heading="-81.72"  radius="10" airlineCodes="" />
         <Parking index="99" type="ga" name="105" lat="N40 22.090026" lon="W3 46.341485" heading="-81.72"  radius="10" airlineCodes="" />
         <Parking index="100" type="ga" name="New_Ramp_Start_1" lat="N40 22.084534" lon="W3 46.658234" heading="26.57"  radius="10" airlineCodes="" />
-        <Parking index="101" type="gate" name="Police_Hangar" lat="N40 22.095911" lon="W3 46.677593" heading="208.74"  radius="44" airlineCodes="" />
-        <Parking index="102" type="gate" name="H-1" lat="N40 22.371541" lon="W3 47.033442" heading="95.57"  radius="44" airlineCodes="" />
-        <Parking index="103" type="gate" name="H-2" lat="N40 22.426474" lon="W3 46.983301" heading="280.43"  radius="44" airlineCodes="" />
+        <Parking index="101" type="gate" name="Police_Hangar" lat="N40 22.095911" lon="W3 46.677593" heading="208.74"  radius="17" airlineCodes="" />
+        <Parking index="102" type="gate" name="H-1" lat="N40 22.371541" lon="W3 47.033442" heading="95.57"  radius="17" airlineCodes="" />
+        <Parking index="103" type="gate" name="H-2" lat="N40 22.426474" lon="W3 46.983301" heading="280.43"  radius="17" airlineCodes="" />
  </parkingList>
 </groundnet>

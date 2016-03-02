@@ -3,9 +3,9 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="gate" name="Main_Ramp_1" lat="N41 19.888690" lon="W72 2.796536" heading="219.67"  radius="19" pushBackRoute="45" airlineCodes="" />
-        <Parking index="1" type="gate" name="GA_Ramp" lat="N41 19.976404" lon="W72 2.633861" heading="125.25"  radius="44" pushBackRoute="46" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA_Ramp" lat="N41 19.976404" lon="W72 2.633861" heading="125.25"  radius="17" pushBackRoute="46" airlineCodes="" />
         <Parking index="2" type="gate" name="Main_Ramp_2" lat="N41 19.890961" lon="W72 2.754444" heading="138.07"  radius="19" pushBackRoute="47" airlineCodes="" />
-        <Parking index="3" type="gate" name="ANG_Ramp" lat="N41 19.984657" lon="W72 2.860484" heading="225"  radius="44" pushBackRoute="48" airlineCodes="" />
+        <Parking index="3" type="gate" name="ANG_Ramp" lat="N41 19.984657" lon="W72 2.860484" heading="225"  radius="17" pushBackRoute="48" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="4" lat="N41 19.514903" lon="W72 2.870505" isOnRunway="1" holdPointType="none"  />

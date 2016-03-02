@@ -122,9 +122,9 @@
         <Parking index="117" type="gate" name="Gate_C39" lat="N39 51.815951" lon="W104 40.449243" heading="-133.96"  radius="44" pushBackRoute="495" airlineCodes="" />
         <Parking index="118" type="gate" name="Gate_C41" lat="N39 51.818140" lon="W104 40.383661" heading="180"  radius="44" pushBackRoute="496" airlineCodes="" />
         <Parking index="119" type="gate" name="Gate_C43" lat="N39 51.815265" lon="W104 40.352455" heading="180"  radius="44" pushBackRoute="497" airlineCodes="" />
-        <Parking index="120" type="gate" name="United_maintenence_hangar" lat="N39 52.354727" lon="W104 39.948420" heading="270.5"  radius="44" pushBackRoute="498" airlineCodes="" />
+        <Parking index="120" type="gate" name="United_maintenence_hangar" lat="N39 52.354727" lon="W104 39.948420" heading="270.5"  radius="17" pushBackRoute="498" airlineCodes="" />
         <Parking index="121" type="gate" name="East_ramp_(Gen_Av)" lat="N39 50.281398" lon="W104 39.895424" heading="1"  radius="19" pushBackRoute="499" airlineCodes="" />
-        <Parking index="122" type="gate" name="Cargo" lat="N39 49.860941" lon="W104 40.533718" heading="360"  radius="44" pushBackRoute="500" airlineCodes="" />
+        <Parking index="122" type="gate" name="Cargo" lat="N39 49.860941" lon="W104 40.533718" heading="360"  radius="17" pushBackRoute="500" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="123" lat="N39 50.456548" lon="W104 43.599253" isOnRunway="1" holdPointType="none"  />

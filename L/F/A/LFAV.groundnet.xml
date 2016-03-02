@@ -10,8 +10,8 @@
         <Parking index="5" type="ga" name="GA_West" lat="N50 19.807115" lon="E3 27.329150" heading="57.64"  radius="10" airlineCodes="" />
         <Parking index="6" type="ga" name="GA_West_2" lat="N50 19.826426" lon="E3 27.371594" heading="59.04"  radius="10" airlineCodes="" />
         <Parking index="7" type="gate" name="GA_Ramps_West_1" lat="N50 19.796944" lon="E3 27.413384" heading="-27.18"  radius="19" airlineCodes="" />
-        <Parking index="8" type="gate" name="GA_Ramp_North_2" lat="N50 19.855912" lon="E3 27.626150" heading="152.31"  radius="44" airlineCodes="" />
-        <Parking index="9" type="gate" name="GA_Ramp_North_3" lat="N50 19.860085" lon="E3 27.638056" heading="153.28"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="GA_Ramp_North_2" lat="N50 19.855912" lon="E3 27.626150" heading="152.31"  radius="17" airlineCodes="" />
+        <Parking index="9" type="gate" name="GA_Ramp_North_3" lat="N50 19.860085" lon="E3 27.638056" heading="153.28"  radius="17" airlineCodes="" />
         <Parking index="10" type="gate" name="GA_Ramp_North_4" lat="N50 19.865213" lon="E3 27.568283" heading="105.18"  radius="19" airlineCodes="" />
         <Parking index="11" type="gate" name="GA_Ramp_East" lat="N50 19.812525" lon="E3 27.395852" heading="60.95"  radius="19" airlineCodes="" />
  </parkingList>

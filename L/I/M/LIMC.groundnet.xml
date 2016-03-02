@@ -16,7 +16,7 @@
         <Parking index="11" type="gate" name="Ramp_622" lat="N45 37.319399" lon="E8 43.047526" heading="169.7"  radius="44" pushBackRoute="177" airlineCodes="" />
         <Parking index="12" type="gate" name="Ramp_304" lat="N45 38.000974" lon="E8 42.988874" heading="347.64"  radius="44" pushBackRoute="178" airlineCodes="" />
         <Parking index="13" type="gate" name="Ramp_412" lat="N45 37.784949" lon="E8 42.866334" heading="351.25"  radius="44" pushBackRoute="179" airlineCodes="" />
-        <Parking index="14" type="gate" name="Ramp_502" lat="N45 37.694150" lon="E8 42.890650" heading="-191.58"  radius="44" pushBackRoute="180" airlineCodes="" />
+        <Parking index="14" type="gate" name="Ramp_502" lat="N45 37.694150" lon="E8 42.890650" heading="-191.58"  radius="17" pushBackRoute="180" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="15" lat="N45 38.697818" lon="E8 43.106977" isOnRunway="0" holdPointType="none"  />
