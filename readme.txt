@@ -1,26 +1,19 @@
 
-<<<<<<< HEAD
-Version: 2016-09-09
-
-number of airports with parking/startup locations: 8972
-number of AI ground networks: 1400
-
-This folder contains...
-
-* 8972 groundnet.xml files 
-with AI taxi routes for 1400 airports.
-=======
 Version: 2016-09-21
 
+number of airports with parking/startup locations: 8983  (ca. 1000 more since Jan 2016)
+number of AI ground networks: 1400  					 (ca.  500 more since Jan 2016)
+number of airports with AI jetways: 341 				 (89 more since Jan 2016)
+
+
 This folder contains...
 
-* 8983 groundnet.xml files (parking locations for > 8400 airports)
+* 8983 groundnet.xml files 
 with AI taxi routes for  1400 airports.
->>>>>>> 7f13998785765c683c16f796a6397218ea1644a8
 (made with aptdat2sqlite.py && sqlite2xml.py)
-including 88 "legacy" groundnets that were made with TaxiDraw
+including 90 "legacy" groundnets that were made with TaxiDraw
 
-* jetways.xml files for 340 airports.
+* jetways.xml files for 341 airports.
 (made with dsf2stg.py )
 
 Make sure you have enabled AI-> Jetway Settings -> Enable animated jetways
@@ -36,6 +29,7 @@ WARNING:
 * the jetways will not fit exactly to the buildings
 * at some airports you'll see jetways but no buildings because nobody made the terminal buildings yet.
 * the numbers on the jetways are not the gate numbers - they help to identify a jetway in the xml file
+
 
 https://github.com/mherweg/d-laser-fgtools
 http://wiki.flightgear.org/User:Laserman
