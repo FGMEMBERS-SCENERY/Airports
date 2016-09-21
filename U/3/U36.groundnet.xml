@@ -109,13 +109,5 @@
         <arc begin="36" end="3" isPushBackRoute="1" name="New_Ramp_Start_4"  />
         <arc begin="36" end="4" isPushBackRoute="1" name="New_Ramp_Start_4"  />
         <arc begin="4" end="36" isPushBackRoute="1" name="New_Ramp_Start_4"  />
-        <arc begin="0" end="25" isPushBackRoute="1" name="New_Ramp_Start_1"  />
-        <arc begin="25" end="0" isPushBackRoute="1" name="New_Ramp_Start_1"  />
-        <arc begin="1" end="18" isPushBackRoute="1" name="New_Ramp_Start_2"  />
-        <arc begin="18" end="1" isPushBackRoute="1" name="New_Ramp_Start_2"  />
-        <arc begin="2" end="16" isPushBackRoute="1" name="New_Ramp_Start_3"  />
-        <arc begin="16" end="2" isPushBackRoute="1" name="New_Ramp_Start_3"  />
-        <arc begin="3" end="4" isPushBackRoute="1" name="New_Ramp_Start_4"  />
-        <arc begin="4" end="3" isPushBackRoute="1" name="New_Ramp_Start_4"  />
  </TaxiWaySegments>
 </groundnet>

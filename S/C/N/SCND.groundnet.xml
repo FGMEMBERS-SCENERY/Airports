@@ -5,14 +5,4 @@
         <Parking index="0" type="ga" name="start_16" lat="S47 28.034507" lon="W72 55.773621" heading="195.94"  radius="10" airlineCodes="" />
         <Parking index="1" type="ga" name="start_34" lat="S47 28.455574" lon="W72 55.835102" heading="17.35"  radius="10" airlineCodes="" />
  </parkingList>
- <TaxiNodes>
-        <node index="2" lat="S47 28.008425" lon="W72 55.766172" isOnRunway="0" holdPointType="none"  />
-        <node index="3" lat="S47 28.481464" lon="W72 55.843191" isOnRunway="0" holdPointType="none"  />
- </TaxiNodes>
- <TaxiWaySegments>
-        <arc begin="0" end="2" isPushBackRoute="1" name="start_16"  />
-        <arc begin="2" end="0" isPushBackRoute="1" name="start_16"  />
-        <arc begin="1" end="3" isPushBackRoute="1" name="start_34"  />
-        <arc begin="3" end="1" isPushBackRoute="1" name="start_34"  />
- </TaxiWaySegments>
 </groundnet>

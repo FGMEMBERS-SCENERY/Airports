@@ -2,9 +2,9 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Ramp_Start_1" lat="N53 30.424328" lon="E8 3.191095" heading="208.28"  radius="19" pushBackRoute="26" airlineCodes="" />
-        <Parking index="1" type="ga" name="Helicopter_pad" lat="N53 30.263085" lon="E8 2.977325" heading="95.86"  radius="8" pushBackRoute="25" airlineCodes="" />
-        <Parking index="2" type="gate" name="Ramp_Start" lat="N53 30.429267" lon="E8 3.174091" heading="208.28"  radius="19" pushBackRoute="26" airlineCodes="" />
+        <Parking index="0" type="gate" name="Ramp_Start_1" lat="N53 30.424328" lon="E8 3.191095" heading="208.28"  radius="19" pushBackRoute="7" airlineCodes="" />
+        <Parking index="1" type="ga" name="Helicopter_pad" lat="N53 30.263085" lon="E8 2.977325" heading="95.86"  radius="8" pushBackRoute="14" airlineCodes="" />
+        <Parking index="2" type="gate" name="Ramp_Start" lat="N53 30.429267" lon="E8 3.174091" heading="208.28"  radius="19" pushBackRoute="10" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="3" lat="N53 30.495933" lon="E8 3.381632" isOnRunway="1" holdPointType="none"  />
@@ -29,8 +29,8 @@
         <node index="22" lat="N53 30.496844" lon="E8 3.326946" isOnRunway="0" holdPointType="none"  />
         <node index="23" lat="N53 29.986546" lon="E8 2.958388" isOnRunway="0" holdPointType="none"  />
         <node index="24" lat="N53 30.448215" lon="E8 3.203946" isOnRunway="0" holdPointType="none"  />
-        <node index="25" lat="N53 30.265854" lon="E8 2.950342" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="26" lat="N53 30.453154" lon="E8 3.186942" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="25" lat="N53 30.265854" lon="E8 2.950342" isOnRunway="0" holdPointType="none"  />
+        <node index="26" lat="N53 30.453154" lon="E8 3.186942" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="8" end="6" isPushBackRoute="0" name=""  />
@@ -85,11 +85,5 @@
         <arc begin="26" end="2" isPushBackRoute="1" name="Ramp_Start"  />
         <arc begin="26" end="10" isPushBackRoute="1" name="Ramp_Start"  />
         <arc begin="10" end="26" isPushBackRoute="1" name="Ramp_Start"  />
-        <arc begin="0" end="26" isPushBackRoute="1" name="Ramp_Start_1"  />
-        <arc begin="26" end="0" isPushBackRoute="1" name="Ramp_Start_1"  />
-        <arc begin="1" end="25" isPushBackRoute="1" name="Helicopter_pad"  />
-        <arc begin="25" end="1" isPushBackRoute="1" name="Helicopter_pad"  />
-        <arc begin="2" end="26" isPushBackRoute="1" name="Ramp_Start"  />
-        <arc begin="26" end="2" isPushBackRoute="1" name="Ramp_Start"  />
  </TaxiWaySegments>
 </groundnet>

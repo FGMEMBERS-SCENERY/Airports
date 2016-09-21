@@ -2,12 +2,12 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="SW_Com_AC" lat="N43 31.771807" lon="W84 5.391270" heading="75.96"  radius="19" pushBackRoute="70" airlineCodes="" />
+        <Parking index="0" type="gate" name="SW_Com_AC" lat="N43 31.771807" lon="W84 5.391270" heading="75.96"  radius="19" pushBackRoute="10" airlineCodes="" />
         <Parking index="1" type="gate" name="Int_GA_Pk" lat="N43 32.269627" lon="W84 4.899962" heading="0"  radius="19" pushBackRoute="11" airlineCodes="" />
-        <Parking index="2" type="gate" name="IRmp_Jet" lat="N43 32.255654" lon="W84 4.968236" heading="90"  radius="19" pushBackRoute="72" airlineCodes="" />
-        <Parking index="3" type="gate" name="OldT_Jet" lat="N43 32.065307" lon="W84 5.362150" heading="220"  radius="19" pushBackRoute="73" airlineCodes="" />
-        <Parking index="4" type="gate" name="Maint_SHngr" lat="N43 31.753451" lon="W84 5.519808" heading="195"  radius="19" pushBackRoute="74" airlineCodes="" />
-        <Parking index="5" type="gate" name="FBO_Rmp" lat="N43 31.837985" lon="W84 5.281127" heading="230"  radius="19" pushBackRoute="75" airlineCodes="" />
+        <Parking index="2" type="gate" name="IRmp_Jet" lat="N43 32.255654" lon="W84 4.968236" heading="90"  radius="19" pushBackRoute="16" airlineCodes="" />
+        <Parking index="3" type="gate" name="OldT_Jet" lat="N43 32.065307" lon="W84 5.362150" heading="220"  radius="19" pushBackRoute="7" airlineCodes="" />
+        <Parking index="4" type="gate" name="Maint_SHngr" lat="N43 31.753451" lon="W84 5.519808" heading="195"  radius="19" pushBackRoute="8" airlineCodes="" />
+        <Parking index="5" type="gate" name="FBO_Rmp" lat="N43 31.837985" lon="W84 5.281127" heading="230"  radius="19" pushBackRoute="6" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="6" lat="N43 31.914793" lon="W84 5.144243" isOnRunway="0" holdPointType="PushBack"  />
@@ -74,12 +74,12 @@
         <node index="67" lat="N43 31.439066" lon="W84 4.447799" isOnRunway="0" holdPointType="none"  />
         <node index="68" lat="N43 31.442975" lon="W84 4.431253" isOnRunway="0" holdPointType="none"  />
         <node index="69" lat="N43 31.452942" lon="W84 4.415735" isOnRunway="0" holdPointType="none"  />
-        <node index="70" lat="N43 31.765227" lon="W84 5.417585" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="70" lat="N43 31.765227" lon="W84 5.417585" isOnRunway="0" holdPointType="none"  />
         <node index="71" lat="N43 32.242502" lon="W84 4.899962" isOnRunway="0" holdPointType="none"  />
-        <node index="72" lat="N43 32.255654" lon="W84 4.995360" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="73" lat="N43 32.086086" lon="W84 5.344715" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="74" lat="N43 31.779652" lon="W84 5.512787" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="75" lat="N43 31.855421" lon="W84 5.260349" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="72" lat="N43 32.255654" lon="W84 4.995360" isOnRunway="0" holdPointType="none"  />
+        <node index="73" lat="N43 32.086086" lon="W84 5.344715" isOnRunway="0" holdPointType="none"  />
+        <node index="74" lat="N43 31.779652" lon="W84 5.512787" isOnRunway="0" holdPointType="none"  />
+        <node index="75" lat="N43 31.855421" lon="W84 5.260349" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="6" end="45" isPushBackRoute="0" name="T1"  />
@@ -234,17 +234,5 @@
         <arc begin="75" end="5" isPushBackRoute="1" name="FBO_Rmp"  />
         <arc begin="75" end="6" isPushBackRoute="1" name="FBO_Rmp"  />
         <arc begin="6" end="75" isPushBackRoute="1" name="FBO_Rmp"  />
-        <arc begin="0" end="70" isPushBackRoute="1" name="SW_Com_AC"  />
-        <arc begin="70" end="0" isPushBackRoute="1" name="SW_Com_AC"  />
-        <arc begin="1" end="11" isPushBackRoute="1" name="Int_GA_Pk"  />
-        <arc begin="11" end="1" isPushBackRoute="1" name="Int_GA_Pk"  />
-        <arc begin="2" end="72" isPushBackRoute="1" name="IRmp_Jet"  />
-        <arc begin="72" end="2" isPushBackRoute="1" name="IRmp_Jet"  />
-        <arc begin="3" end="73" isPushBackRoute="1" name="OldT_Jet"  />
-        <arc begin="73" end="3" isPushBackRoute="1" name="OldT_Jet"  />
-        <arc begin="4" end="74" isPushBackRoute="1" name="Maint_SHngr"  />
-        <arc begin="74" end="4" isPushBackRoute="1" name="Maint_SHngr"  />
-        <arc begin="5" end="75" isPushBackRoute="1" name="FBO_Rmp"  />
-        <arc begin="75" end="5" isPushBackRoute="1" name="FBO_Rmp"  />
  </TaxiWaySegments>
 </groundnet>

@@ -2,8 +2,8 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Ramp_Commercial" lat="N60 33.896099" lon="W151 14.888388" heading="34.99"  radius="19" pushBackRoute="32" airlineCodes="" />
-        <Parking index="1" type="ga" name="Ramp_Transient" lat="N60 33.862805" lon="W151 14.923958" heading="22.62"  radius="10" pushBackRoute="32" airlineCodes="" />
+        <Parking index="0" type="gate" name="Ramp_Commercial" lat="N60 33.896099" lon="W151 14.888388" heading="34.99"  radius="19" pushBackRoute="3" airlineCodes="" />
+        <Parking index="1" type="ga" name="Ramp_Transient" lat="N60 33.862805" lon="W151 14.923958" heading="22.62"  radius="10" pushBackRoute="3" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="2" lat="N60 33.887519" lon="W151 14.993714" isOnRunway="0" holdPointType="none"  />
@@ -36,7 +36,7 @@
         <node index="29" lat="N60 34.505370" lon="W151 14.627348" isOnRunway="1" holdPointType="none"  />
         <node index="30" lat="N60 34.097595" lon="W151 15.128123" isOnRunway="1" holdPointType="none"  />
         <node index="31" lat="N60 33.804364" lon="W151 15.484912" isOnRunway="1" holdPointType="none"  />
-        <node index="32" lat="N60 33.873877" lon="W151 14.903943" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="32" lat="N60 33.873877" lon="W151 14.903943" isOnRunway="0" holdPointType="none"  />
         <node index="33" lat="N60 33.837767" lon="W151 14.934391" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
@@ -108,9 +108,5 @@
         <arc begin="33" end="1" isPushBackRoute="1" name="Ramp_Transient"  />
         <arc begin="33" end="3" isPushBackRoute="1" name="Ramp_Transient"  />
         <arc begin="3" end="33" isPushBackRoute="1" name="Ramp_Transient"  />
-        <arc begin="0" end="32" isPushBackRoute="1" name="Ramp_Commercial"  />
-        <arc begin="32" end="0" isPushBackRoute="1" name="Ramp_Commercial"  />
-        <arc begin="1" end="32" isPushBackRoute="1" name="Ramp_Transient"  />
-        <arc begin="32" end="1" isPushBackRoute="1" name="Ramp_Transient"  />
  </TaxiWaySegments>
 </groundnet>

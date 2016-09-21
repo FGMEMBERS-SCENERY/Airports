@@ -3,13 +3,13 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="gate" name="Ramp_3" lat="N56 10.980778" lon="E9 2.518855" heading="276.92"  radius="19" pushBackRoute="3" airlineCodes="" />
-        <Parking index="1" type="gate" name="Ramp_1" lat="N56 10.963548" lon="E9 2.400832" heading="318.01"  radius="19" pushBackRoute="5" airlineCodes="" />
-        <Parking index="2" type="gate" name="Ramp_2" lat="N56 10.965551" lon="E9 2.475698" heading="338.75"  radius="19" pushBackRoute="15" airlineCodes="" />
+        <Parking index="1" type="gate" name="Ramp_1" lat="N56 10.963548" lon="E9 2.400832" heading="318.01"  radius="19" pushBackRoute="4" airlineCodes="" />
+        <Parking index="2" type="gate" name="Ramp_2" lat="N56 10.965551" lon="E9 2.475698" heading="338.75"  radius="19" pushBackRoute="3" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="3" lat="N56 10.985814" lon="E9 2.501143" isOnRunway="0" holdPointType="PushBack"  />
         <node index="4" lat="N56 10.989497" lon="E9 2.439420" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="5" lat="N56 10.993691" lon="E9 2.393940" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="5" lat="N56 10.993691" lon="E9 2.393940" isOnRunway="0" holdPointType="none"  />
         <node index="6" lat="N56 11.071870" lon="E9 2.401455" isOnRunway="0" holdPointType="none"  />
         <node index="7" lat="N56 10.956698" lon="E9 2.782555" isOnRunway="1" holdPointType="none"  />
         <node index="8" lat="N56 11.256101" lon="E9 2.509924" isOnRunway="1" holdPointType="none"  />
@@ -19,7 +19,7 @@
         <node index="12" lat="N56 11.083900" lon="E9 2.666728" isOnRunway="1" holdPointType="none"  />
         <node index="13" lat="N56 10.977510" lon="E9 2.545782" isOnRunway="0" holdPointType="none"  />
         <node index="14" lat="N56 10.943387" lon="E9 2.418979" isOnRunway="0" holdPointType="none"  />
-        <node index="15" lat="N56 10.940270" lon="E9 2.485529" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="15" lat="N56 10.940270" lon="E9 2.485529" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="4" end="3" isPushBackRoute="0" name=""  />
@@ -42,11 +42,5 @@
         <arc begin="15" end="2" isPushBackRoute="1" name="Ramp_2"  />
         <arc begin="15" end="3" isPushBackRoute="1" name="Ramp_2"  />
         <arc begin="3" end="15" isPushBackRoute="1" name="Ramp_2"  />
-        <arc begin="0" end="3" isPushBackRoute="1" name="Ramp_3"  />
-        <arc begin="3" end="0" isPushBackRoute="1" name="Ramp_3"  />
-        <arc begin="1" end="5" isPushBackRoute="1" name="Ramp_1"  />
-        <arc begin="5" end="1" isPushBackRoute="1" name="Ramp_1"  />
-        <arc begin="2" end="15" isPushBackRoute="1" name="Ramp_2"  />
-        <arc begin="15" end="2" isPushBackRoute="1" name="Ramp_2"  />
  </TaxiWaySegments>
 </groundnet>

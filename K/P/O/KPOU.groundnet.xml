@@ -3,11 +3,11 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="gate" name="TOWER" lat="N41 37.489961" lon="W73 52.963670" heading="141.89"  radius="17" pushBackRoute="46" airlineCodes="" />
-        <Parking index="1" type="ga" name="GA" lat="N41 37.708190" lon="W73 52.724291" heading="-38.82"  radius="10" pushBackRoute="185" airlineCodes="" />
-        <Parking index="2" type="gate" name="FBO" lat="N41 37.576068" lon="W73 52.686670" heading="228.45"  radius="17" pushBackRoute="186" airlineCodes="" />
-        <Parking index="3" type="ga" name="HANGARS_N" lat="N41 37.632223" lon="W73 53.269796" heading="141.02"  radius="10" pushBackRoute="187" airlineCodes="" />
+        <Parking index="1" type="ga" name="GA" lat="N41 37.708190" lon="W73 52.724291" heading="-38.82"  radius="10" pushBackRoute="178" airlineCodes="" />
+        <Parking index="2" type="gate" name="FBO" lat="N41 37.576068" lon="W73 52.686670" heading="228.45"  radius="17" pushBackRoute="102" airlineCodes="" />
+        <Parking index="3" type="ga" name="HANGARS_N" lat="N41 37.632223" lon="W73 53.269796" heading="141.02"  radius="10" pushBackRoute="92" airlineCodes="" />
         <Parking index="4" type="ga" name="TERMINAL" lat="N41 37.463824" lon="W73 53.010427" heading="140.68"  radius="10" pushBackRoute="49" airlineCodes="" />
-        <Parking index="5" type="gate" name="US_Marshals" lat="N41 37.706798" lon="W73 53.149859" heading="141.3"  radius="17" pushBackRoute="189" airlineCodes="" />
+        <Parking index="5" type="gate" name="US_Marshals" lat="N41 37.706798" lon="W73 53.149859" heading="141.3"  radius="17" pushBackRoute="90" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="6" lat="N41 37.662126" lon="W73 52.824023" isOnRunway="0" holdPointType="none"  />
@@ -189,11 +189,11 @@
         <node index="182" lat="N41 37.790866" lon="W73 52.689362" isOnRunway="0" holdPointType="none"  />
         <node index="183" lat="N41 37.801407" lon="W73 52.724087" isOnRunway="0" holdPointType="none"  />
         <node index="184" lat="N41 37.511304" lon="W73 52.980411" isOnRunway="0" holdPointType="none"  />
-        <node index="185" lat="N41 37.687056" lon="W73 52.707287" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="186" lat="N41 37.594059" lon="W73 52.666371" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="187" lat="N41 37.653309" lon="W73 53.286859" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="185" lat="N41 37.687056" lon="W73 52.707287" isOnRunway="0" holdPointType="none"  />
+        <node index="186" lat="N41 37.594059" lon="W73 52.666371" isOnRunway="0" holdPointType="none"  />
+        <node index="187" lat="N41 37.653309" lon="W73 53.286859" isOnRunway="0" holdPointType="none"  />
         <node index="188" lat="N41 37.484808" lon="W73 53.027615" isOnRunway="0" holdPointType="none"  />
-        <node index="189" lat="N41 37.727967" lon="W73 53.166818" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="189" lat="N41 37.727967" lon="W73 53.166818" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="6" end="173" isPushBackRoute="0" name="A"  />
@@ -606,17 +606,5 @@
         <arc begin="189" end="5" isPushBackRoute="1" name="US_Marshals"  />
         <arc begin="189" end="90" isPushBackRoute="1" name="US_Marshals"  />
         <arc begin="90" end="189" isPushBackRoute="1" name="US_Marshals"  />
-        <arc begin="0" end="46" isPushBackRoute="1" name="TOWER"  />
-        <arc begin="46" end="0" isPushBackRoute="1" name="TOWER"  />
-        <arc begin="1" end="185" isPushBackRoute="1" name="GA"  />
-        <arc begin="185" end="1" isPushBackRoute="1" name="GA"  />
-        <arc begin="2" end="186" isPushBackRoute="1" name="FBO"  />
-        <arc begin="186" end="2" isPushBackRoute="1" name="FBO"  />
-        <arc begin="3" end="187" isPushBackRoute="1" name="HANGARS_N"  />
-        <arc begin="187" end="3" isPushBackRoute="1" name="HANGARS_N"  />
-        <arc begin="4" end="49" isPushBackRoute="1" name="TERMINAL"  />
-        <arc begin="49" end="4" isPushBackRoute="1" name="TERMINAL"  />
-        <arc begin="5" end="189" isPushBackRoute="1" name="US_Marshals"  />
-        <arc begin="189" end="5" isPushBackRoute="1" name="US_Marshals"  />
  </TaxiWaySegments>
 </groundnet>

@@ -4,7 +4,7 @@
   <parkingList>
         <Parking index="0" type="gate" name="Main_Gate" lat="N44 22.834126" lon="W74 12.220761" heading="300"  radius="19" pushBackRoute="43" airlineCodes="" />
         <Parking index="1" type="gate" name="GA_East" lat="N44 22.820719" lon="W74 11.868821" heading="335"  radius="19" pushBackRoute="26" airlineCodes="" />
-        <Parking index="2" type="gate" name="Remote_Parking" lat="N44 23.051436" lon="W74 12.051819" heading="234.21"  radius="19" pushBackRoute="55" airlineCodes="" />
+        <Parking index="2" type="gate" name="Remote_Parking" lat="N44 23.051436" lon="W74 12.051819" heading="234.21"  radius="19" pushBackRoute="21" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="3" lat="N44 22.852132" lon="W74 12.439015" isOnRunway="0" holdPointType="none"  />
@@ -59,7 +59,7 @@
         <node index="52" lat="N44 22.910860" lon="W74 12.244430" isOnRunway="1" holdPointType="none"  />
         <node index="53" lat="N44 22.820564" lon="W74 12.197270" isOnRunway="0" holdPointType="none"  />
         <node index="54" lat="N44 22.796136" lon="W74 11.857357" isOnRunway="0" holdPointType="none"  />
-        <node index="55" lat="N44 23.067299" lon="W74 12.029816" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="55" lat="N44 23.067299" lon="W74 12.029816" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="49" end="3" isPushBackRoute="0" name="A1"  />
@@ -176,11 +176,5 @@
         <arc begin="55" end="2" isPushBackRoute="1" name="Remote_Parking"  />
         <arc begin="55" end="21" isPushBackRoute="1" name="Remote_Parking"  />
         <arc begin="21" end="55" isPushBackRoute="1" name="Remote_Parking"  />
-        <arc begin="0" end="43" isPushBackRoute="1" name="Main_Gate"  />
-        <arc begin="43" end="0" isPushBackRoute="1" name="Main_Gate"  />
-        <arc begin="1" end="26" isPushBackRoute="1" name="GA_East"  />
-        <arc begin="26" end="1" isPushBackRoute="1" name="GA_East"  />
-        <arc begin="2" end="55" isPushBackRoute="1" name="Remote_Parking"  />
-        <arc begin="55" end="2" isPushBackRoute="1" name="Remote_Parking"  />
  </TaxiWaySegments>
 </groundnet>

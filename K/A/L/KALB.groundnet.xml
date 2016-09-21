@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="ANG_Stt" lat="N42 44.520707" lon="W73 48.050131" heading="0"  radius="17" pushBackRoute="144" airlineCodes="" />
-        <Parking index="1" type="gate" name="FedX_Stt" lat="N42 45.503678" lon="W73 48.106370" heading="0"  radius="17" pushBackRoute="145" airlineCodes="" />
-        <Parking index="2" type="gate" name="MainTrm_Stt" lat="N42 44.750713" lon="W73 48.507653" heading="0"  radius="17" pushBackRoute="146" airlineCodes="" />
-        <Parking index="3" type="gate" name="MilAir_Stt" lat="N42 44.420113" lon="W73 48.410511" heading="0"  radius="17" pushBackRoute="147" airlineCodes="" />
+        <Parking index="0" type="gate" name="ANG_Stt" lat="N42 44.520707" lon="W73 48.050131" heading="0"  radius="17" pushBackRoute="115" airlineCodes="" />
+        <Parking index="1" type="gate" name="FedX_Stt" lat="N42 45.503678" lon="W73 48.106370" heading="0"  radius="17" pushBackRoute="132" airlineCodes="" />
+        <Parking index="2" type="gate" name="MainTrm_Stt" lat="N42 44.750713" lon="W73 48.507653" heading="0"  radius="17" pushBackRoute="98" airlineCodes="" />
+        <Parking index="3" type="gate" name="MilAir_Stt" lat="N42 44.420113" lon="W73 48.410511" heading="0"  radius="17" pushBackRoute="30" airlineCodes="" />
         <Parking index="4" type="gate" name="N_Rmp1_Stt" lat="N42 45.114476" lon="W73 48.459443" heading="90"  radius="17" pushBackRoute="23" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
@@ -148,10 +148,10 @@
         <node index="141" lat="N42 45.554249" lon="W73 48.151208" isOnRunway="0" holdPointType="none"  />
         <node index="142" lat="N42 45.546644" lon="W73 48.151209" isOnRunway="0" holdPointType="none"  />
         <node index="143" lat="N42 45.518294" lon="W73 48.152975" isOnRunway="0" holdPointType="none"  />
-        <node index="144" lat="N42 44.493582" lon="W73 48.050131" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="145" lat="N42 45.476553" lon="W73 48.106370" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="146" lat="N42 44.723588" lon="W73 48.507653" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="147" lat="N42 44.392988" lon="W73 48.410511" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="144" lat="N42 44.493582" lon="W73 48.050131" isOnRunway="0" holdPointType="none"  />
+        <node index="145" lat="N42 45.476553" lon="W73 48.106370" isOnRunway="0" holdPointType="none"  />
+        <node index="146" lat="N42 44.723588" lon="W73 48.507653" isOnRunway="0" holdPointType="none"  />
+        <node index="147" lat="N42 44.392988" lon="W73 48.410511" isOnRunway="0" holdPointType="none"  />
         <node index="148" lat="N42 45.114476" lon="W73 48.486568" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
@@ -471,15 +471,5 @@
         <arc begin="148" end="4" isPushBackRoute="1" name="N_Rmp1_Stt"  />
         <arc begin="148" end="23" isPushBackRoute="1" name="N_Rmp1_Stt"  />
         <arc begin="23" end="148" isPushBackRoute="1" name="N_Rmp1_Stt"  />
-        <arc begin="0" end="144" isPushBackRoute="1" name="ANG_Stt"  />
-        <arc begin="144" end="0" isPushBackRoute="1" name="ANG_Stt"  />
-        <arc begin="1" end="145" isPushBackRoute="1" name="FedX_Stt"  />
-        <arc begin="145" end="1" isPushBackRoute="1" name="FedX_Stt"  />
-        <arc begin="2" end="146" isPushBackRoute="1" name="MainTrm_Stt"  />
-        <arc begin="146" end="2" isPushBackRoute="1" name="MainTrm_Stt"  />
-        <arc begin="3" end="147" isPushBackRoute="1" name="MilAir_Stt"  />
-        <arc begin="147" end="3" isPushBackRoute="1" name="MilAir_Stt"  />
-        <arc begin="4" end="23" isPushBackRoute="1" name="N_Rmp1_Stt"  />
-        <arc begin="23" end="4" isPushBackRoute="1" name="N_Rmp1_Stt"  />
  </TaxiWaySegments>
 </groundnet>

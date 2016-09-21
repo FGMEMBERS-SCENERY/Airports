@@ -2,20 +2,20 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Main_Terminal" lat="N43 59.620230" lon="W88 33.075030" heading="90.7"  radius="19" pushBackRoute="10" airlineCodes="" />
-        <Parking index="1" type="ga" name="North_Ramp_1" lat="N43 59.660248" lon="W88 33.178884" heading="181.65"  radius="10" pushBackRoute="117" airlineCodes="" />
-        <Parking index="2" type="gate" name="Basler_Flight_Service_FBO" lat="N43 59.672964" lon="W88 33.317804" heading="270.54"  radius="19" pushBackRoute="11" airlineCodes="" />
+        <Parking index="0" type="gate" name="Main_Terminal" lat="N43 59.620230" lon="W88 33.075030" heading="90.7"  radius="19" pushBackRoute="36" airlineCodes="" />
+        <Parking index="1" type="ga" name="North_Ramp_1" lat="N43 59.660248" lon="W88 33.178884" heading="181.65"  radius="10" pushBackRoute="35" airlineCodes="" />
+        <Parking index="2" type="gate" name="Basler_Flight_Service_FBO" lat="N43 59.672964" lon="W88 33.317804" heading="270.54"  radius="19" pushBackRoute="32" airlineCodes="" />
         <Parking index="3" type="gate" name="North_Ts" lat="N43 59.630398" lon="W88 33.562017" heading="90.71"  radius="19" pushBackRoute="12" airlineCodes="" />
         <Parking index="4" type="ga" name="Sonex_Aircraft_Ramp" lat="N43 59.261584" lon="W88 33.072316" heading="145.75"  radius="10" pushBackRoute="22" airlineCodes="" />
-        <Parking index="5" type="ga" name="Air_Academy_Lodge_Helipad" lat="N43 59.164499" lon="W88 34.415113" heading="218.66"  radius="8" pushBackRoute="121" airlineCodes="" />
-        <Parking index="6" type="gate" name="Fox_Valley_Tech" lat="N43 58.270315" lon="W88 32.740027" heading="270"  radius="19" pushBackRoute="122" airlineCodes="" />
+        <Parking index="5" type="ga" name="Air_Academy_Lodge_Helipad" lat="N43 59.164499" lon="W88 34.415113" heading="218.66"  radius="8" pushBackRoute="112" airlineCodes="" />
+        <Parking index="6" type="gate" name="Fox_Valley_Tech" lat="N43 58.270315" lon="W88 32.740027" heading="270"  radius="19" pushBackRoute="70" airlineCodes="" />
         <Parking index="7" type="gate" name="Hilton_Garden_Inn_Hotel" lat="N43 59.661647" lon="W88 34.274384" heading="360"  radius="19" pushBackRoute="19" airlineCodes="" />
         <Parking index="8" type="gate" name="EAA_Flight_Research_Center" lat="N43 59.703691" lon="W88 33.974675" heading="180.69"  radius="19" pushBackRoute="14" airlineCodes="" />
-        <Parking index="9" type="gate" name="Basler_DC3_Turbo_Conversion" lat="N43 58.329113" lon="W88 32.677449" heading="1.65"  radius="19" pushBackRoute="125" airlineCodes="" />
+        <Parking index="9" type="gate" name="Basler_DC3_Turbo_Conversion" lat="N43 58.329113" lon="W88 32.677449" heading="1.65"  radius="19" pushBackRoute="70" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
-        <node index="10" lat="N43 59.608877" lon="W88 33.066158" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="11" lat="N43 59.670312" lon="W88 33.335545" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="10" lat="N43 59.608877" lon="W88 33.066158" isOnRunway="0" holdPointType="none"  />
+        <node index="11" lat="N43 59.670312" lon="W88 33.335545" isOnRunway="0" holdPointType="none"  />
         <node index="12" lat="N43 59.627147" lon="W88 33.545557" isOnRunway="0" holdPointType="PushBack"  />
         <node index="13" lat="N43 59.609906" lon="W88 33.971947" isOnRunway="0" holdPointType="none"  />
         <node index="14" lat="N43 59.683247" lon="W88 33.970963" isOnRunway="0" holdPointType="PushBack"  />
@@ -121,15 +121,15 @@
         <node index="114" lat="N43 59.490773" lon="W88 33.255580" isOnRunway="1" holdPointType="none"  />
         <node index="115" lat="N43 59.489630" lon="W88 33.098528" isOnRunway="1" holdPointType="none"  />
         <node index="116" lat="N43 59.620561" lon="W88 33.102152" isOnRunway="0" holdPointType="none"  />
-        <node index="117" lat="N43 59.687362" lon="W88 33.178103" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="117" lat="N43 59.687362" lon="W88 33.178103" isOnRunway="0" holdPointType="none"  />
         <node index="118" lat="N43 59.672708" lon="W88 33.290681" isOnRunway="0" holdPointType="none"  />
         <node index="119" lat="N43 59.630734" lon="W88 33.589140" isOnRunway="0" holdPointType="none"  />
         <node index="120" lat="N43 59.284005" lon="W88 33.087582" isOnRunway="0" holdPointType="none"  />
-        <node index="121" lat="N43 59.185680" lon="W88 34.398168" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="122" lat="N43 58.270315" lon="W88 32.712903" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="121" lat="N43 59.185680" lon="W88 34.398168" isOnRunway="0" holdPointType="none"  />
+        <node index="122" lat="N43 58.270315" lon="W88 32.712903" isOnRunway="0" holdPointType="none"  />
         <node index="123" lat="N43 59.634522" lon="W88 34.274384" isOnRunway="0" holdPointType="none"  />
         <node index="124" lat="N43 59.730814" lon="W88 33.974349" isOnRunway="0" holdPointType="none"  />
-        <node index="125" lat="N43 58.302000" lon="W88 32.678230" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="125" lat="N43 58.302000" lon="W88 32.678230" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="76" end="105" isPushBackRoute="0" name="E"  />
@@ -382,25 +382,5 @@
         <arc begin="125" end="9" isPushBackRoute="1" name="Basler_DC3_Turbo_Conversion"  />
         <arc begin="125" end="70" isPushBackRoute="1" name="Basler_DC3_Turbo_Conversion"  />
         <arc begin="70" end="125" isPushBackRoute="1" name="Basler_DC3_Turbo_Conversion"  />
-        <arc begin="0" end="10" isPushBackRoute="1" name="Main_Terminal"  />
-        <arc begin="10" end="0" isPushBackRoute="1" name="Main_Terminal"  />
-        <arc begin="1" end="117" isPushBackRoute="1" name="North_Ramp_1"  />
-        <arc begin="117" end="1" isPushBackRoute="1" name="North_Ramp_1"  />
-        <arc begin="2" end="11" isPushBackRoute="1" name="Basler_Flight_Service_FBO"  />
-        <arc begin="11" end="2" isPushBackRoute="1" name="Basler_Flight_Service_FBO"  />
-        <arc begin="3" end="12" isPushBackRoute="1" name="North_Ts"  />
-        <arc begin="12" end="3" isPushBackRoute="1" name="North_Ts"  />
-        <arc begin="4" end="22" isPushBackRoute="1" name="Sonex_Aircraft_Ramp"  />
-        <arc begin="22" end="4" isPushBackRoute="1" name="Sonex_Aircraft_Ramp"  />
-        <arc begin="5" end="121" isPushBackRoute="1" name="Air_Academy_Lodge_Helipad"  />
-        <arc begin="121" end="5" isPushBackRoute="1" name="Air_Academy_Lodge_Helipad"  />
-        <arc begin="6" end="122" isPushBackRoute="1" name="Fox_Valley_Tech"  />
-        <arc begin="122" end="6" isPushBackRoute="1" name="Fox_Valley_Tech"  />
-        <arc begin="7" end="19" isPushBackRoute="1" name="Hilton_Garden_Inn_Hotel"  />
-        <arc begin="19" end="7" isPushBackRoute="1" name="Hilton_Garden_Inn_Hotel"  />
-        <arc begin="8" end="14" isPushBackRoute="1" name="EAA_Flight_Research_Center"  />
-        <arc begin="14" end="8" isPushBackRoute="1" name="EAA_Flight_Research_Center"  />
-        <arc begin="9" end="125" isPushBackRoute="1" name="Basler_DC3_Turbo_Conversion"  />
-        <arc begin="125" end="9" isPushBackRoute="1" name="Basler_DC3_Turbo_Conversion"  />
  </TaxiWaySegments>
 </groundnet>

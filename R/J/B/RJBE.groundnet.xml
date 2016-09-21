@@ -390,19 +390,5 @@
         <arc begin="125" end="6" isPushBackRoute="1" name="7"  />
         <arc begin="125" end="118" isPushBackRoute="1" name="7"  />
         <arc begin="118" end="125" isPushBackRoute="1" name="7"  />
-        <arc begin="0" end="112" isPushBackRoute="1" name="C"  />
-        <arc begin="112" end="0" isPushBackRoute="1" name="C"  />
-        <arc begin="1" end="113" isPushBackRoute="1" name="2"  />
-        <arc begin="113" end="1" isPushBackRoute="1" name="2"  />
-        <arc begin="2" end="114" isPushBackRoute="1" name="3"  />
-        <arc begin="114" end="2" isPushBackRoute="1" name="3"  />
-        <arc begin="3" end="115" isPushBackRoute="1" name="4"  />
-        <arc begin="115" end="3" isPushBackRoute="1" name="4"  />
-        <arc begin="4" end="116" isPushBackRoute="1" name="5"  />
-        <arc begin="116" end="4" isPushBackRoute="1" name="5"  />
-        <arc begin="5" end="117" isPushBackRoute="1" name="6"  />
-        <arc begin="117" end="5" isPushBackRoute="1" name="6"  />
-        <arc begin="6" end="118" isPushBackRoute="1" name="7"  />
-        <arc begin="118" end="6" isPushBackRoute="1" name="7"  />
  </TaxiWaySegments>
 </groundnet>

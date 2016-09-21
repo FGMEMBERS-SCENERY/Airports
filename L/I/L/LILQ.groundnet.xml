@@ -3,13 +3,13 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="ga" name="1" lat="N43 59.023795" lon="E10 8.507889" heading="320"  radius="10" pushBackRoute="7" airlineCodes="" />
-        <Parking index="1" type="ga" name="2" lat="N43 59.014519" lon="E10 8.492398" heading="320"  radius="10" pushBackRoute="5" airlineCodes="" />
+        <Parking index="1" type="ga" name="2" lat="N43 59.014519" lon="E10 8.492398" heading="320"  radius="10" pushBackRoute="7" airlineCodes="" />
         <Parking index="2" type="ga" name="3" lat="N43 59.044325" lon="E10 8.542529" heading="320"  radius="10" pushBackRoute="6" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="3" lat="N43 59.024981" lon="E10 8.443349" isOnRunway="0" holdPointType="none"  />
         <node index="4" lat="N43 59.018470" lon="E10 8.471687" isOnRunway="0" holdPointType="none"  />
-        <node index="5" lat="N43 59.017867" lon="E10 8.480148" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="5" lat="N43 59.017867" lon="E10 8.480148" isOnRunway="0" holdPointType="none"  />
         <node index="6" lat="N43 59.056556" lon="E10 8.541911" isOnRunway="0" holdPointType="PushBack"  />
         <node index="7" lat="N43 59.037636" lon="E10 8.511479" isOnRunway="0" holdPointType="PushBack"  />
         <node index="8" lat="N43 59.067441" lon="E10 8.569865" isOnRunway="0" holdPointType="none"  />
@@ -61,11 +61,5 @@
         <arc begin="18" end="2" isPushBackRoute="1" name="3"  />
         <arc begin="18" end="6" isPushBackRoute="1" name="3"  />
         <arc begin="6" end="18" isPushBackRoute="1" name="3"  />
-        <arc begin="0" end="7" isPushBackRoute="1" name="1"  />
-        <arc begin="7" end="0" isPushBackRoute="1" name="1"  />
-        <arc begin="1" end="5" isPushBackRoute="1" name="2"  />
-        <arc begin="5" end="1" isPushBackRoute="1" name="2"  />
-        <arc begin="2" end="6" isPushBackRoute="1" name="3"  />
-        <arc begin="6" end="2" isPushBackRoute="1" name="3"  />
  </TaxiWaySegments>
 </groundnet>

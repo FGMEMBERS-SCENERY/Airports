@@ -16,7 +16,7 @@
         <Parking index="11" type="gate" name="Apron_K_Signature" lat="N48 57.774056" lon="E2 26.757628" heading="24"  radius="17" airlineCodes="" />
         <Parking index="12" type="gate" name="Apron_L_-_Air_Enterprise" lat="N48 57.196598" lon="E2 26.233678" heading="205"  radius="17" airlineCodes="" />
         <Parking index="13" type="gate" name="Apron_M" lat="N48 57.778913" lon="E2 26.894535" heading="164.74"  radius="17" airlineCodes="" />
-        <Parking index="14" type="gate" name="Apron_N_Aero_Stock" lat="N48 57.309397" lon="E2 26.290946" heading="127.57"  radius="17" airlineCodes="" />
+        <Parking index="14" type="gate" name="Apron_N__Aero_Stock" lat="N48 57.309397" lon="E2 26.290946" heading="127.57"  radius="17" airlineCodes="" />
         <Parking index="15" type="gate" name="F3_Privat" lat="N48 57.561227" lon="E2 26.386531" heading="201.16"  radius="17" airlineCodes="" />
         <Parking index="16" type="gate" name="Military_1" lat="N48 57.348454" lon="E2 25.489837" heading="114.91"  radius="17" airlineCodes="" />
         <Parking index="17" type="gate" name="Military_2" lat="N48 57.542298" lon="E2 25.648411" heading="119.66"  radius="17" airlineCodes="" />

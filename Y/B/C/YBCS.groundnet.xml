@@ -12,6 +12,5 @@
         <Parking index="7" type="gate" name="RPT_Gate_1" lat="S16 52.549919" lon="E145 45.118268" heading="66.39"  radius="17" airlineCodes="" />
         <Parking index="8" type="gate" name="RPT_Gate_2" lat="S16 52.463468" lon="E145 45.085260" heading="64.96"  radius="17" airlineCodes="" />
         <Parking index="9" type="gate" name="RPT_Gate_3" lat="S16 52.383044" lon="E145 45.165210" heading="155.94"  radius="17" airlineCodes="" />
-        <Parking index="0" type="gate" name="Start_Location" lat="N30 7.875840" lon="E31 24.211140" heading="0"  radius="17" airlineCodes="" />
  </parkingList>
 </groundnet>

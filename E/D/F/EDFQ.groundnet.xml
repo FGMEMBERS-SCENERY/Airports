@@ -2,7 +2,7 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="General_Aviation_Ramp_east" lat="N51 2.055064" lon="E8 40.827213" heading="0"  radius="10" pushBackRoute="16" airlineCodes="" />
+        <Parking index="0" type="ga" name="General_Aviation_Ramp_east" lat="N51 2.055064" lon="E8 40.827213" heading="0"  radius="10" pushBackRoute="14" airlineCodes="" />
         <Parking index="1" type="ga" name="General_Aviation_Ramp" lat="N51 2.027466" lon="E8 40.927170" heading="0"  radius="10" pushBackRoute="12" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
@@ -20,7 +20,7 @@
         <node index="13" lat="N51 2.092302" lon="E8 40.742853" isOnRunway="0" holdPointType="none"  />
         <node index="14" lat="N51 2.077690" lon="E8 40.781193" isOnRunway="0" holdPointType="PushBack"  />
         <node index="15" lat="N51 2.132973" lon="E8 40.770925" isOnRunway="0" holdPointType="none"  />
-        <node index="16" lat="N51 2.027939" lon="E8 40.827213" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="16" lat="N51 2.027939" lon="E8 40.827213" isOnRunway="0" holdPointType="none"  />
         <node index="17" lat="N51 2.000341" lon="E8 40.927170" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
@@ -54,9 +54,5 @@
         <arc begin="17" end="1" isPushBackRoute="1" name="General_Aviation_Ramp"  />
         <arc begin="17" end="12" isPushBackRoute="1" name="General_Aviation_Ramp"  />
         <arc begin="12" end="17" isPushBackRoute="1" name="General_Aviation_Ramp"  />
-        <arc begin="0" end="16" isPushBackRoute="1" name="General_Aviation_Ramp_east"  />
-        <arc begin="16" end="0" isPushBackRoute="1" name="General_Aviation_Ramp_east"  />
-        <arc begin="1" end="12" isPushBackRoute="1" name="General_Aviation_Ramp"  />
-        <arc begin="12" end="1" isPushBackRoute="1" name="General_Aviation_Ramp"  />
  </TaxiWaySegments>
 </groundnet>

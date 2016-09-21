@@ -2,11 +2,11 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Gate_1" lat="N46 22.590975" lon="W117 0.681171" heading="72.88"  radius="44" pushBackRoute="70" airlineCodes="" />
-        <Parking index="1" type="gate" name="Gate_2" lat="N46 22.607698" lon="W117 0.708886" heading="73.69"  radius="44" pushBackRoute="73" airlineCodes="" />
-        <Parking index="2" type="gate" name="Gate_3" lat="N46 22.625456" lon="W117 0.737917" heading="74.95"  radius="44" pushBackRoute="74" airlineCodes="" />
-        <Parking index="3" type="gate" name="Ramp_Cargo" lat="N46 22.579071" lon="W117 0.619477" heading="150.67"  radius="19" pushBackRoute="151" airlineCodes="" />
-        <Parking index="4" type="gate" name="South_Ramp" lat="N46 22.318072" lon="W117 1.564357" heading="8.39"  radius="19" pushBackRoute="152" airlineCodes="" />
+        <Parking index="0" type="gate" name="Gate_1" lat="N46 22.590975" lon="W117 0.681171" heading="72.88"  radius="44" pushBackRoute="29" airlineCodes="" />
+        <Parking index="1" type="gate" name="Gate_2" lat="N46 22.607698" lon="W117 0.708886" heading="73.69"  radius="44" pushBackRoute="75" airlineCodes="" />
+        <Parking index="2" type="gate" name="Gate_3" lat="N46 22.625456" lon="W117 0.737917" heading="74.95"  radius="44" pushBackRoute="76" airlineCodes="" />
+        <Parking index="3" type="gate" name="Ramp_Cargo" lat="N46 22.579071" lon="W117 0.619477" heading="150.67"  radius="19" pushBackRoute="70" airlineCodes="" />
+        <Parking index="4" type="gate" name="South_Ramp" lat="N46 22.318072" lon="W117 1.564357" heading="8.39"  radius="19" pushBackRoute="132" airlineCodes="" />
         <Parking index="5" type="gate" name="Hillcrest_Ramp" lat="N46 22.634207" lon="W117 1.104940" heading="130.5"  radius="19" pushBackRoute="147" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
@@ -77,8 +77,8 @@
         <node index="70" lat="N46 22.566763" lon="W117 0.687346" isOnRunway="0" holdPointType="PushBack"  />
         <node index="71" lat="N46 22.473206" lon="W117 0.534798" isOnRunway="0" holdPointType="none"  />
         <node index="72" lat="N46 22.580708" lon="W117 0.702223" isOnRunway="0" holdPointType="none"  />
-        <node index="73" lat="N46 22.595031" lon="W117 0.716903" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="74" lat="N46 22.612880" lon="W117 0.744610" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="73" lat="N46 22.595031" lon="W117 0.716903" isOnRunway="0" holdPointType="none"  />
+        <node index="74" lat="N46 22.612880" lon="W117 0.744610" isOnRunway="0" holdPointType="none"  />
         <node index="75" lat="N46 22.599387" lon="W117 0.722450" isOnRunway="0" holdPointType="PushBack"  />
         <node index="76" lat="N46 22.623737" lon="W117 0.759202" isOnRunway="0" holdPointType="PushBack"  />
         <node index="77" lat="N46 22.630448" lon="W117 0.764637" isOnRunway="0" holdPointType="none"  />
@@ -155,8 +155,8 @@
         <node index="148" lat="N46 22.582990" lon="W117 0.707094" isOnRunway="0" holdPointType="none"  />
         <node index="149" lat="N46 22.600081" lon="W117 0.734920" isOnRunway="0" holdPointType="none"  />
         <node index="150" lat="N46 22.618413" lon="W117 0.764112" isOnRunway="0" holdPointType="none"  />
-        <node index="151" lat="N46 22.602719" lon="W117 0.632764" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="152" lat="N46 22.291238" lon="W117 1.568315" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="151" lat="N46 22.602719" lon="W117 0.632764" isOnRunway="0" holdPointType="none"  />
+        <node index="152" lat="N46 22.291238" lon="W117 1.568315" isOnRunway="0" holdPointType="none"  />
         <node index="153" lat="N46 22.651823" lon="W117 1.125566" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
@@ -488,17 +488,5 @@
         <arc begin="153" end="5" isPushBackRoute="1" name="Hillcrest_Ramp"  />
         <arc begin="153" end="147" isPushBackRoute="1" name="Hillcrest_Ramp"  />
         <arc begin="147" end="153" isPushBackRoute="1" name="Hillcrest_Ramp"  />
-        <arc begin="0" end="70" isPushBackRoute="1" name="Gate_1"  />
-        <arc begin="70" end="0" isPushBackRoute="1" name="Gate_1"  />
-        <arc begin="1" end="73" isPushBackRoute="1" name="Gate_2"  />
-        <arc begin="73" end="1" isPushBackRoute="1" name="Gate_2"  />
-        <arc begin="2" end="74" isPushBackRoute="1" name="Gate_3"  />
-        <arc begin="74" end="2" isPushBackRoute="1" name="Gate_3"  />
-        <arc begin="3" end="151" isPushBackRoute="1" name="Ramp_Cargo"  />
-        <arc begin="151" end="3" isPushBackRoute="1" name="Ramp_Cargo"  />
-        <arc begin="4" end="152" isPushBackRoute="1" name="South_Ramp"  />
-        <arc begin="152" end="4" isPushBackRoute="1" name="South_Ramp"  />
-        <arc begin="5" end="147" isPushBackRoute="1" name="Hillcrest_Ramp"  />
-        <arc begin="147" end="5" isPushBackRoute="1" name="Hillcrest_Ramp"  />
  </TaxiWaySegments>
 </groundnet>

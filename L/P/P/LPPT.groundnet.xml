@@ -2,18 +2,18 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Gate_123" lat="N38 46.297704" lon="W9 7.882365" heading="79.35"  radius="44" pushBackRoute="170" airlineCodes="" />
-        <Parking index="1" type="gate" name="Gate_126" lat="N38 46.380206" lon="W9 7.904689" heading="78.26"  radius="44" pushBackRoute="171" airlineCodes="" />
-        <Parking index="2" type="gate" name="Gate_115" lat="N38 46.165180" lon="W9 7.847363" heading="77.33"  radius="44" pushBackRoute="172" airlineCodes="" />
-        <Parking index="3" type="gate" name="Gate_205" lat="N38 45.887708" lon="W9 8.213211" heading="165.14"  radius="44" pushBackRoute="173" airlineCodes="" />
-        <Parking index="4" type="gate" name="Ramp_605" lat="N38 46.276139" lon="W9 8.221014" heading="201.8"  radius="44" pushBackRoute="174" airlineCodes="" />
-        <Parking index="5" type="gate" name="Ramp_702" lat="N38 46.700251" lon="W9 7.972348" heading="79.53"  radius="44" pushBackRoute="175" airlineCodes="" />
-        <Parking index="6" type="gate" name="Ramp_402" lat="N38 46.079124" lon="W9 8.332285" heading="257.08"  radius="44" pushBackRoute="176" airlineCodes="" />
-        <Parking index="7" type="gate" name="Ramp_503" lat="N38 46.172390" lon="W9 8.161253" heading="-101.13"  radius="44" pushBackRoute="177" airlineCodes="" />
-        <Parking index="8" type="gate" name="Ramp_223" lat="N38 45.921105" lon="W9 8.034463" heading="73.99"  radius="44" pushBackRoute="178" airlineCodes="" />
-        <Parking index="9" type="gate" name="Ramp_803" lat="N38 46.815276" lon="W9 7.749850" heading="299.75"  radius="44" pushBackRoute="179" airlineCodes="" />
-        <Parking index="10" type="gate" name="Ramp_145" lat="N38 46.567456" lon="W9 7.925653" heading="77.78"  radius="44" pushBackRoute="180" airlineCodes="" />
-        <Parking index="11" type="gate" name="Ramp_142" lat="N38 46.459280" lon="W9 7.893249" heading="77.28"  radius="44" pushBackRoute="181" airlineCodes="" />
+        <Parking index="0" type="gate" name="Gate_123" lat="N38 46.297704" lon="W9 7.882365" heading="79.35"  radius="44" pushBackRoute="159" airlineCodes="" />
+        <Parking index="1" type="gate" name="Gate_126" lat="N38 46.380206" lon="W9 7.904689" heading="78.26"  radius="44" pushBackRoute="156" airlineCodes="" />
+        <Parking index="2" type="gate" name="Gate_115" lat="N38 46.165180" lon="W9 7.847363" heading="77.33"  radius="44" pushBackRoute="160" airlineCodes="" />
+        <Parking index="3" type="gate" name="Gate_205" lat="N38 45.887708" lon="W9 8.213211" heading="165.14"  radius="44" pushBackRoute="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="Ramp_605" lat="N38 46.276139" lon="W9 8.221014" heading="201.8"  radius="44" pushBackRoute="66" airlineCodes="" />
+        <Parking index="5" type="gate" name="Ramp_702" lat="N38 46.700251" lon="W9 7.972348" heading="79.53"  radius="44" pushBackRoute="150" airlineCodes="" />
+        <Parking index="6" type="gate" name="Ramp_402" lat="N38 46.079124" lon="W9 8.332285" heading="257.08"  radius="44" pushBackRoute="58" airlineCodes="" />
+        <Parking index="7" type="gate" name="Ramp_503" lat="N38 46.172390" lon="W9 8.161253" heading="-101.13"  radius="44" pushBackRoute="50" airlineCodes="" />
+        <Parking index="8" type="gate" name="Ramp_223" lat="N38 45.921105" lon="W9 8.034463" heading="73.99"  radius="44" pushBackRoute="46" airlineCodes="" />
+        <Parking index="9" type="gate" name="Ramp_803" lat="N38 46.815276" lon="W9 7.749850" heading="299.75"  radius="44" pushBackRoute="32" airlineCodes="" />
+        <Parking index="10" type="gate" name="Ramp_145" lat="N38 46.567456" lon="W9 7.925653" heading="77.78"  radius="44" pushBackRoute="154" airlineCodes="" />
+        <Parking index="11" type="gate" name="Ramp_142" lat="N38 46.459280" lon="W9 7.893249" heading="77.28"  radius="44" pushBackRoute="155" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="12" lat="N38 46.219370" lon="W9 7.926361" isOnRunway="0" holdPointType="none"  />
@@ -174,18 +174,18 @@
         <node index="167" lat="N38 46.899966" lon="W9 8.148559" isOnRunway="1" holdPointType="none"  />
         <node index="168" lat="N38 46.991549" lon="W9 8.099465" isOnRunway="1" holdPointType="none"  />
         <node index="169" lat="N38 47.144925" lon="W9 8.016633" isOnRunway="1" holdPointType="none"  />
-        <node index="170" lat="N38 46.292691" lon="W9 7.909022" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="171" lat="N38 46.374687" lon="W9 7.931246" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="172" lat="N38 46.159231" lon="W9 7.873827" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="173" lat="N38 45.913926" lon="W9 8.220167" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="174" lat="N38 46.301324" lon="W9 8.210941" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="175" lat="N38 46.695322" lon="W9 7.999021" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="176" lat="N38 46.085189" lon="W9 8.305847" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="177" lat="N38 46.177626" lon="W9 8.134638" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="178" lat="N38 45.913624" lon="W9 8.060536" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="179" lat="N38 46.801817" lon="W9 7.726301" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="180" lat="N38 46.561715" lon="W9 7.952163" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="181" lat="N38 46.453308" lon="W9 7.919708" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="170" lat="N38 46.292691" lon="W9 7.909022" isOnRunway="0" holdPointType="none"  />
+        <node index="171" lat="N38 46.374687" lon="W9 7.931246" isOnRunway="0" holdPointType="none"  />
+        <node index="172" lat="N38 46.159231" lon="W9 7.873827" isOnRunway="0" holdPointType="none"  />
+        <node index="173" lat="N38 45.913926" lon="W9 8.220167" isOnRunway="0" holdPointType="none"  />
+        <node index="174" lat="N38 46.301324" lon="W9 8.210941" isOnRunway="0" holdPointType="none"  />
+        <node index="175" lat="N38 46.695322" lon="W9 7.999021" isOnRunway="0" holdPointType="none"  />
+        <node index="176" lat="N38 46.085189" lon="W9 8.305847" isOnRunway="0" holdPointType="none"  />
+        <node index="177" lat="N38 46.177626" lon="W9 8.134638" isOnRunway="0" holdPointType="none"  />
+        <node index="178" lat="N38 45.913624" lon="W9 8.060536" isOnRunway="0" holdPointType="none"  />
+        <node index="179" lat="N38 46.801817" lon="W9 7.726301" isOnRunway="0" holdPointType="none"  />
+        <node index="180" lat="N38 46.561715" lon="W9 7.952163" isOnRunway="0" holdPointType="none"  />
+        <node index="181" lat="N38 46.453308" lon="W9 7.919708" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="12" end="130" isPushBackRoute="0" name="Y"  />
@@ -576,29 +576,5 @@
         <arc begin="181" end="11" isPushBackRoute="1" name="Ramp_142"  />
         <arc begin="181" end="155" isPushBackRoute="1" name="Ramp_142"  />
         <arc begin="155" end="181" isPushBackRoute="1" name="Ramp_142"  />
-        <arc begin="0" end="170" isPushBackRoute="1" name="Gate_123"  />
-        <arc begin="170" end="0" isPushBackRoute="1" name="Gate_123"  />
-        <arc begin="1" end="171" isPushBackRoute="1" name="Gate_126"  />
-        <arc begin="171" end="1" isPushBackRoute="1" name="Gate_126"  />
-        <arc begin="2" end="172" isPushBackRoute="1" name="Gate_115"  />
-        <arc begin="172" end="2" isPushBackRoute="1" name="Gate_115"  />
-        <arc begin="3" end="173" isPushBackRoute="1" name="Gate_205"  />
-        <arc begin="173" end="3" isPushBackRoute="1" name="Gate_205"  />
-        <arc begin="4" end="174" isPushBackRoute="1" name="Ramp_605"  />
-        <arc begin="174" end="4" isPushBackRoute="1" name="Ramp_605"  />
-        <arc begin="5" end="175" isPushBackRoute="1" name="Ramp_702"  />
-        <arc begin="175" end="5" isPushBackRoute="1" name="Ramp_702"  />
-        <arc begin="6" end="176" isPushBackRoute="1" name="Ramp_402"  />
-        <arc begin="176" end="6" isPushBackRoute="1" name="Ramp_402"  />
-        <arc begin="7" end="177" isPushBackRoute="1" name="Ramp_503"  />
-        <arc begin="177" end="7" isPushBackRoute="1" name="Ramp_503"  />
-        <arc begin="8" end="178" isPushBackRoute="1" name="Ramp_223"  />
-        <arc begin="178" end="8" isPushBackRoute="1" name="Ramp_223"  />
-        <arc begin="9" end="179" isPushBackRoute="1" name="Ramp_803"  />
-        <arc begin="179" end="9" isPushBackRoute="1" name="Ramp_803"  />
-        <arc begin="10" end="180" isPushBackRoute="1" name="Ramp_145"  />
-        <arc begin="180" end="10" isPushBackRoute="1" name="Ramp_145"  />
-        <arc begin="11" end="181" isPushBackRoute="1" name="Ramp_142"  />
-        <arc begin="181" end="11" isPushBackRoute="1" name="Ramp_142"  />
  </TaxiWaySegments>
 </groundnet>

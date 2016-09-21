@@ -2,13 +2,13 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Apron_3_MIL_1" lat="N43 13.652119" lon="W75 24.708520" heading="89.09"  radius="44" pushBackRoute="79" airlineCodes="" />
-        <Parking index="1" type="gate" name="Apron_3_MIL_2" lat="N43 13.653028" lon="W75 24.670746" heading="-90.15"  radius="44" pushBackRoute="80" airlineCodes="" />
-        <Parking index="2" type="gate" name="Apron_B" lat="N43 13.519289" lon="W75 24.183814" heading="46.58"  radius="19" pushBackRoute="81" airlineCodes="" />
-        <Parking index="3" type="gate" name="Apron_4" lat="N43 13.620889" lon="W75 25.137964" heading="90"  radius="44" pushBackRoute="82" airlineCodes="" />
-        <Parking index="4" type="gate" name="Apron_3" lat="N43 13.650755" lon="W75 24.424873" heading="180.84"  radius="44" pushBackRoute="83" airlineCodes="" />
-        <Parking index="5" type="gate" name="Apron_2" lat="N43 13.004436" lon="W75 23.528868" heading="-41.62"  radius="44" pushBackRoute="84" airlineCodes="" />
-        <Parking index="6" type="gate" name="Apron_1" lat="N43 13.062849" lon="W75 23.819569" heading="-44.3"  radius="44" pushBackRoute="85" airlineCodes="" />
+        <Parking index="0" type="gate" name="Apron_3_MIL_1" lat="N43 13.652119" lon="W75 24.708520" heading="89.09"  radius="44" pushBackRoute="32" airlineCodes="" />
+        <Parking index="1" type="gate" name="Apron_3_MIL_2" lat="N43 13.653028" lon="W75 24.670746" heading="-90.15"  radius="44" pushBackRoute="32" airlineCodes="" />
+        <Parking index="2" type="gate" name="Apron_B" lat="N43 13.519289" lon="W75 24.183814" heading="46.58"  radius="19" pushBackRoute="22" airlineCodes="" />
+        <Parking index="3" type="gate" name="Apron_4" lat="N43 13.620889" lon="W75 25.137964" heading="90"  radius="44" pushBackRoute="66" airlineCodes="" />
+        <Parking index="4" type="gate" name="Apron_3" lat="N43 13.650755" lon="W75 24.424873" heading="180.84"  radius="44" pushBackRoute="39" airlineCodes="" />
+        <Parking index="5" type="gate" name="Apron_2" lat="N43 13.004436" lon="W75 23.528868" heading="-41.62"  radius="44" pushBackRoute="8" airlineCodes="" />
+        <Parking index="6" type="gate" name="Apron_1" lat="N43 13.062849" lon="W75 23.819569" heading="-44.3"  radius="44" pushBackRoute="13" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="7" lat="N43 12.895932" lon="W75 23.741564" isOnRunway="0" holdPointType="none"  />
@@ -83,13 +83,13 @@
         <node index="76" lat="N43 13.383113" lon="W75 23.931038" isOnRunway="0" holdPointType="none"  />
         <node index="77" lat="N43 13.366750" lon="W75 23.931438" isOnRunway="0" holdPointType="none"  />
         <node index="78" lat="N43 13.357624" lon="W75 23.885875" isOnRunway="0" holdPointType="none"  />
-        <node index="79" lat="N43 13.651689" lon="W75 24.735641" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="80" lat="N43 13.653099" lon="W75 24.643622" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="81" lat="N43 13.500645" lon="W75 24.203516" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="82" lat="N43 13.620889" lon="W75 25.165089" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="83" lat="N43 13.677877" lon="W75 24.424475" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="84" lat="N43 12.984159" lon="W75 23.510852" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="85" lat="N43 13.043436" lon="W75 23.800625" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="79" lat="N43 13.651689" lon="W75 24.735641" isOnRunway="0" holdPointType="none"  />
+        <node index="80" lat="N43 13.653099" lon="W75 24.643622" isOnRunway="0" holdPointType="none"  />
+        <node index="81" lat="N43 13.500645" lon="W75 24.203516" isOnRunway="0" holdPointType="none"  />
+        <node index="82" lat="N43 13.620889" lon="W75 25.165089" isOnRunway="0" holdPointType="none"  />
+        <node index="83" lat="N43 13.677877" lon="W75 24.424475" isOnRunway="0" holdPointType="none"  />
+        <node index="84" lat="N43 12.984159" lon="W75 23.510852" isOnRunway="0" holdPointType="none"  />
+        <node index="85" lat="N43 13.043436" lon="W75 23.800625" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="8" end="7" isPushBackRoute="0" name=""  />
@@ -274,19 +274,5 @@
         <arc begin="85" end="6" isPushBackRoute="1" name="Apron_1"  />
         <arc begin="85" end="13" isPushBackRoute="1" name="Apron_1"  />
         <arc begin="13" end="85" isPushBackRoute="1" name="Apron_1"  />
-        <arc begin="0" end="79" isPushBackRoute="1" name="Apron_3_MIL_1"  />
-        <arc begin="79" end="0" isPushBackRoute="1" name="Apron_3_MIL_1"  />
-        <arc begin="1" end="80" isPushBackRoute="1" name="Apron_3_MIL_2"  />
-        <arc begin="80" end="1" isPushBackRoute="1" name="Apron_3_MIL_2"  />
-        <arc begin="2" end="81" isPushBackRoute="1" name="Apron_B"  />
-        <arc begin="81" end="2" isPushBackRoute="1" name="Apron_B"  />
-        <arc begin="3" end="82" isPushBackRoute="1" name="Apron_4"  />
-        <arc begin="82" end="3" isPushBackRoute="1" name="Apron_4"  />
-        <arc begin="4" end="83" isPushBackRoute="1" name="Apron_3"  />
-        <arc begin="83" end="4" isPushBackRoute="1" name="Apron_3"  />
-        <arc begin="5" end="84" isPushBackRoute="1" name="Apron_2"  />
-        <arc begin="84" end="5" isPushBackRoute="1" name="Apron_2"  />
-        <arc begin="6" end="85" isPushBackRoute="1" name="Apron_1"  />
-        <arc begin="85" end="6" isPushBackRoute="1" name="Apron_1"  />
  </TaxiWaySegments>
 </groundnet>

@@ -6,15 +6,15 @@
         <Parking index="1" type="gate" name="Main_Apron_2" lat="N48 54.107903" lon="E12 30.769342" heading="9"  radius="19" pushBackRoute="16" airlineCodes="" />
         <Parking index="2" type="gate" name="Main_Apron_3" lat="N48 54.109830" lon="E12 30.746492" heading="9"  radius="19" pushBackRoute="17" airlineCodes="" />
         <Parking index="3" type="gate" name="Main_Apron_4" lat="N48 54.120455" lon="E12 30.699606" heading="98.58"  radius="19" pushBackRoute="23" airlineCodes="" />
-        <Parking index="4" type="gate" name="North_apron" lat="N48 54.159633" lon="E12 30.947459" heading="278.53"  radius="19" pushBackRoute="8" airlineCodes="" />
-        <Parking index="5" type="gate" name="East_apron" lat="N48 54.098634" lon="E12 31.027220" heading="8.96"  radius="19" pushBackRoute="10" airlineCodes="" />
-        <Parking index="6" type="gate" name="Fueling_area" lat="N48 54.135849" lon="E12 30.873419" heading="97.45"  radius="19" pushBackRoute="34" airlineCodes="" />
+        <Parking index="4" type="gate" name="North_apron" lat="N48 54.159633" lon="E12 30.947459" heading="278.53"  radius="19" pushBackRoute="11" airlineCodes="" />
+        <Parking index="5" type="gate" name="East_apron" lat="N48 54.098634" lon="E12 31.027220" heading="8.96"  radius="19" pushBackRoute="22" airlineCodes="" />
+        <Parking index="6" type="gate" name="Fueling_area" lat="N48 54.135849" lon="E12 30.873419" heading="97.45"  radius="19" pushBackRoute="13" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="7" lat="N48 54.148789" lon="E12 30.919811" isOnRunway="0" holdPointType="none"  />
-        <node index="8" lat="N48 54.150110" lon="E12 30.933523" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="8" lat="N48 54.150110" lon="E12 30.933523" isOnRunway="0" holdPointType="none"  />
         <node index="9" lat="N48 54.111564" lon="E12 31.061343" isOnRunway="0" holdPointType="none"  />
-        <node index="10" lat="N48 54.114577" lon="E12 31.029977" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="10" lat="N48 54.114577" lon="E12 31.029977" isOnRunway="0" holdPointType="none"  />
         <node index="11" lat="N48 54.118711" lon="E12 30.978589" isOnRunway="0" holdPointType="PushBack"  />
         <node index="12" lat="N48 54.116952" lon="E12 30.960389" isOnRunway="0" holdPointType="none"  />
         <node index="13" lat="N48 54.122934" lon="E12 30.894012" isOnRunway="0" holdPointType="PushBack"  />
@@ -38,7 +38,7 @@
         <node index="31" lat="N48 54.124502" lon="E12 30.672784" isOnRunway="0" holdPointType="none"  />
         <node index="32" lat="N48 54.155609" lon="E12 30.974283" isOnRunway="0" holdPointType="none"  />
         <node index="33" lat="N48 54.071840" lon="E12 31.022995" isOnRunway="0" holdPointType="none"  />
-        <node index="34" lat="N48 54.139366" lon="E12 30.846523" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="34" lat="N48 54.139366" lon="E12 30.846523" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="7" end="13" isPushBackRoute="0" name=""  />
@@ -111,19 +111,5 @@
         <arc begin="34" end="6" isPushBackRoute="1" name="Fueling_area"  />
         <arc begin="34" end="13" isPushBackRoute="1" name="Fueling_area"  />
         <arc begin="13" end="34" isPushBackRoute="1" name="Fueling_area"  />
-        <arc begin="0" end="15" isPushBackRoute="1" name="Main_Apron_1"  />
-        <arc begin="15" end="0" isPushBackRoute="1" name="Main_Apron_1"  />
-        <arc begin="1" end="16" isPushBackRoute="1" name="Main_Apron_2"  />
-        <arc begin="16" end="1" isPushBackRoute="1" name="Main_Apron_2"  />
-        <arc begin="2" end="17" isPushBackRoute="1" name="Main_Apron_3"  />
-        <arc begin="17" end="2" isPushBackRoute="1" name="Main_Apron_3"  />
-        <arc begin="3" end="23" isPushBackRoute="1" name="Main_Apron_4"  />
-        <arc begin="23" end="3" isPushBackRoute="1" name="Main_Apron_4"  />
-        <arc begin="4" end="8" isPushBackRoute="1" name="North_apron"  />
-        <arc begin="8" end="4" isPushBackRoute="1" name="North_apron"  />
-        <arc begin="5" end="10" isPushBackRoute="1" name="East_apron"  />
-        <arc begin="10" end="5" isPushBackRoute="1" name="East_apron"  />
-        <arc begin="6" end="34" isPushBackRoute="1" name="Fueling_area"  />
-        <arc begin="34" end="6" isPushBackRoute="1" name="Fueling_area"  />
  </TaxiWaySegments>
 </groundnet>

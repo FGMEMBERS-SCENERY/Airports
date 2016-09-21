@@ -99,9 +99,5 @@
         <arc begin="30" end="1" isPushBackRoute="1" name="ST6"  />
         <arc begin="30" end="27" isPushBackRoute="1" name="ST6"  />
         <arc begin="27" end="30" isPushBackRoute="1" name="ST6"  />
-        <arc begin="0" end="12" isPushBackRoute="1" name="ST4"  />
-        <arc begin="12" end="0" isPushBackRoute="1" name="ST4"  />
-        <arc begin="1" end="27" isPushBackRoute="1" name="ST6"  />
-        <arc begin="27" end="1" isPushBackRoute="1" name="ST6"  />
  </TaxiWaySegments>
 </groundnet>

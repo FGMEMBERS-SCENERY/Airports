@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Stand_3" lat="N41 55.098009" lon="E8 47.707388" heading="345.65"  radius="44" pushBackRoute="29" airlineCodes="" />
-        <Parking index="1" type="gate" name="Stand_5" lat="N41 55.161743" lon="E8 47.749086" heading="345.42"  radius="44" pushBackRoute="30" airlineCodes="" />
-        <Parking index="2" type="gate" name="Stand_8" lat="N41 55.266476" lon="E8 47.813342" heading="346.37"  radius="44" pushBackRoute="31" airlineCodes="" />
-        <Parking index="3" type="gate" name="Start_Park_Military_1" lat="N41 55.340513" lon="E8 47.369812" heading="28.65"  radius="19" pushBackRoute="32" airlineCodes="" />
+        <Parking index="0" type="gate" name="Stand_3" lat="N41 55.098009" lon="E8 47.707388" heading="345.65"  radius="44" pushBackRoute="13" airlineCodes="" />
+        <Parking index="1" type="gate" name="Stand_5" lat="N41 55.161743" lon="E8 47.749086" heading="345.42"  radius="44" pushBackRoute="13" airlineCodes="" />
+        <Parking index="2" type="gate" name="Stand_8" lat="N41 55.266476" lon="E8 47.813342" heading="346.37"  radius="44" pushBackRoute="14" airlineCodes="" />
+        <Parking index="3" type="gate" name="Start_Park_Military_1" lat="N41 55.340513" lon="E8 47.369812" heading="28.65"  radius="19" pushBackRoute="14" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="4" lat="N41 55.672248" lon="E8 48.172946" isOnRunway="0" holdPointType="none"  />
@@ -33,10 +33,10 @@
         <node index="26" lat="N41 55.353859" lon="E8 48.099883" isOnRunway="1" holdPointType="none"  />
         <node index="27" lat="N41 55.635905" lon="E8 48.276483" isOnRunway="1" holdPointType="none"  />
         <node index="28" lat="N41 55.721637" lon="E8 48.329921" isOnRunway="1" holdPointType="none"  />
-        <node index="29" lat="N41 55.071731" lon="E8 47.714111" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="30" lat="N41 55.135492" lon="E8 47.755915" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="31" lat="N41 55.240115" lon="E8 47.819734" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="32" lat="N41 55.316709" lon="E8 47.356806" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="29" lat="N41 55.071731" lon="E8 47.714111" isOnRunway="0" holdPointType="none"  />
+        <node index="30" lat="N41 55.135492" lon="E8 47.755915" isOnRunway="0" holdPointType="none"  />
+        <node index="31" lat="N41 55.240115" lon="E8 47.819734" isOnRunway="0" holdPointType="none"  />
+        <node index="32" lat="N41 55.316709" lon="E8 47.356806" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="4" end="27" isPushBackRoute="0" name="C"  />
@@ -103,13 +103,5 @@
         <arc begin="32" end="3" isPushBackRoute="1" name="Start_Park_Military_1"  />
         <arc begin="32" end="14" isPushBackRoute="1" name="Start_Park_Military_1"  />
         <arc begin="14" end="32" isPushBackRoute="1" name="Start_Park_Military_1"  />
-        <arc begin="0" end="29" isPushBackRoute="1" name="Stand_3"  />
-        <arc begin="29" end="0" isPushBackRoute="1" name="Stand_3"  />
-        <arc begin="1" end="30" isPushBackRoute="1" name="Stand_5"  />
-        <arc begin="30" end="1" isPushBackRoute="1" name="Stand_5"  />
-        <arc begin="2" end="31" isPushBackRoute="1" name="Stand_8"  />
-        <arc begin="31" end="2" isPushBackRoute="1" name="Stand_8"  />
-        <arc begin="3" end="32" isPushBackRoute="1" name="Start_Park_Military_1"  />
-        <arc begin="32" end="3" isPushBackRoute="1" name="Start_Park_Military_1"  />
  </TaxiWaySegments>
 </groundnet>

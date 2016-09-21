@@ -3,11 +3,11 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="gate" name="Open_Hngr_Stt" lat="N40 2.294407" lon="W88 16.088552" heading="245"  radius="19" pushBackRoute="38" airlineCodes="" />
-        <Parking index="1" type="gate" name="Com_GA_Stt" lat="N40 2.155025" lon="W88 15.829667" heading="-140.52"  radius="19" pushBackRoute="119" airlineCodes="" />
-        <Parking index="2" type="gate" name="JetWay_3" lat="N40 2.137270" lon="W88 15.865681" heading="45"  radius="19" pushBackRoute="120" airlineCodes="" />
-        <Parking index="3" type="gate" name="GA_T_Hngr" lat="N40 2.605651" lon="W88 16.067667" heading="300"  radius="19" pushBackRoute="112" airlineCodes="" />
-        <Parking index="4" type="gate" name="FLY_Scool_Stt" lat="N40 2.524398" lon="W88 16.216074" heading="128.66"  radius="19" pushBackRoute="88" airlineCodes="" />
-        <Parking index="5" type="gate" name="FBO2_Stt" lat="N40 2.316880" lon="W88 16.134739" heading="0"  radius="19" pushBackRoute="123" airlineCodes="" />
+        <Parking index="1" type="gate" name="Com_GA_Stt" lat="N40 2.155025" lon="W88 15.829667" heading="-140.52"  radius="19" pushBackRoute="53" airlineCodes="" />
+        <Parking index="2" type="gate" name="JetWay_3" lat="N40 2.137270" lon="W88 15.865681" heading="45"  radius="19" pushBackRoute="55" airlineCodes="" />
+        <Parking index="3" type="gate" name="GA_T_Hngr" lat="N40 2.605651" lon="W88 16.067667" heading="300"  radius="19" pushBackRoute="107" airlineCodes="" />
+        <Parking index="4" type="gate" name="FLY_Scool_Stt" lat="N40 2.524398" lon="W88 16.216074" heading="128.66"  radius="19" pushBackRoute="89" airlineCodes="" />
+        <Parking index="5" type="gate" name="FBO2_Stt" lat="N40 2.316880" lon="W88 16.134739" heading="0"  radius="19" pushBackRoute="40" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="6" lat="N40 1.990339" lon="W88 16.309649" isOnRunway="1" holdPointType="none"  />
@@ -92,7 +92,7 @@
         <node index="85" lat="N40 2.860380" lon="W88 17.087500" isOnRunway="0" holdPointType="none"  />
         <node index="86" lat="N40 2.847793" lon="W88 17.109980" isOnRunway="0" holdPointType="none"  />
         <node index="87" lat="N40 2.546891" lon="W88 16.184598" isOnRunway="0" holdPointType="none"  />
-        <node index="88" lat="N40 2.510992" lon="W88 16.223004" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="88" lat="N40 2.510992" lon="W88 16.223004" isOnRunway="0" holdPointType="none"  />
         <node index="89" lat="N40 2.523706" lon="W88 16.246578" isOnRunway="0" holdPointType="PushBack"  />
         <node index="90" lat="N40 2.475940" lon="W88 16.202423" isOnRunway="0" holdPointType="none"  />
         <node index="91" lat="N40 2.516782" lon="W88 16.160105" isOnRunway="0" holdPointType="none"  />
@@ -116,18 +116,18 @@
         <node index="109" lat="N40 2.563654" lon="W88 16.144738" isOnRunway="0" holdPointType="none"  />
         <node index="110" lat="N40 2.550286" lon="W88 16.123670" isOnRunway="0" holdPointType="none"  />
         <node index="111" lat="N40 2.651507" lon="W88 16.011767" isOnRunway="0" holdPointType="none"  />
-        <node index="112" lat="N40 2.593321" lon="W88 16.076819" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="112" lat="N40 2.593321" lon="W88 16.076819" isOnRunway="0" holdPointType="none"  />
         <node index="113" lat="N40 2.663398" lon="W88 16.034068" isOnRunway="0" holdPointType="none"  />
         <node index="114" lat="N40 2.605571" lon="W88 16.097389" isOnRunway="0" holdPointType="none"  />
         <node index="115" lat="N40 2.618312" lon="W88 16.120014" isOnRunway="0" holdPointType="none"  />
         <node index="116" lat="N40 2.578413" lon="W88 16.167668" isOnRunway="0" holdPointType="none"  />
         <node index="117" lat="N40 2.534007" lon="W88 16.096369" isOnRunway="0" holdPointType="none"  />
         <node index="118" lat="N40 2.305871" lon="W88 16.063968" isOnRunway="0" holdPointType="none"  />
-        <node index="119" lat="N40 2.175961" lon="W88 15.812421" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="120" lat="N40 2.118090" lon="W88 15.884862" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="119" lat="N40 2.175961" lon="W88 15.812421" isOnRunway="0" holdPointType="none"  />
+        <node index="120" lat="N40 2.118090" lon="W88 15.884862" isOnRunway="0" holdPointType="none"  />
         <node index="121" lat="N40 2.592089" lon="W88 16.044176" isOnRunway="0" holdPointType="none"  />
         <node index="122" lat="N40 2.541342" lon="W88 16.237254" isOnRunway="0" holdPointType="none"  />
-        <node index="123" lat="N40 2.289756" lon="W88 16.134739" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="123" lat="N40 2.289756" lon="W88 16.134739" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="25" end="24" isPushBackRoute="0" name="A3"  />
@@ -384,17 +384,5 @@
         <arc begin="123" end="5" isPushBackRoute="1" name="FBO2_Stt"  />
         <arc begin="123" end="40" isPushBackRoute="1" name="FBO2_Stt"  />
         <arc begin="40" end="123" isPushBackRoute="1" name="FBO2_Stt"  />
-        <arc begin="0" end="38" isPushBackRoute="1" name="Open_Hngr_Stt"  />
-        <arc begin="38" end="0" isPushBackRoute="1" name="Open_Hngr_Stt"  />
-        <arc begin="1" end="119" isPushBackRoute="1" name="Com_GA_Stt"  />
-        <arc begin="119" end="1" isPushBackRoute="1" name="Com_GA_Stt"  />
-        <arc begin="2" end="120" isPushBackRoute="1" name="JetWay_3"  />
-        <arc begin="120" end="2" isPushBackRoute="1" name="JetWay_3"  />
-        <arc begin="3" end="112" isPushBackRoute="1" name="GA_T_Hngr"  />
-        <arc begin="112" end="3" isPushBackRoute="1" name="GA_T_Hngr"  />
-        <arc begin="4" end="88" isPushBackRoute="1" name="FLY_Scool_Stt"  />
-        <arc begin="88" end="4" isPushBackRoute="1" name="FLY_Scool_Stt"  />
-        <arc begin="5" end="123" isPushBackRoute="1" name="FBO2_Stt"  />
-        <arc begin="123" end="5" isPushBackRoute="1" name="FBO2_Stt"  />
  </TaxiWaySegments>
 </groundnet>

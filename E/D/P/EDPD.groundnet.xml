@@ -3,14 +3,14 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="ga" name="Hangar_start_1" lat="N48 39.456436" lon="E12 29.946695" heading="165.39"  radius="10" pushBackRoute="7" airlineCodes="" />
-        <Parking index="1" type="ga" name="Gras_start_2" lat="N48 39.436625" lon="E12 29.935951" heading="165.39"  radius="10" pushBackRoute="6" airlineCodes="" />
-        <Parking index="2" type="ga" name="Gras_start_3" lat="N48 39.444627" lon="E12 29.961953" heading="165.39"  radius="10" pushBackRoute="5" airlineCodes="" />
-        <Parking index="3" type="ga" name="Gras_start_4" lat="N48 39.446872" lon="E12 29.973920" heading="165.39"  radius="10" pushBackRoute="4" airlineCodes="" />
+        <Parking index="1" type="ga" name="Gras_start_2" lat="N48 39.436625" lon="E12 29.935951" heading="165.39"  radius="10" pushBackRoute="7" airlineCodes="" />
+        <Parking index="2" type="ga" name="Gras_start_3" lat="N48 39.444627" lon="E12 29.961953" heading="165.39"  radius="10" pushBackRoute="7" airlineCodes="" />
+        <Parking index="3" type="ga" name="Gras_start_4" lat="N48 39.446872" lon="E12 29.973920" heading="165.39"  radius="10" pushBackRoute="5" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
-        <node index="4" lat="N48 39.440255" lon="E12 29.977902" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="4" lat="N48 39.440255" lon="E12 29.977902" isOnRunway="0" holdPointType="none"  />
         <node index="5" lat="N48 39.437657" lon="E12 29.965389" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="6" lat="N48 39.431753" lon="E12 29.943580" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="6" lat="N48 39.431753" lon="E12 29.943580" isOnRunway="0" holdPointType="none"  />
         <node index="7" lat="N48 39.449112" lon="E12 29.948227" isOnRunway="0" holdPointType="PushBack"  />
         <node index="8" lat="N48 39.429193" lon="E12 30.021608" isOnRunway="0" holdPointType="none"  />
         <node index="9" lat="N48 39.421048" lon="E12 29.941360" isOnRunway="0" holdPointType="none"  />
@@ -72,13 +72,5 @@
         <arc begin="21" end="3" isPushBackRoute="1" name="Gras_start_4"  />
         <arc begin="21" end="5" isPushBackRoute="1" name="Gras_start_4"  />
         <arc begin="5" end="21" isPushBackRoute="1" name="Gras_start_4"  />
-        <arc begin="0" end="7" isPushBackRoute="1" name="Hangar_start_1"  />
-        <arc begin="7" end="0" isPushBackRoute="1" name="Hangar_start_1"  />
-        <arc begin="1" end="6" isPushBackRoute="1" name="Gras_start_2"  />
-        <arc begin="6" end="1" isPushBackRoute="1" name="Gras_start_2"  />
-        <arc begin="2" end="5" isPushBackRoute="1" name="Gras_start_3"  />
-        <arc begin="5" end="2" isPushBackRoute="1" name="Gras_start_3"  />
-        <arc begin="3" end="4" isPushBackRoute="1" name="Gras_start_4"  />
-        <arc begin="4" end="3" isPushBackRoute="1" name="Gras_start_4"  />
  </TaxiWaySegments>
 </groundnet>

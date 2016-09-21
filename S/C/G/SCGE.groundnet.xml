@@ -4,7 +4,7 @@
   <parkingList>
         <Parking index="0" type="gate" name="Aeroclub_Start_3" lat="S37 24.267974" lon="W72 25.277553" heading="329.24"  radius="19" pushBackRoute="4" airlineCodes="" />
         <Parking index="1" type="gate" name="Terminal_Start_1" lat="S37 24.085715" lon="W72 25.376019" heading="151.1"  radius="19" pushBackRoute="3" airlineCodes="" />
-        <Parking index="2" type="gate" name="Terminal_Start_2" lat="S37 24.147045" lon="W72 25.384312" heading="1.84"  radius="19" pushBackRoute="24" airlineCodes="" />
+        <Parking index="2" type="gate" name="Terminal_Start_2" lat="S37 24.147045" lon="W72 25.384312" heading="1.84"  radius="19" pushBackRoute="8" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="3" lat="S37 24.115485" lon="W72 25.381511" isOnRunway="0" holdPointType="PushBack"  />
@@ -28,7 +28,7 @@
         <node index="21" lat="S37 24.127228" lon="W72 25.529263" isOnRunway="1" holdPointType="none"  />
         <node index="22" lat="S37 24.291283" lon="W72 25.263680" isOnRunway="0" holdPointType="none"  />
         <node index="23" lat="S37 24.061969" lon="W72 25.389128" isOnRunway="0" holdPointType="none"  />
-        <node index="24" lat="S37 24.174156" lon="W72 25.385183" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="24" lat="S37 24.174156" lon="W72 25.385183" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="5" end="9" isPushBackRoute="0" name="N"  />
@@ -67,11 +67,5 @@
         <arc begin="24" end="2" isPushBackRoute="1" name="Terminal_Start_2"  />
         <arc begin="24" end="8" isPushBackRoute="1" name="Terminal_Start_2"  />
         <arc begin="8" end="24" isPushBackRoute="1" name="Terminal_Start_2"  />
-        <arc begin="0" end="4" isPushBackRoute="1" name="Aeroclub_Start_3"  />
-        <arc begin="4" end="0" isPushBackRoute="1" name="Aeroclub_Start_3"  />
-        <arc begin="1" end="3" isPushBackRoute="1" name="Terminal_Start_1"  />
-        <arc begin="3" end="1" isPushBackRoute="1" name="Terminal_Start_1"  />
-        <arc begin="2" end="24" isPushBackRoute="1" name="Terminal_Start_2"  />
-        <arc begin="24" end="2" isPushBackRoute="1" name="Terminal_Start_2"  />
  </TaxiWaySegments>
 </groundnet>

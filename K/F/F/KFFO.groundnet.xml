@@ -2,16 +2,16 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="EAST_Ramp_1" lat="N39 49.237465" lon="W84 2.368905" heading="-54.82"  radius="10" pushBackRoute="184" airlineCodes="" />
-        <Parking index="1" type="ga" name="AFRES_Ramp_Start_1" lat="N39 50.075038" lon="W84 2.810953" heading="-40.85"  radius="10" pushBackRoute="185" airlineCodes="" />
-        <Parking index="2" type="ga" name="AFRES_Ramp_Start_2" lat="N39 50.322571" lon="W84 2.306773" heading="140.21"  radius="10" pushBackRoute="186" airlineCodes="" />
-        <Parking index="3" type="ga" name="FREIGHT_Ramp_1" lat="N39 49.405514" lon="W84 2.136679" heading="302.01"  radius="10" pushBackRoute="187" airlineCodes="" />
-        <Parking index="4" type="ga" name="FREIGHT_Ramp_2" lat="N39 49.512149" lon="W84 2.050406" heading="-61.78"  radius="10" pushBackRoute="7" airlineCodes="" />
+        <Parking index="0" type="ga" name="EAST_Ramp_1" lat="N39 49.237465" lon="W84 2.368905" heading="-54.82"  radius="10" pushBackRoute="42" airlineCodes="" />
+        <Parking index="1" type="ga" name="AFRES_Ramp_Start_1" lat="N39 50.075038" lon="W84 2.810953" heading="-40.85"  radius="10" pushBackRoute="78" airlineCodes="" />
+        <Parking index="2" type="ga" name="AFRES_Ramp_Start_2" lat="N39 50.322571" lon="W84 2.306773" heading="140.21"  radius="10" pushBackRoute="75" airlineCodes="" />
+        <Parking index="3" type="ga" name="FREIGHT_Ramp_1" lat="N39 49.405514" lon="W84 2.136679" heading="302.01"  radius="10" pushBackRoute="24" airlineCodes="" />
+        <Parking index="4" type="ga" name="FREIGHT_Ramp_2" lat="N39 49.512149" lon="W84 2.050406" heading="-61.78"  radius="10" pushBackRoute="17" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="5" lat="N39 49.524654" lon="W84 2.068325" isOnRunway="0" holdPointType="none"  />
         <node index="6" lat="N39 49.527850" lon="W84 2.062391" isOnRunway="0" holdPointType="none"  />
-        <node index="7" lat="N39 49.529212" lon="W84 2.051603" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="7" lat="N39 49.529212" lon="W84 2.051603" isOnRunway="0" holdPointType="none"  />
         <node index="8" lat="N39 49.407657" lon="W84 2.186672" isOnRunway="0" holdPointType="none"  />
         <node index="9" lat="N39 49.410587" lon="W84 2.177769" isOnRunway="0" holdPointType="none"  />
         <node index="10" lat="N39 49.417006" lon="W84 2.162870" isOnRunway="0" holdPointType="none"  />
@@ -188,10 +188,10 @@
         <node index="181" lat="N39 49.345298" lon="W84 3.225640" isOnRunway="0" holdPointType="none"  />
         <node index="182" lat="N39 49.357159" lon="W84 3.201007" isOnRunway="0" holdPointType="none"  />
         <node index="183" lat="N39 49.368808" lon="W84 3.224749" isOnRunway="0" holdPointType="none"  />
-        <node index="184" lat="N39 49.221837" lon="W84 2.346735" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="185" lat="N39 50.054520" lon="W84 2.793211" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="186" lat="N39 50.343413" lon="W84 2.324132" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="187" lat="N39 49.391136" lon="W84 2.113679" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="184" lat="N39 49.221837" lon="W84 2.346735" isOnRunway="0" holdPointType="none"  />
+        <node index="185" lat="N39 50.054520" lon="W84 2.793211" isOnRunway="0" holdPointType="none"  />
+        <node index="186" lat="N39 50.343413" lon="W84 2.324132" isOnRunway="0" holdPointType="none"  />
+        <node index="187" lat="N39 49.391136" lon="W84 2.113679" isOnRunway="0" holdPointType="none"  />
         <node index="188" lat="N39 49.499323" lon="W84 2.026505" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
@@ -621,15 +621,5 @@
         <arc begin="188" end="4" isPushBackRoute="1" name="FREIGHT_Ramp_2"  />
         <arc begin="188" end="17" isPushBackRoute="1" name="FREIGHT_Ramp_2"  />
         <arc begin="17" end="188" isPushBackRoute="1" name="FREIGHT_Ramp_2"  />
-        <arc begin="0" end="184" isPushBackRoute="1" name="EAST_Ramp_1"  />
-        <arc begin="184" end="0" isPushBackRoute="1" name="EAST_Ramp_1"  />
-        <arc begin="1" end="185" isPushBackRoute="1" name="AFRES_Ramp_Start_1"  />
-        <arc begin="185" end="1" isPushBackRoute="1" name="AFRES_Ramp_Start_1"  />
-        <arc begin="2" end="186" isPushBackRoute="1" name="AFRES_Ramp_Start_2"  />
-        <arc begin="186" end="2" isPushBackRoute="1" name="AFRES_Ramp_Start_2"  />
-        <arc begin="3" end="187" isPushBackRoute="1" name="FREIGHT_Ramp_1"  />
-        <arc begin="187" end="3" isPushBackRoute="1" name="FREIGHT_Ramp_1"  />
-        <arc begin="4" end="7" isPushBackRoute="1" name="FREIGHT_Ramp_2"  />
-        <arc begin="7" end="4" isPushBackRoute="1" name="FREIGHT_Ramp_2"  />
  </TaxiWaySegments>
 </groundnet>

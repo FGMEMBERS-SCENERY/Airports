@@ -2,8 +2,8 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="small_GA" lat="N46 12.229478" lon="E5 17.366845" heading="0"  radius="19" pushBackRoute="15" airlineCodes="" />
-        <Parking index="1" type="ga" name="Helipad" lat="N46 12.213206" lon="E5 17.400071" heading="0"  radius="8" pushBackRoute="21" airlineCodes="" />
+        <Parking index="0" type="gate" name="small_GA" lat="N46 12.229478" lon="E5 17.366845" heading="0"  radius="19" pushBackRoute="20" airlineCodes="" />
+        <Parking index="1" type="ga" name="Helipad" lat="N46 12.213206" lon="E5 17.400071" heading="0"  radius="8" pushBackRoute="11" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="2" lat="N46 11.820293" lon="E5 17.422538" isOnRunway="1" holdPointType="none"  />
@@ -19,13 +19,13 @@
         <node index="12" lat="N46 12.282793" lon="E5 17.521121" isOnRunway="1" holdPointType="none"  />
         <node index="13" lat="N46 12.143395" lon="E5 17.362006" isOnRunway="0" holdPointType="none"  />
         <node index="14" lat="N46 12.215828" lon="E5 17.362442" isOnRunway="0" holdPointType="none"  />
-        <node index="15" lat="N46 12.221120" lon="E5 17.372274" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="15" lat="N46 12.221120" lon="E5 17.372274" isOnRunway="0" holdPointType="none"  />
         <node index="16" lat="N46 12.266485" lon="E5 17.373367" isOnRunway="0" holdPointType="none"  />
         <node index="17" lat="N46 12.274895" lon="E5 17.374022" isOnRunway="0" holdPointType="none"  />
         <node index="18" lat="N46 12.279583" lon="E5 17.376862" isOnRunway="0" holdPointType="none"  />
         <node index="19" lat="N46 12.282950" lon="E5 17.386039" isOnRunway="0" holdPointType="none"  />
         <node index="20" lat="N46 12.204897" lon="E5 17.362456" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="21" lat="N46 12.204372" lon="E5 17.415104" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="21" lat="N46 12.204372" lon="E5 17.415104" isOnRunway="0" holdPointType="none"  />
         <node index="22" lat="N46 12.202353" lon="E5 17.366845" isOnRunway="0" holdPointType="none"  />
         <node index="23" lat="N46 12.186081" lon="E5 17.400071" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
@@ -66,9 +66,5 @@
         <arc begin="23" end="1" isPushBackRoute="1" name="Helipad"  />
         <arc begin="23" end="11" isPushBackRoute="1" name="Helipad"  />
         <arc begin="11" end="23" isPushBackRoute="1" name="Helipad"  />
-        <arc begin="0" end="15" isPushBackRoute="1" name="small_GA"  />
-        <arc begin="15" end="0" isPushBackRoute="1" name="small_GA"  />
-        <arc begin="1" end="21" isPushBackRoute="1" name="Helipad"  />
-        <arc begin="21" end="1" isPushBackRoute="1" name="Helipad"  />
  </TaxiWaySegments>
 </groundnet>

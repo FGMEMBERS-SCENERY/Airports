@@ -74,7 +74,5 @@
         <arc begin="23" end="0" isPushBackRoute="1" name="GA_Ramp"  />
         <arc begin="23" end="9" isPushBackRoute="1" name="GA_Ramp"  />
         <arc begin="9" end="23" isPushBackRoute="1" name="GA_Ramp"  />
-        <arc begin="0" end="9" isPushBackRoute="1" name="GA_Ramp"  />
-        <arc begin="9" end="0" isPushBackRoute="1" name="GA_Ramp"  />
  </TaxiWaySegments>
 </groundnet>

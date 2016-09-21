@@ -4,8 +4,8 @@
   <parkingList>
         <Parking index="0" type="gate" name="Large_Hangar" lat="N55 56.165444" lon="W129 58.975549" heading="-154.96"  radius="19" pushBackRoute="6" airlineCodes="" />
         <Parking index="1" type="gate" name="Rent_Hangar" lat="N55 56.185764" lon="W129 59.042925" heading="152.59"  radius="19" pushBackRoute="9" airlineCodes="" />
-        <Parking index="2" type="gate" name="Small_Hangar" lat="N55 56.099758" lon="W129 59.068329" heading="76.35"  radius="19" pushBackRoute="27" airlineCodes="" />
-        <Parking index="3" type="ga" name="Stewart_General_Hospital" lat="N55 56.387778" lon="W129 59.366249" heading="245.87"  radius="8" pushBackRoute="28" airlineCodes="" />
+        <Parking index="2" type="gate" name="Small_Hangar" lat="N55 56.099758" lon="W129 59.068329" heading="76.35"  radius="19" pushBackRoute="10" airlineCodes="" />
+        <Parking index="3" type="ga" name="Stewart_General_Hospital" lat="N55 56.387778" lon="W129 59.366249" heading="245.87"  radius="8" pushBackRoute="9" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="4" lat="N55 56.131166" lon="W129 58.991641" isOnRunway="0" holdPointType="none"  />
@@ -31,8 +31,8 @@
         <node index="24" lat="N55 56.426477" lon="W129 58.734931" isOnRunway="0" holdPointType="none"  />
         <node index="25" lat="N55 56.190019" lon="W129 58.964068" isOnRunway="0" holdPointType="none"  />
         <node index="26" lat="N55 56.209843" lon="W129 59.055412" isOnRunway="0" holdPointType="none"  />
-        <node index="27" lat="N55 56.093357" lon="W129 59.094688" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="28" lat="N55 56.398867" lon="W129 59.341495" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="27" lat="N55 56.093357" lon="W129 59.094688" isOnRunway="0" holdPointType="none"  />
+        <node index="28" lat="N55 56.398867" lon="W129 59.341495" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="12" end="4" isPushBackRoute="0" name=""  />
@@ -87,13 +87,5 @@
         <arc begin="28" end="3" isPushBackRoute="1" name="Stewart_General_Hospital"  />
         <arc begin="28" end="9" isPushBackRoute="1" name="Stewart_General_Hospital"  />
         <arc begin="9" end="28" isPushBackRoute="1" name="Stewart_General_Hospital"  />
-        <arc begin="0" end="6" isPushBackRoute="1" name="Large_Hangar"  />
-        <arc begin="6" end="0" isPushBackRoute="1" name="Large_Hangar"  />
-        <arc begin="1" end="9" isPushBackRoute="1" name="Rent_Hangar"  />
-        <arc begin="9" end="1" isPushBackRoute="1" name="Rent_Hangar"  />
-        <arc begin="2" end="27" isPushBackRoute="1" name="Small_Hangar"  />
-        <arc begin="27" end="2" isPushBackRoute="1" name="Small_Hangar"  />
-        <arc begin="3" end="28" isPushBackRoute="1" name="Stewart_General_Hospital"  />
-        <arc begin="28" end="3" isPushBackRoute="1" name="Stewart_General_Hospital"  />
  </TaxiWaySegments>
 </groundnet>

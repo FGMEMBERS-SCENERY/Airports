@@ -2,7 +2,7 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Fueling_ramp_start_2" lat="N52 10.683880" lon="E9 56.971457" heading="315.37"  radius="19" pushBackRoute="27" airlineCodes="" />
+        <Parking index="0" type="gate" name="Fueling_ramp_start_2" lat="N52 10.683880" lon="E9 56.971457" heading="315.37"  radius="19" pushBackRoute="16" airlineCodes="" />
         <Parking index="1" type="gate" name="Fueling_ramp_start_1" lat="N52 10.720582" lon="E9 56.938249" heading="180.88"  radius="19" pushBackRoute="22" airlineCodes="" />
         <Parking index="2" type="gate" name="Main_ramp_start_3" lat="N52 10.648254" lon="E9 56.813109" heading="0"  radius="19" pushBackRoute="24" airlineCodes="" />
         <Parking index="3" type="gate" name="Main_ramp_start_2" lat="N52 10.652017" lon="E9 56.722379" heading="0"  radius="19" pushBackRoute="25" airlineCodes="" />
@@ -31,7 +31,7 @@
         <node index="24" lat="N52 10.669999" lon="E9 56.813341" isOnRunway="0" holdPointType="PushBack"  />
         <node index="25" lat="N52 10.668178" lon="E9 56.723033" isOnRunway="0" holdPointType="PushBack"  />
         <node index="26" lat="N52 10.667116" lon="E9 56.699281" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="27" lat="N52 10.664576" lon="E9 56.990513" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="27" lat="N52 10.664576" lon="E9 56.990513" isOnRunway="0" holdPointType="none"  />
         <node index="28" lat="N52 10.747704" lon="E9 56.938666" isOnRunway="0" holdPointType="none"  />
         <node index="29" lat="N52 10.621129" lon="E9 56.813109" isOnRunway="0" holdPointType="none"  />
         <node index="30" lat="N52 10.624892" lon="E9 56.722379" isOnRunway="0" holdPointType="none"  />
@@ -102,15 +102,5 @@
         <arc begin="31" end="4" isPushBackRoute="1" name="Main_ramp_start_1"  />
         <arc begin="31" end="26" isPushBackRoute="1" name="Main_ramp_start_1"  />
         <arc begin="26" end="31" isPushBackRoute="1" name="Main_ramp_start_1"  />
-        <arc begin="0" end="27" isPushBackRoute="1" name="Fueling_ramp_start_2"  />
-        <arc begin="27" end="0" isPushBackRoute="1" name="Fueling_ramp_start_2"  />
-        <arc begin="1" end="22" isPushBackRoute="1" name="Fueling_ramp_start_1"  />
-        <arc begin="22" end="1" isPushBackRoute="1" name="Fueling_ramp_start_1"  />
-        <arc begin="2" end="24" isPushBackRoute="1" name="Main_ramp_start_3"  />
-        <arc begin="24" end="2" isPushBackRoute="1" name="Main_ramp_start_3"  />
-        <arc begin="3" end="25" isPushBackRoute="1" name="Main_ramp_start_2"  />
-        <arc begin="25" end="3" isPushBackRoute="1" name="Main_ramp_start_2"  />
-        <arc begin="4" end="26" isPushBackRoute="1" name="Main_ramp_start_1"  />
-        <arc begin="26" end="4" isPushBackRoute="1" name="Main_ramp_start_1"  />
  </TaxiWaySegments>
 </groundnet>

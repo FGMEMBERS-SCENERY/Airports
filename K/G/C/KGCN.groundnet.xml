@@ -222,13 +222,5 @@
         <arc begin="71" end="3" isPushBackRoute="1" name="Transient_Parking"  />
         <arc begin="71" end="45" isPushBackRoute="1" name="Transient_Parking"  />
         <arc begin="45" end="71" isPushBackRoute="1" name="Transient_Parking"  />
-        <arc begin="0" end="51" isPushBackRoute="1" name="GA_parking"  />
-        <arc begin="51" end="0" isPushBackRoute="1" name="GA_parking"  />
-        <arc begin="1" end="52" isPushBackRoute="1" name="South_GA_ramp"  />
-        <arc begin="52" end="1" isPushBackRoute="1" name="South_GA_ramp"  />
-        <arc begin="2" end="47" isPushBackRoute="1" name="Terminal"  />
-        <arc begin="47" end="2" isPushBackRoute="1" name="Terminal"  />
-        <arc begin="3" end="45" isPushBackRoute="1" name="Transient_Parking"  />
-        <arc begin="45" end="3" isPushBackRoute="1" name="Transient_Parking"  />
  </TaxiWaySegments>
 </groundnet>

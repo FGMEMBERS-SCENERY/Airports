@@ -260,13 +260,5 @@
         <arc begin="109" end="3" isPushBackRoute="1" name="Gate_4"  />
         <arc begin="109" end="6" isPushBackRoute="1" name="Gate_4"  />
         <arc begin="6" end="109" isPushBackRoute="1" name="Gate_4"  />
-        <arc begin="0" end="101" isPushBackRoute="1" name="Gate_1"  />
-        <arc begin="101" end="0" isPushBackRoute="1" name="Gate_1"  />
-        <arc begin="1" end="103" isPushBackRoute="1" name="Gate_2"  />
-        <arc begin="103" end="1" isPushBackRoute="1" name="Gate_2"  />
-        <arc begin="2" end="105" isPushBackRoute="1" name="Gate_3"  />
-        <arc begin="105" end="2" isPushBackRoute="1" name="Gate_3"  />
-        <arc begin="3" end="6" isPushBackRoute="1" name="Gate_4"  />
-        <arc begin="6" end="3" isPushBackRoute="1" name="Gate_4"  />
  </TaxiWaySegments>
 </groundnet>

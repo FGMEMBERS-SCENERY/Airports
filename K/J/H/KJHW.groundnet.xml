@@ -2,7 +2,7 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="B190_Parking" lat="N42 9.123684" lon="W79 15.857060" heading="328.87"  radius="17" pushBackRoute="14" airlineCodes="" />
+        <Parking index="0" type="gate" name="B190_Parking" lat="N42 9.123684" lon="W79 15.857060" heading="328.87"  radius="17" pushBackRoute="19" airlineCodes="" />
         <Parking index="1" type="gate" name="GA_FBO" lat="N42 9.451611" lon="W79 15.433879" heading="180"  radius="19" pushBackRoute="50" airlineCodes="" />
         <Parking index="2" type="gate" name="Jamestown_Aviation" lat="N42 9.099904" lon="W79 15.934639" heading="333.02"  radius="17" pushBackRoute="6" airlineCodes="" />
  </parkingList>
@@ -18,7 +18,7 @@
         <node index="11" lat="N42 9.125856" lon="W79 15.797776" isOnRunway="0" holdPointType="none"  />
         <node index="12" lat="N42 9.146021" lon="W79 15.818981" isOnRunway="0" holdPointType="none"  />
         <node index="13" lat="N42 9.148414" lon="W79 15.835576" isOnRunway="0" holdPointType="none"  />
-        <node index="14" lat="N42 9.131666" lon="W79 15.874299" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="14" lat="N42 9.131666" lon="W79 15.874299" isOnRunway="0" holdPointType="none"  />
         <node index="15" lat="N42 9.137257" lon="W79 15.569128" isOnRunway="0" holdPointType="none"  />
         <node index="16" lat="N42 9.173533" lon="W79 15.599006" isOnRunway="0" holdPointType="none"  />
         <node index="17" lat="N42 9.182197" lon="W79 15.604654" isOnRunway="0" holdPointType="none"  />
@@ -195,11 +195,5 @@
         <arc begin="64" end="2" isPushBackRoute="1" name="Jamestown_Aviation"  />
         <arc begin="64" end="6" isPushBackRoute="1" name="Jamestown_Aviation"  />
         <arc begin="6" end="64" isPushBackRoute="1" name="Jamestown_Aviation"  />
-        <arc begin="0" end="14" isPushBackRoute="1" name="B190_Parking"  />
-        <arc begin="14" end="0" isPushBackRoute="1" name="B190_Parking"  />
-        <arc begin="1" end="50" isPushBackRoute="1" name="GA_FBO"  />
-        <arc begin="50" end="1" isPushBackRoute="1" name="GA_FBO"  />
-        <arc begin="2" end="6" isPushBackRoute="1" name="Jamestown_Aviation"  />
-        <arc begin="6" end="2" isPushBackRoute="1" name="Jamestown_Aviation"  />
  </TaxiWaySegments>
 </groundnet>

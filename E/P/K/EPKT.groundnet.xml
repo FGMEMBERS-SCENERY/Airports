@@ -2,28 +2,40 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Ramp_1" lat="N50 28.311000" lon="E19 4.550664" heading="180"  radius="44" airlineCodes="" />
-        <Parking index="1" type="gate" name="Ramp_2" lat="N50 28.309424" lon="E19 4.518703" heading="180"  radius="44" airlineCodes="" />
-        <Parking index="2" type="gate" name="Ramp_3" lat="N50 28.311021" lon="E19 4.486204" heading="180"  radius="44" airlineCodes="" />
-        <Parking index="3" type="gate" name="Ramp_4" lat="N50 28.310880" lon="E19 4.453885" heading="180"  radius="44" airlineCodes="" />
-        <Parking index="4" type="gate" name="Ramp_5" lat="N50 28.311252" lon="E19 4.423453" heading="180"  radius="44" airlineCodes="" />
-        <Parking index="5" type="gate" name="Ramp_6" lat="N50 28.307528" lon="E19 4.390490" heading="180.04"  radius="44" airlineCodes="" />
-        <Parking index="6" type="gate" name="Ramp_7" lat="N50 28.307031" lon="E19 4.352840" heading="180.04"  radius="44" airlineCodes="" />
-        <Parking index="7" type="gate" name="Ramp_8" lat="N50 28.306658" lon="E19 4.316360" heading="180.04"  radius="44" airlineCodes="" />
-        <Parking index="8" type="gate" name="Ramp_9" lat="N50 28.306410" lon="E19 4.279295" heading="180.04"  radius="44" airlineCodes="" />
-        <Parking index="9" type="gate" name="Ramp_10" lat="N50 28.295393" lon="E19 4.248329" heading="180.04"  radius="44" airlineCodes="" />
-        <Parking index="10" type="gate" name="Ramp_11" lat="N50 28.294954" lon="E19 4.228850" heading="180.04"  radius="44" airlineCodes="" />
-        <Parking index="11" type="gate" name="Ramp_12" lat="N50 28.295234" lon="E19 4.209063" heading="180.04"  radius="44" airlineCodes="" />
-        <Parking index="12" type="gate" name="Ramp_13" lat="N50 28.295141" lon="E19 4.168903" heading="180.04"  radius="44" airlineCodes="" />
-        <Parking index="13" type="gate" name="Ramp_14" lat="N50 28.295700" lon="E19 4.153220" heading="180.04"  radius="44" airlineCodes="" />
-        <Parking index="14" type="gate" name="Ramp_15" lat="N50 28.295700" lon="E19 4.134607" heading="180.04"  radius="44" airlineCodes="" />
-        <Parking index="15" type="gate" name="Ramp_20" lat="N50 28.257878" lon="E19 5.220604" heading="0"  radius="19" airlineCodes="" />
-        <Parking index="16" type="gate" name="Ramp_21" lat="N50 28.258576" lon="E19 5.193154" heading="0"  radius="19" airlineCodes="" />
-        <Parking index="17" type="gate" name="Ramp_23" lat="N50 28.256876" lon="E19 5.024838" heading="0"  radius="19" airlineCodes="" />
-        <Parking index="18" type="gate" name="Ramp_24" lat="N50 28.256275" lon="E19 5.007134" heading="0"  radius="19" airlineCodes="" />
-        <Parking index="19" type="gate" name="Ramp_25" lat="N50 28.255674" lon="E19 4.985419" heading="0"  radius="19" airlineCodes="" />
-        <Parking index="20" type="gate" name="Ramp_28" lat="N50 28.272098" lon="E19 4.987261" heading="0"  radius="19" airlineCodes="" />
-        <Parking index="21" type="gate" name="Ramp_27" lat="N50 28.272222" lon="E19 5.007418" heading="0"  radius="19" airlineCodes="" />
-        <Parking index="22" type="gate" name="Ramp_26" lat="N50 28.271967" lon="E19 5.026478" heading="0"  radius="19" airlineCodes="" />
+        <Parking index="0" type="gate" name="Stand_29" lat="N50 28.291793" lon="E19 4.131173" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="1" type="gate" name="Stand_28" lat="N50 28.291775" lon="E19 4.151222" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="2" type="gate" name="Stand_27" lat="N50 28.291793" lon="E19 4.170988" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="3" type="gate" name="Stand_26" lat="N50 28.291607" lon="E19 4.210270" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="4" type="gate" name="Stand_25" lat="N50 28.291770" lon="E19 4.228368" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="5" type="gate" name="Stand_24" lat="N50 28.291686" lon="E19 4.246750" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="6" type="gate" name="Stand_23" lat="N50 28.303758" lon="E19 4.287061" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="7" type="gate" name="Stand_22" lat="N50 28.303656" lon="E19 4.326662" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="8" type="gate" name="Stand_21" lat="N50 28.303877" lon="E19 4.367451" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="9" type="gate" name="Stand_20" lat="N50 28.305992" lon="E19 4.403488" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="10" type="gate" name="Stand_19" lat="N50 28.309260" lon="E19 4.445048" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="11" type="gate" name="Stand_18" lat="N50 28.310000" lon="E19 4.485519" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="12" type="gate" name="Stand_17" lat="N50 28.309977" lon="E19 4.525919" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="13" type="gate" name="Stand_16" lat="N50 28.310102" lon="E19 4.560865" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="14" type="gate" name="Stand_15" lat="N50 28.289377" lon="E19 4.616986" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="15" type="gate" name="Stand_14" lat="N50 28.289682" lon="E19 4.655558" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="16" type="gate" name="Stand_13" lat="N50 28.286453" lon="E19 4.723154" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="17" type="gate" name="Stand_12" lat="N50 28.286081" lon="E19 4.780144" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="18" type="gate" name="Stand_11" lat="N50 28.285821" lon="E19 4.836371" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="19" type="gate" name="Stand_10" lat="N50 28.288519" lon="E19 4.910262" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="20" type="gate" name="Stand_9" lat="N50 28.288824" lon="E19 4.948258" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="21" type="gate" name="Stand_8" lat="N50 28.288784" lon="E19 5.006924" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="22" type="gate" name="Stand_7" lat="N50 28.288621" lon="E19 5.045204" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="23" type="gate" name="Stand_6" lat="N50 28.288559" lon="E19 5.083262" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="24" type="gate" name="Stand_5" lat="N50 28.288290" lon="E19 5.140204" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="25" type="gate" name="Stand_4" lat="N50 28.283118" lon="E19 5.149448" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="26" type="gate" name="Stand_3" lat="N50 28.288493" lon="E19 5.178239" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="27" type="gate" name="Stand_72" lat="N50 28.397693" lon="E19 6.262832" heading="14.52"  radius="10" airlineCodes="" />
+        <Parking index="28" type="gate" name="Stand_70" lat="N50 28.379276" lon="E19 6.233309" heading="51.37"  radius="10" airlineCodes="" />
+        <Parking index="29" type="gate" name="Stand_71" lat="N50 28.349503" lon="E19 6.203496" heading="48.23"  radius="10" airlineCodes="" />
+        <Parking index="30" type="gate" name="Stand_88" lat="N50 28.284584" lon="E19 5.786055" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="31" type="gate" name="Stand_86" lat="N50 28.284566" lon="E19 5.830301" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="32" type="gate" name="Stand_87" lat="N50 28.282090" lon="E19 5.809843" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="33" type="gate" name="Stand_2" lat="N50 28.283035" lon="E19 5.206615" heading="180"  radius="10" airlineCodes="" />
+        <Parking index="34" type="gate" name="Stand_1" lat="N50 28.287792" lon="E19 5.216512" heading="180"  radius="10" airlineCodes="" />
  </parkingList>
 </groundnet>

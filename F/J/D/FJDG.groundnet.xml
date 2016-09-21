@@ -175,7 +175,5 @@
         <arc begin="54" end="0" isPushBackRoute="1" name="New_Ramp_Start_1"  />
         <arc begin="54" end="16" isPushBackRoute="1" name="New_Ramp_Start_1"  />
         <arc begin="16" end="54" isPushBackRoute="1" name="New_Ramp_Start_1"  />
-        <arc begin="0" end="16" isPushBackRoute="1" name="New_Ramp_Start_1"  />
-        <arc begin="16" end="0" isPushBackRoute="1" name="New_Ramp_Start_1"  />
  </TaxiWaySegments>
 </groundnet>

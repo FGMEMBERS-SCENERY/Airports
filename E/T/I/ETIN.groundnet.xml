@@ -3,21 +3,21 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="ga" name="Old_hangar" lat="N49 44.230933" lon="E10 12.290117" heading="28.38"  radius="10" pushBackRoute="45" airlineCodes="" />
-        <Parking index="1" type="ga" name="New_hangars" lat="N49 44.448752" lon="E10 12.231156" heading="41.76"  radius="10" pushBackRoute="19" airlineCodes="" />
-        <Parking index="2" type="ga" name="Gravel_area" lat="N49 44.276839" lon="E10 12.328252" heading="-4.81"  radius="10" pushBackRoute="10" airlineCodes="" />
-        <Parking index="3" type="ga" name="Concrete_area_1" lat="N49 44.497968" lon="E10 12.240008" heading="333.94"  radius="10" pushBackRoute="11" airlineCodes="" />
-        <Parking index="4" type="ga" name="Concrete_area_2" lat="N49 44.491745" lon="E10 12.220307" heading="338.24"  radius="10" pushBackRoute="13" airlineCodes="" />
-        <Parking index="5" type="ga" name="Concrete_area_3" lat="N49 44.484770" lon="E10 12.198009" heading="335.28"  radius="10" pushBackRoute="12" airlineCodes="" />
+        <Parking index="1" type="ga" name="New_hangars" lat="N49 44.448752" lon="E10 12.231156" heading="41.76"  radius="10" pushBackRoute="18" airlineCodes="" />
+        <Parking index="2" type="ga" name="Gravel_area" lat="N49 44.276839" lon="E10 12.328252" heading="-4.81"  radius="10" pushBackRoute="43" airlineCodes="" />
+        <Parking index="3" type="ga" name="Concrete_area_1" lat="N49 44.497968" lon="E10 12.240008" heading="333.94"  radius="10" pushBackRoute="24" airlineCodes="" />
+        <Parking index="4" type="ga" name="Concrete_area_2" lat="N49 44.491745" lon="E10 12.220307" heading="338.24"  radius="10" pushBackRoute="19" airlineCodes="" />
+        <Parking index="5" type="ga" name="Concrete_area_3" lat="N49 44.484770" lon="E10 12.198009" heading="335.28"  radius="10" pushBackRoute="18" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="6" lat="N49 44.295700" lon="E10 12.255237" isOnRunway="0" holdPointType="none"  />
         <node index="7" lat="N49 44.293774" lon="E10 12.269716" isOnRunway="0" holdPointType="none"  />
         <node index="8" lat="N49 44.290913" lon="E10 12.284078" isOnRunway="0" holdPointType="none"  />
         <node index="9" lat="N49 44.285872" lon="E10 12.304001" isOnRunway="0" holdPointType="none"  />
-        <node index="10" lat="N49 44.281869" lon="E10 12.324014" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="11" lat="N49 44.500381" lon="E10 12.238819" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="12" lat="N49 44.486547" lon="E10 12.196404" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="13" lat="N49 44.496395" lon="E10 12.216133" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="10" lat="N49 44.281869" lon="E10 12.324014" isOnRunway="0" holdPointType="none"  />
+        <node index="11" lat="N49 44.500381" lon="E10 12.238819" isOnRunway="0" holdPointType="none"  />
+        <node index="12" lat="N49 44.486547" lon="E10 12.196404" isOnRunway="0" holdPointType="none"  />
+        <node index="13" lat="N49 44.496395" lon="E10 12.216133" isOnRunway="0" holdPointType="none"  />
         <node index="14" lat="N49 44.518165" lon="E10 12.184677" isOnRunway="0" holdPointType="none"  />
         <node index="15" lat="N49 44.489605" lon="E10 12.173110" isOnRunway="0" holdPointType="none"  />
         <node index="16" lat="N49 44.459709" lon="E10 12.194158" isOnRunway="0" holdPointType="none"  />
@@ -199,17 +199,5 @@
         <arc begin="64" end="5" isPushBackRoute="1" name="Concrete_area_3"  />
         <arc begin="64" end="18" isPushBackRoute="1" name="Concrete_area_3"  />
         <arc begin="18" end="64" isPushBackRoute="1" name="Concrete_area_3"  />
-        <arc begin="0" end="45" isPushBackRoute="1" name="Old_hangar"  />
-        <arc begin="45" end="0" isPushBackRoute="1" name="Old_hangar"  />
-        <arc begin="1" end="19" isPushBackRoute="1" name="New_hangars"  />
-        <arc begin="19" end="1" isPushBackRoute="1" name="New_hangars"  />
-        <arc begin="2" end="10" isPushBackRoute="1" name="Gravel_area"  />
-        <arc begin="10" end="2" isPushBackRoute="1" name="Gravel_area"  />
-        <arc begin="3" end="11" isPushBackRoute="1" name="Concrete_area_1"  />
-        <arc begin="11" end="3" isPushBackRoute="1" name="Concrete_area_1"  />
-        <arc begin="4" end="13" isPushBackRoute="1" name="Concrete_area_2"  />
-        <arc begin="13" end="4" isPushBackRoute="1" name="Concrete_area_2"  />
-        <arc begin="5" end="12" isPushBackRoute="1" name="Concrete_area_3"  />
-        <arc begin="12" end="5" isPushBackRoute="1" name="Concrete_area_3"  />
  </TaxiWaySegments>
 </groundnet>

@@ -5,7 +5,7 @@
         <Parking index="0" type="ga" name="East_ramp" lat="N50 45.989060" lon="E7 10.102293" heading="19.8"  radius="10" pushBackRoute="17" airlineCodes="" />
         <Parking index="1" type="ga" name="Fueling_ramp" lat="N50 46.011289" lon="E7 9.862396" heading="20.56"  radius="10" pushBackRoute="15" airlineCodes="" />
         <Parking index="2" type="ga" name="Gras_parking" lat="N50 46.065088" lon="E7 9.784977" heading="29.93"  radius="10" pushBackRoute="12" airlineCodes="" />
-        <Parking index="3" type="ga" name="ADAC_Ramp" lat="N50 46.072513" lon="E7 9.704996" heading="306.03"  radius="8" pushBackRoute="10" airlineCodes="" />
+        <Parking index="3" type="ga" name="ADAC_Ramp" lat="N50 46.072513" lon="E7 9.704996" heading="306.03"  radius="8" pushBackRoute="20" airlineCodes="" />
         <Parking index="4" type="ga" name="Bundespolizei_Helipad" lat="N50 46.084900" lon="E7 9.311030" heading="16.99"  radius="8" pushBackRoute="9" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
@@ -14,7 +14,7 @@
         <node index="7" lat="N50 46.095527" lon="E7 9.343142" isOnRunway="0" holdPointType="none"  />
         <node index="8" lat="N50 46.098602" lon="E7 9.318369" isOnRunway="0" holdPointType="none"  />
         <node index="9" lat="N50 46.091867" lon="E7 9.314433" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="10" lat="N50 46.076501" lon="E7 9.689580" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="10" lat="N50 46.076501" lon="E7 9.689580" isOnRunway="0" holdPointType="none"  />
         <node index="11" lat="N50 46.065830" lon="E7 9.667141" isOnRunway="0" holdPointType="none"  />
         <node index="12" lat="N50 46.070450" lon="E7 9.788903" isOnRunway="0" holdPointType="PushBack"  />
         <node index="13" lat="N50 46.035685" lon="E7 9.894487" isOnRunway="0" holdPointType="none"  />
@@ -107,15 +107,5 @@
         <arc begin="34" end="4" isPushBackRoute="1" name="Bundespolizei_Helipad"  />
         <arc begin="34" end="9" isPushBackRoute="1" name="Bundespolizei_Helipad"  />
         <arc begin="9" end="34" isPushBackRoute="1" name="Bundespolizei_Helipad"  />
-        <arc begin="0" end="17" isPushBackRoute="1" name="East_ramp"  />
-        <arc begin="17" end="0" isPushBackRoute="1" name="East_ramp"  />
-        <arc begin="1" end="15" isPushBackRoute="1" name="Fueling_ramp"  />
-        <arc begin="15" end="1" isPushBackRoute="1" name="Fueling_ramp"  />
-        <arc begin="2" end="12" isPushBackRoute="1" name="Gras_parking"  />
-        <arc begin="12" end="2" isPushBackRoute="1" name="Gras_parking"  />
-        <arc begin="3" end="10" isPushBackRoute="1" name="ADAC_Ramp"  />
-        <arc begin="10" end="3" isPushBackRoute="1" name="ADAC_Ramp"  />
-        <arc begin="4" end="9" isPushBackRoute="1" name="Bundespolizei_Helipad"  />
-        <arc begin="9" end="4" isPushBackRoute="1" name="Bundespolizei_Helipad"  />
  </TaxiWaySegments>
 </groundnet>

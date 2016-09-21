@@ -2,12 +2,12 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="ANG_RAMP_1" lat="N42 51.218990" lon="W73 55.464195" heading="180"  radius="10" pushBackRoute="15" airlineCodes="" />
-        <Parking index="1" type="ga" name="ANG_RAMP_2" lat="N42 51.203923" lon="W73 55.441073" heading="180"  radius="10" pushBackRoute="159" airlineCodes="" />
-        <Parking index="2" type="ga" name="ANG_RAMP_3" lat="N42 51.188450" lon="W73 55.418926" heading="180"  radius="10" pushBackRoute="160" airlineCodes="" />
-        <Parking index="3" type="ga" name="ANG_RAMP_4" lat="N42 51.173159" lon="W73 55.396827" heading="180"  radius="10" pushBackRoute="161" airlineCodes="" />
-        <Parking index="4" type="ga" name="ANG_RAMP_5" lat="N42 51.157254" lon="W73 55.374276" heading="180"  radius="10" pushBackRoute="162" airlineCodes="" />
-        <Parking index="5" type="ga" name="ANG_RAMP_6" lat="N42 51.142814" lon="W73 55.351439" heading="180"  radius="10" pushBackRoute="163" airlineCodes="" />
+        <Parking index="0" type="ga" name="ANG_RAMP_1" lat="N42 51.218990" lon="W73 55.464195" heading="180"  radius="10" pushBackRoute="18" airlineCodes="" />
+        <Parking index="1" type="ga" name="ANG_RAMP_2" lat="N42 51.203923" lon="W73 55.441073" heading="180"  radius="10" pushBackRoute="18" airlineCodes="" />
+        <Parking index="2" type="ga" name="ANG_RAMP_3" lat="N42 51.188450" lon="W73 55.418926" heading="180"  radius="10" pushBackRoute="18" airlineCodes="" />
+        <Parking index="3" type="ga" name="ANG_RAMP_4" lat="N42 51.173159" lon="W73 55.396827" heading="180"  radius="10" pushBackRoute="18" airlineCodes="" />
+        <Parking index="4" type="ga" name="ANG_RAMP_5" lat="N42 51.157254" lon="W73 55.374276" heading="180"  radius="10" pushBackRoute="120" airlineCodes="" />
+        <Parking index="5" type="ga" name="ANG_RAMP_6" lat="N42 51.142814" lon="W73 55.351439" heading="180"  radius="10" pushBackRoute="14" airlineCodes="" />
         <Parking index="6" type="ga" name="ANG_RAMP_7" lat="N42 51.127204" lon="W73 55.328714" heading="180"  radius="10" pushBackRoute="14" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
@@ -19,7 +19,7 @@
         <node index="12" lat="N42 50.889416" lon="W73 55.367796" isOnRunway="0" holdPointType="none"  />
         <node index="13" lat="N42 50.895514" lon="W73 55.357968" isOnRunway="0" holdPointType="none"  />
         <node index="14" lat="N42 51.121912" lon="W73 55.341292" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="15" lat="N42 51.217462" lon="W73 55.481027" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="15" lat="N42 51.217462" lon="W73 55.481027" isOnRunway="0" holdPointType="none"  />
         <node index="16" lat="N42 51.239833" lon="W73 55.481190" isOnRunway="0" holdPointType="none"  />
         <node index="17" lat="N42 51.121885" lon="W73 55.278583" isOnRunway="0" holdPointType="none"  />
         <node index="18" lat="N42 51.241899" lon="W73 55.454502" isOnRunway="0" holdPointType="PushBack"  />
@@ -163,11 +163,11 @@
         <node index="156" lat="N42 51.482042" lon="W73 55.585247" isOnRunway="1" holdPointType="none"  />
         <node index="157" lat="N42 51.586839" lon="W73 55.515816" isOnRunway="1" holdPointType="none"  />
         <node index="158" lat="N42 51.246115" lon="W73 55.464195" isOnRunway="0" holdPointType="none"  />
-        <node index="159" lat="N42 51.231047" lon="W73 55.441073" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="160" lat="N42 51.215575" lon="W73 55.418926" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="161" lat="N42 51.200284" lon="W73 55.396827" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="162" lat="N42 51.184379" lon="W73 55.374276" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="163" lat="N42 51.169939" lon="W73 55.351439" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="159" lat="N42 51.231047" lon="W73 55.441073" isOnRunway="0" holdPointType="none"  />
+        <node index="160" lat="N42 51.215575" lon="W73 55.418926" isOnRunway="0" holdPointType="none"  />
+        <node index="161" lat="N42 51.200284" lon="W73 55.396827" isOnRunway="0" holdPointType="none"  />
+        <node index="162" lat="N42 51.184379" lon="W73 55.374276" isOnRunway="0" holdPointType="none"  />
+        <node index="163" lat="N42 51.169939" lon="W73 55.351439" isOnRunway="0" holdPointType="none"  />
         <node index="164" lat="N42 51.154328" lon="W73 55.328714" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
@@ -520,19 +520,5 @@
         <arc begin="164" end="6" isPushBackRoute="1" name="ANG_RAMP_7"  />
         <arc begin="164" end="14" isPushBackRoute="1" name="ANG_RAMP_7"  />
         <arc begin="14" end="164" isPushBackRoute="1" name="ANG_RAMP_7"  />
-        <arc begin="0" end="15" isPushBackRoute="1" name="ANG_RAMP_1"  />
-        <arc begin="15" end="0" isPushBackRoute="1" name="ANG_RAMP_1"  />
-        <arc begin="1" end="159" isPushBackRoute="1" name="ANG_RAMP_2"  />
-        <arc begin="159" end="1" isPushBackRoute="1" name="ANG_RAMP_2"  />
-        <arc begin="2" end="160" isPushBackRoute="1" name="ANG_RAMP_3"  />
-        <arc begin="160" end="2" isPushBackRoute="1" name="ANG_RAMP_3"  />
-        <arc begin="3" end="161" isPushBackRoute="1" name="ANG_RAMP_4"  />
-        <arc begin="161" end="3" isPushBackRoute="1" name="ANG_RAMP_4"  />
-        <arc begin="4" end="162" isPushBackRoute="1" name="ANG_RAMP_5"  />
-        <arc begin="162" end="4" isPushBackRoute="1" name="ANG_RAMP_5"  />
-        <arc begin="5" end="163" isPushBackRoute="1" name="ANG_RAMP_6"  />
-        <arc begin="163" end="5" isPushBackRoute="1" name="ANG_RAMP_6"  />
-        <arc begin="6" end="14" isPushBackRoute="1" name="ANG_RAMP_7"  />
-        <arc begin="14" end="6" isPushBackRoute="1" name="ANG_RAMP_7"  />
  </TaxiWaySegments>
 </groundnet>

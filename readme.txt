@@ -1,12 +1,12 @@
 
-Version: 2016-03-02
+Version: 2016-09-21
 
 This folder contains...
 
-* more than 8400 groundnet.xml files (parking locations for > 8400 airports)
-with AI taxi routes for more than 1100 airports.
+* 8983 groundnet.xml files (parking locations for > 8400 airports)
+with AI taxi routes for  1400 airports.
 (made with aptdat2sqlite.py && sqlite2xml.py)
-including 90 "legacy" groundnets that were made with TaxiDraw
+including 88 "legacy" groundnets that were made with TaxiDraw
 
 * jetways.xml files for 259 airports.
 (made with dsf2stg.py )

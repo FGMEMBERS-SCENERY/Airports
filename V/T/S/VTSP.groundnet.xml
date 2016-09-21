@@ -394,27 +394,5 @@
         <arc begin="143" end="10" isPushBackRoute="1" name="ramp_start"  />
         <arc begin="143" end="83" isPushBackRoute="1" name="ramp_start"  />
         <arc begin="83" end="143" isPushBackRoute="1" name="ramp_start"  />
-        <arc begin="0" end="97" isPushBackRoute="1" name="gate_start"  />
-        <arc begin="97" end="0" isPushBackRoute="1" name="gate_start"  />
-        <arc begin="1" end="95" isPushBackRoute="1" name="gate_start"  />
-        <arc begin="95" end="1" isPushBackRoute="1" name="gate_start"  />
-        <arc begin="2" end="85" isPushBackRoute="1" name="gate_start"  />
-        <arc begin="85" end="2" isPushBackRoute="1" name="gate_start"  />
-        <arc begin="3" end="87" isPushBackRoute="1" name="gate_start"  />
-        <arc begin="87" end="3" isPushBackRoute="1" name="gate_start"  />
-        <arc begin="4" end="89" isPushBackRoute="1" name="gate_start"  />
-        <arc begin="89" end="4" isPushBackRoute="1" name="gate_start"  />
-        <arc begin="5" end="91" isPushBackRoute="1" name="gate_start"  />
-        <arc begin="91" end="5" isPushBackRoute="1" name="gate_start"  />
-        <arc begin="6" end="93" isPushBackRoute="1" name="gate_start"  />
-        <arc begin="93" end="6" isPushBackRoute="1" name="gate_start"  />
-        <arc begin="7" end="103" isPushBackRoute="1" name="ramp_start"  />
-        <arc begin="103" end="7" isPushBackRoute="1" name="ramp_start"  />
-        <arc begin="8" end="101" isPushBackRoute="1" name="ramp_start"  />
-        <arc begin="101" end="8" isPushBackRoute="1" name="ramp_start"  />
-        <arc begin="9" end="99" isPushBackRoute="1" name="ramp_start"  />
-        <arc begin="99" end="9" isPushBackRoute="1" name="ramp_start"  />
-        <arc begin="10" end="83" isPushBackRoute="1" name="ramp_start"  />
-        <arc begin="83" end="10" isPushBackRoute="1" name="ramp_start"  />
  </TaxiWaySegments>
 </groundnet>

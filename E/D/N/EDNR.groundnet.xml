@@ -139,13 +139,5 @@
         <arc begin="44" end="3" isPushBackRoute="1" name="Ramp_southwest"  />
         <arc begin="44" end="10" isPushBackRoute="1" name="Ramp_southwest"  />
         <arc begin="10" end="44" isPushBackRoute="1" name="Ramp_southwest"  />
-        <arc begin="0" end="34" isPushBackRoute="1" name="Ramp_northeast"  />
-        <arc begin="34" end="0" isPushBackRoute="1" name="Ramp_northeast"  />
-        <arc begin="1" end="14" isPushBackRoute="1" name="Gras_parking_southeast"  />
-        <arc begin="14" end="1" isPushBackRoute="1" name="Gras_parking_southeast"  />
-        <arc begin="2" end="19" isPushBackRoute="1" name="Ramp_northwest"  />
-        <arc begin="19" end="2" isPushBackRoute="1" name="Ramp_northwest"  />
-        <arc begin="3" end="10" isPushBackRoute="1" name="Ramp_southwest"  />
-        <arc begin="10" end="3" isPushBackRoute="1" name="Ramp_southwest"  />
  </TaxiWaySegments>
 </groundnet>
