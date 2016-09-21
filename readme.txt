@@ -1,14 +1,26 @@
 
+<<<<<<< HEAD
+Version: 2016-09-09
+
+number of airports with parking/startup locations: 8972
+number of AI ground networks: 1400
+
+This folder contains...
+
+* 8972 groundnet.xml files 
+with AI taxi routes for 1400 airports.
+=======
 Version: 2016-09-21
 
 This folder contains...
 
 * 8983 groundnet.xml files (parking locations for > 8400 airports)
 with AI taxi routes for  1400 airports.
+>>>>>>> 7f13998785765c683c16f796a6397218ea1644a8
 (made with aptdat2sqlite.py && sqlite2xml.py)
 including 88 "legacy" groundnets that were made with TaxiDraw
 
-* jetways.xml files for 259 airports.
+* jetways.xml files for 340 airports.
 (made with dsf2stg.py )
 
 Make sure you have enabled AI-> Jetway Settings -> Enable animated jetways
