@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="ga" name="Outside_Hangars_(Small)" lat="N49 17.478502" lon="W112 11.055532" heading="0"  radius="10" pushBackRoute="16" airlineCodes="" />
+        <Parking index="1" type="ga" name="GA_Tie-Down_(Small)" lat="N49 17.512015" lon="W112 11.081957" heading="82.84"  radius="10" pushBackRoute="17" airlineCodes="" />
+        <Parking index="2" type="ga" name="GA_Tie-Down_(Small)" lat="N49 17.528323" lon="W112 11.054197" heading="172.84"  radius="10" pushBackRoute="18" airlineCodes="" />
+        <Parking index="3" type="ga" name="GA_Tie-Down_(Small)" lat="N49 17.529331" lon="W112 11.041814" heading="172.84"  radius="10" pushBackRoute="19" airlineCodes="" />
+        <Parking index="4" type="ga" name="GA_Tie-Down_(Small)" lat="N49 17.516774" lon="W112 11.026121" heading="262.84"  radius="10" pushBackRoute="20" airlineCodes="" />
+        <Parking index="5" type="ga" name="GA_Tie-Down_(Small)" lat="N49 17.507504" lon="W112 11.035791" heading="352.84"  radius="10" pushBackRoute="16" airlineCodes="" />
+ </parkingList>
+ <TaxiNodes>
+        <node index="6" lat="N49 17.506780" lon="W112 11.055675" isOnRunway="0" holdPointType="none"  />
+        <node index="7" lat="N49 17.520182" lon="W112 11.040074" isOnRunway="0" holdPointType="none"  />
+        <node index="8" lat="N49 17.517754" lon="W112 11.067776" isOnRunway="0" holdPointType="none"  />
+        <node index="9" lat="N49 17.519064" lon="W112 11.052680" isOnRunway="0" holdPointType="none"  />
+        <node index="10" lat="N49 17.527256" lon="W112 11.075706" isOnRunway="0" holdPointType="none"  />
+        <node index="11" lat="N49 17.537600" lon="W112 11.083743" isOnRunway="0" holdPointType="none"  />
+        <node index="12" lat="N49 17.591134" lon="W112 11.093990" isOnRunway="0" holdPointType="none"  />
+        <node index="13" lat="N49 17.628461" lon="W112 11.049509" isOnRunway="1" holdPointType="none"  />
+        <node index="14" lat="N49 17.570468" lon="W112 11.757695" isOnRunway="1" holdPointType="none"  />
+        <node index="15" lat="N49 17.624296" lon="W112 11.100374" isOnRunway="1" holdPointType="none"  />
+        <node index="16" lat="N49 17.478502" lon="W112 11.055532" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="17" lat="N49 17.512015" lon="W112 11.081957" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="18" lat="N49 17.528323" lon="W112 11.054197" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="19" lat="N49 17.529331" lon="W112 11.041814" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="20" lat="N49 17.516774" lon="W112 11.026121" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="21" lat="N49 17.507504" lon="W112 11.035791" isOnRunway="0" holdPointType="none"  />
+        <node index="22" lat="N49 17.451377" lon="W112 11.055532" isOnRunway="0" holdPointType="none"  />
+        <node index="23" lat="N49 17.508634" lon="W112 11.108870" isOnRunway="0" holdPointType="none"  />
+        <node index="24" lat="N49 17.555236" lon="W112 11.057578" isOnRunway="0" holdPointType="none"  />
+        <node index="25" lat="N49 17.556244" lon="W112 11.045195" isOnRunway="0" holdPointType="none"  />
+        <node index="26" lat="N49 17.520155" lon="W112 10.999208" isOnRunway="0" holdPointType="none"  />
+        <node index="27" lat="N49 17.480591" lon="W112 11.032410" isOnRunway="0" holdPointType="none"  />
+ </TaxiNodes>
+ <TaxiWaySegments>
+        <arc begin="6" end="16" isPushBackRoute="0" name="A"  />
+        <arc begin="16" end="6" isPushBackRoute="0" name="A"  />
+        <arc begin="8" end="6" isPushBackRoute="0" name="A"  />
+        <arc begin="6" end="8" isPushBackRoute="0" name="A"  />
+        <arc begin="18" end="9" isPushBackRoute="0" name="A"  />
+        <arc begin="9" end="18" isPushBackRoute="0" name="A"  />
+        <arc begin="19" end="7" isPushBackRoute="0" name="A"  />
+        <arc begin="7" end="19" isPushBackRoute="0" name="A"  />
+        <arc begin="20" end="7" isPushBackRoute="0" name="A"  />
+        <arc begin="7" end="20" isPushBackRoute="0" name="A"  />
+        <arc begin="21" end="7" isPushBackRoute="0" name="A"  />
+        <arc begin="7" end="21" isPushBackRoute="0" name="A"  />
+        <arc begin="8" end="9" isPushBackRoute="0" name="A"  />
+        <arc begin="9" end="8" isPushBackRoute="0" name="A"  />
+        <arc begin="9" end="7" isPushBackRoute="0" name="A"  />
+        <arc begin="7" end="9" isPushBackRoute="0" name="A"  />
+        <arc begin="17" end="8" isPushBackRoute="0" name="A"  />
+        <arc begin="8" end="17" isPushBackRoute="0" name="A"  />
+        <arc begin="10" end="8" isPushBackRoute="0" name="A"  />
+        <arc begin="8" end="10" isPushBackRoute="0" name="A"  />
+        <arc begin="11" end="10" isPushBackRoute="0" name="A"  />
+        <arc begin="10" end="11" isPushBackRoute="0" name="A"  />
+        <arc begin="12" end="11" isPushBackRoute="0" name="A"  />
+        <arc begin="11" end="12" isPushBackRoute="0" name="A"  />
+        <arc begin="15" end="12" isPushBackRoute="0" name="A"  />
+        <arc begin="12" end="15" isPushBackRoute="0" name="A"  />
+        <arc begin="0" end="22" isPushBackRoute="1" name="Outside_Hangars_(Small)"  />
+        <arc begin="22" end="0" isPushBackRoute="1" name="Outside_Hangars_(Small)"  />
+        <arc begin="22" end="16" isPushBackRoute="1" name="Outside_Hangars_(Small)"  />
+        <arc begin="16" end="22" isPushBackRoute="1" name="Outside_Hangars_(Small)"  />
+        <arc begin="1" end="23" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="23" end="1" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="23" end="17" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="17" end="23" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="2" end="24" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="24" end="2" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="24" end="18" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="18" end="24" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="3" end="25" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="25" end="3" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="25" end="19" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="19" end="25" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="4" end="26" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="26" end="4" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="26" end="20" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="20" end="26" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="5" end="27" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="27" end="5" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="27" end="16" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+        <arc begin="16" end="27" isPushBackRoute="1" name="GA_Tie-Down_(Small)"  />
+ </TaxiWaySegments>
+</groundnet>
