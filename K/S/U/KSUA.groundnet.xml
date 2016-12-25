@@ -2,11 +2,11 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Cntr_Jet_Ramp" lat="N27 10.530049" lon="W80 13.318395" heading="0"  radius="17" pushBackRoute="89" airlineCodes="" />
-        <Parking index="1" type="ga" name="Glxy_T_Hngr" lat="N27 10.547619" lon="W80 13.521107" heading="28"  radius="10" pushBackRoute="90" airlineCodes="" />
-        <Parking index="2" type="gate" name="NW_Ramp_Stt" lat="N27 10.506696" lon="W80 13.101950" heading="295.38"  radius="19" pushBackRoute="91" airlineCodes="" />
-        <Parking index="3" type="gate" name="NWT_Stt" lat="N27 10.501476" lon="W80 13.156821" heading="25"  radius="19" pushBackRoute="92" airlineCodes="" />
-        <Parking index="4" type="gate" name="SW_Glxy_Rmp" lat="N27 10.416634" lon="W80 13.545250" heading="325"  radius="19" pushBackRoute="93" airlineCodes="" />
+        <Parking index="0" type="gate" name="Cntr_Jet_Ramp" lat="N27 10.530049" lon="W80 13.318395" heading="0"  radius="17" pushBackRoute="9" airlineCodes="" />
+        <Parking index="1" type="ga" name="Glxy_T_Hngr" lat="N27 10.547619" lon="W80 13.521107" heading="28"  radius="10" pushBackRoute="7" airlineCodes="" />
+        <Parking index="2" type="gate" name="NW_Ramp_Stt" lat="N27 10.506696" lon="W80 13.101950" heading="295.38"  radius="19" pushBackRoute="10" airlineCodes="" />
+        <Parking index="3" type="gate" name="NWT_Stt" lat="N27 10.501476" lon="W80 13.156821" heading="25"  radius="19" pushBackRoute="13" airlineCodes="" />
+        <Parking index="4" type="gate" name="SW_Glxy_Rmp" lat="N27 10.416634" lon="W80 13.545250" heading="325"  radius="19" pushBackRoute="19" airlineCodes="" />
         <Parking index="5" type="gate" name="Twr_Hngr_stt" lat="N27 11.161801" lon="W80 13.355476" heading="110"  radius="19" pushBackRoute="11" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
@@ -93,11 +93,11 @@
         <node index="86" lat="N27 11.052867" lon="W80 13.257712" isOnRunway="0" holdPointType="none"  />
         <node index="87" lat="N27 10.557311" lon="W80 12.990898" isOnRunway="0" holdPointType="none"  />
         <node index="88" lat="N27 10.591727" lon="W80 13.009171" isOnRunway="0" holdPointType="none"  />
-        <node index="89" lat="N27 10.502924" lon="W80 13.318395" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="90" lat="N27 10.523669" lon="W80 13.533841" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="91" lat="N27 10.495070" lon="W80 13.077443" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="92" lat="N27 10.476893" lon="W80 13.168284" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="93" lat="N27 10.394415" lon="W80 13.529692" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="89" lat="N27 10.502924" lon="W80 13.318395" isOnRunway="0" holdPointType="none"  />
+        <node index="90" lat="N27 10.523669" lon="W80 13.533841" isOnRunway="0" holdPointType="none"  />
+        <node index="91" lat="N27 10.495070" lon="W80 13.077443" isOnRunway="0" holdPointType="none"  />
+        <node index="92" lat="N27 10.476893" lon="W80 13.168284" isOnRunway="0" holdPointType="none"  />
+        <node index="93" lat="N27 10.394415" lon="W80 13.529692" isOnRunway="0" holdPointType="none"  />
         <node index="94" lat="N27 11.171078" lon="W80 13.380965" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
@@ -299,17 +299,5 @@
         <arc begin="94" end="5" isPushBackRoute="1" name="Twr_Hngr_stt"  />
         <arc begin="94" end="11" isPushBackRoute="1" name="Twr_Hngr_stt"  />
         <arc begin="11" end="94" isPushBackRoute="1" name="Twr_Hngr_stt"  />
-        <arc begin="0" end="89" isPushBackRoute="1" name="Cntr_Jet_Ramp"  />
-        <arc begin="89" end="0" isPushBackRoute="1" name="Cntr_Jet_Ramp"  />
-        <arc begin="1" end="90" isPushBackRoute="1" name="Glxy_T_Hngr"  />
-        <arc begin="90" end="1" isPushBackRoute="1" name="Glxy_T_Hngr"  />
-        <arc begin="2" end="91" isPushBackRoute="1" name="NW_Ramp_Stt"  />
-        <arc begin="91" end="2" isPushBackRoute="1" name="NW_Ramp_Stt"  />
-        <arc begin="3" end="92" isPushBackRoute="1" name="NWT_Stt"  />
-        <arc begin="92" end="3" isPushBackRoute="1" name="NWT_Stt"  />
-        <arc begin="4" end="93" isPushBackRoute="1" name="SW_Glxy_Rmp"  />
-        <arc begin="93" end="4" isPushBackRoute="1" name="SW_Glxy_Rmp"  />
-        <arc begin="5" end="11" isPushBackRoute="1" name="Twr_Hngr_stt"  />
-        <arc begin="11" end="5" isPushBackRoute="1" name="Twr_Hngr_stt"  />
  </TaxiWaySegments>
 </groundnet>

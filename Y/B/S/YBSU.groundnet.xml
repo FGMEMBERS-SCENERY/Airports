@@ -11,6 +11,6 @@
         <Parking index="6" type="ga" name="North_GA_Hanger" lat="S26 36.132383" lon="E153 5.120732" heading="89.13"  radius="10" airlineCodes="" />
         <Parking index="7" type="ga" name="North_GA_Parking" lat="S26 36.162509" lon="E153 5.191421" heading="218.39"  radius="10" airlineCodes="" />
         <Parking index="8" type="ga" name="Helipad_Juliet" lat="S26 36.070253" lon="E153 5.130126" heading="44.33"  radius="8" airlineCodes="" />
-        <Parking index="9" type="ga" name="Helipad_Delta" lat="S26 36.474466" lon="E153 5.360710" heading="12.78"  radius="8" airlineCodes="" />
+        <Parking index="9" type="ga" name="Helipad_Delta" lat="S26 36.473348" lon="E153 5.362106" heading="12.78"  radius="8" airlineCodes="" />
  </parkingList>
 </groundnet>
