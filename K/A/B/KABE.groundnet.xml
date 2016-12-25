@@ -2,11 +2,11 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Terminal_2" lat="N40 39.226568" lon="W75 26.053978" heading="204.35"  radius="19" pushBackRoute="19" airlineCodes="" />
+        <Parking index="0" type="gate" name="Terminal_2" lat="N40 39.226568" lon="W75 26.053978" heading="204.35"  radius="19" pushBackRoute="20" airlineCodes="" />
         <Parking index="1" type="gate" name="Terminal_1" lat="N40 39.128299" lon="W75 26.208352" heading="88.32"  radius="19" pushBackRoute="17" airlineCodes="" />
         <Parking index="2" type="ga" name="CARGO_2" lat="N40 38.558230" lon="W75 27.118681" heading="140.98"  radius="10" pushBackRoute="7" airlineCodes="" />
         <Parking index="3" type="ga" name="HANGAR_2" lat="N40 39.419293" lon="W75 25.766806" heading="0"  radius="10" pushBackRoute="30" airlineCodes="" />
-        <Parking index="4" type="ga" name="HANGARS_5" lat="N40 39.664124" lon="W75 25.968628" heading="263.57"  radius="10" pushBackRoute="35" airlineCodes="" />
+        <Parking index="4" type="ga" name="HANGARS_5" lat="N40 39.664124" lon="W75 25.968628" heading="263.57"  radius="10" pushBackRoute="34" airlineCodes="" />
         <Parking index="5" type="gate" name="CARGO_4" lat="N40 38.603406" lon="W75 27.054384" heading="140.05"  radius="44" pushBackRoute="12" airlineCodes="" />
         <Parking index="6" type="ga" name="MAINT" lat="N40 39.388573" lon="W75 26.474968" heading="52.69"  radius="10" pushBackRoute="52" airlineCodes="" />
  </parkingList>
@@ -23,7 +23,7 @@
         <node index="16" lat="N40 39.129053" lon="W75 26.240390" isOnRunway="0" holdPointType="none"  />
         <node index="17" lat="N40 39.127843" lon="W75 26.235074" isOnRunway="0" holdPointType="PushBack"  />
         <node index="18" lat="N40 39.128939" lon="W75 26.181729" isOnRunway="0" holdPointType="none"  />
-        <node index="19" lat="N40 39.213389" lon="W75 26.060343" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="19" lat="N40 39.213389" lon="W75 26.060343" isOnRunway="0" holdPointType="none"  />
         <node index="20" lat="N40 39.259225" lon="W75 26.034069" isOnRunway="0" holdPointType="PushBack"  />
         <node index="21" lat="N40 39.457454" lon="W75 25.848748" isOnRunway="0" holdPointType="none"  />
         <node index="22" lat="N40 39.451723" lon="W75 25.848404" isOnRunway="0" holdPointType="none"  />
@@ -39,7 +39,7 @@
         <node index="32" lat="N40 39.677390" lon="W75 25.851634" isOnRunway="0" holdPointType="none"  />
         <node index="33" lat="N40 39.671809" lon="W75 25.911524" isOnRunway="0" holdPointType="none"  />
         <node index="34" lat="N40 39.669716" lon="W75 25.927962" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="35" lat="N40 39.664746" lon="W75 25.959918" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="35" lat="N40 39.664746" lon="W75 25.959918" isOnRunway="0" holdPointType="none"  />
         <node index="36" lat="N40 39.653584" lon="W75 26.081076" isOnRunway="0" holdPointType="none"  />
         <node index="37" lat="N40 39.651666" lon="W75 26.100847" isOnRunway="0" holdPointType="none"  />
         <node index="38" lat="N40 39.652712" lon="W75 26.090501" isOnRunway="0" holdPointType="none"  />
@@ -1330,19 +1330,5 @@
         <arc begin="415" end="6" isPushBackRoute="1" name="MAINT"  />
         <arc begin="415" end="52" isPushBackRoute="1" name="MAINT"  />
         <arc begin="52" end="415" isPushBackRoute="1" name="MAINT"  />
-        <arc begin="0" end="19" isPushBackRoute="1" name="Terminal_2"  />
-        <arc begin="19" end="0" isPushBackRoute="1" name="Terminal_2"  />
-        <arc begin="1" end="17" isPushBackRoute="1" name="Terminal_1"  />
-        <arc begin="17" end="1" isPushBackRoute="1" name="Terminal_1"  />
-        <arc begin="2" end="7" isPushBackRoute="1" name="CARGO_2"  />
-        <arc begin="7" end="2" isPushBackRoute="1" name="CARGO_2"  />
-        <arc begin="3" end="30" isPushBackRoute="1" name="HANGAR_2"  />
-        <arc begin="30" end="3" isPushBackRoute="1" name="HANGAR_2"  />
-        <arc begin="4" end="35" isPushBackRoute="1" name="HANGARS_5"  />
-        <arc begin="35" end="4" isPushBackRoute="1" name="HANGARS_5"  />
-        <arc begin="5" end="12" isPushBackRoute="1" name="CARGO_4"  />
-        <arc begin="12" end="5" isPushBackRoute="1" name="CARGO_4"  />
-        <arc begin="6" end="52" isPushBackRoute="1" name="MAINT"  />
-        <arc begin="52" end="6" isPushBackRoute="1" name="MAINT"  />
  </TaxiWaySegments>
 </groundnet>

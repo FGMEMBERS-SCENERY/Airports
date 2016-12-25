@@ -60,11 +60,5 @@
         <arc begin="19" end="2" isPushBackRoute="1" name="Jets_-_Turbo"  />
         <arc begin="19" end="3" isPushBackRoute="1" name="Jets_-_Turbo"  />
         <arc begin="3" end="19" isPushBackRoute="1" name="Jets_-_Turbo"  />
-        <arc begin="0" end="3" isPushBackRoute="1" name="Props_1"  />
-        <arc begin="3" end="0" isPushBackRoute="1" name="Props_1"  />
-        <arc begin="1" end="3" isPushBackRoute="1" name="Props_2"  />
-        <arc begin="3" end="1" isPushBackRoute="1" name="Props_2"  />
-        <arc begin="2" end="3" isPushBackRoute="1" name="Jets_-_Turbo"  />
-        <arc begin="3" end="2" isPushBackRoute="1" name="Jets_-_Turbo"  />
  </TaxiWaySegments>
 </groundnet>

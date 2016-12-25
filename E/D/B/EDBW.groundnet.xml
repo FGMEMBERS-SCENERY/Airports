@@ -2,14 +2,14 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Hangar" lat="N52 38.277449" lon="E13 45.710910" heading="159.53"  radius="19" pushBackRoute="5" airlineCodes="" />
-        <Parking index="1" type="gate" name="Parking_1" lat="N52 38.222733" lon="E13 45.857905" heading="300.9"  radius="19" pushBackRoute="35" airlineCodes="" />
+        <Parking index="0" type="gate" name="Hangar" lat="N52 38.277449" lon="E13 45.710910" heading="159.53"  radius="19" pushBackRoute="7" airlineCodes="" />
+        <Parking index="1" type="gate" name="Parking_1" lat="N52 38.222733" lon="E13 45.857905" heading="300.9"  radius="19" pushBackRoute="14" airlineCodes="" />
         <Parking index="2" type="gate" name="Parking_2" lat="N52 38.301789" lon="E13 46.006278" heading="-179.41"  radius="19" pushBackRoute="6" airlineCodes="" />
-        <Parking index="3" type="gate" name="Parking_3" lat="N52 38.198493" lon="E13 46.120137" heading="317.23"  radius="19" pushBackRoute="37" airlineCodes="" />
-        <Parking index="4" type="gate" name="Runup_26" lat="N52 38.013502" lon="E13 47.150078" heading="174.64"  radius="19" pushBackRoute="38" airlineCodes="" />
+        <Parking index="3" type="gate" name="Parking_3" lat="N52 38.198493" lon="E13 46.120137" heading="317.23"  radius="19" pushBackRoute="8" airlineCodes="" />
+        <Parking index="4" type="gate" name="Runup_26" lat="N52 38.013502" lon="E13 47.150078" heading="174.64"  radius="19" pushBackRoute="27" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
-        <node index="5" lat="N52 38.269317" lon="E13 45.713945" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="5" lat="N52 38.269317" lon="E13 45.713945" isOnRunway="0" holdPointType="none"  />
         <node index="6" lat="N52 38.287724" lon="E13 46.009311" isOnRunway="0" holdPointType="PushBack"  />
         <node index="7" lat="N52 38.283950" lon="E13 45.704527" isOnRunway="0" holdPointType="PushBack"  />
         <node index="8" lat="N52 38.216578" lon="E13 46.096873" isOnRunway="0" holdPointType="PushBack"  />
@@ -39,10 +39,10 @@
         <node index="32" lat="N52 37.891986" lon="E13 45.899133" isOnRunway="1" holdPointType="none"  />
         <node index="33" lat="N52 37.970863" lon="E13 47.161114" isOnRunway="1" holdPointType="none"  />
         <node index="34" lat="N52 38.302861" lon="E13 45.701424" isOnRunway="0" holdPointType="none"  />
-        <node index="35" lat="N52 38.208804" lon="E13 45.881180" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="35" lat="N52 38.208804" lon="E13 45.881180" isOnRunway="0" holdPointType="none"  />
         <node index="36" lat="N52 38.328912" lon="E13 46.006557" isOnRunway="0" holdPointType="none"  />
-        <node index="37" lat="N52 38.178581" lon="E13 46.138556" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="38" lat="N52 38.040509" lon="E13 47.147544" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="37" lat="N52 38.178581" lon="E13 46.138556" isOnRunway="0" holdPointType="none"  />
+        <node index="38" lat="N52 38.040509" lon="E13 47.147544" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="20" end="6" isPushBackRoute="0" name=""  />
@@ -117,15 +117,5 @@
         <arc begin="38" end="4" isPushBackRoute="1" name="Runup_26"  />
         <arc begin="38" end="27" isPushBackRoute="1" name="Runup_26"  />
         <arc begin="27" end="38" isPushBackRoute="1" name="Runup_26"  />
-        <arc begin="0" end="5" isPushBackRoute="1" name="Hangar"  />
-        <arc begin="5" end="0" isPushBackRoute="1" name="Hangar"  />
-        <arc begin="1" end="35" isPushBackRoute="1" name="Parking_1"  />
-        <arc begin="35" end="1" isPushBackRoute="1" name="Parking_1"  />
-        <arc begin="2" end="6" isPushBackRoute="1" name="Parking_2"  />
-        <arc begin="6" end="2" isPushBackRoute="1" name="Parking_2"  />
-        <arc begin="3" end="37" isPushBackRoute="1" name="Parking_3"  />
-        <arc begin="37" end="3" isPushBackRoute="1" name="Parking_3"  />
-        <arc begin="4" end="38" isPushBackRoute="1" name="Runup_26"  />
-        <arc begin="38" end="4" isPushBackRoute="1" name="Runup_26"  />
  </TaxiWaySegments>
 </groundnet>

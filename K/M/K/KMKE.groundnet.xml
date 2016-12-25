@@ -2,19 +2,19 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Signature_Flight_Support" lat="N42 57.482882" lon="W87 53.878983" heading="270"  radius="19" pushBackRoute="503" airlineCodes="" />
-        <Parking index="1" type="gate" name="USAF_Reserve_Ramp" lat="N42 56.027462" lon="W87 54.213123" heading="270"  radius="44" pushBackRoute="124" airlineCodes="" />
-        <Parking index="2" type="gate" name="Wisconsin_ANG_Ramp" lat="N42 56.544654" lon="W87 53.268388" heading="278"  radius="44" pushBackRoute="505" airlineCodes="" />
-        <Parking index="3" type="gate" name="Cargo_Ramp" lat="N42 56.594175" lon="W87 54.693217" heading="341"  radius="44" pushBackRoute="506" airlineCodes="" />
-        <Parking index="4" type="gate" name="Cessna_Citation_Service_Center" lat="N42 56.356540" lon="W87 54.343947" heading="248.56"  radius="10" pushBackRoute="358" airlineCodes="" />
+        <Parking index="0" type="gate" name="Signature_Flight_Support" lat="N42 57.482882" lon="W87 53.878983" heading="270"  radius="19" pushBackRoute="277" airlineCodes="" />
+        <Parking index="1" type="gate" name="USAF_Reserve_Ramp" lat="N42 56.027462" lon="W87 54.213123" heading="270"  radius="44" pushBackRoute="284" airlineCodes="" />
+        <Parking index="2" type="gate" name="Wisconsin_ANG_Ramp" lat="N42 56.544654" lon="W87 53.268388" heading="278"  radius="44" pushBackRoute="18" airlineCodes="" />
+        <Parking index="3" type="gate" name="Cargo_Ramp" lat="N42 56.594175" lon="W87 54.693217" heading="341"  radius="44" pushBackRoute="166" airlineCodes="" />
+        <Parking index="4" type="gate" name="Cessna_Citation_Service_Center" lat="N42 56.356540" lon="W87 54.343947" heading="248.56"  radius="10" pushBackRoute="334" airlineCodes="" />
         <Parking index="5" type="gate" name="Concourse_D" lat="N42 56.861777" lon="W87 53.881107" heading="280"  radius="44" pushBackRoute="492" airlineCodes="" />
-        <Parking index="6" type="gate" name="Concourse_D_(commuter)" lat="N42 56.829018" lon="W87 54.001150" heading="15"  radius="19" pushBackRoute="479" airlineCodes="" />
-        <Parking index="7" type="gate" name="Concourse_E" lat="N42 56.722774" lon="W87 54.055656" heading="350"  radius="44" pushBackRoute="510" airlineCodes="" />
+        <Parking index="6" type="gate" name="Concourse_D_(commuter)" lat="N42 56.829018" lon="W87 54.001150" heading="15"  radius="19" pushBackRoute="497" airlineCodes="" />
+        <Parking index="7" type="gate" name="Concourse_E" lat="N42 56.722774" lon="W87 54.055656" heading="350"  radius="44" pushBackRoute="415" airlineCodes="" />
         <Parking index="8" type="gate" name="Gate_C10" lat="N42 56.983686" lon="W87 54.131594" heading="131.26"  radius="44" pushBackRoute="481" airlineCodes="" />
         <Parking index="9" type="gate" name="Gate_C15" lat="N42 56.968362" lon="W87 54.027746" heading="300"  radius="44" pushBackRoute="475" airlineCodes="" />
-        <Parking index="10" type="ga" name="Gen_Avia._Ramp" lat="N42 57.250874" lon="W87 53.163124" heading="7.3"  radius="10" pushBackRoute="513" airlineCodes="" />
+        <Parking index="10" type="ga" name="Gen_Avia._Ramp" lat="N42 57.250874" lon="W87 53.163124" heading="7.3"  radius="10" pushBackRoute="69" airlineCodes="" />
         <Parking index="11" type="gate" name="International_Terminal" lat="N42 57.057070" lon="W87 54.181215" heading="260"  radius="44" pushBackRoute="502" airlineCodes="" />
-        <Parking index="12" type="gate" name="Midwest_Airlines_Hanger" lat="N42 56.527342" lon="W87 55.018303" heading="0"  radius="44" pushBackRoute="515" airlineCodes="" />
+        <Parking index="12" type="gate" name="Midwest_Airlines_Hanger" lat="N42 56.527342" lon="W87 55.018303" heading="0"  radius="44" pushBackRoute="164" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="13" lat="N42 56.635074" lon="W87 53.276633" isOnRunway="0" holdPointType="none"  />
@@ -128,7 +128,7 @@
         <node index="121" lat="N42 55.995569" lon="W87 54.171081" isOnRunway="0" holdPointType="none"  />
         <node index="122" lat="N42 56.051839" lon="W87 54.249830" isOnRunway="0" holdPointType="none"  />
         <node index="123" lat="N42 56.118271" lon="W87 54.150524" isOnRunway="0" holdPointType="none"  />
-        <node index="124" lat="N42 56.042498" lon="W87 54.217134" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="124" lat="N42 56.042498" lon="W87 54.217134" isOnRunway="0" holdPointType="none"  />
         <node index="125" lat="N42 56.051047" lon="W87 54.208155" isOnRunway="0" holdPointType="none"  />
         <node index="126" lat="N42 56.059566" lon="W87 54.217627" isOnRunway="0" holdPointType="none"  />
         <node index="127" lat="N42 56.114845" lon="W87 54.161339" isOnRunway="0" holdPointType="none"  />
@@ -362,7 +362,7 @@
         <node index="355" lat="N42 56.711596" lon="W87 53.845584" isOnRunway="0" holdPointType="none"  />
         <node index="356" lat="N42 56.377243" lon="W87 54.383153" isOnRunway="0" holdPointType="none"  />
         <node index="357" lat="N42 56.387561" lon="W87 54.431471" isOnRunway="0" holdPointType="none"  />
-        <node index="358" lat="N42 56.357247" lon="W87 54.376531" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="358" lat="N42 56.357247" lon="W87 54.376531" isOnRunway="0" holdPointType="none"  />
         <node index="359" lat="N42 56.630905" lon="W87 53.891714" isOnRunway="1" holdPointType="none"  />
         <node index="360" lat="N42 56.612935" lon="W87 53.963052" isOnRunway="1" holdPointType="none"  />
         <node index="361" lat="N42 55.876291" lon="W87 53.957411" isOnRunway="0" holdPointType="none"  />
@@ -483,7 +483,7 @@
         <node index="476" lat="N42 57.078598" lon="W87 54.099875" isOnRunway="0" holdPointType="none"  />
         <node index="477" lat="N42 56.973558" lon="W87 53.956030" isOnRunway="0" holdPointType="none"  />
         <node index="478" lat="N42 57.009024" lon="W87 53.919217" isOnRunway="0" holdPointType="none"  />
-        <node index="479" lat="N42 56.826130" lon="W87 53.984189" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="479" lat="N42 56.826130" lon="W87 53.984189" isOnRunway="0" holdPointType="none"  />
         <node index="480" lat="N42 56.907748" lon="W87 53.987543" isOnRunway="0" holdPointType="none"  />
         <node index="481" lat="N42 56.982107" lon="W87 54.148328" isOnRunway="0" holdPointType="PushBack"  />
         <node index="482" lat="N42 57.105544" lon="W87 54.048986" isOnRunway="0" holdPointType="none"  />
@@ -507,19 +507,19 @@
         <node index="500" lat="N42 56.945893" lon="W87 53.871746" isOnRunway="0" holdPointType="none"  />
         <node index="501" lat="N42 56.804875" lon="W87 53.873759" isOnRunway="0" holdPointType="none"  />
         <node index="502" lat="N42 57.054821" lon="W87 54.184862" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="503" lat="N42 57.482882" lon="W87 53.851858" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="503" lat="N42 57.482882" lon="W87 53.851858" isOnRunway="0" holdPointType="none"  />
         <node index="504" lat="N42 56.027462" lon="W87 54.185998" isOnRunway="0" holdPointType="none"  />
-        <node index="505" lat="N42 56.540879" lon="W87 53.241527" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="506" lat="N42 56.568528" lon="W87 54.684386" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="505" lat="N42 56.540879" lon="W87 53.241527" isOnRunway="0" holdPointType="none"  />
+        <node index="506" lat="N42 56.568528" lon="W87 54.684386" isOnRunway="0" holdPointType="none"  />
         <node index="507" lat="N42 56.366454" lon="W87 54.318700" isOnRunway="0" holdPointType="none"  />
         <node index="508" lat="N42 56.857067" lon="W87 53.854394" isOnRunway="0" holdPointType="none"  />
         <node index="509" lat="N42 56.802818" lon="W87 54.008170" isOnRunway="0" holdPointType="none"  />
-        <node index="510" lat="N42 56.696062" lon="W87 54.050946" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="510" lat="N42 56.696062" lon="W87 54.050946" isOnRunway="0" holdPointType="none"  />
         <node index="511" lat="N42 57.001574" lon="W87 54.151985" isOnRunway="0" holdPointType="none"  />
         <node index="512" lat="N42 56.954800" lon="W87 54.004255" isOnRunway="0" holdPointType="none"  />
-        <node index="513" lat="N42 57.223969" lon="W87 53.166571" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="513" lat="N42 57.223969" lon="W87 53.166571" isOnRunway="0" holdPointType="none"  />
         <node index="514" lat="N42 57.061780" lon="W87 54.154502" isOnRunway="0" holdPointType="none"  />
-        <node index="515" lat="N42 56.500218" lon="W87 55.018303" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="515" lat="N42 56.500218" lon="W87 55.018303" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="489" end="388" isPushBackRoute="0" name=""  />
@@ -1608,31 +1608,5 @@
         <arc begin="515" end="12" isPushBackRoute="1" name="Midwest_Airlines_Hanger"  />
         <arc begin="515" end="164" isPushBackRoute="1" name="Midwest_Airlines_Hanger"  />
         <arc begin="164" end="515" isPushBackRoute="1" name="Midwest_Airlines_Hanger"  />
-        <arc begin="0" end="503" isPushBackRoute="1" name="Signature_Flight_Support"  />
-        <arc begin="503" end="0" isPushBackRoute="1" name="Signature_Flight_Support"  />
-        <arc begin="1" end="124" isPushBackRoute="1" name="USAF_Reserve_Ramp"  />
-        <arc begin="124" end="1" isPushBackRoute="1" name="USAF_Reserve_Ramp"  />
-        <arc begin="2" end="505" isPushBackRoute="1" name="Wisconsin_ANG_Ramp"  />
-        <arc begin="505" end="2" isPushBackRoute="1" name="Wisconsin_ANG_Ramp"  />
-        <arc begin="3" end="506" isPushBackRoute="1" name="Cargo_Ramp"  />
-        <arc begin="506" end="3" isPushBackRoute="1" name="Cargo_Ramp"  />
-        <arc begin="4" end="358" isPushBackRoute="1" name="Cessna_Citation_Service_Center"  />
-        <arc begin="358" end="4" isPushBackRoute="1" name="Cessna_Citation_Service_Center"  />
-        <arc begin="5" end="492" isPushBackRoute="1" name="Concourse_D"  />
-        <arc begin="492" end="5" isPushBackRoute="1" name="Concourse_D"  />
-        <arc begin="6" end="479" isPushBackRoute="1" name="Concourse_D_(commuter)"  />
-        <arc begin="479" end="6" isPushBackRoute="1" name="Concourse_D_(commuter)"  />
-        <arc begin="7" end="510" isPushBackRoute="1" name="Concourse_E"  />
-        <arc begin="510" end="7" isPushBackRoute="1" name="Concourse_E"  />
-        <arc begin="8" end="481" isPushBackRoute="1" name="Gate_C10"  />
-        <arc begin="481" end="8" isPushBackRoute="1" name="Gate_C10"  />
-        <arc begin="9" end="475" isPushBackRoute="1" name="Gate_C15"  />
-        <arc begin="475" end="9" isPushBackRoute="1" name="Gate_C15"  />
-        <arc begin="10" end="513" isPushBackRoute="1" name="Gen_Avia._Ramp"  />
-        <arc begin="513" end="10" isPushBackRoute="1" name="Gen_Avia._Ramp"  />
-        <arc begin="11" end="502" isPushBackRoute="1" name="International_Terminal"  />
-        <arc begin="502" end="11" isPushBackRoute="1" name="International_Terminal"  />
-        <arc begin="12" end="515" isPushBackRoute="1" name="Midwest_Airlines_Hanger"  />
-        <arc begin="515" end="12" isPushBackRoute="1" name="Midwest_Airlines_Hanger"  />
  </TaxiWaySegments>
 </groundnet>

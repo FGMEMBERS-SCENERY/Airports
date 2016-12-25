@@ -2,13 +2,13 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Stand_1" lat="S18 3.840310" lon="W140 57.700822" heading="45.27"  radius="44" pushBackRoute="27" airlineCodes="" />
-        <Parking index="1" type="gate" name="Stand_2" lat="S18 3.836214" lon="W140 57.737193" heading="43.24"  radius="44" pushBackRoute="4" airlineCodes="" />
-        <Parking index="2" type="gate" name="Stand_3" lat="S18 3.822336" lon="W140 57.775881" heading="43.5"  radius="44" pushBackRoute="15" airlineCodes="" />
+        <Parking index="0" type="gate" name="Stand_1" lat="S18 3.840310" lon="W140 57.700822" heading="45.27"  radius="44" pushBackRoute="24" airlineCodes="" />
+        <Parking index="1" type="gate" name="Stand_2" lat="S18 3.836214" lon="W140 57.737193" heading="43.24"  radius="44" pushBackRoute="3" airlineCodes="" />
+        <Parking index="2" type="gate" name="Stand_3" lat="S18 3.822336" lon="W140 57.775881" heading="43.5"  radius="44" pushBackRoute="14" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="3" lat="S18 3.851419" lon="W140 57.754309" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="4" lat="S18 3.850925" lon="W140 57.752287" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="4" lat="S18 3.850925" lon="W140 57.752287" isOnRunway="0" holdPointType="none"  />
         <node index="5" lat="S18 3.815242" lon="W140 57.747493" isOnRunway="0" holdPointType="none"  />
         <node index="6" lat="S18 3.806706" lon="W140 57.743011" isOnRunway="0" holdPointType="none"  />
         <node index="7" lat="S18 3.831089" lon="W140 57.448541" isOnRunway="0" holdPointType="none"  />
@@ -19,7 +19,7 @@
         <node index="12" lat="S18 5.130219" lon="W140 56.078873" isOnRunway="1" holdPointType="none"  />
         <node index="13" lat="S18 3.854971" lon="W140 57.423557" isOnRunway="1" holdPointType="none"  />
         <node index="14" lat="S18 3.840656" lon="W140 57.794456" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="15" lat="S18 3.811595" lon="W140 57.789035" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="15" lat="S18 3.811595" lon="W140 57.789035" isOnRunway="0" holdPointType="none"  />
         <node index="16" lat="S18 3.801042" lon="W140 57.782065" isOnRunway="0" holdPointType="none"  />
         <node index="17" lat="S18 3.797017" lon="W140 57.767453" isOnRunway="0" holdPointType="none"  />
         <node index="18" lat="S18 3.799471" lon="W140 57.753357" isOnRunway="0" holdPointType="none"  />
@@ -31,7 +31,7 @@
         <node index="24" lat="S18 3.857465" lon="W140 57.719084" isOnRunway="0" holdPointType="PushBack"  />
         <node index="25" lat="S18 3.821518" lon="W140 57.712328" isOnRunway="0" holdPointType="none"  />
         <node index="26" lat="S18 3.812841" lon="W140 57.708067" isOnRunway="0" holdPointType="none"  />
-        <node index="27" lat="S18 3.834201" lon="W140 57.694655" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="27" lat="S18 3.834201" lon="W140 57.694655" isOnRunway="0" holdPointType="none"  />
         <node index="28" lat="S18 3.859399" lon="W140 57.720092" isOnRunway="0" holdPointType="none"  />
         <node index="29" lat="S18 3.855974" lon="W140 57.755775" isOnRunway="0" holdPointType="none"  />
         <node index="30" lat="S18 3.842012" lon="W140 57.794553" isOnRunway="0" holdPointType="none"  />
@@ -86,11 +86,5 @@
         <arc begin="30" end="2" isPushBackRoute="1" name="Stand_3"  />
         <arc begin="30" end="14" isPushBackRoute="1" name="Stand_3"  />
         <arc begin="14" end="30" isPushBackRoute="1" name="Stand_3"  />
-        <arc begin="0" end="27" isPushBackRoute="1" name="Stand_1"  />
-        <arc begin="27" end="0" isPushBackRoute="1" name="Stand_1"  />
-        <arc begin="1" end="4" isPushBackRoute="1" name="Stand_2"  />
-        <arc begin="4" end="1" isPushBackRoute="1" name="Stand_2"  />
-        <arc begin="2" end="15" isPushBackRoute="1" name="Stand_3"  />
-        <arc begin="15" end="2" isPushBackRoute="1" name="Stand_3"  />
  </TaxiWaySegments>
 </groundnet>

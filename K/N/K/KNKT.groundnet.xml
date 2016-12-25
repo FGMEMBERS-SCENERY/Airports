@@ -4,13 +4,13 @@
   <parkingList>
         <Parking index="0" type="gate" name="East_VSTOL_Pad" lat="N34 54.425707" lon="W76 52.293280" heading="268.7"  radius="17" pushBackRoute="114" airlineCodes="" />
         <Parking index="1" type="gate" name="Combat_Aircraft_Loading_Area" lat="N34 55.025920" lon="W76 53.800632" heading="167.94"  radius="17" pushBackRoute="11" airlineCodes="" />
-        <Parking index="2" type="gate" name="LARGE_REFUEL" lat="N34 54.947742" lon="W76 54.244285" heading="-133.49"  radius="44" pushBackRoute="222" airlineCodes="" />
-        <Parking index="3" type="gate" name="New_Ramp_Start_3" lat="N34 53.737716" lon="W76 53.596450" heading="-46.22"  radius="44" pushBackRoute="223" airlineCodes="" />
-        <Parking index="4" type="gate" name="New_Ramp_Start_1" lat="N34 54.708490" lon="W76 53.899837" heading="-46.43"  radius="44" pushBackRoute="224" airlineCodes="" />
-        <Parking index="5" type="gate" name="New_Ramp_Start_2" lat="N34 54.810913" lon="W76 53.981355" heading="45.53"  radius="44" pushBackRoute="225" airlineCodes="" />
-        <Parking index="6" type="gate" name="Base_Ops/Passenger_Terminal" lat="N34 54.262408" lon="W76 53.298044" heading="-44.88"  radius="17" pushBackRoute="226" airlineCodes="" />
-        <Parking index="7" type="gate" name="Northeast_VSTOL_Pad_3" lat="N34 53.825747" lon="W76 52.849116" heading="0.2"  radius="17" pushBackRoute="227" airlineCodes="" />
-        <Parking index="8" type="gate" name="Southeast_VSTOL_Pad_2" lat="N34 54.101444" lon="W76 53.252655" heading="225.67"  radius="17" pushBackRoute="228" airlineCodes="" />
+        <Parking index="2" type="gate" name="LARGE_REFUEL" lat="N34 54.947742" lon="W76 54.244285" heading="-133.49"  radius="44" pushBackRoute="167" airlineCodes="" />
+        <Parking index="3" type="gate" name="New_Ramp_Start_3" lat="N34 53.737716" lon="W76 53.596450" heading="-46.22"  radius="44" pushBackRoute="199" airlineCodes="" />
+        <Parking index="4" type="gate" name="New_Ramp_Start_1" lat="N34 54.708490" lon="W76 53.899837" heading="-46.43"  radius="44" pushBackRoute="90" airlineCodes="" />
+        <Parking index="5" type="gate" name="New_Ramp_Start_2" lat="N34 54.810913" lon="W76 53.981355" heading="45.53"  radius="44" pushBackRoute="180" airlineCodes="" />
+        <Parking index="6" type="gate" name="Base_Ops/Passenger_Terminal" lat="N34 54.262408" lon="W76 53.298044" heading="-44.88"  radius="17" pushBackRoute="53" airlineCodes="" />
+        <Parking index="7" type="gate" name="Northeast_VSTOL_Pad_3" lat="N34 53.825747" lon="W76 52.849116" heading="0.2"  radius="17" pushBackRoute="150" airlineCodes="" />
+        <Parking index="8" type="gate" name="Southeast_VSTOL_Pad_2" lat="N34 54.101444" lon="W76 53.252655" heading="225.67"  radius="17" pushBackRoute="176" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="9" lat="N34 54.156442" lon="W76 52.962553" isOnRunway="0" holdPointType="none"  />
@@ -226,13 +226,13 @@
         <node index="219" lat="N34 54.424307" lon="W76 52.677643" isOnRunway="0" holdPointType="none"  />
         <node index="220" lat="N34 54.426323" lon="W76 52.266162" isOnRunway="0" holdPointType="none"  />
         <node index="221" lat="N34 55.052446" lon="W76 53.806299" isOnRunway="0" holdPointType="none"  />
-        <node index="222" lat="N34 54.966410" lon="W76 54.224606" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="223" lat="N34 53.718948" lon="W76 53.576866" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="224" lat="N34 54.689794" lon="W76 53.880184" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="225" lat="N34 54.791911" lon="W76 54.000711" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="226" lat="N34 54.243187" lon="W76 53.278904" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="227" lat="N34 53.798622" lon="W76 52.849211" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="228" lat="N34 54.120399" lon="W76 53.233252" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="222" lat="N34 54.966410" lon="W76 54.224606" isOnRunway="0" holdPointType="none"  />
+        <node index="223" lat="N34 53.718948" lon="W76 53.576866" isOnRunway="0" holdPointType="none"  />
+        <node index="224" lat="N34 54.689794" lon="W76 53.880184" isOnRunway="0" holdPointType="none"  />
+        <node index="225" lat="N34 54.791911" lon="W76 54.000711" isOnRunway="0" holdPointType="none"  />
+        <node index="226" lat="N34 54.243187" lon="W76 53.278904" isOnRunway="0" holdPointType="none"  />
+        <node index="227" lat="N34 53.798622" lon="W76 52.849211" isOnRunway="0" holdPointType="none"  />
+        <node index="228" lat="N34 54.120399" lon="W76 53.233252" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="9" end="10" isPushBackRoute="0" name="E"  />
@@ -741,23 +741,5 @@
         <arc begin="228" end="8" isPushBackRoute="1" name="Southeast_VSTOL_Pad_2"  />
         <arc begin="228" end="176" isPushBackRoute="1" name="Southeast_VSTOL_Pad_2"  />
         <arc begin="176" end="228" isPushBackRoute="1" name="Southeast_VSTOL_Pad_2"  />
-        <arc begin="0" end="114" isPushBackRoute="1" name="East_VSTOL_Pad"  />
-        <arc begin="114" end="0" isPushBackRoute="1" name="East_VSTOL_Pad"  />
-        <arc begin="1" end="11" isPushBackRoute="1" name="Combat_Aircraft_Loading_Area"  />
-        <arc begin="11" end="1" isPushBackRoute="1" name="Combat_Aircraft_Loading_Area"  />
-        <arc begin="2" end="222" isPushBackRoute="1" name="LARGE_REFUEL"  />
-        <arc begin="222" end="2" isPushBackRoute="1" name="LARGE_REFUEL"  />
-        <arc begin="3" end="223" isPushBackRoute="1" name="New_Ramp_Start_3"  />
-        <arc begin="223" end="3" isPushBackRoute="1" name="New_Ramp_Start_3"  />
-        <arc begin="4" end="224" isPushBackRoute="1" name="New_Ramp_Start_1"  />
-        <arc begin="224" end="4" isPushBackRoute="1" name="New_Ramp_Start_1"  />
-        <arc begin="5" end="225" isPushBackRoute="1" name="New_Ramp_Start_2"  />
-        <arc begin="225" end="5" isPushBackRoute="1" name="New_Ramp_Start_2"  />
-        <arc begin="6" end="226" isPushBackRoute="1" name="Base_Ops/Passenger_Terminal"  />
-        <arc begin="226" end="6" isPushBackRoute="1" name="Base_Ops/Passenger_Terminal"  />
-        <arc begin="7" end="227" isPushBackRoute="1" name="Northeast_VSTOL_Pad_3"  />
-        <arc begin="227" end="7" isPushBackRoute="1" name="Northeast_VSTOL_Pad_3"  />
-        <arc begin="8" end="228" isPushBackRoute="1" name="Southeast_VSTOL_Pad_2"  />
-        <arc begin="228" end="8" isPushBackRoute="1" name="Southeast_VSTOL_Pad_2"  />
  </TaxiWaySegments>
 </groundnet>

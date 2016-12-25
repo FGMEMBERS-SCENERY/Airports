@@ -2,11 +2,11 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="FALCON_AVIATION" lat="N33 57.078406" lon="W83 19.455656" heading="-178.34"  radius="44" pushBackRoute="83" airlineCodes="" />
-        <Parking index="1" type="gate" name="GA_1" lat="N33 57.138128" lon="W83 19.332870" heading="139.9"  radius="44" pushBackRoute="84" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA2" lat="N33 57.085614" lon="W83 19.564688" heading="182.6"  radius="44" pushBackRoute="85" airlineCodes="" />
-        <Parking index="3" type="gate" name="GA3" lat="N33 57.093424" lon="W83 19.507452" heading="179.29"  radius="44" pushBackRoute="86" airlineCodes="" />
-        <Parking index="4" type="gate" name="HANGARS" lat="N33 57.119516" lon="W83 19.548540" heading="177.19"  radius="44" pushBackRoute="85" airlineCodes="" />
+        <Parking index="0" type="gate" name="FALCON_AVIATION" lat="N33 57.078406" lon="W83 19.455656" heading="-178.34"  radius="44" pushBackRoute="56" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA_1" lat="N33 57.138128" lon="W83 19.332870" heading="139.9"  radius="44" pushBackRoute="35" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA2" lat="N33 57.085614" lon="W83 19.564688" heading="182.6"  radius="44" pushBackRoute="60" airlineCodes="" />
+        <Parking index="3" type="gate" name="GA3" lat="N33 57.093424" lon="W83 19.507452" heading="179.29"  radius="44" pushBackRoute="60" airlineCodes="" />
+        <Parking index="4" type="gate" name="HANGARS" lat="N33 57.119516" lon="W83 19.548540" heading="177.19"  radius="44" pushBackRoute="60" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="5" lat="N33 56.965872" lon="W83 19.354610" isOnRunway="0" holdPointType="none"  />
@@ -87,10 +87,10 @@
         <node index="80" lat="N33 56.957606" lon="W83 19.312537" isOnRunway="1" holdPointType="none"  />
         <node index="81" lat="N33 56.983963" lon="W83 19.335833" isOnRunway="0" holdPointType="none"  />
         <node index="82" lat="N33 57.023000" lon="W83 19.282745" isOnRunway="1" holdPointType="none"  />
-        <node index="83" lat="N33 57.105520" lon="W83 19.454870" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="84" lat="N33 57.158877" lon="W83 19.350342" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="85" lat="N33 57.112711" lon="W83 19.563457" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="86" lat="N33 57.120547" lon="W83 19.507788" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="83" lat="N33 57.105520" lon="W83 19.454870" isOnRunway="0" holdPointType="none"  />
+        <node index="84" lat="N33 57.158877" lon="W83 19.350342" isOnRunway="0" holdPointType="none"  />
+        <node index="85" lat="N33 57.112711" lon="W83 19.563457" isOnRunway="0" holdPointType="none"  />
+        <node index="86" lat="N33 57.120547" lon="W83 19.507788" isOnRunway="0" holdPointType="none"  />
         <node index="87" lat="N33 57.146608" lon="W83 19.549870" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
@@ -270,15 +270,5 @@
         <arc begin="87" end="4" isPushBackRoute="1" name="HANGARS"  />
         <arc begin="87" end="60" isPushBackRoute="1" name="HANGARS"  />
         <arc begin="60" end="87" isPushBackRoute="1" name="HANGARS"  />
-        <arc begin="0" end="83" isPushBackRoute="1" name="FALCON_AVIATION"  />
-        <arc begin="83" end="0" isPushBackRoute="1" name="FALCON_AVIATION"  />
-        <arc begin="1" end="84" isPushBackRoute="1" name="GA_1"  />
-        <arc begin="84" end="1" isPushBackRoute="1" name="GA_1"  />
-        <arc begin="2" end="85" isPushBackRoute="1" name="GA2"  />
-        <arc begin="85" end="2" isPushBackRoute="1" name="GA2"  />
-        <arc begin="3" end="86" isPushBackRoute="1" name="GA3"  />
-        <arc begin="86" end="3" isPushBackRoute="1" name="GA3"  />
-        <arc begin="4" end="85" isPushBackRoute="1" name="HANGARS"  />
-        <arc begin="85" end="4" isPushBackRoute="1" name="HANGARS"  />
  </TaxiWaySegments>
 </groundnet>

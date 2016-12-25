@@ -10,8 +10,8 @@
         <Parking index="5" type="ga" name="East_hangar_1" lat="N50 50.659102" lon="E11 4.647738" heading="179.63"  radius="10" pushBackRoute="32" airlineCodes="" />
         <Parking index="6" type="ga" name="East_hangar_2" lat="N50 50.640301" lon="E11 4.683733" heading="271.92"  radius="10" pushBackRoute="33" airlineCodes="" />
         <Parking index="7" type="ga" name="East_hangar_3" lat="N50 50.666413" lon="E11 4.582483" heading="88"  radius="10" pushBackRoute="29" airlineCodes="" />
-        <Parking index="8" type="ga" name="East_hangar_4" lat="N50 50.677093" lon="E11 4.593387" heading="267.27"  radius="10" pushBackRoute="34" airlineCodes="" />
-        <Parking index="9" type="ga" name="East_grass_apron" lat="N50 50.637019" lon="E11 4.638650" heading="84.17"  radius="10" pushBackRoute="28" airlineCodes="" />
+        <Parking index="8" type="ga" name="East_hangar_4" lat="N50 50.677093" lon="E11 4.593387" heading="267.27"  radius="10" pushBackRoute="30" airlineCodes="" />
+        <Parking index="9" type="ga" name="East_grass_apron" lat="N50 50.637019" lon="E11 4.638650" heading="84.17"  radius="10" pushBackRoute="38" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="10" lat="N50 50.561348" lon="E11 4.381855" isOnRunway="0" holdPointType="none"  />
@@ -32,13 +32,13 @@
         <node index="25" lat="N50 50.548385" lon="E11 4.557743" isOnRunway="0" holdPointType="none"  />
         <node index="26" lat="N50 50.544311" lon="E11 4.561406" isOnRunway="0" holdPointType="none"  />
         <node index="27" lat="N50 50.534427" lon="E11 4.569677" isOnRunway="0" holdPointType="none"  />
-        <node index="28" lat="N50 50.640537" lon="E11 4.642403" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="28" lat="N50 50.640537" lon="E11 4.642403" isOnRunway="0" holdPointType="none"  />
         <node index="29" lat="N50 50.665936" lon="E11 4.585798" isOnRunway="0" holdPointType="PushBack"  />
         <node index="30" lat="N50 50.659022" lon="E11 4.615262" isOnRunway="0" holdPointType="PushBack"  />
         <node index="31" lat="N50 50.657359" lon="E11 4.631441" isOnRunway="0" holdPointType="none"  />
         <node index="32" lat="N50 50.653400" lon="E11 4.647380" isOnRunway="0" holdPointType="PushBack"  />
         <node index="33" lat="N50 50.640759" lon="E11 4.670923" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="34" lat="N50 50.673661" lon="E11 4.590677" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="34" lat="N50 50.673661" lon="E11 4.590677" isOnRunway="0" holdPointType="none"  />
         <node index="35" lat="N50 50.666303" lon="E11 4.597092" isOnRunway="0" holdPointType="none"  />
         <node index="36" lat="N50 50.576470" lon="E11 4.602367" isOnRunway="0" holdPointType="none"  />
         <node index="37" lat="N50 50.591092" lon="E11 4.601438" isOnRunway="0" holdPointType="none"  />
@@ -214,25 +214,5 @@
         <arc begin="71" end="9" isPushBackRoute="1" name="East_grass_apron"  />
         <arc begin="71" end="38" isPushBackRoute="1" name="East_grass_apron"  />
         <arc begin="38" end="71" isPushBackRoute="1" name="East_grass_apron"  />
-        <arc begin="0" end="45" isPushBackRoute="1" name="Parking_area_1"  />
-        <arc begin="45" end="0" isPushBackRoute="1" name="Parking_area_1"  />
-        <arc begin="1" end="46" isPushBackRoute="1" name="Parking_area_2"  />
-        <arc begin="46" end="1" isPushBackRoute="1" name="Parking_area_2"  />
-        <arc begin="2" end="46" isPushBackRoute="1" name="Parking_area_3"  />
-        <arc begin="46" end="2" isPushBackRoute="1" name="Parking_area_3"  />
-        <arc begin="3" end="47" isPushBackRoute="1" name="Parking_area_4"  />
-        <arc begin="47" end="3" isPushBackRoute="1" name="Parking_area_4"  />
-        <arc begin="4" end="47" isPushBackRoute="1" name="Parking_area_5"  />
-        <arc begin="47" end="4" isPushBackRoute="1" name="Parking_area_5"  />
-        <arc begin="5" end="32" isPushBackRoute="1" name="East_hangar_1"  />
-        <arc begin="32" end="5" isPushBackRoute="1" name="East_hangar_1"  />
-        <arc begin="6" end="33" isPushBackRoute="1" name="East_hangar_2"  />
-        <arc begin="33" end="6" isPushBackRoute="1" name="East_hangar_2"  />
-        <arc begin="7" end="29" isPushBackRoute="1" name="East_hangar_3"  />
-        <arc begin="29" end="7" isPushBackRoute="1" name="East_hangar_3"  />
-        <arc begin="8" end="34" isPushBackRoute="1" name="East_hangar_4"  />
-        <arc begin="34" end="8" isPushBackRoute="1" name="East_hangar_4"  />
-        <arc begin="9" end="28" isPushBackRoute="1" name="East_grass_apron"  />
-        <arc begin="28" end="9" isPushBackRoute="1" name="East_grass_apron"  />
  </TaxiWaySegments>
 </groundnet>

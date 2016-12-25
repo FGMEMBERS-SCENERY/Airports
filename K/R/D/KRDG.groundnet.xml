@@ -2,7 +2,7 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="TERMINAL_RAMP" lat="N40 22.485892" lon="W75 57.799428" heading="29.5"  radius="17" pushBackRoute="121" airlineCodes="" />
+        <Parking index="0" type="gate" name="TERMINAL_RAMP" lat="N40 22.485892" lon="W75 57.799428" heading="29.5"  radius="17" pushBackRoute="25" airlineCodes="" />
         <Parking index="1" type="ga" name="GA_SW" lat="N40 22.527190" lon="W75 58.177661" heading="38.23"  radius="10" pushBackRoute="4" airlineCodes="" />
         <Parking index="2" type="ga" name="GA_NW" lat="N40 22.954718" lon="W75 58.326179" heading="-148.35"  radius="10" pushBackRoute="58" airlineCodes="" />
         <Parking index="3" type="ga" name="GA_NE" lat="N40 22.890817" lon="W75 58.181383" heading="212.53"  radius="10" pushBackRoute="61" airlineCodes="" />
@@ -125,7 +125,7 @@
         <node index="118" lat="N40 22.915574" lon="W75 57.775012" isOnRunway="0" holdPointType="none"  />
         <node index="119" lat="N40 22.538078" lon="W75 57.660811" isOnRunway="1" holdPointType="none"  />
         <node index="120" lat="N40 22.435869" lon="W75 57.643005" isOnRunway="1" holdPointType="none"  />
-        <node index="121" lat="N40 22.462284" lon="W75 57.812785" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="121" lat="N40 22.462284" lon="W75 57.812785" isOnRunway="0" holdPointType="none"  />
         <node index="122" lat="N40 22.505882" lon="W75 58.194447" isOnRunway="0" holdPointType="none"  />
         <node index="123" lat="N40 22.977809" lon="W75 58.311946" isOnRunway="0" holdPointType="none"  />
         <node index="124" lat="N40 22.913686" lon="W75 58.166796" isOnRunway="0" holdPointType="none"  />
@@ -419,13 +419,5 @@
         <arc begin="124" end="3" isPushBackRoute="1" name="GA_NE"  />
         <arc begin="124" end="61" isPushBackRoute="1" name="GA_NE"  />
         <arc begin="61" end="124" isPushBackRoute="1" name="GA_NE"  />
-        <arc begin="0" end="121" isPushBackRoute="1" name="TERMINAL_RAMP"  />
-        <arc begin="121" end="0" isPushBackRoute="1" name="TERMINAL_RAMP"  />
-        <arc begin="1" end="4" isPushBackRoute="1" name="GA_SW"  />
-        <arc begin="4" end="1" isPushBackRoute="1" name="GA_SW"  />
-        <arc begin="2" end="58" isPushBackRoute="1" name="GA_NW"  />
-        <arc begin="58" end="2" isPushBackRoute="1" name="GA_NW"  />
-        <arc begin="3" end="61" isPushBackRoute="1" name="GA_NE"  />
-        <arc begin="61" end="3" isPushBackRoute="1" name="GA_NE"  />
  </TaxiWaySegments>
 </groundnet>

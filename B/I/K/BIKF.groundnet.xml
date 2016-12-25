@@ -2,18 +2,18 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Gate_1" lat="N63 59.727563" lon="W22 37.478263" heading="90.5"  radius="19" pushBackRoute="229" airlineCodes="" />
+        <Parking index="0" type="gate" name="Gate_1" lat="N63 59.727563" lon="W22 37.478263" heading="90.5"  radius="19" pushBackRoute="128" airlineCodes="" />
         <Parking index="1" type="gate" name="Gate_2" lat="N63 59.727296" lon="W22 37.378116" heading="-90"  radius="19" pushBackRoute="38" airlineCodes="" />
         <Parking index="2" type="gate" name="Gate_4" lat="N63 59.690960" lon="W22 37.381183" heading="-90"  radius="19" pushBackRoute="39" airlineCodes="" />
         <Parking index="3" type="gate" name="Gate_5" lat="N63 59.654858" lon="W22 37.480619" heading="90.07"  radius="19" pushBackRoute="40" airlineCodes="" />
         <Parking index="4" type="gate" name="Gate_8" lat="N63 59.629833" lon="W22 37.323352" heading="-121.76"  radius="19" pushBackRoute="41" airlineCodes="" />
-        <Parking index="5" type="gate" name="Gate_9_Heavy" lat="N63 59.566567" lon="W22 37.317439" heading="-48.55"  radius="44" pushBackRoute="42" airlineCodes="" />
+        <Parking index="5" type="gate" name="Gate_9_Heavy" lat="N63 59.566567" lon="W22 37.317439" heading="-48.55"  radius="44" pushBackRoute="137" airlineCodes="" />
         <Parking index="6" type="gate" name="Gate_10" lat="N63 59.597614" lon="W22 37.296823" heading="-89.99"  radius="19" pushBackRoute="43" airlineCodes="" />
         <Parking index="7" type="gate" name="Gate_11" lat="N63 59.626932" lon="W22 37.520191" heading="124.92"  radius="19" pushBackRoute="44" airlineCodes="" />
-        <Parking index="8" type="gate" name="Gate_12_Heavy" lat="N63 59.563353" lon="W22 37.474931" heading="360"  radius="44" pushBackRoute="45" airlineCodes="" />
-        <Parking index="9" type="gate" name="Gate_14" lat="N63 59.566477" lon="W22 37.542935" heading="47.96"  radius="19" pushBackRoute="46" airlineCodes="" />
-        <Parking index="10" type="gate" name="Stand_20" lat="N63 59.673370" lon="W22 37.653202" heading="-89.92"  radius="19" pushBackRoute="47" airlineCodes="" />
-        <Parking index="11" type="gate" name="Stand_21" lat="N63 59.657969" lon="W22 37.661769" heading="-89.92"  radius="19" pushBackRoute="48" airlineCodes="" />
+        <Parking index="8" type="gate" name="Gate_12_Heavy" lat="N63 59.563353" lon="W22 37.474931" heading="360"  radius="44" pushBackRoute="138" airlineCodes="" />
+        <Parking index="9" type="gate" name="Gate_14" lat="N63 59.566477" lon="W22 37.542935" heading="47.96"  radius="19" pushBackRoute="139" airlineCodes="" />
+        <Parking index="10" type="gate" name="Stand_20" lat="N63 59.673370" lon="W22 37.653202" heading="-89.92"  radius="19" pushBackRoute="121" airlineCodes="" />
+        <Parking index="11" type="gate" name="Stand_21" lat="N63 59.657969" lon="W22 37.661769" heading="-89.92"  radius="19" pushBackRoute="122" airlineCodes="" />
         <Parking index="12" type="gate" name="Stand_22" lat="N63 59.654839" lon="W22 37.744062" heading="-89.92"  radius="19" pushBackRoute="49" airlineCodes="" />
         <Parking index="13" type="gate" name="Stand_23_Heavy" lat="N63 59.638305" lon="W22 37.744192" heading="-89.92"  radius="44" pushBackRoute="50" airlineCodes="" />
         <Parking index="14" type="gate" name="Stand_24" lat="N63 59.626040" lon="W22 37.744867" heading="-89.92"  radius="19" pushBackRoute="51" airlineCodes="" />
@@ -23,16 +23,16 @@
         <Parking index="18" type="gate" name="East_Apron_Stand_104" lat="N63 58.375792" lon="W22 35.497925" heading="-66.84"  radius="19" pushBackRoute="55" airlineCodes="" />
         <Parking index="19" type="gate" name="East_Apron_Stand_109" lat="N63 58.488654" lon="W22 35.394856" heading="-66.84"  radius="19" pushBackRoute="56" airlineCodes="" />
         <Parking index="20" type="gate" name="East_Apron_Stand_111" lat="N63 58.556023" lon="W22 35.328489" heading="-66.84"  radius="19" pushBackRoute="57" airlineCodes="" />
-        <Parking index="21" type="gate" name="East_Apron_Stand_112" lat="N63 58.787600" lon="W22 34.852673" heading="90.46"  radius="19" pushBackRoute="58" airlineCodes="" />
-        <Parking index="22" type="gate" name="East_Apron_Stand_114" lat="N63 58.846404" lon="W22 34.849614" heading="90.46"  radius="19" pushBackRoute="59" airlineCodes="" />
-        <Parking index="23" type="gate" name="East_Apron_Stand_118" lat="N63 58.898533" lon="W22 35.174982" heading="0.29"  radius="19" pushBackRoute="60" airlineCodes="" />
-        <Parking index="24" type="gate" name="East_Apron_Stand_118" lat="N63 58.899116" lon="W22 35.319156" heading="0.29"  radius="19" pushBackRoute="61" airlineCodes="" />
+        <Parking index="21" type="gate" name="East_Apron_Stand_112" lat="N63 58.787600" lon="W22 34.852673" heading="90.46"  radius="19" pushBackRoute="106" airlineCodes="" />
+        <Parking index="22" type="gate" name="East_Apron_Stand_114" lat="N63 58.846404" lon="W22 34.849614" heading="90.46"  radius="19" pushBackRoute="108" airlineCodes="" />
+        <Parking index="23" type="gate" name="East_Apron_Stand_118" lat="N63 58.898533" lon="W22 35.174982" heading="0.29"  radius="19" pushBackRoute="92" airlineCodes="" />
+        <Parking index="24" type="gate" name="East_Apron_Stand_118" lat="N63 58.899116" lon="W22 35.319156" heading="0.29"  radius="19" pushBackRoute="91" airlineCodes="" />
         <Parking index="25" type="gate" name="East_Apron_Stand_119" lat="N63 58.849927" lon="W22 35.174879" heading="90.84"  radius="19" pushBackRoute="62" airlineCodes="" />
-        <Parking index="26" type="gate" name="East_Apron_Stand_121" lat="N63 58.788568" lon="W22 35.161536" heading="90.84"  radius="19" pushBackRoute="63" airlineCodes="" />
+        <Parking index="26" type="gate" name="East_Apron_Stand_121" lat="N63 58.788568" lon="W22 35.161536" heading="90.84"  radius="19" pushBackRoute="65" airlineCodes="" />
         <Parking index="27" type="gate" name="East_Apron_Stand_122" lat="N63 58.850248" lon="W22 35.262070" heading="-89.32"  radius="19" pushBackRoute="64" airlineCodes="" />
-        <Parking index="28" type="gate" name="East_Apron_Stand_124" lat="N63 58.788888" lon="W22 35.206028" heading="-89.32"  radius="19" pushBackRoute="65" airlineCodes="" />
-        <Parking index="29" type="gate" name="East_Apron_Stand_125" lat="N63 58.771614" lon="W22 35.410837" heading="112.79"  radius="19" pushBackRoute="258" airlineCodes="" />
-        <Parking index="30" type="gate" name="East_Apron_Stand_127" lat="N63 58.730147" lon="W22 35.450296" heading="112.79"  radius="19" pushBackRoute="259" airlineCodes="" />
+        <Parking index="28" type="gate" name="East_Apron_Stand_124" lat="N63 58.788888" lon="W22 35.206028" heading="-89.32"  radius="19" pushBackRoute="63" airlineCodes="" />
+        <Parking index="29" type="gate" name="East_Apron_Stand_125" lat="N63 58.771614" lon="W22 35.410837" heading="112.79"  radius="19" pushBackRoute="94" airlineCodes="" />
+        <Parking index="30" type="gate" name="East_Apron_Stand_127" lat="N63 58.730147" lon="W22 35.450296" heading="112.79"  radius="19" pushBackRoute="86" airlineCodes="" />
         <Parking index="31" type="gate" name="East_Apron_Stand_128" lat="N63 58.511968" lon="W22 35.735771" heading="269.2"  radius="19" pushBackRoute="66" airlineCodes="" />
         <Parking index="32" type="gate" name="East_Apron_Stand_129" lat="N63 58.494253" lon="W22 35.735159" heading="269.2"  radius="19" pushBackRoute="67" airlineCodes="" />
         <Parking index="33" type="gate" name="East_Apron_Stand_131" lat="N63 58.526705" lon="W22 35.855586" heading="89.75"  radius="19" pushBackRoute="68" airlineCodes="" />
@@ -46,13 +46,13 @@
         <node index="39" lat="N63 59.690960" lon="W22 37.389863" isOnRunway="0" holdPointType="PushBack"  />
         <node index="40" lat="N63 59.654848" lon="W22 37.471939" isOnRunway="0" holdPointType="PushBack"  />
         <node index="41" lat="N63 59.625264" lon="W22 37.330732" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="42" lat="N63 59.572313" lon="W22 37.323944" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="42" lat="N63 59.572313" lon="W22 37.323944" isOnRunway="0" holdPointType="none"  />
         <node index="43" lat="N63 59.597615" lon="W22 37.305503" isOnRunway="0" holdPointType="PushBack"  />
         <node index="44" lat="N63 59.621963" lon="W22 37.513073" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="45" lat="N63 59.572033" lon="W22 37.474931" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="46" lat="N63 59.572290" lon="W22 37.536488" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="47" lat="N63 59.673382" lon="W22 37.661882" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="48" lat="N63 59.657981" lon="W22 37.670449" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="45" lat="N63 59.572033" lon="W22 37.474931" isOnRunway="0" holdPointType="none"  />
+        <node index="46" lat="N63 59.572290" lon="W22 37.536488" isOnRunway="0" holdPointType="none"  />
+        <node index="47" lat="N63 59.673382" lon="W22 37.661882" isOnRunway="0" holdPointType="none"  />
+        <node index="48" lat="N63 59.657981" lon="W22 37.670449" isOnRunway="0" holdPointType="none"  />
         <node index="49" lat="N63 59.654851" lon="W22 37.752742" isOnRunway="0" holdPointType="PushBack"  />
         <node index="50" lat="N63 59.638318" lon="W22 37.752872" isOnRunway="0" holdPointType="PushBack"  />
         <node index="51" lat="N63 59.626052" lon="W22 37.753547" isOnRunway="0" holdPointType="PushBack"  />
@@ -62,10 +62,10 @@
         <node index="55" lat="N63 58.379206" lon="W22 35.505905" isOnRunway="0" holdPointType="PushBack"  />
         <node index="56" lat="N63 58.492068" lon="W22 35.402837" isOnRunway="0" holdPointType="PushBack"  />
         <node index="57" lat="N63 58.559437" lon="W22 35.336470" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="58" lat="N63 58.787531" lon="W22 34.843993" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="59" lat="N63 58.846334" lon="W22 34.840934" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="60" lat="N63 58.907213" lon="W22 35.174938" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="61" lat="N63 58.907796" lon="W22 35.319112" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="58" lat="N63 58.787531" lon="W22 34.843993" isOnRunway="0" holdPointType="none"  />
+        <node index="59" lat="N63 58.846334" lon="W22 34.840934" isOnRunway="0" holdPointType="none"  />
+        <node index="60" lat="N63 58.907213" lon="W22 35.174938" isOnRunway="0" holdPointType="none"  />
+        <node index="61" lat="N63 58.907796" lon="W22 35.319112" isOnRunway="0" holdPointType="none"  />
         <node index="62" lat="N63 58.849800" lon="W22 35.166200" isOnRunway="0" holdPointType="PushBack"  />
         <node index="63" lat="N63 58.788440" lon="W22 35.152857" isOnRunway="0" holdPointType="PushBack"  />
         <node index="64" lat="N63 58.850351" lon="W22 35.270749" isOnRunway="0" holdPointType="PushBack"  />
@@ -233,7 +233,7 @@
         <node index="226" lat="N63 58.601027" lon="W22 37.509237" isOnRunway="0" holdPointType="none"  />
         <node index="227" lat="N63 58.789650" lon="W22 37.652543" isOnRunway="0" holdPointType="none"  />
         <node index="228" lat="N63 58.612102" lon="W22 37.517786" isOnRunway="0" holdPointType="none"  />
-        <node index="229" lat="N63 59.727800" lon="W22 37.505386" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="229" lat="N63 59.727800" lon="W22 37.505386" isOnRunway="0" holdPointType="none"  />
         <node index="230" lat="N63 59.727296" lon="W22 37.350991" isOnRunway="0" holdPointType="none"  />
         <node index="231" lat="N63 59.690960" lon="W22 37.354058" isOnRunway="0" holdPointType="none"  />
         <node index="232" lat="N63 59.654891" lon="W22 37.507744" isOnRunway="0" holdPointType="none"  />
@@ -262,8 +262,8 @@
         <node index="255" lat="N63 58.788965" lon="W22 35.188658" isOnRunway="0" holdPointType="none"  />
         <node index="256" lat="N63 58.849926" lon="W22 35.234947" isOnRunway="0" holdPointType="none"  />
         <node index="257" lat="N63 58.788566" lon="W22 35.178905" isOnRunway="0" holdPointType="none"  />
-        <node index="258" lat="N63 58.782121" lon="W22 35.435844" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="259" lat="N63 58.740654" lon="W22 35.475303" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="258" lat="N63 58.782121" lon="W22 35.435844" isOnRunway="0" holdPointType="none"  />
+        <node index="259" lat="N63 58.740654" lon="W22 35.475303" isOnRunway="0" holdPointType="none"  />
         <node index="260" lat="N63 58.512346" lon="W22 35.708649" isOnRunway="0" holdPointType="none"  />
         <node index="261" lat="N63 58.494632" lon="W22 35.708037" isOnRunway="0" holdPointType="none"  />
         <node index="262" lat="N63 58.526586" lon="W22 35.882711" isOnRunway="0" holdPointType="none"  />
@@ -835,81 +835,5 @@
         <arc begin="266" end="37" isPushBackRoute="1" name="East_Apron_Maintenance_Hangar"  />
         <arc begin="266" end="72" isPushBackRoute="1" name="East_Apron_Maintenance_Hangar"  />
         <arc begin="72" end="266" isPushBackRoute="1" name="East_Apron_Maintenance_Hangar"  />
-        <arc begin="0" end="229" isPushBackRoute="1" name="Gate_1"  />
-        <arc begin="229" end="0" isPushBackRoute="1" name="Gate_1"  />
-        <arc begin="1" end="38" isPushBackRoute="1" name="Gate_2"  />
-        <arc begin="38" end="1" isPushBackRoute="1" name="Gate_2"  />
-        <arc begin="2" end="39" isPushBackRoute="1" name="Gate_4"  />
-        <arc begin="39" end="2" isPushBackRoute="1" name="Gate_4"  />
-        <arc begin="3" end="40" isPushBackRoute="1" name="Gate_5"  />
-        <arc begin="40" end="3" isPushBackRoute="1" name="Gate_5"  />
-        <arc begin="4" end="41" isPushBackRoute="1" name="Gate_8"  />
-        <arc begin="41" end="4" isPushBackRoute="1" name="Gate_8"  />
-        <arc begin="5" end="42" isPushBackRoute="1" name="Gate_9_Heavy"  />
-        <arc begin="42" end="5" isPushBackRoute="1" name="Gate_9_Heavy"  />
-        <arc begin="6" end="43" isPushBackRoute="1" name="Gate_10"  />
-        <arc begin="43" end="6" isPushBackRoute="1" name="Gate_10"  />
-        <arc begin="7" end="44" isPushBackRoute="1" name="Gate_11"  />
-        <arc begin="44" end="7" isPushBackRoute="1" name="Gate_11"  />
-        <arc begin="8" end="45" isPushBackRoute="1" name="Gate_12_Heavy"  />
-        <arc begin="45" end="8" isPushBackRoute="1" name="Gate_12_Heavy"  />
-        <arc begin="9" end="46" isPushBackRoute="1" name="Gate_14"  />
-        <arc begin="46" end="9" isPushBackRoute="1" name="Gate_14"  />
-        <arc begin="10" end="47" isPushBackRoute="1" name="Stand_20"  />
-        <arc begin="47" end="10" isPushBackRoute="1" name="Stand_20"  />
-        <arc begin="11" end="48" isPushBackRoute="1" name="Stand_21"  />
-        <arc begin="48" end="11" isPushBackRoute="1" name="Stand_21"  />
-        <arc begin="12" end="49" isPushBackRoute="1" name="Stand_22"  />
-        <arc begin="49" end="12" isPushBackRoute="1" name="Stand_22"  />
-        <arc begin="13" end="50" isPushBackRoute="1" name="Stand_23_Heavy"  />
-        <arc begin="50" end="13" isPushBackRoute="1" name="Stand_23_Heavy"  />
-        <arc begin="14" end="51" isPushBackRoute="1" name="Stand_24"  />
-        <arc begin="51" end="14" isPushBackRoute="1" name="Stand_24"  />
-        <arc begin="15" end="52" isPushBackRoute="1" name="Maintenance_Stand_63"  />
-        <arc begin="52" end="15" isPushBackRoute="1" name="Maintenance_Stand_63"  />
-        <arc begin="16" end="53" isPushBackRoute="1" name="Maintenance_Stand_64"  />
-        <arc begin="53" end="16" isPushBackRoute="1" name="Maintenance_Stand_64"  />
-        <arc begin="17" end="54" isPushBackRoute="1" name="East_Apron_Stand_101"  />
-        <arc begin="54" end="17" isPushBackRoute="1" name="East_Apron_Stand_101"  />
-        <arc begin="18" end="55" isPushBackRoute="1" name="East_Apron_Stand_104"  />
-        <arc begin="55" end="18" isPushBackRoute="1" name="East_Apron_Stand_104"  />
-        <arc begin="19" end="56" isPushBackRoute="1" name="East_Apron_Stand_109"  />
-        <arc begin="56" end="19" isPushBackRoute="1" name="East_Apron_Stand_109"  />
-        <arc begin="20" end="57" isPushBackRoute="1" name="East_Apron_Stand_111"  />
-        <arc begin="57" end="20" isPushBackRoute="1" name="East_Apron_Stand_111"  />
-        <arc begin="21" end="58" isPushBackRoute="1" name="East_Apron_Stand_112"  />
-        <arc begin="58" end="21" isPushBackRoute="1" name="East_Apron_Stand_112"  />
-        <arc begin="22" end="59" isPushBackRoute="1" name="East_Apron_Stand_114"  />
-        <arc begin="59" end="22" isPushBackRoute="1" name="East_Apron_Stand_114"  />
-        <arc begin="23" end="60" isPushBackRoute="1" name="East_Apron_Stand_118"  />
-        <arc begin="60" end="23" isPushBackRoute="1" name="East_Apron_Stand_118"  />
-        <arc begin="24" end="61" isPushBackRoute="1" name="East_Apron_Stand_118"  />
-        <arc begin="61" end="24" isPushBackRoute="1" name="East_Apron_Stand_118"  />
-        <arc begin="25" end="62" isPushBackRoute="1" name="East_Apron_Stand_119"  />
-        <arc begin="62" end="25" isPushBackRoute="1" name="East_Apron_Stand_119"  />
-        <arc begin="26" end="63" isPushBackRoute="1" name="East_Apron_Stand_121"  />
-        <arc begin="63" end="26" isPushBackRoute="1" name="East_Apron_Stand_121"  />
-        <arc begin="27" end="64" isPushBackRoute="1" name="East_Apron_Stand_122"  />
-        <arc begin="64" end="27" isPushBackRoute="1" name="East_Apron_Stand_122"  />
-        <arc begin="28" end="65" isPushBackRoute="1" name="East_Apron_Stand_124"  />
-        <arc begin="65" end="28" isPushBackRoute="1" name="East_Apron_Stand_124"  />
-        <arc begin="29" end="258" isPushBackRoute="1" name="East_Apron_Stand_125"  />
-        <arc begin="258" end="29" isPushBackRoute="1" name="East_Apron_Stand_125"  />
-        <arc begin="30" end="259" isPushBackRoute="1" name="East_Apron_Stand_127"  />
-        <arc begin="259" end="30" isPushBackRoute="1" name="East_Apron_Stand_127"  />
-        <arc begin="31" end="66" isPushBackRoute="1" name="East_Apron_Stand_128"  />
-        <arc begin="66" end="31" isPushBackRoute="1" name="East_Apron_Stand_128"  />
-        <arc begin="32" end="67" isPushBackRoute="1" name="East_Apron_Stand_129"  />
-        <arc begin="67" end="32" isPushBackRoute="1" name="East_Apron_Stand_129"  />
-        <arc begin="33" end="68" isPushBackRoute="1" name="East_Apron_Stand_131"  />
-        <arc begin="68" end="33" isPushBackRoute="1" name="East_Apron_Stand_131"  />
-        <arc begin="34" end="69" isPushBackRoute="1" name="East_Apron_Stand_133"  />
-        <arc begin="69" end="34" isPushBackRoute="1" name="East_Apron_Stand_133"  />
-        <arc begin="35" end="70" isPushBackRoute="1" name="East_Apron_Stand_135"  />
-        <arc begin="70" end="35" isPushBackRoute="1" name="East_Apron_Stand_135"  />
-        <arc begin="36" end="71" isPushBackRoute="1" name="East_Apron_Stand_138"  />
-        <arc begin="71" end="36" isPushBackRoute="1" name="East_Apron_Stand_138"  />
-        <arc begin="37" end="72" isPushBackRoute="1" name="East_Apron_Maintenance_Hangar"  />
-        <arc begin="72" end="37" isPushBackRoute="1" name="East_Apron_Maintenance_Hangar"  />
  </TaxiWaySegments>
 </groundnet>

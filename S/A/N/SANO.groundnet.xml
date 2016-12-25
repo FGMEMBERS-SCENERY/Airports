@@ -33,11 +33,5 @@
         <arc begin="10" end="2" isPushBackRoute="1" name="GA_Ramp_Large"  />
         <arc begin="10" end="6" isPushBackRoute="1" name="GA_Ramp_Large"  />
         <arc begin="6" end="10" isPushBackRoute="1" name="GA_Ramp_Large"  />
-        <arc begin="0" end="6" isPushBackRoute="1" name="GA_Ramp_1"  />
-        <arc begin="6" end="0" isPushBackRoute="1" name="GA_Ramp_1"  />
-        <arc begin="1" end="6" isPushBackRoute="1" name="GA_Ramp_2"  />
-        <arc begin="6" end="1" isPushBackRoute="1" name="GA_Ramp_2"  />
-        <arc begin="2" end="6" isPushBackRoute="1" name="GA_Ramp_Large"  />
-        <arc begin="6" end="2" isPushBackRoute="1" name="GA_Ramp_Large"  />
  </TaxiWaySegments>
 </groundnet>

@@ -2,7 +2,7 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="ANG_S" lat="N38 22.304412" lon="W81 35.539254" heading="89.01"  radius="17" pushBackRoute="150" airlineCodes="" />
+        <Parking index="0" type="gate" name="ANG_S" lat="N38 22.304412" lon="W81 35.539254" heading="89.01"  radius="17" pushBackRoute="146" airlineCodes="" />
         <Parking index="1" type="gate" name="GATE_5" lat="N38 22.277648" lon="W81 35.801066" heading="180.05"  radius="17" pushBackRoute="122" airlineCodes="" />
         <Parking index="2" type="gate" name="GA_PARKING" lat="N38 21.860980" lon="W81 35.435457" heading="231.94"  radius="17" pushBackRoute="47" airlineCodes="" />
  </parkingList>
@@ -154,7 +154,7 @@
         <node index="147" lat="N38 22.304831" lon="W81 35.656330" isOnRunway="0" holdPointType="none"  />
         <node index="148" lat="N38 22.317931" lon="W81 35.635963" isOnRunway="0" holdPointType="none"  />
         <node index="149" lat="N38 22.287934" lon="W81 35.683081" isOnRunway="0" holdPointType="none"  />
-        <node index="150" lat="N38 22.303943" lon="W81 35.566375" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="150" lat="N38 22.303943" lon="W81 35.566375" isOnRunway="0" holdPointType="none"  />
         <node index="151" lat="N38 22.304773" lon="W81 35.801043" isOnRunway="0" holdPointType="none"  />
         <node index="152" lat="N38 21.877702" lon="W81 35.414100" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
@@ -525,11 +525,5 @@
         <arc begin="152" end="2" isPushBackRoute="1" name="GA_PARKING"  />
         <arc begin="152" end="47" isPushBackRoute="1" name="GA_PARKING"  />
         <arc begin="47" end="152" isPushBackRoute="1" name="GA_PARKING"  />
-        <arc begin="0" end="150" isPushBackRoute="1" name="ANG_S"  />
-        <arc begin="150" end="0" isPushBackRoute="1" name="ANG_S"  />
-        <arc begin="1" end="122" isPushBackRoute="1" name="GATE_5"  />
-        <arc begin="122" end="1" isPushBackRoute="1" name="GATE_5"  />
-        <arc begin="2" end="47" isPushBackRoute="1" name="GA_PARKING"  />
-        <arc begin="47" end="2" isPushBackRoute="1" name="GA_PARKING"  />
  </TaxiWaySegments>
 </groundnet>

@@ -2,13 +2,13 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Apron_large_acft_1" lat="N51 15.966608" lon="E10 38.116206" heading="19.72"  radius="19" pushBackRoute="40" airlineCodes="" />
-        <Parking index="1" type="gate" name="Apron_large_acft_2" lat="N51 15.950553" lon="E10 38.162951" heading="20.19"  radius="19" pushBackRoute="42" airlineCodes="" />
-        <Parking index="2" type="ga" name="Apron_medium_acft_1" lat="N51 15.923188" lon="E10 38.150565" heading="19.74"  radius="10" pushBackRoute="72" airlineCodes="" />
-        <Parking index="3" type="ga" name="Apron_medium_acft_2" lat="N51 15.916312" lon="E10 38.179436" heading="20.34"  radius="10" pushBackRoute="16" airlineCodes="" />
-        <Parking index="4" type="ga" name="Apron_medium_acft_3" lat="N51 15.913574" lon="E10 38.095922" heading="20.11"  radius="10" pushBackRoute="32" airlineCodes="" />
-        <Parking index="5" type="ga" name="Apron_medium_acft_4" lat="N51 15.907000" lon="E10 38.119099" heading="19.9"  radius="10" pushBackRoute="27" airlineCodes="" />
-        <Parking index="6" type="ga" name="Apron_medium_acft_5" lat="N51 15.895873" lon="E10 38.167714" heading="19.8"  radius="10" pushBackRoute="29" airlineCodes="" />
+        <Parking index="0" type="gate" name="Apron_large_acft_1" lat="N51 15.966608" lon="E10 38.116206" heading="19.72"  radius="19" pushBackRoute="39" airlineCodes="" />
+        <Parking index="1" type="gate" name="Apron_large_acft_2" lat="N51 15.950553" lon="E10 38.162951" heading="20.19"  radius="19" pushBackRoute="14" airlineCodes="" />
+        <Parking index="2" type="ga" name="Apron_medium_acft_1" lat="N51 15.923188" lon="E10 38.150565" heading="19.74"  radius="10" pushBackRoute="13" airlineCodes="" />
+        <Parking index="3" type="ga" name="Apron_medium_acft_2" lat="N51 15.916312" lon="E10 38.179436" heading="20.34"  radius="10" pushBackRoute="29" airlineCodes="" />
+        <Parking index="4" type="ga" name="Apron_medium_acft_3" lat="N51 15.913574" lon="E10 38.095922" heading="20.11"  radius="10" pushBackRoute="30" airlineCodes="" />
+        <Parking index="5" type="ga" name="Apron_medium_acft_4" lat="N51 15.907000" lon="E10 38.119099" heading="19.9"  radius="10" pushBackRoute="26" airlineCodes="" />
+        <Parking index="6" type="ga" name="Apron_medium_acft_5" lat="N51 15.895873" lon="E10 38.167714" heading="19.8"  radius="10" pushBackRoute="28" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="7" lat="N51 15.929188" lon="E10 38.215816" isOnRunway="0" holdPointType="none"  />
@@ -20,7 +20,7 @@
         <node index="13" lat="N51 15.914171" lon="E10 38.145296" isOnRunway="0" holdPointType="PushBack"  />
         <node index="14" lat="N51 15.926338" lon="E10 38.152355" isOnRunway="0" holdPointType="PushBack"  />
         <node index="15" lat="N51 15.907476" lon="E10 38.174589" isOnRunway="0" holdPointType="none"  />
-        <node index="16" lat="N51 15.919437" lon="E10 38.181411" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="16" lat="N51 15.919437" lon="E10 38.181411" isOnRunway="0" holdPointType="none"  />
         <node index="17" lat="N51 15.947857" lon="E10 38.269987" isOnRunway="0" holdPointType="none"  />
         <node index="18" lat="N51 15.943705" lon="E10 38.264471" isOnRunway="0" holdPointType="none"  />
         <node index="19" lat="N51 15.933263" lon="E10 38.229547" isOnRunway="0" holdPointType="none"  />
@@ -31,12 +31,12 @@
         <node index="24" lat="N51 15.883775" lon="E10 38.189092" isOnRunway="0" holdPointType="none"  />
         <node index="25" lat="N51 15.882907" lon="E10 38.178883" isOnRunway="0" holdPointType="none"  />
         <node index="26" lat="N51 15.897575" lon="E10 38.113896" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="27" lat="N51 15.910270" lon="E10 38.121111" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="27" lat="N51 15.910270" lon="E10 38.121111" isOnRunway="0" holdPointType="none"  />
         <node index="28" lat="N51 15.886560" lon="E10 38.162431" isOnRunway="0" holdPointType="PushBack"  />
         <node index="29" lat="N51 15.899150" lon="E10 38.169710" isOnRunway="0" holdPointType="PushBack"  />
         <node index="30" lat="N51 15.904223" lon="E10 38.085221" isOnRunway="0" holdPointType="PushBack"  />
         <node index="31" lat="N51 15.903133" lon="E10 38.089779" isOnRunway="0" holdPointType="none"  />
-        <node index="32" lat="N51 15.915656" lon="E10 38.096929" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="32" lat="N51 15.915656" lon="E10 38.096929" isOnRunway="0" holdPointType="none"  />
         <node index="33" lat="N51 15.910474" lon="E10 38.076146" isOnRunway="0" holdPointType="none"  />
         <node index="34" lat="N51 15.916821" lon="E10 38.074583" isOnRunway="0" holdPointType="none"  />
         <node index="35" lat="N51 15.943579" lon="E10 38.089812" isOnRunway="0" holdPointType="none"  />
@@ -44,9 +44,9 @@
         <node index="37" lat="N51 15.950480" lon="E10 38.089712" isOnRunway="0" holdPointType="none"  />
         <node index="38" lat="N51 15.957124" lon="E10 38.084170" isOnRunway="0" holdPointType="none"  />
         <node index="39" lat="N51 15.952189" lon="E10 38.106299" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="40" lat="N51 15.978244" lon="E10 38.121136" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="40" lat="N51 15.978244" lon="E10 38.121136" isOnRunway="0" holdPointType="none"  />
         <node index="41" lat="N51 15.940994" lon="E10 38.156154" isOnRunway="0" holdPointType="none"  />
-        <node index="42" lat="N51 15.940020" lon="E10 38.160449" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="42" lat="N51 15.940020" lon="E10 38.160449" isOnRunway="0" holdPointType="none"  />
         <node index="43" lat="N51 15.933510" lon="E10 38.189590" isOnRunway="0" holdPointType="none"  />
         <node index="44" lat="N51 15.963187" lon="E10 38.168669" isOnRunway="0" holdPointType="none"  />
         <node index="45" lat="N51 15.961392" lon="E10 38.075411" isOnRunway="0" holdPointType="none"  />
@@ -76,7 +76,7 @@
         <node index="69" lat="N51 16.182463" lon="E10 37.549631" isOnRunway="1" holdPointType="none"  />
         <node index="70" lat="N51 16.061676" lon="E10 38.087723" isOnRunway="1" holdPointType="none"  />
         <node index="71" lat="N51 15.941074" lon="E10 38.107054" isOnRunway="0" holdPointType="none"  />
-        <node index="72" lat="N51 15.925095" lon="E10 38.153589" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="72" lat="N51 15.925095" lon="E10 38.153589" isOnRunway="0" holdPointType="none"  />
         <node index="73" lat="N51 15.897657" lon="E10 38.141404" isOnRunway="0" holdPointType="none"  />
         <node index="74" lat="N51 15.890879" lon="E10 38.170007" isOnRunway="0" holdPointType="none"  />
         <node index="75" lat="N51 15.888103" lon="E10 38.086596" isOnRunway="0" holdPointType="none"  />
@@ -242,19 +242,5 @@
         <arc begin="77" end="6" isPushBackRoute="1" name="Apron_medium_acft_5"  />
         <arc begin="77" end="28" isPushBackRoute="1" name="Apron_medium_acft_5"  />
         <arc begin="28" end="77" isPushBackRoute="1" name="Apron_medium_acft_5"  />
-        <arc begin="0" end="40" isPushBackRoute="1" name="Apron_large_acft_1"  />
-        <arc begin="40" end="0" isPushBackRoute="1" name="Apron_large_acft_1"  />
-        <arc begin="1" end="42" isPushBackRoute="1" name="Apron_large_acft_2"  />
-        <arc begin="42" end="1" isPushBackRoute="1" name="Apron_large_acft_2"  />
-        <arc begin="2" end="72" isPushBackRoute="1" name="Apron_medium_acft_1"  />
-        <arc begin="72" end="2" isPushBackRoute="1" name="Apron_medium_acft_1"  />
-        <arc begin="3" end="16" isPushBackRoute="1" name="Apron_medium_acft_2"  />
-        <arc begin="16" end="3" isPushBackRoute="1" name="Apron_medium_acft_2"  />
-        <arc begin="4" end="32" isPushBackRoute="1" name="Apron_medium_acft_3"  />
-        <arc begin="32" end="4" isPushBackRoute="1" name="Apron_medium_acft_3"  />
-        <arc begin="5" end="27" isPushBackRoute="1" name="Apron_medium_acft_4"  />
-        <arc begin="27" end="5" isPushBackRoute="1" name="Apron_medium_acft_4"  />
-        <arc begin="6" end="29" isPushBackRoute="1" name="Apron_medium_acft_5"  />
-        <arc begin="29" end="6" isPushBackRoute="1" name="Apron_medium_acft_5"  />
  </TaxiWaySegments>
 </groundnet>

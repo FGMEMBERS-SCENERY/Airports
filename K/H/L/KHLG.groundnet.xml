@@ -2,8 +2,8 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="FBO" lat="N40 10.888383" lon="W80 39.129275" heading="89.95"  radius="10" pushBackRoute="80" airlineCodes="" />
-        <Parking index="1" type="ga" name="TERMINAL" lat="N40 10.865910" lon="W80 38.835521" heading="-2.61"  radius="10" pushBackRoute="112" airlineCodes="" />
+        <Parking index="0" type="ga" name="FBO" lat="N40 10.888383" lon="W80 39.129275" heading="89.95"  radius="10" pushBackRoute="79" airlineCodes="" />
+        <Parking index="1" type="ga" name="TERMINAL" lat="N40 10.865910" lon="W80 38.835521" heading="-2.61"  radius="10" pushBackRoute="87" airlineCodes="" />
         <Parking index="2" type="ga" name="ANG" lat="N40 10.421204" lon="W80 38.494691" heading="238.99"  radius="10" pushBackRoute="15" airlineCodes="" />
         <Parking index="3" type="ga" name="GATE" lat="N40 10.865776" lon="W80 38.795741" heading="177.55"  radius="10" pushBackRoute="86" airlineCodes="" />
         <Parking index="4" type="ga" name="HELIPAD" lat="N40 10.336006" lon="W80 38.461934" heading="-29.3"  radius="10" pushBackRoute="13" airlineCodes="" />
@@ -84,7 +84,7 @@
         <node index="77" lat="N40 10.882226" lon="W80 39.165856" isOnRunway="0" holdPointType="none"  />
         <node index="78" lat="N40 10.886431" lon="W80 39.163385" isOnRunway="0" holdPointType="none"  />
         <node index="79" lat="N40 10.887964" lon="W80 39.149952" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="80" lat="N40 10.888378" lon="W80 39.132040" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="80" lat="N40 10.888378" lon="W80 39.132040" isOnRunway="0" holdPointType="none"  />
         <node index="81" lat="N40 10.839214" lon="W80 38.923733" isOnRunway="0" holdPointType="none"  />
         <node index="82" lat="N40 10.843864" lon="W80 38.906492" isOnRunway="0" holdPointType="none"  />
         <node index="83" lat="N40 10.853162" lon="W80 38.626334" isOnRunway="0" holdPointType="none"  />
@@ -116,7 +116,7 @@
         <node index="109" lat="N40 10.303262" lon="W80 38.545762" isOnRunway="1" holdPointType="none"  />
         <node index="110" lat="N40 10.234562" lon="W80 38.546294" isOnRunway="0" holdPointType="none"  />
         <node index="111" lat="N40 10.888359" lon="W80 39.156400" isOnRunway="0" holdPointType="none"  />
-        <node index="112" lat="N40 10.838813" lon="W80 38.834286" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="112" lat="N40 10.838813" lon="W80 38.834286" isOnRunway="0" holdPointType="none"  />
         <node index="113" lat="N40 10.435178" lon="W80 38.471443" isOnRunway="0" holdPointType="none"  />
         <node index="114" lat="N40 10.892876" lon="W80 38.796900" isOnRunway="0" holdPointType="none"  />
         <node index="115" lat="N40 10.312351" lon="W80 38.448660" isOnRunway="0" holdPointType="none"  />
@@ -362,15 +362,5 @@
         <arc begin="115" end="4" isPushBackRoute="1" name="HELIPAD"  />
         <arc begin="115" end="13" isPushBackRoute="1" name="HELIPAD"  />
         <arc begin="13" end="115" isPushBackRoute="1" name="HELIPAD"  />
-        <arc begin="0" end="80" isPushBackRoute="1" name="FBO"  />
-        <arc begin="80" end="0" isPushBackRoute="1" name="FBO"  />
-        <arc begin="1" end="112" isPushBackRoute="1" name="TERMINAL"  />
-        <arc begin="112" end="1" isPushBackRoute="1" name="TERMINAL"  />
-        <arc begin="2" end="15" isPushBackRoute="1" name="ANG"  />
-        <arc begin="15" end="2" isPushBackRoute="1" name="ANG"  />
-        <arc begin="3" end="86" isPushBackRoute="1" name="GATE"  />
-        <arc begin="86" end="3" isPushBackRoute="1" name="GATE"  />
-        <arc begin="4" end="13" isPushBackRoute="1" name="HELIPAD"  />
-        <arc begin="13" end="4" isPushBackRoute="1" name="HELIPAD"  />
  </TaxiWaySegments>
 </groundnet>

@@ -2,64 +2,64 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Gate_C31" lat="N48 7.270740" lon="E16 33.415543" heading="114.38"  radius="17" pushBackRoute="195" airlineCodes="" />
-        <Parking index="1" type="gate" name="Gate_C32" lat="N48 7.249800" lon="E16 33.401023" heading="114.71"  radius="17" pushBackRoute="196" airlineCodes="" />
-        <Parking index="2" type="gate" name="Gate_C33" lat="N48 7.229460" lon="E16 33.386263" heading="115.99"  radius="17" pushBackRoute="197" airlineCodes="" />
-        <Parking index="3" type="gate" name="Gate_C34" lat="N48 7.207544" lon="E16 33.375054" heading="115.94"  radius="17" pushBackRoute="198" airlineCodes="" />
-        <Parking index="4" type="gate" name="Gate_C35" lat="N48 7.188225" lon="E16 33.362381" heading="97.66"  radius="17" pushBackRoute="199" airlineCodes="" />
-        <Parking index="5" type="gate" name="Gate_C36" lat="N48 7.168106" lon="E16 33.353913" heading="65.4"  radius="17" pushBackRoute="200" airlineCodes="" />
-        <Parking index="6" type="gate" name="Gate_C37" lat="N48 7.163718" lon="E16 33.394039" heading="25.41"  radius="17" pushBackRoute="201" airlineCodes="" />
-        <Parking index="7" type="gate" name="Gate_C39" lat="N48 7.134842" lon="E16 33.464983" heading="349.12"  radius="17" pushBackRoute="202" airlineCodes="" />
-        <Parking index="8" type="gate" name="Gate_C40" lat="N48 7.160806" lon="E16 33.483294" heading="296.81"  radius="17" pushBackRoute="203" airlineCodes="" />
-        <Parking index="9" type="gate" name="Gate_C41" lat="N48 7.180740" lon="E16 33.504583" heading="296.97"  radius="17" pushBackRoute="203" airlineCodes="" />
-        <Parking index="10" type="gate" name="Gate_C42" lat="N48 7.203781" lon="E16 33.523750" heading="296.35"  radius="17" pushBackRoute="205" airlineCodes="" />
-        <Parking index="11" type="gate" name="Gate_D51" lat="N48 7.088460" lon="E16 33.740683" heading="295.44"  radius="17" pushBackRoute="206" airlineCodes="" />
-        <Parking index="12" type="gate" name="Gate_D52" lat="N48 7.064340" lon="E16 33.719923" heading="343.92"  radius="17" pushBackRoute="207" airlineCodes="" />
-        <Parking index="13" type="gate" name="Gate_D54" lat="N48 7.058580" lon="E16 33.654943" heading="25.77"  radius="17" pushBackRoute="208" airlineCodes="" />
-        <Parking index="14" type="gate" name="Gate_D55" lat="N48 7.068060" lon="E16 33.627463" heading="41.73"  radius="17" pushBackRoute="209" airlineCodes="" />
-        <Parking index="15" type="gate" name="Gate_D56" lat="N48 7.081790" lon="E16 33.590234" heading="80.08"  radius="17" pushBackRoute="210" airlineCodes="" />
-        <Parking index="16" type="gate" name="Gate_D57" lat="N48 7.112160" lon="E16 33.598363" heading="123.22"  radius="17" pushBackRoute="211" airlineCodes="" />
-        <Parking index="17" type="gate" name="Gate_D58" lat="N48 7.137119" lon="E16 33.616594" heading="160.21"  radius="17" pushBackRoute="212" airlineCodes="" />
-        <Parking index="18" type="gate" name="North_Ramp_41" lat="N48 7.447925" lon="E16 34.083559" heading="340.31"  radius="17" pushBackRoute="213" airlineCodes="" />
-        <Parking index="19" type="gate" name="North_Ramp_45" lat="N48 7.440193" lon="E16 34.169270" heading="23.84"  radius="17" pushBackRoute="214" airlineCodes="" />
-        <Parking index="20" type="gate" name="North_Ramp_47" lat="N48 7.427882" lon="E16 34.242329" heading="23.84"  radius="17" pushBackRoute="215" airlineCodes="" />
-        <Parking index="21" type="gate" name="North_Ramp_50" lat="N48 7.415579" lon="E16 34.312099" heading="23.84"  radius="17" pushBackRoute="216" airlineCodes="" />
-        <Parking index="22" type="gate" name="Ramp_43" lat="N48 6.976385" lon="E16 33.907538" heading="205.64"  radius="17" pushBackRoute="217" airlineCodes="" />
-        <Parking index="23" type="gate" name="Ramp_B81" lat="N48 7.299407" lon="E16 33.225874" heading="295.91"  radius="17" pushBackRoute="218" airlineCodes="" />
-        <Parking index="24" type="gate" name="Ramp_B82" lat="N48 7.278587" lon="E16 33.208205" heading="295.91"  radius="17" pushBackRoute="219" airlineCodes="" />
-        <Parking index="25" type="gate" name="Ramp_B83" lat="N48 7.257662" lon="E16 33.194374" heading="295.91"  radius="17" pushBackRoute="220" airlineCodes="" />
-        <Parking index="26" type="gate" name="Ramp_B84" lat="N48 7.235732" lon="E16 33.176667" heading="295.91"  radius="17" pushBackRoute="221" airlineCodes="" />
-        <Parking index="27" type="gate" name="Ramp_B85" lat="N48 7.213608" lon="E16 33.162416" heading="295.91"  radius="17" pushBackRoute="222" airlineCodes="" />
-        <Parking index="28" type="gate" name="Ramp_B91" lat="N48 7.291457" lon="E16 33.315687" heading="295.33"  radius="17" pushBackRoute="64" airlineCodes="" />
-        <Parking index="29" type="gate" name="Ramp_B92" lat="N48 7.274687" lon="E16 33.303447" heading="295.33"  radius="17" pushBackRoute="224" airlineCodes="" />
-        <Parking index="30" type="gate" name="Ramp_B93" lat="N48 7.254572" lon="E16 33.288305" heading="295.33"  radius="17" pushBackRoute="225" airlineCodes="" />
-        <Parking index="31" type="gate" name="Ramp_B94" lat="N48 7.233933" lon="E16 33.272240" heading="295.33"  radius="17" pushBackRoute="65" airlineCodes="" />
-        <Parking index="32" type="gate" name="Ramp_B95" lat="N48 7.212873" lon="E16 33.258829" heading="295.33"  radius="17" pushBackRoute="227" airlineCodes="" />
-        <Parking index="33" type="gate" name="Ramp_B96" lat="N48 7.189266" lon="E16 33.247091" heading="295.33"  radius="17" pushBackRoute="228" airlineCodes="" />
-        <Parking index="34" type="gate" name="Ramp_E41" lat="N48 7.004320" lon="E16 33.818986" heading="205.64"  radius="17" pushBackRoute="229" airlineCodes="" />
-        <Parking index="35" type="gate" name="Ramp_E42" lat="N48 6.987675" lon="E16 33.868630" heading="205.64"  radius="17" pushBackRoute="230" airlineCodes="" />
-        <Parking index="36" type="gate" name="Ramp_E44" lat="N48 6.964085" lon="E16 33.945758" heading="205.64"  radius="17" pushBackRoute="231" airlineCodes="" />
-        <Parking index="37" type="gate" name="Ramp_E45" lat="N48 6.952964" lon="E16 33.983511" heading="205.7"  radius="17" pushBackRoute="232" airlineCodes="" />
-        <Parking index="38" type="gate" name="Ramp_E46" lat="N48 6.935488" lon="E16 34.042559" heading="205.7"  radius="17" pushBackRoute="233" airlineCodes="" />
-        <Parking index="39" type="gate" name="Ramp_E47" lat="N48 6.921007" lon="E16 34.086448" heading="206.91"  radius="17" pushBackRoute="234" airlineCodes="" />
-        <Parking index="40" type="gate" name="Ramp_E48" lat="N48 6.893383" lon="E16 34.192369" heading="203.56"  radius="17" pushBackRoute="235" airlineCodes="" />
-        <Parking index="41" type="gate" name="Ramp_E49" lat="N48 6.884859" lon="E16 34.232206" heading="205.7"  radius="17" pushBackRoute="236" airlineCodes="" />
-        <Parking index="42" type="gate" name="Ramp_E50" lat="N48 6.868668" lon="E16 34.267012" heading="205.7"  radius="17" pushBackRoute="237" airlineCodes="" />
-        <Parking index="43" type="gate" name="Ramp_E51" lat="N48 6.852387" lon="E16 34.297198" heading="205.7"  radius="17" pushBackRoute="238" airlineCodes="" />
-        <Parking index="44" type="gate" name="Ramp_E52" lat="N48 6.837368" lon="E16 34.338713" heading="205.7"  radius="17" pushBackRoute="239" airlineCodes="" />
-        <Parking index="45" type="gate" name="Ramp_F43" lat="N48 6.975041" lon="E16 34.224864" heading="25.42"  radius="17" pushBackRoute="240" airlineCodes="" />
-        <Parking index="46" type="gate" name="Ramp_F44" lat="N48 7.041465" lon="E16 34.337482" heading="206.23"  radius="17" pushBackRoute="241" airlineCodes="" />
-        <Parking index="47" type="gate" name="Ramp_F48" lat="N48 7.059280" lon="E16 34.285699" heading="205.19"  radius="17" pushBackRoute="242" airlineCodes="" />
-        <Parking index="48" type="gate" name="Skylink_F01" lat="N48 7.065374" lon="E16 33.895387" heading="26.05"  radius="17" pushBackRoute="243" airlineCodes="" />
-        <Parking index="49" type="gate" name="Skylink_F05" lat="N48 7.038629" lon="E16 33.953375" heading="25.35"  radius="17" pushBackRoute="244" airlineCodes="" />
+        <Parking index="0" type="gate" name="Gate_C31" lat="N48 7.270740" lon="E16 33.415543" heading="114.38"  radius="17" pushBackRoute="61" airlineCodes="" />
+        <Parking index="1" type="gate" name="Gate_C32" lat="N48 7.249800" lon="E16 33.401023" heading="114.71"  radius="17" pushBackRoute="61" airlineCodes="" />
+        <Parking index="2" type="gate" name="Gate_C33" lat="N48 7.229460" lon="E16 33.386263" heading="115.99"  radius="17" pushBackRoute="61" airlineCodes="" />
+        <Parking index="3" type="gate" name="Gate_C34" lat="N48 7.207544" lon="E16 33.375054" heading="115.94"  radius="17" pushBackRoute="62" airlineCodes="" />
+        <Parking index="4" type="gate" name="Gate_C35" lat="N48 7.188225" lon="E16 33.362381" heading="97.66"  radius="17" pushBackRoute="63" airlineCodes="" />
+        <Parking index="5" type="gate" name="Gate_C36" lat="N48 7.168106" lon="E16 33.353913" heading="65.4"  radius="17" pushBackRoute="63" airlineCodes="" />
+        <Parking index="6" type="gate" name="Gate_C37" lat="N48 7.163718" lon="E16 33.394039" heading="25.41"  radius="17" pushBackRoute="106" airlineCodes="" />
+        <Parking index="7" type="gate" name="Gate_C39" lat="N48 7.134842" lon="E16 33.464983" heading="349.12"  radius="17" pushBackRoute="60" airlineCodes="" />
+        <Parking index="8" type="gate" name="Gate_C40" lat="N48 7.160806" lon="E16 33.483294" heading="296.81"  radius="17" pushBackRoute="59" airlineCodes="" />
+        <Parking index="9" type="gate" name="Gate_C41" lat="N48 7.180740" lon="E16 33.504583" heading="296.97"  radius="17" pushBackRoute="59" airlineCodes="" />
+        <Parking index="10" type="gate" name="Gate_C42" lat="N48 7.203781" lon="E16 33.523750" heading="296.35"  radius="17" pushBackRoute="58" airlineCodes="" />
+        <Parking index="11" type="gate" name="Gate_D51" lat="N48 7.088460" lon="E16 33.740683" heading="295.44"  radius="17" pushBackRoute="82" airlineCodes="" />
+        <Parking index="12" type="gate" name="Gate_D52" lat="N48 7.064340" lon="E16 33.719923" heading="343.92"  radius="17" pushBackRoute="103" airlineCodes="" />
+        <Parking index="13" type="gate" name="Gate_D54" lat="N48 7.058580" lon="E16 33.654943" heading="25.77"  radius="17" pushBackRoute="104" airlineCodes="" />
+        <Parking index="14" type="gate" name="Gate_D55" lat="N48 7.068060" lon="E16 33.627463" heading="41.73"  radius="17" pushBackRoute="104" airlineCodes="" />
+        <Parking index="15" type="gate" name="Gate_D56" lat="N48 7.081790" lon="E16 33.590234" heading="80.08"  radius="17" pushBackRoute="60" airlineCodes="" />
+        <Parking index="16" type="gate" name="Gate_D57" lat="N48 7.112160" lon="E16 33.598363" heading="123.22"  radius="17" pushBackRoute="59" airlineCodes="" />
+        <Parking index="17" type="gate" name="Gate_D58" lat="N48 7.137119" lon="E16 33.616594" heading="160.21"  radius="17" pushBackRoute="58" airlineCodes="" />
+        <Parking index="18" type="gate" name="North_Ramp_41" lat="N48 7.447925" lon="E16 34.083559" heading="340.31"  radius="17" pushBackRoute="162" airlineCodes="" />
+        <Parking index="19" type="gate" name="North_Ramp_45" lat="N48 7.440193" lon="E16 34.169270" heading="23.84"  radius="17" pushBackRoute="163" airlineCodes="" />
+        <Parking index="20" type="gate" name="North_Ramp_47" lat="N48 7.427882" lon="E16 34.242329" heading="23.84"  radius="17" pushBackRoute="163" airlineCodes="" />
+        <Parking index="21" type="gate" name="North_Ramp_50" lat="N48 7.415579" lon="E16 34.312099" heading="23.84"  radius="17" pushBackRoute="164" airlineCodes="" />
+        <Parking index="22" type="gate" name="Ramp_43" lat="N48 6.976385" lon="E16 33.907538" heading="205.64"  radius="17" pushBackRoute="83" airlineCodes="" />
+        <Parking index="23" type="gate" name="Ramp_B81" lat="N48 7.299407" lon="E16 33.225874" heading="295.91"  radius="17" pushBackRoute="64" airlineCodes="" />
+        <Parking index="24" type="gate" name="Ramp_B82" lat="N48 7.278587" lon="E16 33.208205" heading="295.91"  radius="17" pushBackRoute="65" airlineCodes="" />
+        <Parking index="25" type="gate" name="Ramp_B83" lat="N48 7.257662" lon="E16 33.194374" heading="295.91"  radius="17" pushBackRoute="65" airlineCodes="" />
+        <Parking index="26" type="gate" name="Ramp_B84" lat="N48 7.235732" lon="E16 33.176667" heading="295.91"  radius="17" pushBackRoute="65" airlineCodes="" />
+        <Parking index="27" type="gate" name="Ramp_B85" lat="N48 7.213608" lon="E16 33.162416" heading="295.91"  radius="17" pushBackRoute="109" airlineCodes="" />
+        <Parking index="28" type="gate" name="Ramp_B91" lat="N48 7.291457" lon="E16 33.315687" heading="295.33"  radius="17" pushBackRoute="61" airlineCodes="" />
+        <Parking index="29" type="gate" name="Ramp_B92" lat="N48 7.274687" lon="E16 33.303447" heading="295.33"  radius="17" pushBackRoute="62" airlineCodes="" />
+        <Parking index="30" type="gate" name="Ramp_B93" lat="N48 7.254572" lon="E16 33.288305" heading="295.33"  radius="17" pushBackRoute="62" airlineCodes="" />
+        <Parking index="31" type="gate" name="Ramp_B94" lat="N48 7.233933" lon="E16 33.272240" heading="295.33"  radius="17" pushBackRoute="63" airlineCodes="" />
+        <Parking index="32" type="gate" name="Ramp_B95" lat="N48 7.212873" lon="E16 33.258829" heading="295.33"  radius="17" pushBackRoute="63" airlineCodes="" />
+        <Parking index="33" type="gate" name="Ramp_B96" lat="N48 7.189266" lon="E16 33.247091" heading="295.33"  radius="17" pushBackRoute="63" airlineCodes="" />
+        <Parking index="34" type="gate" name="Ramp_E41" lat="N48 7.004320" lon="E16 33.818986" heading="205.64"  radius="17" pushBackRoute="82" airlineCodes="" />
+        <Parking index="35" type="gate" name="Ramp_E42" lat="N48 6.987675" lon="E16 33.868630" heading="205.64"  radius="17" pushBackRoute="102" airlineCodes="" />
+        <Parking index="36" type="gate" name="Ramp_E44" lat="N48 6.964085" lon="E16 33.945758" heading="205.64"  radius="17" pushBackRoute="83" airlineCodes="" />
+        <Parking index="37" type="gate" name="Ramp_E45" lat="N48 6.952964" lon="E16 33.983511" heading="205.7"  radius="17" pushBackRoute="83" airlineCodes="" />
+        <Parking index="38" type="gate" name="Ramp_E46" lat="N48 6.935488" lon="E16 34.042559" heading="205.7"  radius="17" pushBackRoute="83" airlineCodes="" />
+        <Parking index="39" type="gate" name="Ramp_E47" lat="N48 6.921007" lon="E16 34.086448" heading="206.91"  radius="17" pushBackRoute="84" airlineCodes="" />
+        <Parking index="40" type="gate" name="Ramp_E48" lat="N48 6.893383" lon="E16 34.192369" heading="203.56"  radius="17" pushBackRoute="84" airlineCodes="" />
+        <Parking index="41" type="gate" name="Ramp_E49" lat="N48 6.884859" lon="E16 34.232206" heading="205.7"  radius="17" pushBackRoute="85" airlineCodes="" />
+        <Parking index="42" type="gate" name="Ramp_E50" lat="N48 6.868668" lon="E16 34.267012" heading="205.7"  radius="17" pushBackRoute="85" airlineCodes="" />
+        <Parking index="43" type="gate" name="Ramp_E51" lat="N48 6.852387" lon="E16 34.297198" heading="205.7"  radius="17" pushBackRoute="85" airlineCodes="" />
+        <Parking index="44" type="gate" name="Ramp_E52" lat="N48 6.837368" lon="E16 34.338713" heading="205.7"  radius="17" pushBackRoute="85" airlineCodes="" />
+        <Parking index="45" type="gate" name="Ramp_F43" lat="N48 6.975041" lon="E16 34.224864" heading="25.42"  radius="17" pushBackRoute="84" airlineCodes="" />
+        <Parking index="46" type="gate" name="Ramp_F44" lat="N48 7.041465" lon="E16 34.337482" heading="206.23"  radius="17" pushBackRoute="94" airlineCodes="" />
+        <Parking index="47" type="gate" name="Ramp_F48" lat="N48 7.059280" lon="E16 34.285699" heading="205.19"  radius="17" pushBackRoute="94" airlineCodes="" />
+        <Parking index="48" type="gate" name="Skylink_F01" lat="N48 7.065374" lon="E16 33.895387" heading="26.05"  radius="17" pushBackRoute="102" airlineCodes="" />
+        <Parking index="49" type="gate" name="Skylink_F05" lat="N48 7.038629" lon="E16 33.953375" heading="25.35"  radius="17" pushBackRoute="83" airlineCodes="" />
         <Parking index="50" type="gate" name="Skylink_F13" lat="N48 7.020278" lon="E16 34.013537" heading="25.35"  radius="17" pushBackRoute="83" airlineCodes="" />
-        <Parking index="51" type="gate" name="Skylink_F23" lat="N48 7.005417" lon="E16 34.077840" heading="25.35"  radius="17" pushBackRoute="246" airlineCodes="" />
-        <Parking index="52" type="gate" name="Skylink_F33" lat="N48 6.988853" lon="E16 34.139834" heading="25.42"  radius="17" pushBackRoute="247" airlineCodes="" />
-        <Parking index="53" type="gate" name="West_Ramp" lat="N48 7.346160" lon="E16 32.719483" heading="24.41"  radius="17" pushBackRoute="248" airlineCodes="" />
-        <Parking index="54" type="gate" name="West_Ramp_2" lat="N48 7.415460" lon="E16 32.483203" heading="330.62"  radius="17" pushBackRoute="249" airlineCodes="" />
-        <Parking index="55" type="gate" name="West_Ramp_3" lat="N48 7.405620" lon="E16 32.547763" heading="26.16"  radius="17" pushBackRoute="250" airlineCodes="" />
-        <Parking index="56" type="gate" name="West_Ramp_4" lat="N48 7.393860" lon="E16 32.584423" heading="25.54"  radius="17" pushBackRoute="251" airlineCodes="" />
-        <Parking index="57" type="gate" name="West_Ramp_9" lat="N48 7.385280" lon="E16 32.619763" heading="332.62"  radius="17" pushBackRoute="252" airlineCodes="" />
+        <Parking index="51" type="gate" name="Skylink_F23" lat="N48 7.005417" lon="E16 34.077840" heading="25.35"  radius="17" pushBackRoute="83" airlineCodes="" />
+        <Parking index="52" type="gate" name="Skylink_F33" lat="N48 6.988853" lon="E16 34.139834" heading="25.42"  radius="17" pushBackRoute="84" airlineCodes="" />
+        <Parking index="53" type="gate" name="West_Ramp" lat="N48 7.346160" lon="E16 32.719483" heading="24.41"  radius="17" pushBackRoute="112" airlineCodes="" />
+        <Parking index="54" type="gate" name="West_Ramp_2" lat="N48 7.415460" lon="E16 32.483203" heading="330.62"  radius="17" pushBackRoute="114" airlineCodes="" />
+        <Parking index="55" type="gate" name="West_Ramp_3" lat="N48 7.405620" lon="E16 32.547763" heading="26.16"  radius="17" pushBackRoute="113" airlineCodes="" />
+        <Parking index="56" type="gate" name="West_Ramp_4" lat="N48 7.393860" lon="E16 32.584423" heading="25.54"  radius="17" pushBackRoute="113" airlineCodes="" />
+        <Parking index="57" type="gate" name="West_Ramp_9" lat="N48 7.385280" lon="E16 32.619763" heading="332.62"  radius="17" pushBackRoute="112" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="58" lat="N48 7.177033" lon="E16 33.577070" isOnRunway="0" holdPointType="PushBack"  />
@@ -199,64 +199,64 @@
         <node index="192" lat="N48 6.884119" lon="E16 33.488876" isOnRunway="1" holdPointType="none"  />
         <node index="193" lat="N48 6.781558" lon="E16 33.804297" isOnRunway="1" holdPointType="none"  />
         <node index="194" lat="N48 6.631229" lon="E16 34.265885" isOnRunway="1" holdPointType="none"  />
-        <node index="195" lat="N48 7.281937" lon="E16 33.390837" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="196" lat="N48 7.261139" lon="E16 33.376382" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="197" lat="N48 7.241346" lon="E16 33.361882" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="198" lat="N48 7.219410" lon="E16 33.350662" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="199" lat="N48 7.191841" lon="E16 33.335498" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="200" lat="N48 7.156815" lon="E16 33.329250" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="201" lat="N48 7.139217" lon="E16 33.382400" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="202" lat="N48 7.108205" lon="E16 33.470103" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="203" lat="N48 7.148572" lon="E16 33.507503" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="195" lat="N48 7.281937" lon="E16 33.390837" isOnRunway="0" holdPointType="none"  />
+        <node index="196" lat="N48 7.261139" lon="E16 33.376382" isOnRunway="0" holdPointType="none"  />
+        <node index="197" lat="N48 7.241346" lon="E16 33.361882" isOnRunway="0" holdPointType="none"  />
+        <node index="198" lat="N48 7.219410" lon="E16 33.350662" isOnRunway="0" holdPointType="none"  />
+        <node index="199" lat="N48 7.191841" lon="E16 33.335498" isOnRunway="0" holdPointType="none"  />
+        <node index="200" lat="N48 7.156815" lon="E16 33.329250" isOnRunway="0" holdPointType="none"  />
+        <node index="201" lat="N48 7.139217" lon="E16 33.382400" isOnRunway="0" holdPointType="none"  />
+        <node index="202" lat="N48 7.108205" lon="E16 33.470103" isOnRunway="0" holdPointType="none"  />
+        <node index="203" lat="N48 7.148572" lon="E16 33.507503" isOnRunway="0" holdPointType="none"  />
         <node index="204" lat="N48 7.168438" lon="E16 33.528758" isOnRunway="0" holdPointType="none"  />
-        <node index="205" lat="N48 7.191742" lon="E16 33.548056" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="206" lat="N48 7.076808" lon="E16 33.765178" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="207" lat="N48 7.038276" lon="E16 33.727436" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="208" lat="N48 7.034153" lon="E16 33.643150" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="209" lat="N48 7.047817" lon="E16 33.609408" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="210" lat="N48 7.077117" lon="E16 33.563515" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="211" lat="N48 7.127020" lon="E16 33.575671" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="212" lat="N48 7.162642" lon="E16 33.607410" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="213" lat="N48 7.422386" lon="E16 34.092698" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="214" lat="N48 7.415383" lon="E16 34.158306" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="215" lat="N48 7.403071" lon="E16 34.231366" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="216" lat="N48 7.390768" lon="E16 34.301135" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="217" lat="N48 7.000839" lon="E16 33.919276" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="218" lat="N48 7.287554" lon="E16 33.250272" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="219" lat="N48 7.266734" lon="E16 33.232603" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="220" lat="N48 7.245810" lon="E16 33.218772" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="221" lat="N48 7.223879" lon="E16 33.201065" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="222" lat="N48 7.201756" lon="E16 33.186814" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="205" lat="N48 7.191742" lon="E16 33.548056" isOnRunway="0" holdPointType="none"  />
+        <node index="206" lat="N48 7.076808" lon="E16 33.765178" isOnRunway="0" holdPointType="none"  />
+        <node index="207" lat="N48 7.038276" lon="E16 33.727436" isOnRunway="0" holdPointType="none"  />
+        <node index="208" lat="N48 7.034153" lon="E16 33.643150" isOnRunway="0" holdPointType="none"  />
+        <node index="209" lat="N48 7.047817" lon="E16 33.609408" isOnRunway="0" holdPointType="none"  />
+        <node index="210" lat="N48 7.077117" lon="E16 33.563515" isOnRunway="0" holdPointType="none"  />
+        <node index="211" lat="N48 7.127020" lon="E16 33.575671" isOnRunway="0" holdPointType="none"  />
+        <node index="212" lat="N48 7.162642" lon="E16 33.607410" isOnRunway="0" holdPointType="none"  />
+        <node index="213" lat="N48 7.422386" lon="E16 34.092698" isOnRunway="0" holdPointType="none"  />
+        <node index="214" lat="N48 7.415383" lon="E16 34.158306" isOnRunway="0" holdPointType="none"  />
+        <node index="215" lat="N48 7.403071" lon="E16 34.231366" isOnRunway="0" holdPointType="none"  />
+        <node index="216" lat="N48 7.390768" lon="E16 34.301135" isOnRunway="0" holdPointType="none"  />
+        <node index="217" lat="N48 7.000839" lon="E16 33.919276" isOnRunway="0" holdPointType="none"  />
+        <node index="218" lat="N48 7.287554" lon="E16 33.250272" isOnRunway="0" holdPointType="none"  />
+        <node index="219" lat="N48 7.266734" lon="E16 33.232603" isOnRunway="0" holdPointType="none"  />
+        <node index="220" lat="N48 7.245810" lon="E16 33.218772" isOnRunway="0" holdPointType="none"  />
+        <node index="221" lat="N48 7.223879" lon="E16 33.201065" isOnRunway="0" holdPointType="none"  />
+        <node index="222" lat="N48 7.201756" lon="E16 33.186814" isOnRunway="0" holdPointType="none"  />
         <node index="223" lat="N48 7.279852" lon="E16 33.340204" isOnRunway="0" holdPointType="none"  />
-        <node index="224" lat="N48 7.263082" lon="E16 33.327964" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="225" lat="N48 7.242968" lon="E16 33.312822" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="224" lat="N48 7.263082" lon="E16 33.327964" isOnRunway="0" holdPointType="none"  />
+        <node index="225" lat="N48 7.242968" lon="E16 33.312822" isOnRunway="0" holdPointType="none"  />
         <node index="226" lat="N48 7.222328" lon="E16 33.296757" isOnRunway="0" holdPointType="none"  />
-        <node index="227" lat="N48 7.201268" lon="E16 33.283346" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="228" lat="N48 7.177661" lon="E16 33.271608" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="229" lat="N48 7.028773" lon="E16 33.830723" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="230" lat="N48 7.012129" lon="E16 33.880367" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="231" lat="N48 6.988539" lon="E16 33.957496" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="232" lat="N48 6.977406" lon="E16 33.995274" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="233" lat="N48 6.959930" lon="E16 34.054322" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="234" lat="N48 6.945194" lon="E16 34.098724" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="235" lat="N48 6.918246" lon="E16 34.203211" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="236" lat="N48 6.909301" lon="E16 34.243969" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="237" lat="N48 6.893110" lon="E16 34.278775" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="238" lat="N48 6.876829" lon="E16 34.308961" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="239" lat="N48 6.861809" lon="E16 34.350476" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="240" lat="N48 6.950543" lon="E16 34.213221" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="241" lat="N48 7.065797" lon="E16 34.349470" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="242" lat="N48 7.083825" lon="E16 34.297244" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="243" lat="N48 7.041005" lon="E16 33.883475" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="244" lat="N48 7.014116" lon="E16 33.941762" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="227" lat="N48 7.201268" lon="E16 33.283346" isOnRunway="0" holdPointType="none"  />
+        <node index="228" lat="N48 7.177661" lon="E16 33.271608" isOnRunway="0" holdPointType="none"  />
+        <node index="229" lat="N48 7.028773" lon="E16 33.830723" isOnRunway="0" holdPointType="none"  />
+        <node index="230" lat="N48 7.012129" lon="E16 33.880367" isOnRunway="0" holdPointType="none"  />
+        <node index="231" lat="N48 6.988539" lon="E16 33.957496" isOnRunway="0" holdPointType="none"  />
+        <node index="232" lat="N48 6.977406" lon="E16 33.995274" isOnRunway="0" holdPointType="none"  />
+        <node index="233" lat="N48 6.959930" lon="E16 34.054322" isOnRunway="0" holdPointType="none"  />
+        <node index="234" lat="N48 6.945194" lon="E16 34.098724" isOnRunway="0" holdPointType="none"  />
+        <node index="235" lat="N48 6.918246" lon="E16 34.203211" isOnRunway="0" holdPointType="none"  />
+        <node index="236" lat="N48 6.909301" lon="E16 34.243969" isOnRunway="0" holdPointType="none"  />
+        <node index="237" lat="N48 6.893110" lon="E16 34.278775" isOnRunway="0" holdPointType="none"  />
+        <node index="238" lat="N48 6.876829" lon="E16 34.308961" isOnRunway="0" holdPointType="none"  />
+        <node index="239" lat="N48 6.861809" lon="E16 34.350476" isOnRunway="0" holdPointType="none"  />
+        <node index="240" lat="N48 6.950543" lon="E16 34.213221" isOnRunway="0" holdPointType="none"  />
+        <node index="241" lat="N48 7.065797" lon="E16 34.349470" isOnRunway="0" holdPointType="none"  />
+        <node index="242" lat="N48 7.083825" lon="E16 34.297244" isOnRunway="0" holdPointType="none"  />
+        <node index="243" lat="N48 7.041005" lon="E16 33.883475" isOnRunway="0" holdPointType="none"  />
+        <node index="244" lat="N48 7.014116" lon="E16 33.941762" isOnRunway="0" holdPointType="none"  />
         <node index="245" lat="N48 6.995765" lon="E16 34.001924" isOnRunway="0" holdPointType="none"  />
-        <node index="246" lat="N48 6.980904" lon="E16 34.066227" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="247" lat="N48 6.964354" lon="E16 34.128190" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="248" lat="N48 7.321460" lon="E16 32.708274" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="249" lat="N48 7.391824" lon="E16 32.496511" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="250" lat="N48 7.381274" lon="E16 32.535804" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="251" lat="N48 7.369386" lon="E16 32.572729" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="252" lat="N48 7.361194" lon="E16 32.632238" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="246" lat="N48 6.980904" lon="E16 34.066227" isOnRunway="0" holdPointType="none"  />
+        <node index="247" lat="N48 6.964354" lon="E16 34.128190" isOnRunway="0" holdPointType="none"  />
+        <node index="248" lat="N48 7.321460" lon="E16 32.708274" isOnRunway="0" holdPointType="none"  />
+        <node index="249" lat="N48 7.391824" lon="E16 32.496511" isOnRunway="0" holdPointType="none"  />
+        <node index="250" lat="N48 7.381274" lon="E16 32.535804" isOnRunway="0" holdPointType="none"  />
+        <node index="251" lat="N48 7.369386" lon="E16 32.572729" isOnRunway="0" holdPointType="none"  />
+        <node index="252" lat="N48 7.361194" lon="E16 32.632238" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="59" end="58" isPushBackRoute="0" name=""  />
@@ -827,121 +827,5 @@
         <arc begin="252" end="57" isPushBackRoute="1" name="West_Ramp_9"  />
         <arc begin="252" end="112" isPushBackRoute="1" name="West_Ramp_9"  />
         <arc begin="112" end="252" isPushBackRoute="1" name="West_Ramp_9"  />
-        <arc begin="0" end="195" isPushBackRoute="1" name="Gate_C31"  />
-        <arc begin="195" end="0" isPushBackRoute="1" name="Gate_C31"  />
-        <arc begin="1" end="196" isPushBackRoute="1" name="Gate_C32"  />
-        <arc begin="196" end="1" isPushBackRoute="1" name="Gate_C32"  />
-        <arc begin="2" end="197" isPushBackRoute="1" name="Gate_C33"  />
-        <arc begin="197" end="2" isPushBackRoute="1" name="Gate_C33"  />
-        <arc begin="3" end="198" isPushBackRoute="1" name="Gate_C34"  />
-        <arc begin="198" end="3" isPushBackRoute="1" name="Gate_C34"  />
-        <arc begin="4" end="199" isPushBackRoute="1" name="Gate_C35"  />
-        <arc begin="199" end="4" isPushBackRoute="1" name="Gate_C35"  />
-        <arc begin="5" end="200" isPushBackRoute="1" name="Gate_C36"  />
-        <arc begin="200" end="5" isPushBackRoute="1" name="Gate_C36"  />
-        <arc begin="6" end="201" isPushBackRoute="1" name="Gate_C37"  />
-        <arc begin="201" end="6" isPushBackRoute="1" name="Gate_C37"  />
-        <arc begin="7" end="202" isPushBackRoute="1" name="Gate_C39"  />
-        <arc begin="202" end="7" isPushBackRoute="1" name="Gate_C39"  />
-        <arc begin="8" end="203" isPushBackRoute="1" name="Gate_C40"  />
-        <arc begin="203" end="8" isPushBackRoute="1" name="Gate_C40"  />
-        <arc begin="9" end="203" isPushBackRoute="1" name="Gate_C41"  />
-        <arc begin="203" end="9" isPushBackRoute="1" name="Gate_C41"  />
-        <arc begin="10" end="205" isPushBackRoute="1" name="Gate_C42"  />
-        <arc begin="205" end="10" isPushBackRoute="1" name="Gate_C42"  />
-        <arc begin="11" end="206" isPushBackRoute="1" name="Gate_D51"  />
-        <arc begin="206" end="11" isPushBackRoute="1" name="Gate_D51"  />
-        <arc begin="12" end="207" isPushBackRoute="1" name="Gate_D52"  />
-        <arc begin="207" end="12" isPushBackRoute="1" name="Gate_D52"  />
-        <arc begin="13" end="208" isPushBackRoute="1" name="Gate_D54"  />
-        <arc begin="208" end="13" isPushBackRoute="1" name="Gate_D54"  />
-        <arc begin="14" end="209" isPushBackRoute="1" name="Gate_D55"  />
-        <arc begin="209" end="14" isPushBackRoute="1" name="Gate_D55"  />
-        <arc begin="15" end="210" isPushBackRoute="1" name="Gate_D56"  />
-        <arc begin="210" end="15" isPushBackRoute="1" name="Gate_D56"  />
-        <arc begin="16" end="211" isPushBackRoute="1" name="Gate_D57"  />
-        <arc begin="211" end="16" isPushBackRoute="1" name="Gate_D57"  />
-        <arc begin="17" end="212" isPushBackRoute="1" name="Gate_D58"  />
-        <arc begin="212" end="17" isPushBackRoute="1" name="Gate_D58"  />
-        <arc begin="18" end="213" isPushBackRoute="1" name="North_Ramp_41"  />
-        <arc begin="213" end="18" isPushBackRoute="1" name="North_Ramp_41"  />
-        <arc begin="19" end="214" isPushBackRoute="1" name="North_Ramp_45"  />
-        <arc begin="214" end="19" isPushBackRoute="1" name="North_Ramp_45"  />
-        <arc begin="20" end="215" isPushBackRoute="1" name="North_Ramp_47"  />
-        <arc begin="215" end="20" isPushBackRoute="1" name="North_Ramp_47"  />
-        <arc begin="21" end="216" isPushBackRoute="1" name="North_Ramp_50"  />
-        <arc begin="216" end="21" isPushBackRoute="1" name="North_Ramp_50"  />
-        <arc begin="22" end="217" isPushBackRoute="1" name="Ramp_43"  />
-        <arc begin="217" end="22" isPushBackRoute="1" name="Ramp_43"  />
-        <arc begin="23" end="218" isPushBackRoute="1" name="Ramp_B81"  />
-        <arc begin="218" end="23" isPushBackRoute="1" name="Ramp_B81"  />
-        <arc begin="24" end="219" isPushBackRoute="1" name="Ramp_B82"  />
-        <arc begin="219" end="24" isPushBackRoute="1" name="Ramp_B82"  />
-        <arc begin="25" end="220" isPushBackRoute="1" name="Ramp_B83"  />
-        <arc begin="220" end="25" isPushBackRoute="1" name="Ramp_B83"  />
-        <arc begin="26" end="221" isPushBackRoute="1" name="Ramp_B84"  />
-        <arc begin="221" end="26" isPushBackRoute="1" name="Ramp_B84"  />
-        <arc begin="27" end="222" isPushBackRoute="1" name="Ramp_B85"  />
-        <arc begin="222" end="27" isPushBackRoute="1" name="Ramp_B85"  />
-        <arc begin="28" end="64" isPushBackRoute="1" name="Ramp_B91"  />
-        <arc begin="64" end="28" isPushBackRoute="1" name="Ramp_B91"  />
-        <arc begin="29" end="224" isPushBackRoute="1" name="Ramp_B92"  />
-        <arc begin="224" end="29" isPushBackRoute="1" name="Ramp_B92"  />
-        <arc begin="30" end="225" isPushBackRoute="1" name="Ramp_B93"  />
-        <arc begin="225" end="30" isPushBackRoute="1" name="Ramp_B93"  />
-        <arc begin="31" end="65" isPushBackRoute="1" name="Ramp_B94"  />
-        <arc begin="65" end="31" isPushBackRoute="1" name="Ramp_B94"  />
-        <arc begin="32" end="227" isPushBackRoute="1" name="Ramp_B95"  />
-        <arc begin="227" end="32" isPushBackRoute="1" name="Ramp_B95"  />
-        <arc begin="33" end="228" isPushBackRoute="1" name="Ramp_B96"  />
-        <arc begin="228" end="33" isPushBackRoute="1" name="Ramp_B96"  />
-        <arc begin="34" end="229" isPushBackRoute="1" name="Ramp_E41"  />
-        <arc begin="229" end="34" isPushBackRoute="1" name="Ramp_E41"  />
-        <arc begin="35" end="230" isPushBackRoute="1" name="Ramp_E42"  />
-        <arc begin="230" end="35" isPushBackRoute="1" name="Ramp_E42"  />
-        <arc begin="36" end="231" isPushBackRoute="1" name="Ramp_E44"  />
-        <arc begin="231" end="36" isPushBackRoute="1" name="Ramp_E44"  />
-        <arc begin="37" end="232" isPushBackRoute="1" name="Ramp_E45"  />
-        <arc begin="232" end="37" isPushBackRoute="1" name="Ramp_E45"  />
-        <arc begin="38" end="233" isPushBackRoute="1" name="Ramp_E46"  />
-        <arc begin="233" end="38" isPushBackRoute="1" name="Ramp_E46"  />
-        <arc begin="39" end="234" isPushBackRoute="1" name="Ramp_E47"  />
-        <arc begin="234" end="39" isPushBackRoute="1" name="Ramp_E47"  />
-        <arc begin="40" end="235" isPushBackRoute="1" name="Ramp_E48"  />
-        <arc begin="235" end="40" isPushBackRoute="1" name="Ramp_E48"  />
-        <arc begin="41" end="236" isPushBackRoute="1" name="Ramp_E49"  />
-        <arc begin="236" end="41" isPushBackRoute="1" name="Ramp_E49"  />
-        <arc begin="42" end="237" isPushBackRoute="1" name="Ramp_E50"  />
-        <arc begin="237" end="42" isPushBackRoute="1" name="Ramp_E50"  />
-        <arc begin="43" end="238" isPushBackRoute="1" name="Ramp_E51"  />
-        <arc begin="238" end="43" isPushBackRoute="1" name="Ramp_E51"  />
-        <arc begin="44" end="239" isPushBackRoute="1" name="Ramp_E52"  />
-        <arc begin="239" end="44" isPushBackRoute="1" name="Ramp_E52"  />
-        <arc begin="45" end="240" isPushBackRoute="1" name="Ramp_F43"  />
-        <arc begin="240" end="45" isPushBackRoute="1" name="Ramp_F43"  />
-        <arc begin="46" end="241" isPushBackRoute="1" name="Ramp_F44"  />
-        <arc begin="241" end="46" isPushBackRoute="1" name="Ramp_F44"  />
-        <arc begin="47" end="242" isPushBackRoute="1" name="Ramp_F48"  />
-        <arc begin="242" end="47" isPushBackRoute="1" name="Ramp_F48"  />
-        <arc begin="48" end="243" isPushBackRoute="1" name="Skylink_F01"  />
-        <arc begin="243" end="48" isPushBackRoute="1" name="Skylink_F01"  />
-        <arc begin="49" end="244" isPushBackRoute="1" name="Skylink_F05"  />
-        <arc begin="244" end="49" isPushBackRoute="1" name="Skylink_F05"  />
-        <arc begin="50" end="83" isPushBackRoute="1" name="Skylink_F13"  />
-        <arc begin="83" end="50" isPushBackRoute="1" name="Skylink_F13"  />
-        <arc begin="51" end="246" isPushBackRoute="1" name="Skylink_F23"  />
-        <arc begin="246" end="51" isPushBackRoute="1" name="Skylink_F23"  />
-        <arc begin="52" end="247" isPushBackRoute="1" name="Skylink_F33"  />
-        <arc begin="247" end="52" isPushBackRoute="1" name="Skylink_F33"  />
-        <arc begin="53" end="248" isPushBackRoute="1" name="West_Ramp"  />
-        <arc begin="248" end="53" isPushBackRoute="1" name="West_Ramp"  />
-        <arc begin="54" end="249" isPushBackRoute="1" name="West_Ramp_2"  />
-        <arc begin="249" end="54" isPushBackRoute="1" name="West_Ramp_2"  />
-        <arc begin="55" end="250" isPushBackRoute="1" name="West_Ramp_3"  />
-        <arc begin="250" end="55" isPushBackRoute="1" name="West_Ramp_3"  />
-        <arc begin="56" end="251" isPushBackRoute="1" name="West_Ramp_4"  />
-        <arc begin="251" end="56" isPushBackRoute="1" name="West_Ramp_4"  />
-        <arc begin="57" end="252" isPushBackRoute="1" name="West_Ramp_9"  />
-        <arc begin="252" end="57" isPushBackRoute="1" name="West_Ramp_9"  />
  </TaxiWaySegments>
 </groundnet>

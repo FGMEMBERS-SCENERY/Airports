@@ -3,7 +3,7 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="ga" name="KCYW_GA1_Ramp_Start" lat="N39 22.841027" lon="W97 9.763634" heading="323.13"  radius="10" pushBackRoute="15" airlineCodes="" />
-        <Parking index="1" type="ga" name="KCYW_GA2_Ramp_Start" lat="N39 22.848950" lon="W97 9.786695" heading="50.22"  radius="10" pushBackRoute="15" airlineCodes="" />
+        <Parking index="1" type="ga" name="KCYW_GA2__Ramp_Start" lat="N39 22.848950" lon="W97 9.786695" heading="50.22"  radius="10" pushBackRoute="15" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="2" lat="N39 23.573639" lon="W97 9.457145" isOnRunway="0" holdPointType="none"  />
@@ -82,13 +82,9 @@
         <arc begin="26" end="0" isPushBackRoute="1" name="KCYW_GA1_Ramp_Start"  />
         <arc begin="26" end="15" isPushBackRoute="1" name="KCYW_GA1_Ramp_Start"  />
         <arc begin="15" end="26" isPushBackRoute="1" name="KCYW_GA1_Ramp_Start"  />
-        <arc begin="1" end="27" isPushBackRoute="1" name="KCYW_GA2_Ramp_Start"  />
-        <arc begin="27" end="1" isPushBackRoute="1" name="KCYW_GA2_Ramp_Start"  />
-        <arc begin="27" end="15" isPushBackRoute="1" name="KCYW_GA2_Ramp_Start"  />
-        <arc begin="15" end="27" isPushBackRoute="1" name="KCYW_GA2_Ramp_Start"  />
-        <arc begin="0" end="15" isPushBackRoute="1" name="KCYW_GA1_Ramp_Start"  />
-        <arc begin="15" end="0" isPushBackRoute="1" name="KCYW_GA1_Ramp_Start"  />
-        <arc begin="1" end="15" isPushBackRoute="1" name="KCYW_GA2_Ramp_Start"  />
-        <arc begin="15" end="1" isPushBackRoute="1" name="KCYW_GA2_Ramp_Start"  />
+        <arc begin="1" end="27" isPushBackRoute="1" name="KCYW_GA2__Ramp_Start"  />
+        <arc begin="27" end="1" isPushBackRoute="1" name="KCYW_GA2__Ramp_Start"  />
+        <arc begin="27" end="15" isPushBackRoute="1" name="KCYW_GA2__Ramp_Start"  />
+        <arc begin="15" end="27" isPushBackRoute="1" name="KCYW_GA2__Ramp_Start"  />
  </TaxiWaySegments>
 </groundnet>

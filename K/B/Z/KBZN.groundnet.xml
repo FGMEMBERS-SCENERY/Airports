@@ -2,18 +2,18 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="FBO" lat="N45 46.396211" lon="W111 9.125381" heading="225.96"  radius="44" pushBackRoute="9" airlineCodes="" />
+        <Parking index="0" type="gate" name="FBO" lat="N45 46.396211" lon="W111 9.125381" heading="225.96"  radius="44" pushBackRoute="7" airlineCodes="" />
         <Parking index="1" type="gate" name="GATE_2" lat="N45 46.698997" lon="W111 9.559543" heading="225.58"  radius="44" pushBackRoute="19" airlineCodes="" />
         <Parking index="2" type="gate" name="GATE_5" lat="N45 46.743145" lon="W111 9.615387" heading="225.7"  radius="44" pushBackRoute="20" airlineCodes="" />
-        <Parking index="3" type="gate" name="DE-ICE" lat="N45 46.168769" lon="W111 8.740469" heading="45"  radius="44" pushBackRoute="174" airlineCodes="" />
-        <Parking index="4" type="gate" name="GA" lat="N45 46.448729" lon="W111 9.245326" heading="45.15"  radius="44" pushBackRoute="175" airlineCodes="" />
+        <Parking index="3" type="gate" name="DE-ICE" lat="N45 46.168769" lon="W111 8.740469" heading="45"  radius="44" pushBackRoute="77" airlineCodes="" />
+        <Parking index="4" type="gate" name="GA" lat="N45 46.448729" lon="W111 9.245326" heading="45.15"  radius="44" pushBackRoute="10" airlineCodes="" />
         <Parking index="5" type="gate" name="FIRE" lat="N45 46.572591" lon="W111 9.397365" heading="45"  radius="44" pushBackRoute="15" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="6" lat="N45 46.418567" lon="W111 9.093490" isOnRunway="0" holdPointType="none"  />
         <node index="7" lat="N45 46.413571" lon="W111 9.103307" isOnRunway="0" holdPointType="PushBack"  />
         <node index="8" lat="N45 46.412460" lon="W111 9.115246" isOnRunway="0" holdPointType="none"  />
-        <node index="9" lat="N45 46.417827" lon="W111 9.128512" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="9" lat="N45 46.417827" lon="W111 9.128512" isOnRunway="0" holdPointType="none"  />
         <node index="10" lat="N45 46.479569" lon="W111 9.214702" isOnRunway="0" holdPointType="PushBack"  />
         <node index="11" lat="N45 46.486596" lon="W111 9.220829" isOnRunway="0" holdPointType="none"  />
         <node index="12" lat="N45 46.494478" lon="W111 9.221782" isOnRunway="0" holdPointType="none"  />
@@ -178,8 +178,8 @@
         <node index="171" lat="N45 46.415067" lon="W111 9.105882" isOnRunway="0" holdPointType="none"  />
         <node index="172" lat="N45 46.717982" lon="W111 9.540170" isOnRunway="0" holdPointType="none"  />
         <node index="173" lat="N45 46.762089" lon="W111 9.595974" isOnRunway="0" holdPointType="none"  />
-        <node index="174" lat="N45 46.149588" lon="W111 8.759649" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="175" lat="N45 46.429599" lon="W111 9.264556" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="174" lat="N45 46.149588" lon="W111 8.759649" isOnRunway="0" holdPointType="none"  />
+        <node index="175" lat="N45 46.429599" lon="W111 9.264556" isOnRunway="0" holdPointType="none"  />
         <node index="176" lat="N45 46.553411" lon="W111 9.416545" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
@@ -570,17 +570,5 @@
         <arc begin="176" end="5" isPushBackRoute="1" name="FIRE"  />
         <arc begin="176" end="15" isPushBackRoute="1" name="FIRE"  />
         <arc begin="15" end="176" isPushBackRoute="1" name="FIRE"  />
-        <arc begin="0" end="9" isPushBackRoute="1" name="FBO"  />
-        <arc begin="9" end="0" isPushBackRoute="1" name="FBO"  />
-        <arc begin="1" end="19" isPushBackRoute="1" name="GATE_2"  />
-        <arc begin="19" end="1" isPushBackRoute="1" name="GATE_2"  />
-        <arc begin="2" end="20" isPushBackRoute="1" name="GATE_5"  />
-        <arc begin="20" end="2" isPushBackRoute="1" name="GATE_5"  />
-        <arc begin="3" end="174" isPushBackRoute="1" name="DE-ICE"  />
-        <arc begin="174" end="3" isPushBackRoute="1" name="DE-ICE"  />
-        <arc begin="4" end="175" isPushBackRoute="1" name="GA"  />
-        <arc begin="175" end="4" isPushBackRoute="1" name="GA"  />
-        <arc begin="5" end="15" isPushBackRoute="1" name="FIRE"  />
-        <arc begin="15" end="5" isPushBackRoute="1" name="FIRE"  />
  </TaxiWaySegments>
 </groundnet>

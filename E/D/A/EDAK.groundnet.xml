@@ -13,7 +13,7 @@
         <Parking index="8" type="ga" name="Ramp_start_9" lat="N51 18.329577" lon="E13 33.315621" heading="25.05"  radius="10" pushBackRoute="30" airlineCodes="" />
         <Parking index="9" type="ga" name="Ramp_start_10" lat="N51 18.319085" lon="E13 33.351424" heading="25.05"  radius="10" pushBackRoute="32" airlineCodes="" />
         <Parking index="10" type="ga" name="Ramp_start_11" lat="N51 18.308942" lon="E13 33.384569" heading="25.05"  radius="10" pushBackRoute="31" airlineCodes="" />
-        <Parking index="11" type="ga" name="Flugschule" lat="N51 18.283082" lon="E13 32.785453" heading="251.15"  radius="10" pushBackRoute="24" airlineCodes="" />
+        <Parking index="11" type="ga" name="Flugschule" lat="N51 18.283082" lon="E13 32.785453" heading="251.15"  radius="10" pushBackRoute="22" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="12" lat="N51 18.551415" lon="E13 32.564489" isOnRunway="0" holdPointType="PushBack"  />
@@ -28,7 +28,7 @@
         <node index="21" lat="N51 18.305080" lon="E13 32.830183" isOnRunway="0" holdPointType="none"  />
         <node index="22" lat="N51 18.294536" lon="E13 32.803630" isOnRunway="0" holdPointType="PushBack"  />
         <node index="23" lat="N51 18.288165" lon="E13 32.777004" isOnRunway="0" holdPointType="none"  />
-        <node index="24" lat="N51 18.282377" lon="E13 32.780090" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="24" lat="N51 18.282377" lon="E13 32.780090" isOnRunway="0" holdPointType="none"  />
         <node index="25" lat="N51 18.408707" lon="E13 33.058082" isOnRunway="0" holdPointType="PushBack"  />
         <node index="26" lat="N51 18.393697" lon="E13 33.113149" isOnRunway="0" holdPointType="PushBack"  />
         <node index="27" lat="N51 18.371035" lon="E13 33.191632" isOnRunway="0" holdPointType="PushBack"  />
@@ -217,29 +217,5 @@
         <arc begin="71" end="11" isPushBackRoute="1" name="Flugschule"  />
         <arc begin="71" end="22" isPushBackRoute="1" name="Flugschule"  />
         <arc begin="22" end="71" isPushBackRoute="1" name="Flugschule"  />
-        <arc begin="0" end="12" isPushBackRoute="1" name="Ramp_start_1"  />
-        <arc begin="12" end="0" isPushBackRoute="1" name="Ramp_start_1"  />
-        <arc begin="1" end="13" isPushBackRoute="1" name="Ramp_start_2"  />
-        <arc begin="13" end="1" isPushBackRoute="1" name="Ramp_start_2"  />
-        <arc begin="2" end="14" isPushBackRoute="1" name="Ramp_start_3"  />
-        <arc begin="14" end="2" isPushBackRoute="1" name="Ramp_start_3"  />
-        <arc begin="3" end="25" isPushBackRoute="1" name="Ramp_start_4"  />
-        <arc begin="25" end="3" isPushBackRoute="1" name="Ramp_start_4"  />
-        <arc begin="4" end="26" isPushBackRoute="1" name="Ramp_start_5"  />
-        <arc begin="26" end="4" isPushBackRoute="1" name="Ramp_start_5"  />
-        <arc begin="5" end="27" isPushBackRoute="1" name="Ramp_start_6"  />
-        <arc begin="27" end="5" isPushBackRoute="1" name="Ramp_start_6"  />
-        <arc begin="6" end="28" isPushBackRoute="1" name="Ramp_start_7"  />
-        <arc begin="28" end="6" isPushBackRoute="1" name="Ramp_start_7"  />
-        <arc begin="7" end="29" isPushBackRoute="1" name="Ramp_start_8"  />
-        <arc begin="29" end="7" isPushBackRoute="1" name="Ramp_start_8"  />
-        <arc begin="8" end="30" isPushBackRoute="1" name="Ramp_start_9"  />
-        <arc begin="30" end="8" isPushBackRoute="1" name="Ramp_start_9"  />
-        <arc begin="9" end="32" isPushBackRoute="1" name="Ramp_start_10"  />
-        <arc begin="32" end="9" isPushBackRoute="1" name="Ramp_start_10"  />
-        <arc begin="10" end="31" isPushBackRoute="1" name="Ramp_start_11"  />
-        <arc begin="31" end="10" isPushBackRoute="1" name="Ramp_start_11"  />
-        <arc begin="11" end="24" isPushBackRoute="1" name="Flugschule"  />
-        <arc begin="24" end="11" isPushBackRoute="1" name="Flugschule"  />
  </TaxiWaySegments>
 </groundnet>

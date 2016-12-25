@@ -160,17 +160,5 @@
         <arc begin="51" end="5" isPushBackRoute="1" name="South_aeroclub_parking_2"  />
         <arc begin="51" end="21" isPushBackRoute="1" name="South_aeroclub_parking_2"  />
         <arc begin="21" end="51" isPushBackRoute="1" name="South_aeroclub_parking_2"  />
-        <arc begin="0" end="11" isPushBackRoute="1" name="North_Hangar_parking"  />
-        <arc begin="11" end="0" isPushBackRoute="1" name="North_Hangar_parking"  />
-        <arc begin="1" end="9" isPushBackRoute="1" name="North_Apron_parking"  />
-        <arc begin="9" end="1" isPushBackRoute="1" name="North_Apron_parking"  />
-        <arc begin="2" end="7" isPushBackRoute="1" name="North_gras_parking_1"  />
-        <arc begin="7" end="2" isPushBackRoute="1" name="North_gras_parking_1"  />
-        <arc begin="3" end="8" isPushBackRoute="1" name="North_gras_parking_2"  />
-        <arc begin="8" end="3" isPushBackRoute="1" name="North_gras_parking_2"  />
-        <arc begin="4" end="23" isPushBackRoute="1" name="South_aeroclub_parking_1"  />
-        <arc begin="23" end="4" isPushBackRoute="1" name="South_aeroclub_parking_1"  />
-        <arc begin="5" end="21" isPushBackRoute="1" name="South_aeroclub_parking_2"  />
-        <arc begin="21" end="5" isPushBackRoute="1" name="South_aeroclub_parking_2"  />
  </TaxiWaySegments>
 </groundnet>

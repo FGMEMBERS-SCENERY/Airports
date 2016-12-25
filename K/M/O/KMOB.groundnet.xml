@@ -2,11 +2,11 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="National_Guard" lat="N30 42.301712" lon="W88 15.161531" heading="233.13"  radius="17" pushBackRoute="359" airlineCodes="" />
-        <Parking index="1" type="gate" name="Hangar" lat="N30 41.235404" lon="W88 14.066206" heading="271.64"  radius="44" pushBackRoute="360" airlineCodes="" />
-        <Parking index="2" type="gate" name="Tie_Down" lat="N30 41.006670" lon="W88 14.920339" heading="182.12"  radius="19" pushBackRoute="361" airlineCodes="" />
-        <Parking index="3" type="gate" name="Gate" lat="N30 40.969669" lon="W88 14.698183" heading="270.79"  radius="44" pushBackRoute="304" airlineCodes="" />
-        <Parking index="4" type="gate" name="US_Coast_Guard" lat="N30 41.674634" lon="W88 14.593363" heading="178.64"  radius="17" pushBackRoute="363" airlineCodes="" />
+        <Parking index="0" type="gate" name="National_Guard" lat="N30 42.301712" lon="W88 15.161531" heading="233.13"  radius="17" pushBackRoute="356" airlineCodes="" />
+        <Parking index="1" type="gate" name="Hangar" lat="N30 41.235404" lon="W88 14.066206" heading="271.64"  radius="44" pushBackRoute="327" airlineCodes="" />
+        <Parking index="2" type="gate" name="Tie_Down" lat="N30 41.006670" lon="W88 14.920339" heading="182.12"  radius="19" pushBackRoute="24" airlineCodes="" />
+        <Parking index="3" type="gate" name="Gate" lat="N30 40.969669" lon="W88 14.698183" heading="270.79"  radius="44" pushBackRoute="9" airlineCodes="" />
+        <Parking index="4" type="gate" name="US_Coast_Guard" lat="N30 41.674634" lon="W88 14.593363" heading="178.64"  radius="17" pushBackRoute="310" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="5" lat="N30 40.982087" lon="W88 14.962839" isOnRunway="0" holdPointType="none"  />
@@ -308,7 +308,7 @@
         <node index="301" lat="N30 41.074573" lon="W88 14.197082" isOnRunway="0" holdPointType="none"  />
         <node index="302" lat="N30 41.076370" lon="W88 14.187482" isOnRunway="0" holdPointType="none"  />
         <node index="303" lat="N30 41.066584" lon="W88 14.186554" isOnRunway="0" holdPointType="none"  />
-        <node index="304" lat="N30 40.955470" lon="W88 14.699630" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="304" lat="N30 40.955470" lon="W88 14.699630" isOnRunway="0" holdPointType="none"  />
         <node index="305" lat="N30 41.683131" lon="W88 14.702754" isOnRunway="0" holdPointType="none"  />
         <node index="306" lat="N30 41.682974" lon="W88 14.694173" isOnRunway="0" holdPointType="none"  />
         <node index="307" lat="N30 41.681247" lon="W88 14.685959" isOnRunway="0" holdPointType="none"  />
@@ -363,11 +363,11 @@
         <node index="356" lat="N30 42.260417" lon="W88 15.160944" isOnRunway="0" holdPointType="PushBack"  />
         <node index="357" lat="N30 42.172105" lon="W88 15.179876" isOnRunway="0" holdPointType="none"  />
         <node index="358" lat="N30 42.164502" lon="W88 15.182257" isOnRunway="0" holdPointType="none"  />
-        <node index="359" lat="N30 42.317987" lon="W88 15.139831" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="360" lat="N30 41.234628" lon="W88 14.039093" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="361" lat="N30 41.033776" lon="W88 14.919336" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="359" lat="N30 42.317987" lon="W88 15.139831" isOnRunway="0" holdPointType="none"  />
+        <node index="360" lat="N30 41.234628" lon="W88 14.039093" isOnRunway="0" holdPointType="none"  />
+        <node index="361" lat="N30 41.033776" lon="W88 14.919336" isOnRunway="0" holdPointType="none"  />
         <node index="362" lat="N30 40.969295" lon="W88 14.671061" isOnRunway="0" holdPointType="none"  />
-        <node index="363" lat="N30 41.701752" lon="W88 14.594007" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="363" lat="N30 41.701752" lon="W88 14.594007" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="5" end="25" isPushBackRoute="0" name=""  />
@@ -1172,15 +1172,5 @@
         <arc begin="363" end="4" isPushBackRoute="1" name="US_Coast_Guard"  />
         <arc begin="363" end="310" isPushBackRoute="1" name="US_Coast_Guard"  />
         <arc begin="310" end="363" isPushBackRoute="1" name="US_Coast_Guard"  />
-        <arc begin="0" end="359" isPushBackRoute="1" name="National_Guard"  />
-        <arc begin="359" end="0" isPushBackRoute="1" name="National_Guard"  />
-        <arc begin="1" end="360" isPushBackRoute="1" name="Hangar"  />
-        <arc begin="360" end="1" isPushBackRoute="1" name="Hangar"  />
-        <arc begin="2" end="361" isPushBackRoute="1" name="Tie_Down"  />
-        <arc begin="361" end="2" isPushBackRoute="1" name="Tie_Down"  />
-        <arc begin="3" end="304" isPushBackRoute="1" name="Gate"  />
-        <arc begin="304" end="3" isPushBackRoute="1" name="Gate"  />
-        <arc begin="4" end="363" isPushBackRoute="1" name="US_Coast_Guard"  />
-        <arc begin="363" end="4" isPushBackRoute="1" name="US_Coast_Guard"  />
  </TaxiWaySegments>
 </groundnet>

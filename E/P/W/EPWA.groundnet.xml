@@ -1,8 +1,6 @@
 <?xml version="1.0"?>
 <groundnet>
   <version>1</version>
- <icao="EPWA">
- <aid="1">
   <parkingList>
         <Parking index="0" type="gate" name="10" lat="N52 10.481041" lon="E20 58.049140" heading="135.86"  radius="17" airlineCodes="" />
         <Parking index="1" type="gate" name="110" lat="N52 10.220423" lon="E20 58.261001" heading="62.91"  radius="17" airlineCodes="" />

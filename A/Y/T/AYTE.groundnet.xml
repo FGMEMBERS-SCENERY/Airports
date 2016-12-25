@@ -26,9 +26,5 @@
         <arc begin="9" end="1" isPushBackRoute="1" name="GA_Stand"  />
         <arc begin="9" end="4" isPushBackRoute="1" name="GA_Stand"  />
         <arc begin="4" end="9" isPushBackRoute="1" name="GA_Stand"  />
-        <arc begin="0" end="2" isPushBackRoute="1" name="Ramp"  />
-        <arc begin="2" end="0" isPushBackRoute="1" name="Ramp"  />
-        <arc begin="1" end="4" isPushBackRoute="1" name="GA_Stand"  />
-        <arc begin="4" end="1" isPushBackRoute="1" name="GA_Stand"  />
  </TaxiWaySegments>
 </groundnet>

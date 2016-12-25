@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="GATE_Start_1" lat="N43 30.432457" lon="W114 18.074666" heading="115.04"  radius="19" pushBackRoute="86" airlineCodes="" />
-        <Parking index="1" type="gate" name="FBO_Start_4" lat="N43 29.832314" lon="W114 17.509587" heading="-34.11"  radius="10" pushBackRoute="87" airlineCodes="" />
-        <Parking index="2" type="gate" name="GATE_Start_2" lat="N43 30.421699" lon="W114 18.099464" heading="112.72"  radius="19" pushBackRoute="86" airlineCodes="" />
-        <Parking index="3" type="ga" name="PARKING_Start_3" lat="N43 30.026297" lon="W114 17.686125" heading="358.6"  radius="10" pushBackRoute="89" airlineCodes="" />
+        <Parking index="0" type="gate" name="GATE_Start_1" lat="N43 30.432457" lon="W114 18.074666" heading="115.04"  radius="19" pushBackRoute="76" airlineCodes="" />
+        <Parking index="1" type="gate" name="FBO_Start_4" lat="N43 29.832314" lon="W114 17.509587" heading="-34.11"  radius="10" pushBackRoute="72" airlineCodes="" />
+        <Parking index="2" type="gate" name="GATE_Start_2" lat="N43 30.421699" lon="W114 18.099464" heading="112.72"  radius="19" pushBackRoute="76" airlineCodes="" />
+        <Parking index="3" type="ga" name="PARKING_Start_3" lat="N43 30.026297" lon="W114 17.686125" heading="358.6"  radius="10" pushBackRoute="33" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="4" lat="N43 30.219922" lon="W114 17.796600" isOnRunway="0" holdPointType="none"  />
@@ -90,10 +90,10 @@
         <node index="83" lat="N43 30.243806" lon="W114 17.749885" isOnRunway="1" holdPointType="none"  />
         <node index="84" lat="N43 29.880191" lon="W114 17.397400" isOnRunway="1" holdPointType="none"  />
         <node index="85" lat="N43 29.856329" lon="W114 17.444058" isOnRunway="0" holdPointType="none"  />
-        <node index="86" lat="N43 30.443937" lon="W114 18.099241" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="87" lat="N43 29.809856" lon="W114 17.494376" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="86" lat="N43 30.443937" lon="W114 18.099241" isOnRunway="0" holdPointType="none"  />
+        <node index="87" lat="N43 29.809856" lon="W114 17.494376" isOnRunway="0" holdPointType="none"  />
         <node index="88" lat="N43 30.432176" lon="W114 18.124484" isOnRunway="0" holdPointType="none"  />
-        <node index="89" lat="N43 29.999180" lon="W114 17.685462" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="89" lat="N43 29.999180" lon="W114 17.685462" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="4" end="70" isPushBackRoute="0" name="B5"  />
@@ -272,13 +272,5 @@
         <arc begin="89" end="3" isPushBackRoute="1" name="PARKING_Start_3"  />
         <arc begin="89" end="33" isPushBackRoute="1" name="PARKING_Start_3"  />
         <arc begin="33" end="89" isPushBackRoute="1" name="PARKING_Start_3"  />
-        <arc begin="0" end="86" isPushBackRoute="1" name="GATE_Start_1"  />
-        <arc begin="86" end="0" isPushBackRoute="1" name="GATE_Start_1"  />
-        <arc begin="1" end="87" isPushBackRoute="1" name="FBO_Start_4"  />
-        <arc begin="87" end="1" isPushBackRoute="1" name="FBO_Start_4"  />
-        <arc begin="2" end="86" isPushBackRoute="1" name="GATE_Start_2"  />
-        <arc begin="86" end="2" isPushBackRoute="1" name="GATE_Start_2"  />
-        <arc begin="3" end="89" isPushBackRoute="1" name="PARKING_Start_3"  />
-        <arc begin="89" end="3" isPushBackRoute="1" name="PARKING_Start_3"  />
  </TaxiWaySegments>
 </groundnet>

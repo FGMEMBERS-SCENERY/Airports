@@ -3,7 +3,7 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="ga" name="Gras_ramp_start" lat="N52 19.028695" lon="E10 33.694703" heading="266.53"  radius="10" pushBackRoute="17" airlineCodes="" />
-        <Parking index="1" type="gate" name="LBA_Hangar_start" lat="N52 18.960653" lon="E10 32.814698" heading="0"  radius="19" pushBackRoute="28" airlineCodes="" />
+        <Parking index="1" type="gate" name="LBA_Hangar_start" lat="N52 18.960653" lon="E10 32.814698" heading="0"  radius="19" pushBackRoute="13" airlineCodes="" />
         <Parking index="2" type="gate" name="West_hangar_start" lat="N52 18.939548" lon="E10 33.337027" heading="123.69"  radius="19" pushBackRoute="7" airlineCodes="" />
         <Parking index="3" type="gate" name="Ramp_parking_1" lat="N52 19.021683" lon="E10 33.548836" heading="88.38"  radius="19" pushBackRoute="14" airlineCodes="" />
         <Parking index="4" type="gate" name="Ramp_parking" lat="N52 19.024547" lon="E10 33.596540" heading="271.27"  radius="19" pushBackRoute="16" airlineCodes="" />
@@ -32,7 +32,7 @@
         <node index="25" lat="N52 19.110094" lon="E10 32.638930" isOnRunway="1" holdPointType="none"  />
         <node index="26" lat="N52 19.176881" lon="E10 33.834364" isOnRunway="1" holdPointType="none"  />
         <node index="27" lat="N52 19.030337" lon="E10 33.721778" isOnRunway="0" holdPointType="none"  />
-        <node index="28" lat="N52 18.933528" lon="E10 32.814698" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="28" lat="N52 18.933528" lon="E10 32.814698" isOnRunway="0" holdPointType="none"  />
         <node index="29" lat="N52 18.954594" lon="E10 33.314457" isOnRunway="0" holdPointType="none"  />
         <node index="30" lat="N52 19.020916" lon="E10 33.521722" isOnRunway="0" holdPointType="none"  />
         <node index="31" lat="N52 19.023946" lon="E10 33.623658" isOnRunway="0" holdPointType="none"  />
@@ -100,15 +100,5 @@
         <arc begin="31" end="4" isPushBackRoute="1" name="Ramp_parking"  />
         <arc begin="31" end="16" isPushBackRoute="1" name="Ramp_parking"  />
         <arc begin="16" end="31" isPushBackRoute="1" name="Ramp_parking"  />
-        <arc begin="0" end="17" isPushBackRoute="1" name="Gras_ramp_start"  />
-        <arc begin="17" end="0" isPushBackRoute="1" name="Gras_ramp_start"  />
-        <arc begin="1" end="28" isPushBackRoute="1" name="LBA_Hangar_start"  />
-        <arc begin="28" end="1" isPushBackRoute="1" name="LBA_Hangar_start"  />
-        <arc begin="2" end="7" isPushBackRoute="1" name="West_hangar_start"  />
-        <arc begin="7" end="2" isPushBackRoute="1" name="West_hangar_start"  />
-        <arc begin="3" end="14" isPushBackRoute="1" name="Ramp_parking_1"  />
-        <arc begin="14" end="3" isPushBackRoute="1" name="Ramp_parking_1"  />
-        <arc begin="4" end="16" isPushBackRoute="1" name="Ramp_parking"  />
-        <arc begin="16" end="4" isPushBackRoute="1" name="Ramp_parking"  />
  </TaxiWaySegments>
 </groundnet>

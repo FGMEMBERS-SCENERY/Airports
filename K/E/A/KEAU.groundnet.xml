@@ -3,15 +3,15 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="gate" name="RW_22_Siding" lat="N44 52.403319" lon="W91 28.207429" heading="47.97"  radius="19" pushBackRoute="116" airlineCodes="" />
-        <Parking index="1" type="gate" name="RW_14_Siding" lat="N44 52.150016" lon="W91 29.570645" heading="-38.93"  radius="19" pushBackRoute="16" airlineCodes="" />
-        <Parking index="2" type="gate" name="RW_32_Siding" lat="N44 51.580302" lon="W91 28.862492" heading="180.99"  radius="19" pushBackRoute="52" airlineCodes="" />
-        <Parking index="3" type="gate" name="South_Parking" lat="N44 51.528089" lon="W91 29.143988" heading="54.46"  radius="19" pushBackRoute="127" airlineCodes="" />
+        <Parking index="1" type="gate" name="RW_14_Siding" lat="N44 52.150016" lon="W91 29.570645" heading="-38.93"  radius="19" pushBackRoute="17" airlineCodes="" />
+        <Parking index="2" type="gate" name="RW_32_Siding" lat="N44 51.580302" lon="W91 28.862492" heading="180.99"  radius="19" pushBackRoute="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="South_Parking" lat="N44 51.528089" lon="W91 29.143988" heading="54.46"  radius="19" pushBackRoute="39" airlineCodes="" />
         <Parking index="4" type="gate" name="South_Hangers" lat="N44 51.462187" lon="W91 29.195810" heading="0"  radius="19" pushBackRoute="42" airlineCodes="" />
-        <Parking index="5" type="gate" name="North_Hangers_2" lat="N44 51.975167" lon="W91 28.652843" heading="309.38"  radius="19" pushBackRoute="129" airlineCodes="" />
-        <Parking index="6" type="gate" name="North_Hangers_1" lat="N44 51.898947" lon="W91 28.755861" heading="317.58"  radius="19" pushBackRoute="130" airlineCodes="" />
-        <Parking index="7" type="gate" name="Near_Tenimal_Hangers" lat="N44 51.840518" lon="W91 28.809899" heading="299.36"  radius="19" pushBackRoute="131" airlineCodes="" />
+        <Parking index="5" type="gate" name="North_Hangers_2" lat="N44 51.975167" lon="W91 28.652843" heading="309.38"  radius="19" pushBackRoute="102" airlineCodes="" />
+        <Parking index="6" type="gate" name="North_Hangers_1" lat="N44 51.898947" lon="W91 28.755861" heading="317.58"  radius="19" pushBackRoute="103" airlineCodes="" />
+        <Parking index="7" type="gate" name="Near_Tenimal_Hangers" lat="N44 51.840518" lon="W91 28.809899" heading="299.36"  radius="19" pushBackRoute="100" airlineCodes="" />
         <Parking index="8" type="gate" name="FBO" lat="N44 51.841138" lon="W91 28.909601" heading="304.18"  radius="19" pushBackRoute="97" airlineCodes="" />
-        <Parking index="9" type="gate" name="Temnimal_Side_Gate" lat="N44 51.729826" lon="W91 28.991381" heading="146.31"  radius="19" pushBackRoute="133" airlineCodes="" />
+        <Parking index="9" type="gate" name="Temnimal_Side_Gate" lat="N44 51.729826" lon="W91 28.991381" heading="146.31"  radius="19" pushBackRoute="29" airlineCodes="" />
         <Parking index="10" type="gate" name="Teminal_Gate" lat="N44 51.712033" lon="W91 28.984067" heading="53.24"  radius="19" pushBackRoute="28" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
@@ -20,7 +20,7 @@
         <node index="13" lat="N44 52.161554" lon="W91 29.631541" isOnRunway="0" holdPointType="none"  />
         <node index="14" lat="N44 52.165331" lon="W91 29.609664" isOnRunway="0" holdPointType="none"  />
         <node index="15" lat="N44 52.167248" lon="W91 29.588356" isOnRunway="0" holdPointType="none"  />
-        <node index="16" lat="N44 52.146970" lon="W91 29.564809" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="16" lat="N44 52.146970" lon="W91 29.564809" isOnRunway="0" holdPointType="none"  />
         <node index="17" lat="N44 52.128242" lon="W91 29.565818" isOnRunway="0" holdPointType="PushBack"  />
         <node index="18" lat="N44 52.057958" lon="W91 29.480070" isOnRunway="0" holdPointType="none"  />
         <node index="19" lat="N44 51.950050" lon="W91 29.351057" isOnRunway="0" holdPointType="none"  />
@@ -56,7 +56,7 @@
         <node index="49" lat="N44 51.610846" lon="W91 28.895228" isOnRunway="0" holdPointType="none"  />
         <node index="50" lat="N44 51.721755" lon="W91 29.070523" isOnRunway="0" holdPointType="none"  />
         <node index="51" lat="N44 51.549653" lon="W91 28.863083" isOnRunway="0" holdPointType="none"  />
-        <node index="52" lat="N44 51.585104" lon="W91 28.862475" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="52" lat="N44 51.585104" lon="W91 28.862475" isOnRunway="0" holdPointType="none"  />
         <node index="53" lat="N44 51.603056" lon="W91 28.886925" isOnRunway="0" holdPointType="none"  />
         <node index="54" lat="N44 51.536734" lon="W91 28.887958" isOnRunway="0" holdPointType="none"  />
         <node index="55" lat="N44 51.580474" lon="W91 28.887092" isOnRunway="0" holdPointType="none"  />
@@ -131,13 +131,13 @@
         <node index="124" lat="N44 52.385159" lon="W91 28.227577" isOnRunway="0" holdPointType="none"  />
         <node index="125" lat="N44 52.128915" lon="W91 29.553601" isOnRunway="0" holdPointType="none"  />
         <node index="126" lat="N44 51.607423" lon="W91 28.862024" isOnRunway="0" holdPointType="none"  />
-        <node index="127" lat="N44 51.512322" lon="W91 29.166060" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="127" lat="N44 51.512322" lon="W91 29.166060" isOnRunway="0" holdPointType="none"  />
         <node index="128" lat="N44 51.435063" lon="W91 29.195810" isOnRunway="0" holdPointType="none"  />
-        <node index="129" lat="N44 51.957958" lon="W91 28.631877" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="130" lat="N44 51.878923" lon="W91 28.737564" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="131" lat="N44 51.827219" lon="W91 28.786258" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="129" lat="N44 51.957958" lon="W91 28.631877" isOnRunway="0" holdPointType="none"  />
+        <node index="130" lat="N44 51.878923" lon="W91 28.737564" isOnRunway="0" holdPointType="none"  />
+        <node index="131" lat="N44 51.827219" lon="W91 28.786258" isOnRunway="0" holdPointType="none"  />
         <node index="132" lat="N44 51.825900" lon="W91 28.887161" isOnRunway="0" holdPointType="none"  />
-        <node index="133" lat="N44 51.752395" lon="W91 29.006427" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="133" lat="N44 51.752395" lon="W91 29.006427" isOnRunway="0" holdPointType="none"  />
         <node index="134" lat="N44 51.695800" lon="W91 29.005798" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
@@ -416,27 +416,5 @@
         <arc begin="134" end="10" isPushBackRoute="1" name="Teminal_Gate"  />
         <arc begin="134" end="28" isPushBackRoute="1" name="Teminal_Gate"  />
         <arc begin="28" end="134" isPushBackRoute="1" name="Teminal_Gate"  />
-        <arc begin="0" end="116" isPushBackRoute="1" name="RW_22_Siding"  />
-        <arc begin="116" end="0" isPushBackRoute="1" name="RW_22_Siding"  />
-        <arc begin="1" end="16" isPushBackRoute="1" name="RW_14_Siding"  />
-        <arc begin="16" end="1" isPushBackRoute="1" name="RW_14_Siding"  />
-        <arc begin="2" end="52" isPushBackRoute="1" name="RW_32_Siding"  />
-        <arc begin="52" end="2" isPushBackRoute="1" name="RW_32_Siding"  />
-        <arc begin="3" end="127" isPushBackRoute="1" name="South_Parking"  />
-        <arc begin="127" end="3" isPushBackRoute="1" name="South_Parking"  />
-        <arc begin="4" end="42" isPushBackRoute="1" name="South_Hangers"  />
-        <arc begin="42" end="4" isPushBackRoute="1" name="South_Hangers"  />
-        <arc begin="5" end="129" isPushBackRoute="1" name="North_Hangers_2"  />
-        <arc begin="129" end="5" isPushBackRoute="1" name="North_Hangers_2"  />
-        <arc begin="6" end="130" isPushBackRoute="1" name="North_Hangers_1"  />
-        <arc begin="130" end="6" isPushBackRoute="1" name="North_Hangers_1"  />
-        <arc begin="7" end="131" isPushBackRoute="1" name="Near_Tenimal_Hangers"  />
-        <arc begin="131" end="7" isPushBackRoute="1" name="Near_Tenimal_Hangers"  />
-        <arc begin="8" end="97" isPushBackRoute="1" name="FBO"  />
-        <arc begin="97" end="8" isPushBackRoute="1" name="FBO"  />
-        <arc begin="9" end="133" isPushBackRoute="1" name="Temnimal_Side_Gate"  />
-        <arc begin="133" end="9" isPushBackRoute="1" name="Temnimal_Side_Gate"  />
-        <arc begin="10" end="28" isPushBackRoute="1" name="Teminal_Gate"  />
-        <arc begin="28" end="10" isPushBackRoute="1" name="Teminal_Gate"  />
  </TaxiWaySegments>
 </groundnet>
