@@ -2,19 +2,19 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Apron_1" lat="S20 25.445968" lon="W69 37.741522" heading="127"  radius="19" pushBackRoute="11" airlineCodes="" />
-        <Parking index="1" type="gate" name="Apron_2" lat="S20 25.441291" lon="W69 37.720579" heading="180"  radius="19" pushBackRoute="11" airlineCodes="" />
-        <Parking index="2" type="gate" name="Apron_3" lat="S20 25.488857" lon="W69 37.706697" heading="212.27"  radius="19" pushBackRoute="11" airlineCodes="" />
-        <Parking index="3" type="gate" name="Apron_4" lat="S20 25.477715" lon="W69 37.739835" heading="142.43"  radius="19" pushBackRoute="11" airlineCodes="" />
-        <Parking index="4" type="gate" name="Apron_26R" lat="S20 25.470669" lon="W69 37.458613" heading="240.25"  radius="19" pushBackRoute="28" airlineCodes="" />
-        <Parking index="5" type="gate" name="Apron_26L" lat="S20 25.533896" lon="W69 37.453926" heading="277.13"  radius="19" pushBackRoute="26" airlineCodes="" />
-        <Parking index="6" type="gate" name="Apron_08_R" lat="S20 25.802194" lon="W69 39.537287" heading="63.43"  radius="19" pushBackRoute="15" airlineCodes="" />
-        <Parking index="7" type="gate" name="Apron_08_L" lat="S20 25.719166" lon="W69 39.523125" heading="120.26"  radius="19" pushBackRoute="21" airlineCodes="" />
+        <Parking index="0" type="gate" name="Apron_1" lat="S20 25.451192" lon="W69 37.734590" heading="127"  radius="19" pushBackRoute="11" airlineCodes="" />
+        <Parking index="1" type="gate" name="Apron_2" lat="S20 25.449971" lon="W69 37.720579" heading="180"  radius="19" pushBackRoute="11" airlineCodes="" />
+        <Parking index="2" type="gate" name="Apron_3" lat="S20 25.496197" lon="W69 37.711331" heading="212.27"  radius="19" pushBackRoute="10" airlineCodes="" />
+        <Parking index="3" type="gate" name="Apron_4" lat="S20 25.484595" lon="W69 37.734542" heading="142.43"  radius="19" pushBackRoute="10" airlineCodes="" />
+        <Parking index="4" type="gate" name="Apron_26R" lat="S20 25.474976" lon="W69 37.466149" heading="240.25"  radius="19" pushBackRoute="28" airlineCodes="" />
+        <Parking index="5" type="gate" name="Apron_26L" lat="S20 25.532818" lon="W69 37.462539" heading="277.13"  radius="19" pushBackRoute="26" airlineCodes="" />
+        <Parking index="6" type="gate" name="Apron_08_R" lat="S20 25.798312" lon="W69 39.529523" heading="63.43"  radius="19" pushBackRoute="15" airlineCodes="" />
+        <Parking index="7" type="gate" name="Apron_08_L" lat="S20 25.723540" lon="W69 39.515627" heading="120.26"  radius="19" pushBackRoute="21" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="8" lat="S20 25.504936" lon="W69 37.597284" isOnRunway="0" holdPointType="none"  />
         <node index="9" lat="S20 25.514114" lon="W69 37.662547" isOnRunway="0" holdPointType="none"  />
-        <node index="10" lat="S20 25.502316" lon="W69 37.718282" isOnRunway="0" holdPointType="none"  />
+        <node index="10" lat="S20 25.502316" lon="W69 37.718282" isOnRunway="0" holdPointType="PushBack"  />
         <node index="11" lat="S20 25.456720" lon="W69 37.727968" isOnRunway="0" holdPointType="PushBack"  />
         <node index="12" lat="S20 25.770753" lon="W69 39.532876" isOnRunway="0" holdPointType="none"  />
         <node index="13" lat="S20 25.778382" lon="W69 39.542140" isOnRunway="0" holdPointType="none"  />
@@ -65,14 +65,14 @@
         <node index="58" lat="S20 25.450361" lon="W69 37.917382" isOnRunway="0" holdPointType="none"  />
         <node index="59" lat="S20 25.482327" lon="W69 38.036410" isOnRunway="0" holdPointType="none"  />
         <node index="60" lat="S20 25.497683" lon="W69 38.037970" isOnRunway="0" holdPointType="none"  />
-        <node index="61" lat="S20 25.429644" lon="W69 37.763185" isOnRunway="0" holdPointType="none"  />
-        <node index="62" lat="S20 25.414166" lon="W69 37.720579" isOnRunway="0" holdPointType="none"  />
-        <node index="63" lat="S20 25.465922" lon="W69 37.692214" isOnRunway="0" holdPointType="none"  />
-        <node index="64" lat="S20 25.456216" lon="W69 37.756374" isOnRunway="0" holdPointType="none"  />
-        <node index="65" lat="S20 25.457209" lon="W69 37.435063" isOnRunway="0" holdPointType="none"  />
-        <node index="66" lat="S20 25.537262" lon="W69 37.427011" isOnRunway="0" holdPointType="none"  />
-        <node index="67" lat="S20 25.814327" lon="W69 39.561547" isOnRunway="0" holdPointType="none"  />
-        <node index="68" lat="S20 25.705497" lon="W69 39.546554" isOnRunway="0" holdPointType="none"  />
+        <node index="61" lat="S20 25.434868" lon="W69 37.756253" isOnRunway="0" holdPointType="none"  />
+        <node index="62" lat="S20 25.422846" lon="W69 37.720579" isOnRunway="0" holdPointType="none"  />
+        <node index="63" lat="S20 25.473261" lon="W69 37.696849" isOnRunway="0" holdPointType="none"  />
+        <node index="64" lat="S20 25.463096" lon="W69 37.751081" isOnRunway="0" holdPointType="none"  />
+        <node index="65" lat="S20 25.461516" lon="W69 37.442599" isOnRunway="0" holdPointType="none"  />
+        <node index="66" lat="S20 25.536185" lon="W69 37.435624" isOnRunway="0" holdPointType="none"  />
+        <node index="67" lat="S20 25.810444" lon="W69 39.553783" isOnRunway="0" holdPointType="none"  />
+        <node index="68" lat="S20 25.709871" lon="W69 39.539056" isOnRunway="0" holdPointType="none"  />
  </TaxiNodes>
  <TaxiWaySegments>
         <arc begin="39" end="10" isPushBackRoute="0" name="arrivals"  />
@@ -214,5 +214,21 @@
         <arc begin="68" end="7" isPushBackRoute="1" name="Apron_08_L"  />
         <arc begin="68" end="21" isPushBackRoute="1" name="Apron_08_L"  />
         <arc begin="21" end="68" isPushBackRoute="1" name="Apron_08_L"  />
+        <arc begin="0" end="11" isPushBackRoute="1" name="Apron_1"  />
+        <arc begin="11" end="0" isPushBackRoute="1" name="Apron_1"  />
+        <arc begin="1" end="11" isPushBackRoute="1" name="Apron_2"  />
+        <arc begin="11" end="1" isPushBackRoute="1" name="Apron_2"  />
+        <arc begin="2" end="10" isPushBackRoute="1" name="Apron_3"  />
+        <arc begin="10" end="2" isPushBackRoute="1" name="Apron_3"  />
+        <arc begin="3" end="10" isPushBackRoute="1" name="Apron_4"  />
+        <arc begin="10" end="3" isPushBackRoute="1" name="Apron_4"  />
+        <arc begin="4" end="28" isPushBackRoute="1" name="Apron_26R"  />
+        <arc begin="28" end="4" isPushBackRoute="1" name="Apron_26R"  />
+        <arc begin="5" end="26" isPushBackRoute="1" name="Apron_26L"  />
+        <arc begin="26" end="5" isPushBackRoute="1" name="Apron_26L"  />
+        <arc begin="6" end="15" isPushBackRoute="1" name="Apron_08_R"  />
+        <arc begin="15" end="6" isPushBackRoute="1" name="Apron_08_R"  />
+        <arc begin="7" end="21" isPushBackRoute="1" name="Apron_08_L"  />
+        <arc begin="21" end="7" isPushBackRoute="1" name="Apron_08_L"  />
  </TaxiWaySegments>
 </groundnet>
