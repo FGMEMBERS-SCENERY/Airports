@@ -2,34 +2,34 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Ramp_Start" lat="N28 14.581520" lon="W80 36.208533" heading="261.63"  radius="19" pushBackRoute="95" airlineCodes="" />
-        <Parking index="1" type="gate" name="GA1" lat="N28 13.704933" lon="W80 36.235467" heading="0"  radius="19" pushBackRoute="57" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA2" lat="N28 13.703871" lon="W80 36.251344" heading="0"  radius="19" pushBackRoute="60" airlineCodes="" />
-        <Parking index="3" type="gate" name="GA3" lat="N28 13.703694" lon="W80 36.265211" heading="0"  radius="19" pushBackRoute="59" airlineCodes="" />
-        <Parking index="4" type="gate" name="GA4" lat="N28 13.855289" lon="W80 36.359006" heading="89.25"  radius="19" pushBackRoute="147" airlineCodes="" />
-        <Parking index="5" type="gate" name="GA5" lat="N28 13.855823" lon="W80 36.306898" heading="-91.71"  radius="19" pushBackRoute="148" airlineCodes="" />
-        <Parking index="6" type="gate" name="GA6" lat="N28 14.098046" lon="W80 36.327977" heading="120.99"  radius="19" pushBackRoute="53" airlineCodes="" />
-        <Parking index="7" type="gate" name="GA7" lat="N28 14.135667" lon="W80 36.299645" heading="120.47"  radius="19" pushBackRoute="55" airlineCodes="" />
-        <Parking index="8" type="gate" name="GA8" lat="N28 14.169590" lon="W80 36.281591" heading="120.47"  radius="19" pushBackRoute="52" airlineCodes="" />
-        <Parking index="9" type="gate" name="GA9" lat="N28 14.424755" lon="W80 36.203396" heading="84.29"  radius="19" pushBackRoute="89" airlineCodes="" />
-        <Parking index="10" type="gate" name="GA10" lat="N28 14.486288" lon="W80 36.206920" heading="83.45"  radius="19" pushBackRoute="91" airlineCodes="" />
-        <Parking index="11" type="gate" name="GA11" lat="N28 14.512533" lon="W80 36.208471" heading="87.51"  radius="19" pushBackRoute="92" airlineCodes="" />
-        <Parking index="12" type="gate" name="MIL01" lat="N28 14.815548" lon="W80 36.441581" heading="20"  radius="19" pushBackRoute="104" airlineCodes="" />
-        <Parking index="13" type="gate" name="MIL02" lat="N28 14.826103" lon="W80 36.477028" heading="20"  radius="19" pushBackRoute="105" airlineCodes="" />
-        <Parking index="14" type="gate" name="MIL03" lat="N28 14.837208" lon="W80 36.511976" heading="20"  radius="19" pushBackRoute="106" airlineCodes="" />
-        <Parking index="15" type="gate" name="MIL04" lat="N28 14.849742" lon="W80 36.547048" heading="20"  radius="19" pushBackRoute="107" airlineCodes="" />
-        <Parking index="16" type="gate" name="MIL05" lat="N28 14.860187" lon="W80 36.581996" heading="20"  radius="19" pushBackRoute="108" airlineCodes="" />
-        <Parking index="17" type="gate" name="MIL06" lat="N28 14.872612" lon="W80 36.616569" heading="20"  radius="19" pushBackRoute="109" airlineCodes="" />
-        <Parking index="18" type="gate" name="MIL07" lat="N28 14.883937" lon="W80 36.651766" heading="20"  radius="19" pushBackRoute="110" airlineCodes="" />
-        <Parking index="19" type="gate" name="MIL08" lat="N28 14.895262" lon="W80 36.686839" heading="20"  radius="19" pushBackRoute="111" airlineCodes="" />
-        <Parking index="20" type="gate" name="MIL09" lat="N28 14.884340" lon="W80 36.410724" heading="20"  radius="19" pushBackRoute="80" airlineCodes="" />
-        <Parking index="21" type="gate" name="MIL10" lat="N28 14.895775" lon="W80 36.447419" heading="20"  radius="19" pushBackRoute="81" airlineCodes="" />
-        <Parking index="22" type="gate" name="MIL11" lat="N28 14.907210" lon="W80 36.483989" heading="20"  radius="19" pushBackRoute="82" airlineCodes="" />
-        <Parking index="23" type="gate" name="MIL12" lat="N28 14.919415" lon="W80 36.518438" heading="20"  radius="19" pushBackRoute="83" airlineCodes="" />
-        <Parking index="24" type="gate" name="MIL13" lat="N28 14.929970" lon="W80 36.550765" heading="20"  radius="19" pushBackRoute="84" airlineCodes="" />
-        <Parking index="25" type="gate" name="MIL14" lat="N28 14.940745" lon="W80 36.586213" heading="20"  radius="19" pushBackRoute="85" airlineCodes="" />
-        <Parking index="26" type="gate" name="MIL15" lat="N28 14.952729" lon="W80 36.621036" heading="20"  radius="19" pushBackRoute="86" airlineCodes="" />
-        <Parking index="27" type="gate" name="MIL16" lat="N28 14.963724" lon="W80 36.656359" heading="20"  radius="19" pushBackRoute="87" airlineCodes="" />
+        <Parking index="0" type="gate" name="Ramp_Start" lat="N28 14.581520" lon="W80 36.208533" heading="261.63"  radius="32" pushBackRoute="95" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA1" lat="N28 13.704933" lon="W80 36.235467" heading="0"  radius="20" pushBackRoute="57" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA2" lat="N28 13.703871" lon="W80 36.251344" heading="0"  radius="20" pushBackRoute="60" airlineCodes="" />
+        <Parking index="3" type="gate" name="GA3" lat="N28 13.703694" lon="W80 36.265211" heading="0"  radius="20" pushBackRoute="59" airlineCodes="" />
+        <Parking index="4" type="gate" name="GA4" lat="N28 13.855289" lon="W80 36.359006" heading="89.25"  radius="20" pushBackRoute="147" airlineCodes="" />
+        <Parking index="5" type="gate" name="GA5" lat="N28 13.855823" lon="W80 36.306898" heading="-91.71"  radius="20" pushBackRoute="148" airlineCodes="" />
+        <Parking index="6" type="gate" name="GA6" lat="N28 14.098046" lon="W80 36.327977" heading="120.99"  radius="20" pushBackRoute="53" airlineCodes="" />
+        <Parking index="7" type="gate" name="GA7" lat="N28 14.135667" lon="W80 36.299645" heading="120.47"  radius="20" pushBackRoute="55" airlineCodes="" />
+        <Parking index="8" type="gate" name="GA8" lat="N28 14.169590" lon="W80 36.281591" heading="120.47"  radius="20" pushBackRoute="52" airlineCodes="" />
+        <Parking index="9" type="gate" name="GA9" lat="N28 14.424755" lon="W80 36.203396" heading="84.29"  radius="20" pushBackRoute="89" airlineCodes="" />
+        <Parking index="10" type="gate" name="GA10" lat="N28 14.486288" lon="W80 36.206920" heading="83.45"  radius="20" pushBackRoute="91" airlineCodes="" />
+        <Parking index="11" type="gate" name="GA11" lat="N28 14.512533" lon="W80 36.208471" heading="87.51"  radius="20" pushBackRoute="92" airlineCodes="" />
+        <Parking index="12" type="gate" name="MIL01" lat="N28 14.815548" lon="W80 36.441581" heading="20"  radius="32" pushBackRoute="104" airlineCodes="" />
+        <Parking index="13" type="gate" name="MIL02" lat="N28 14.826103" lon="W80 36.477028" heading="20"  radius="32" pushBackRoute="105" airlineCodes="" />
+        <Parking index="14" type="gate" name="MIL03" lat="N28 14.837208" lon="W80 36.511976" heading="20"  radius="32" pushBackRoute="106" airlineCodes="" />
+        <Parking index="15" type="gate" name="MIL04" lat="N28 14.849742" lon="W80 36.547048" heading="20"  radius="32" pushBackRoute="107" airlineCodes="" />
+        <Parking index="16" type="gate" name="MIL05" lat="N28 14.860187" lon="W80 36.581996" heading="20"  radius="32" pushBackRoute="108" airlineCodes="" />
+        <Parking index="17" type="gate" name="MIL06" lat="N28 14.872612" lon="W80 36.616569" heading="20"  radius="32" pushBackRoute="109" airlineCodes="" />
+        <Parking index="18" type="gate" name="MIL07" lat="N28 14.883937" lon="W80 36.651766" heading="20"  radius="32" pushBackRoute="110" airlineCodes="" />
+        <Parking index="19" type="gate" name="MIL08" lat="N28 14.895262" lon="W80 36.686839" heading="20"  radius="32" pushBackRoute="111" airlineCodes="" />
+        <Parking index="20" type="gate" name="MIL09" lat="N28 14.884340" lon="W80 36.410724" heading="20"  radius="32" pushBackRoute="80" airlineCodes="" />
+        <Parking index="21" type="gate" name="MIL10" lat="N28 14.895775" lon="W80 36.447419" heading="20"  radius="32" pushBackRoute="81" airlineCodes="" />
+        <Parking index="22" type="gate" name="MIL11" lat="N28 14.907210" lon="W80 36.483989" heading="20"  radius="32" pushBackRoute="82" airlineCodes="" />
+        <Parking index="23" type="gate" name="MIL12" lat="N28 14.919415" lon="W80 36.518438" heading="20"  radius="32" pushBackRoute="83" airlineCodes="" />
+        <Parking index="24" type="gate" name="MIL13" lat="N28 14.929970" lon="W80 36.550765" heading="20"  radius="32" pushBackRoute="84" airlineCodes="" />
+        <Parking index="25" type="gate" name="MIL14" lat="N28 14.940745" lon="W80 36.586213" heading="20"  radius="32" pushBackRoute="85" airlineCodes="" />
+        <Parking index="26" type="gate" name="MIL15" lat="N28 14.952729" lon="W80 36.621036" heading="20"  radius="32" pushBackRoute="86" airlineCodes="" />
+        <Parking index="27" type="gate" name="MIL16" lat="N28 14.963724" lon="W80 36.656359" heading="20"  radius="32" pushBackRoute="87" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="28" lat="N28 14.424805" lon="W80 36.202221" isOnRunway="0" holdPointType="none"  />

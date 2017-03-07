@@ -2,20 +2,20 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Terminal_Medium" lat="N38 33.754801" lon="W121 17.780787" heading="264.29"  radius="19" pushBackRoute="24" airlineCodes="" />
-        <Parking index="1" type="gate" name="Terminal_Medium" lat="N38 33.703908" lon="W121 17.777958" heading="264.29"  radius="19" pushBackRoute="92" airlineCodes="" />
-        <Parking index="2" type="gate" name="Terminal_Medium" lat="N38 33.810119" lon="W121 17.788805" heading="264.29"  radius="19" pushBackRoute="24" airlineCodes="" />
-        <Parking index="3" type="gate" name="Terminal_Small" lat="N38 33.699930" lon="W121 17.835477" heading="85.6"  radius="19" pushBackRoute="92" airlineCodes="" />
-        <Parking index="4" type="gate" name="Terminal_Small" lat="N38 33.749717" lon="W121 17.840194" heading="85.6"  radius="19" pushBackRoute="24" airlineCodes="" />
-        <Parking index="5" type="gate" name="Terminal_Small" lat="N38 33.793234" lon="W121 17.844910" heading="85.6"  radius="19" pushBackRoute="24" airlineCodes="" />
-        <Parking index="6" type="gate" name="Ga_Hangers" lat="N38 33.407240" lon="W121 18.794880" heading="142.13"  radius="19" pushBackRoute="14" airlineCodes="" />
-        <Parking index="7" type="gate" name="Air_Cargo_Apron" lat="N38 33.267211" lon="W121 18.730741" heading="-214.58"  radius="19" pushBackRoute="17" airlineCodes="" />
-        <Parking index="8" type="gate" name="Air_Cargo_Apron" lat="N38 33.302607" lon="W121 18.561424" heading="186.23"  radius="19" pushBackRoute="19" airlineCodes="" />
-        <Parking index="9" type="gate" name="Air_Cargo_Apron" lat="N38 33.353043" lon="W121 18.460241" heading="186.23"  radius="19" pushBackRoute="20" airlineCodes="" />
-        <Parking index="10" type="gate" name="Air_Cargo_Apron" lat="N38 33.440470" lon="W121 18.408148" heading="17.15"  radius="19" pushBackRoute="20" airlineCodes="" />
-        <Parking index="11" type="gate" name="North_Apron" lat="N38 33.684552" lon="W121 18.360550" heading="87.36"  radius="19" pushBackRoute="27" airlineCodes="" />
-        <Parking index="12" type="ga" name="Helicopter_Parking_Far_North-East" lat="N38 33.961145" lon="W121 17.370095" heading="180"  radius="8" pushBackRoute="22" airlineCodes="" />
-        <Parking index="13" type="ga" name="Helicopter_Parking_North-East" lat="N38 33.831493" lon="W121 17.606880" heading="179.76"  radius="8" pushBackRoute="23" airlineCodes="" />
+        <Parking index="0" type="gate" name="Terminal_Medium" lat="N38 33.754801" lon="W121 17.780787" heading="264.29"  radius="18" pushBackRoute="24" airlineCodes="" />
+        <Parking index="1" type="gate" name="Terminal_Medium" lat="N38 33.703908" lon="W121 17.777958" heading="264.29"  radius="18" pushBackRoute="92" airlineCodes="" />
+        <Parking index="2" type="gate" name="Terminal_Medium" lat="N38 33.810119" lon="W121 17.788805" heading="264.29"  radius="18" pushBackRoute="24" airlineCodes="" />
+        <Parking index="3" type="gate" name="Terminal_Small" lat="N38 33.699930" lon="W121 17.835477" heading="85.6"  radius="10" pushBackRoute="92" airlineCodes="" />
+        <Parking index="4" type="gate" name="Terminal_Small" lat="N38 33.749717" lon="W121 17.840194" heading="85.6"  radius="10" pushBackRoute="24" airlineCodes="" />
+        <Parking index="5" type="gate" name="Terminal_Small" lat="N38 33.793234" lon="W121 17.844910" heading="85.6"  radius="10" pushBackRoute="24" airlineCodes="" />
+        <Parking index="6" type="gate" name="Ga_Hangers" lat="N38 33.407240" lon="W121 18.794880" heading="142.13"  radius="18" pushBackRoute="14" airlineCodes="" />
+        <Parking index="7" type="gate" name="Air_Cargo_Apron" lat="N38 33.267211" lon="W121 18.730741" heading="-214.58"  radius="32" pushBackRoute="17" airlineCodes="FDX" />
+        <Parking index="8" type="gate" name="Air_Cargo_Apron" lat="N38 33.302607" lon="W121 18.561424" heading="186.23"  radius="32" pushBackRoute="19" airlineCodes="FDX" />
+        <Parking index="9" type="gate" name="Air_Cargo_Apron" lat="N38 33.353043" lon="W121 18.460241" heading="186.23"  radius="32" pushBackRoute="20" airlineCodes="FDX" />
+        <Parking index="10" type="gate" name="Air_Cargo_Apron" lat="N38 33.440470" lon="W121 18.408148" heading="17.15"  radius="32" pushBackRoute="20" airlineCodes="" />
+        <Parking index="11" type="gate" name="North_Apron" lat="N38 33.684552" lon="W121 18.360550" heading="87.36"  radius="18" pushBackRoute="27" airlineCodes="" />
+        <Parking index="12" type="ga" name="Helicopter_Parking_Far_North-East" lat="N38 33.961145" lon="W121 17.370095" heading="180"  radius="10" pushBackRoute="22" airlineCodes="" />
+        <Parking index="13" type="ga" name="Helicopter_Parking_North-East" lat="N38 33.831493" lon="W121 17.606880" heading="179.76"  radius="10" pushBackRoute="23" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="14" lat="N38 33.388847" lon="W121 18.776804" isOnRunway="0" holdPointType="PushBack"  />

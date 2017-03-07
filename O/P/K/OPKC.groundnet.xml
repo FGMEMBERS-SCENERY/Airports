@@ -2,57 +2,57 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Jinnah_Terminal_-_Gate_11" lat="N24 54.011553" lon="E67 9.947178" heading="45.46"  radius="44" pushBackRoute="67" airlineCodes="" />
-        <Parking index="1" type="gate" name="Jinnah_Terminal_-_Gate_12" lat="N24 54.027406" lon="E67 9.917984" heading="50.99"  radius="44" pushBackRoute="144" airlineCodes="" />
-        <Parking index="2" type="gate" name="Jinnah_Terminal_-_Gate_13" lat="N24 54.065601" lon="E67 9.897782" heading="88.06"  radius="44" pushBackRoute="146" airlineCodes="" />
-        <Parking index="3" type="gate" name="Jinnah_Terminal_-_Gate_14" lat="N24 54.109391" lon="E67 9.900566" heading="119.98"  radius="44" pushBackRoute="68" airlineCodes="" />
-        <Parking index="4" type="gate" name="Jinnah_Terminal_-_Gate_15" lat="N24 54.128404" lon="E67 9.939084" heading="167.71"  radius="44" pushBackRoute="150" airlineCodes="" />
-        <Parking index="5" type="gate" name="Jinnah_Terminal_-_Gate_16" lat="N24 54.124047" lon="E67 9.982886" heading="191.03"  radius="44" pushBackRoute="69" airlineCodes="" />
-        <Parking index="6" type="gate" name="Jinnah_Terminal_-_Gate_17" lat="N24 54.094530" lon="E67 10.009916" heading="248.26"  radius="44" pushBackRoute="141" airlineCodes="" />
-        <Parking index="7" type="gate" name="Jinnah_Terminal_-_Gate_18" lat="N24 54.058158" lon="E67 10.016101" heading="252.78"  radius="44" pushBackRoute="70" airlineCodes="" />
-        <Parking index="8" type="gate" name="Jinnah_Terminal_-_Gate_21" lat="N24 54.078910" lon="E67 10.112426" heading="68.2"  radius="44" pushBackRoute="72" airlineCodes="" />
-        <Parking index="9" type="gate" name="Jinnah_Terminal_-_Gate_22" lat="N24 54.113064" lon="E67 10.093581" heading="89.63"  radius="44" pushBackRoute="141" airlineCodes="" />
-        <Parking index="10" type="gate" name="Jinnah_Terminal_-_Gate_23" lat="N24 54.153025" lon="E67 10.103570" heading="126.03"  radius="44" pushBackRoute="74" airlineCodes="" />
-        <Parking index="11" type="gate" name="Jinnah_Terminal_-_Gate_24" lat="N24 54.173932" lon="E67 10.137633" heading="169.75"  radius="44" pushBackRoute="154" airlineCodes="" />
-        <Parking index="12" type="gate" name="Jinnah_Terminal_-_Gate_25" lat="N24 54.173643" lon="E67 10.179546" heading="-159.72"  radius="44" pushBackRoute="75" airlineCodes="" />
-        <Parking index="13" type="gate" name="Jinnah_Terminal_-_Gate_26" lat="N24 54.141040" lon="E67 10.203474" heading="-106.39"  radius="44" pushBackRoute="160" airlineCodes="" />
-        <Parking index="14" type="gate" name="Jinnah_Terminal_-_Gate_27" lat="N24 54.103844" lon="E67 10.206047" heading="-78.59"  radius="44" pushBackRoute="156" airlineCodes="" />
-        <Parking index="15" type="gate" name="Jinnah_Terminal_-_Gate_28" lat="N24 54.071731" lon="E67 10.200919" heading="-64.86"  radius="44" pushBackRoute="76" airlineCodes="" />
-        <Parking index="16" type="gate" name="Terminal_1_-_Gate_63" lat="N24 53.876583" lon="E67 9.065982" heading="116.44"  radius="44" pushBackRoute="120" airlineCodes="" />
-        <Parking index="17" type="gate" name="Terminal_1_-_Gate_64" lat="N24 53.923215" lon="E67 9.078120" heading="-151.39"  radius="19" pushBackRoute="58" airlineCodes="" />
-        <Parking index="18" type="gate" name="Terminal_1_-_Gate_65" lat="N24 53.939066" lon="E67 9.149397" heading="-67.38"  radius="19" pushBackRoute="64" airlineCodes="" />
-        <Parking index="19" type="gate" name="Terminal_1_-_Gate_66" lat="N24 53.943318" lon="E67 9.110072" heading="-96.92"  radius="19" pushBackRoute="61" airlineCodes="" />
-        <Parking index="20" type="gate" name="Western_Apron_-_W1" lat="N24 53.722316" lon="E67 8.862943" heading="114.35"  radius="19" pushBackRoute="322" airlineCodes="" />
-        <Parking index="21" type="gate" name="Western_Apron_-_W2" lat="N24 53.756277" lon="E67 8.882572" heading="114.35"  radius="44" pushBackRoute="90" airlineCodes="" />
-        <Parking index="22" type="gate" name="Western_Apron_-_R1" lat="N24 53.786394" lon="E67 8.632885" heading="-15.69"  radius="19" pushBackRoute="53" airlineCodes="" />
-        <Parking index="23" type="gate" name="Western_Apron_-_R2" lat="N24 53.794195" lon="E67 8.658685" heading="-15.69"  radius="19" pushBackRoute="56" airlineCodes="" />
-        <Parking index="24" type="gate" name="Western_Apron_-_R3" lat="N24 53.729830" lon="E67 8.646747" heading="-121.74"  radius="19" pushBackRoute="54" airlineCodes="" />
+        <Parking index="0" type="gate" name="Jinnah_Terminal_-_Gate_11" lat="N24 54.011553" lon="E67 9.947178" heading="45.46"  radius="18" pushBackRoute="67" airlineCodes="" />
+        <Parking index="1" type="gate" name="Jinnah_Terminal_-_Gate_12" lat="N24 54.027406" lon="E67 9.917984" heading="50.99"  radius="20" pushBackRoute="144" airlineCodes="" />
+        <Parking index="2" type="gate" name="Jinnah_Terminal_-_Gate_13" lat="N24 54.065601" lon="E67 9.897782" heading="88.06"  radius="20" pushBackRoute="146" airlineCodes="" />
+        <Parking index="3" type="gate" name="Jinnah_Terminal_-_Gate_14" lat="N24 54.109391" lon="E67 9.900566" heading="119.98"  radius="36" pushBackRoute="68" airlineCodes="" />
+        <Parking index="4" type="gate" name="Jinnah_Terminal_-_Gate_15" lat="N24 54.128404" lon="E67 9.939084" heading="167.71"  radius="32" pushBackRoute="150" airlineCodes="" />
+        <Parking index="5" type="gate" name="Jinnah_Terminal_-_Gate_16" lat="N24 54.124047" lon="E67 9.982886" heading="191.03"  radius="36" pushBackRoute="69" airlineCodes="" />
+        <Parking index="6" type="gate" name="Jinnah_Terminal_-_Gate_17" lat="N24 54.094530" lon="E67 10.009916" heading="248.26"  radius="32" pushBackRoute="141" airlineCodes="" />
+        <Parking index="7" type="gate" name="Jinnah_Terminal_-_Gate_18" lat="N24 54.058158" lon="E67 10.016101" heading="252.78"  radius="20" pushBackRoute="70" airlineCodes="" />
+        <Parking index="8" type="gate" name="Jinnah_Terminal_-_Gate_21" lat="N24 54.078910" lon="E67 10.112426" heading="68.2"  radius="20" pushBackRoute="72" airlineCodes="" />
+        <Parking index="9" type="gate" name="Jinnah_Terminal_-_Gate_22" lat="N24 54.113064" lon="E67 10.093581" heading="89.63"  radius="20" pushBackRoute="141" airlineCodes="" />
+        <Parking index="10" type="gate" name="Jinnah_Terminal_-_Gate_23" lat="N24 54.153025" lon="E67 10.103570" heading="126.03"  radius="36" pushBackRoute="74" airlineCodes="" />
+        <Parking index="11" type="gate" name="Jinnah_Terminal_-_Gate_24" lat="N24 54.173932" lon="E67 10.137633" heading="169.75"  radius="36" pushBackRoute="154" airlineCodes="" />
+        <Parking index="12" type="gate" name="Jinnah_Terminal_-_Gate_25" lat="N24 54.173643" lon="E67 10.179546" heading="-159.72"  radius="40" pushBackRoute="75" airlineCodes="" />
+        <Parking index="13" type="gate" name="Jinnah_Terminal_-_Gate_26" lat="N24 54.141040" lon="E67 10.203474" heading="-106.39"  radius="32" pushBackRoute="160" airlineCodes="" />
+        <Parking index="14" type="gate" name="Jinnah_Terminal_-_Gate_27" lat="N24 54.103844" lon="E67 10.206047" heading="-78.59"  radius="32" pushBackRoute="156" airlineCodes="" />
+        <Parking index="15" type="gate" name="Jinnah_Terminal_-_Gate_28" lat="N24 54.071731" lon="E67 10.200919" heading="-64.86"  radius="20" pushBackRoute="76" airlineCodes="" />
+        <Parking index="16" type="gate" name="Terminal_1_-_Gate_63" lat="N24 53.876583" lon="E67 9.065982" heading="116.44"  radius="20" pushBackRoute="120" airlineCodes="" />
+        <Parking index="17" type="gate" name="Terminal_1_-_Gate_64" lat="N24 53.923215" lon="E67 9.078120" heading="-151.39"  radius="18" pushBackRoute="58" airlineCodes="" />
+        <Parking index="18" type="gate" name="Terminal_1_-_Gate_65" lat="N24 53.939066" lon="E67 9.149397" heading="-67.38"  radius="18" pushBackRoute="64" airlineCodes="" />
+        <Parking index="19" type="gate" name="Terminal_1_-_Gate_66" lat="N24 53.943318" lon="E67 9.110072" heading="-96.92"  radius="18" pushBackRoute="61" airlineCodes="" />
+        <Parking index="20" type="gate" name="Western_Apron_-_W1" lat="N24 53.722316" lon="E67 8.862943" heading="114.35"  radius="18" pushBackRoute="322" airlineCodes="" />
+        <Parking index="21" type="gate" name="Western_Apron_-_W2" lat="N24 53.756277" lon="E67 8.882572" heading="114.35"  radius="20" pushBackRoute="90" airlineCodes="" />
+        <Parking index="22" type="gate" name="Western_Apron_-_R1" lat="N24 53.786394" lon="E67 8.632885" heading="-15.69"  radius="18" pushBackRoute="53" airlineCodes="" />
+        <Parking index="23" type="gate" name="Western_Apron_-_R2" lat="N24 53.794195" lon="E67 8.658685" heading="-15.69"  radius="18" pushBackRoute="56" airlineCodes="" />
+        <Parking index="24" type="gate" name="Western_Apron_-_R3" lat="N24 53.729830" lon="E67 8.646747" heading="-121.74"  radius="18" pushBackRoute="54" airlineCodes="" />
         <Parking index="25" type="ga" name="Western_Apron_-_R4" lat="N24 53.762146" lon="E67 8.560112" heading="37.4"  radius="10" pushBackRoute="328" airlineCodes="" />
         <Parking index="26" type="ga" name="Western_Apron_-_R5" lat="N24 53.731943" lon="E67 8.568436" heading="33.54"  radius="10" pushBackRoute="328" airlineCodes="" />
-        <Parking index="27" type="gate" name="Western_Apron_-_51" lat="N24 53.816231" lon="E67 8.740006" heading="-15.69"  radius="44" pushBackRoute="92" airlineCodes="" />
-        <Parking index="28" type="gate" name="Western_Apron_-_52" lat="N24 53.826545" lon="E67 8.781011" heading="-15.69"  radius="44" pushBackRoute="91" airlineCodes="" />
-        <Parking index="29" type="gate" name="Western_Apron_-_53" lat="N24 53.836860" lon="E67 8.820121" heading="-15.69"  radius="44" pushBackRoute="90" airlineCodes="" />
-        <Parking index="30" type="gate" name="Western_Apron_-_54" lat="N24 53.846549" lon="E67 8.855095" heading="-15.69"  radius="19" pushBackRoute="89" airlineCodes="" />
-        <Parking index="31" type="gate" name="Western_Apron_-_55" lat="N24 53.855301" lon="E67 8.885591" heading="-15.69"  radius="44" pushBackRoute="88" airlineCodes="" />
-        <Parking index="32" type="gate" name="Western_Apron_-_56" lat="N24 53.863271" lon="E67 8.914536" heading="-15.69"  radius="44" pushBackRoute="87" airlineCodes="" />
+        <Parking index="27" type="gate" name="Western_Apron_-_51" lat="N24 53.816231" lon="E67 8.740006" heading="-15.69"  radius="20" pushBackRoute="92" airlineCodes="" />
+        <Parking index="28" type="gate" name="Western_Apron_-_52" lat="N24 53.826545" lon="E67 8.781011" heading="-15.69"  radius="32" pushBackRoute="91" airlineCodes="" />
+        <Parking index="29" type="gate" name="Western_Apron_-_53" lat="N24 53.836860" lon="E67 8.820121" heading="-15.69"  radius="32" pushBackRoute="90" airlineCodes="" />
+        <Parking index="30" type="gate" name="Western_Apron_-_54" lat="N24 53.846549" lon="E67 8.855095" heading="-15.69"  radius="18" pushBackRoute="89" airlineCodes="" />
+        <Parking index="31" type="gate" name="Western_Apron_-_55" lat="N24 53.855301" lon="E67 8.885591" heading="-15.69"  radius="20" pushBackRoute="88" airlineCodes="" />
+        <Parking index="32" type="gate" name="Western_Apron_-_56" lat="N24 53.863271" lon="E67 8.914536" heading="-15.69"  radius="32" pushBackRoute="87" airlineCodes="" />
         <Parking index="33" type="ga" name="General_Aviation_-_1" lat="N24 53.490385" lon="E67 8.827876" heading="-148.46"  radius="10" pushBackRoute="102" airlineCodes="" />
         <Parking index="34" type="ga" name="General_Aviation_-_2" lat="N24 53.464503" lon="E67 8.837440" heading="-148.46"  radius="10" pushBackRoute="103" airlineCodes="" />
         <Parking index="35" type="ga" name="General_Aviation_-_3" lat="N24 53.468068" lon="E67 8.869682" heading="5.47"  radius="10" pushBackRoute="337" airlineCodes="" />
-        <Parking index="36" type="gate" name="Hangar_-_57" lat="N24 53.678605" lon="E67 8.912811" heading="116.27"  radius="19" pushBackRoute="115" airlineCodes="" />
-        <Parking index="37" type="gate" name="Hangar_-_58" lat="N24 53.694943" lon="E67 8.963088" heading="116.27"  radius="44" pushBackRoute="114" airlineCodes="" />
-        <Parking index="38" type="gate" name="Hangar_-_59" lat="N24 53.739838" lon="E67 8.986581" heading="116.27"  radius="44" pushBackRoute="340" airlineCodes="" />
-        <Parking index="39" type="gate" name="Hangar_-_60" lat="N24 53.774504" lon="E67 9.004907" heading="116.27"  radius="44" pushBackRoute="341" airlineCodes="" />
-        <Parking index="40" type="gate" name="Hangar_-_61" lat="N24 53.801862" lon="E67 9.021217" heading="116.27"  radius="44" pushBackRoute="342" airlineCodes="" />
-        <Parking index="41" type="gate" name="Hangar_-_62" lat="N24 53.837586" lon="E67 9.040989" heading="116.27"  radius="44" pushBackRoute="119" airlineCodes="" />
-        <Parking index="42" type="gate" name="Cargo_East_Apron_-_67" lat="N24 53.943238" lon="E67 9.452595" heading="91.51"  radius="44" pushBackRoute="66" airlineCodes="" />
-        <Parking index="43" type="gate" name="Cargo_East_Apron_-_68" lat="N24 53.981080" lon="E67 9.452008" heading="91.51"  radius="44" pushBackRoute="84" airlineCodes="" />
-        <Parking index="44" type="gate" name="Cargo_East_Apron_-_69" lat="N24 54.017387" lon="E67 9.448582" heading="91.51"  radius="44" pushBackRoute="83" airlineCodes="" />
-        <Parking index="45" type="gate" name="Cargo_East_Apron_-_70" lat="N24 54.068396" lon="E67 9.512246" heading="164.2"  radius="44" pushBackRoute="347" airlineCodes="" />
-        <Parking index="46" type="gate" name="Cargo_East_Apron_-_71" lat="N24 54.080114" lon="E67 9.554188" heading="164.2"  radius="44" pushBackRoute="348" airlineCodes="" />
-        <Parking index="47" type="gate" name="Cargo_East_Apron_-_72" lat="N24 54.094578" lon="E67 9.597271" heading="164.2"  radius="44" pushBackRoute="349" airlineCodes="" />
-        <Parking index="48" type="gate" name="Cargo_East_Apron_-_73" lat="N24 54.107196" lon="E67 9.640573" heading="164.2"  radius="44" pushBackRoute="350" airlineCodes="" />
-        <Parking index="49" type="gate" name="Cargo_East_Apron_-_74" lat="N24 54.116979" lon="E67 9.693889" heading="164.1"  radius="44" pushBackRoute="351" airlineCodes="" />
-        <Parking index="50" type="gate" name="Cargo_East_Apron_-_75" lat="N24 54.136204" lon="E67 9.748132" heading="163.35"  radius="44" pushBackRoute="171" airlineCodes="" />
+        <Parking index="36" type="gate" name="Hangar_-_57" lat="N24 53.678605" lon="E67 8.912811" heading="116.27"  radius="18" pushBackRoute="115" airlineCodes="" />
+        <Parking index="37" type="gate" name="Hangar_-_58" lat="N24 53.694943" lon="E67 8.963088" heading="116.27"  radius="20" pushBackRoute="114" airlineCodes="" />
+        <Parking index="38" type="gate" name="Hangar_-_59" lat="N24 53.739838" lon="E67 8.986581" heading="116.27"  radius="32" pushBackRoute="340" airlineCodes="" />
+        <Parking index="39" type="gate" name="Hangar_-_60" lat="N24 53.774504" lon="E67 9.004907" heading="116.27"  radius="18" pushBackRoute="341" airlineCodes="" />
+        <Parking index="40" type="gate" name="Hangar_-_61" lat="N24 53.801862" lon="E67 9.021217" heading="116.27"  radius="20" pushBackRoute="342" airlineCodes="" />
+        <Parking index="41" type="gate" name="Hangar_-_62" lat="N24 53.837586" lon="E67 9.040989" heading="116.27"  radius="36" pushBackRoute="119" airlineCodes="" />
+        <Parking index="42" type="gate" name="Cargo_East_Apron_-_67" lat="N24 53.943238" lon="E67 9.452595" heading="91.51"  radius="20" pushBackRoute="66" airlineCodes="" />
+        <Parking index="43" type="gate" name="Cargo_East_Apron_-_68" lat="N24 53.981080" lon="E67 9.452008" heading="91.51"  radius="32" pushBackRoute="84" airlineCodes="" />
+        <Parking index="44" type="gate" name="Cargo_East_Apron_-_69" lat="N24 54.017387" lon="E67 9.448582" heading="91.51"  radius="20" pushBackRoute="83" airlineCodes="" />
+        <Parking index="45" type="gate" name="Cargo_East_Apron_-_70" lat="N24 54.068396" lon="E67 9.512246" heading="164.2"  radius="32" pushBackRoute="347" airlineCodes="" />
+        <Parking index="46" type="gate" name="Cargo_East_Apron_-_71" lat="N24 54.080114" lon="E67 9.554188" heading="164.2"  radius="32" pushBackRoute="348" airlineCodes="" />
+        <Parking index="47" type="gate" name="Cargo_East_Apron_-_72" lat="N24 54.094578" lon="E67 9.597271" heading="164.2"  radius="32" pushBackRoute="349" airlineCodes="" />
+        <Parking index="48" type="gate" name="Cargo_East_Apron_-_73" lat="N24 54.107196" lon="E67 9.640573" heading="164.2"  radius="36" pushBackRoute="350" airlineCodes="" />
+        <Parking index="49" type="gate" name="Cargo_East_Apron_-_74" lat="N24 54.116979" lon="E67 9.693889" heading="164.1"  radius="36" pushBackRoute="351" airlineCodes="" />
+        <Parking index="50" type="gate" name="Cargo_East_Apron_-_75" lat="N24 54.136204" lon="E67 9.748132" heading="163.35"  radius="40" pushBackRoute="171" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="51" lat="N24 53.764779" lon="E67 8.576530" isOnRunway="0" holdPointType="none"  />

@@ -2,17 +2,17 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Golden_Isles_Aviation" lat="N31 9.340712" lon="W81 23.237145" heading="151.57"  radius="19" pushBackRoute="50" airlineCodes="" />
-        <Parking index="1" type="gate" name="Air_Elite_Diamond_Service_FBO" lat="N31 9.267885" lon="W81 23.182614" heading="-114.4"  radius="19" pushBackRoute="30" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA_Transient_Ramp" lat="N31 9.196873" lon="W81 23.157513" heading="245.44"  radius="19" pushBackRoute="29" airlineCodes="" />
-        <Parking index="3" type="gate" name="Palmetto_Aviation_Repair" lat="N31 9.375649" lon="W81 23.256304" heading="245.57"  radius="19" pushBackRoute="31" airlineCodes="" />
-        <Parking index="4" type="ga" name="South_East_Ramp" lat="N31 9.110123" lon="W81 23.117868" heading="245.11"  radius="8" pushBackRoute="28" airlineCodes="" />
-        <Parking index="5" type="gate" name="Gruber_Aviation" lat="N31 9.056007" lon="W81 23.022244" heading="278.2"  radius="19" pushBackRoute="25" airlineCodes="" />
-        <Parking index="6" type="gate" name="Center_Hangars" lat="N31 9.104098" lon="W81 23.267588" heading="18.64"  radius="19" pushBackRoute="153" airlineCodes="" />
-        <Parking index="7" type="gate" name="East_Hangars_1" lat="N31 9.048246" lon="W81 22.987490" heading="98.6"  radius="19" pushBackRoute="25" airlineCodes="" />
-        <Parking index="8" type="gate" name="East_Hangars_2" lat="N31 9.084428" lon="W81 23.025500" heading="99.06"  radius="19" pushBackRoute="26" airlineCodes="" />
-        <Parking index="9" type="gate" name="West_Hangars_1" lat="N31 9.078537" lon="W81 23.500326" heading="270.3"  radius="19" pushBackRoute="154" airlineCodes="" />
-        <Parking index="10" type="gate" name="West_Hangars_2" lat="N31 9.015844" lon="W81 23.571532" heading="258.69"  radius="19" pushBackRoute="155" airlineCodes="" />
+        <Parking index="0" type="gate" name="Golden_Isles_Aviation" lat="N31 9.340712" lon="W81 23.237145" heading="151.57"  radius="18" pushBackRoute="50" airlineCodes="" />
+        <Parking index="1" type="gate" name="Air_Elite_Diamond_Service_FBO" lat="N31 9.267885" lon="W81 23.182614" heading="-114.4"  radius="10" pushBackRoute="30" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_Transient_Ramp" lat="N31 9.196873" lon="W81 23.157513" heading="245.44"  radius="10" pushBackRoute="29" airlineCodes="" />
+        <Parking index="3" type="gate" name="Palmetto_Aviation_Repair" lat="N31 9.375649" lon="W81 23.256304" heading="245.57"  radius="18" pushBackRoute="31" airlineCodes="" />
+        <Parking index="4" type="ga" name="South_East_Ramp" lat="N31 9.110123" lon="W81 23.117868" heading="245.11"  radius="10" pushBackRoute="28" airlineCodes="" />
+        <Parking index="5" type="gate" name="Gruber_Aviation" lat="N31 9.056007" lon="W81 23.022244" heading="278.2"  radius="18" pushBackRoute="25" airlineCodes="" />
+        <Parking index="6" type="gate" name="Center_Hangars" lat="N31 9.104098" lon="W81 23.267588" heading="18.64"  radius="10" pushBackRoute="153" airlineCodes="" />
+        <Parking index="7" type="gate" name="East_Hangars_1" lat="N31 9.048246" lon="W81 22.987490" heading="98.6"  radius="18" pushBackRoute="25" airlineCodes="" />
+        <Parking index="8" type="gate" name="East_Hangars_2" lat="N31 9.084428" lon="W81 23.025500" heading="99.06"  radius="18" pushBackRoute="26" airlineCodes="" />
+        <Parking index="9" type="gate" name="West_Hangars_1" lat="N31 9.078537" lon="W81 23.500326" heading="270.3"  radius="10" pushBackRoute="154" airlineCodes="" />
+        <Parking index="10" type="gate" name="West_Hangars_2" lat="N31 9.015844" lon="W81 23.571532" heading="258.69"  radius="10" pushBackRoute="155" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="11" lat="N31 9.005247" lon="W81 23.598535" isOnRunway="0" holdPointType="none"  />

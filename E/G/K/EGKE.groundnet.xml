@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="Parking_4" lat="N51 12.535698" lon="E0 49.809128" heading="296.57"  radius="10" pushBackRoute="51" airlineCodes="" />
-        <Parking index="1" type="ga" name="Parking_3" lat="N51 12.490635" lon="E0 49.811597" heading="258.69"  radius="10" pushBackRoute="49" airlineCodes="" />
-        <Parking index="2" type="ga" name="Parking_2" lat="N51 12.563727" lon="E0 49.800902" heading="185.57"  radius="10" pushBackRoute="50" airlineCodes="" />
-        <Parking index="3" type="ga" name="Parking_1" lat="N51 12.546678" lon="E0 49.812931" heading="286.62"  radius="10" pushBackRoute="51" airlineCodes="" />
+        <Parking index="0" type="ga" name="Parking_4" lat="N51 12.535698" lon="E0 49.809128" heading="296.57"  radius="18" pushBackRoute="51" airlineCodes="" />
+        <Parking index="1" type="ga" name="Parking_3" lat="N51 12.490635" lon="E0 49.811597" heading="258.69"  radius="18" pushBackRoute="49" airlineCodes="" />
+        <Parking index="2" type="ga" name="Parking_2" lat="N51 12.563727" lon="E0 49.800902" heading="185.57"  radius="18" pushBackRoute="50" airlineCodes="" />
+        <Parking index="3" type="ga" name="Parking_1" lat="N51 12.546678" lon="E0 49.812931" heading="286.62"  radius="18" pushBackRoute="51" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="4" lat="N51 12.304626" lon="E0 49.733543" isOnRunway="0" holdPointType="none"  />

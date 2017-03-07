@@ -2,12 +2,12 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Gate_8" lat="N44 53.799011" lon="E13 55.334522" heading="359.28"  radius="19" pushBackRoute="10" airlineCodes="" />
-        <Parking index="1" type="gate" name="Gate_9" lat="N44 53.796667" lon="E13 55.285369" heading="0.22"  radius="19" pushBackRoute="11" airlineCodes="" />
-        <Parking index="2" type="gate" name="Gate_10" lat="N44 53.795202" lon="E13 55.234290" heading="0.22"  radius="19" pushBackRoute="13" airlineCodes="" />
-        <Parking index="3" type="gate" name="Gate_1" lat="N44 53.877581" lon="E13 55.511882" heading="80.85"  radius="19" pushBackRoute="6" airlineCodes="" />
-        <Parking index="4" type="gate" name="Gate_3" lat="N44 53.849087" lon="E13 55.512402" heading="118.44"  radius="19" pushBackRoute="7" airlineCodes="" />
-        <Parking index="5" type="gate" name="Gate_4" lat="N44 53.849318" lon="E13 55.438920" heading="234.37"  radius="19" pushBackRoute="7" airlineCodes="" />
+        <Parking index="0" type="gate" name="Gate_8" lat="N44 53.799011" lon="E13 55.334522" heading="359.28"  radius="20" pushBackRoute="10" airlineCodes="" />
+        <Parking index="1" type="gate" name="Gate_9" lat="N44 53.796667" lon="E13 55.285369" heading="0.22"  radius="20" pushBackRoute="11" airlineCodes="" />
+        <Parking index="2" type="gate" name="Gate_10" lat="N44 53.795202" lon="E13 55.234290" heading="0.22"  radius="20" pushBackRoute="13" airlineCodes="" />
+        <Parking index="3" type="gate" name="Gate_1" lat="N44 53.877581" lon="E13 55.511882" heading="80.85"  radius="20" pushBackRoute="6" airlineCodes="" />
+        <Parking index="4" type="gate" name="Gate_3" lat="N44 53.849087" lon="E13 55.512402" heading="118.44"  radius="20" pushBackRoute="7" airlineCodes="" />
+        <Parking index="5" type="gate" name="Gate_4" lat="N44 53.849318" lon="E13 55.438920" heading="234.37"  radius="20" pushBackRoute="7" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="6" lat="N44 53.901932" lon="E13 55.482161" isOnRunway="0" holdPointType="PushBack"  />

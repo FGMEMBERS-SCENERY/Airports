@@ -2,25 +2,25 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Executive" lat="N43 33.725375" lon="W116 12.337377" heading="190.98"  radius="19" pushBackRoute="47" airlineCodes="" />
-        <Parking index="1" type="gate" name="Executive" lat="N43 33.832628" lon="W116 12.660167" heading="190.98"  radius="19" pushBackRoute="24" airlineCodes="" />
-        <Parking index="2" type="gate" name="Executive" lat="N43 34.139018" lon="W116 13.594592" heading="2.07"  radius="19" pushBackRoute="91" airlineCodes="" />
-        <Parking index="3" type="gate" name="Executive" lat="N43 34.176676" lon="W116 13.581426" heading="2.07"  radius="19" pushBackRoute="92" airlineCodes="" />
-        <Parking index="4" type="gate" name="Executive" lat="N43 34.182610" lon="W116 13.708678" heading="2.07"  radius="19" pushBackRoute="40" airlineCodes="" />
-        <Parking index="5" type="gate" name="FedEx_Cargo_Ramp" lat="N43 34.005852" lon="W116 12.941015" heading="204.06"  radius="44" pushBackRoute="34" airlineCodes="" />
-        <Parking index="6" type="gate" name="Gate_16" lat="N43 34.070227" lon="W116 13.148542" heading="219.43"  radius="44" pushBackRoute="31" airlineCodes="" />
-        <Parking index="7" type="gate" name="Gate_18" lat="N43 34.061419" lon="W116 13.120676" heading="205.02"  radius="44" pushBackRoute="31" airlineCodes="" />
-        <Parking index="8" type="gate" name="Gate_19" lat="N43 33.991653" lon="W116 13.136995" heading="24.39"  radius="44" pushBackRoute="28" airlineCodes="" />
-        <Parking index="9" type="gate" name="Gate_21B" lat="N43 33.997793" lon="W116 13.079820" heading="318.93"  radius="44" pushBackRoute="29" airlineCodes="" />
-        <Parking index="10" type="gate" name="Gate_22A" lat="N43 34.019255" lon="W116 13.069142" heading="292.68"  radius="44" pushBackRoute="29" airlineCodes="" />
-        <Parking index="11" type="gate" name="Gate_7" lat="N43 34.084410" lon="W116 13.419330" heading="102.2"  radius="19" pushBackRoute="93" airlineCodes="" />
-        <Parking index="12" type="gate" name="Gate_9" lat="N43 34.077644" lon="W116 13.361785" heading="310.42"  radius="19" pushBackRoute="93" airlineCodes="" />
-        <Parking index="13" type="gate" name="National_Guard_A10_Ramp" lat="N43 33.847831" lon="W116 13.856605" heading="24.45"  radius="10" pushBackRoute="20" airlineCodes="" />
-        <Parking index="14" type="gate" name="National_Guard_C130_Ramp" lat="N43 33.636763" lon="W116 13.255816" heading="23.46"  radius="19" pushBackRoute="19" airlineCodes="" />
-        <Parking index="15" type="ga" name="National_Guard_Helo_Ramp" lat="N43 33.481381" lon="W116 13.377266" heading="-179.53"  radius="8" pushBackRoute="19" airlineCodes="" />
-        <Parking index="16" type="gate" name="NIFC_Ramp" lat="N43 33.913260" lon="W116 12.629477" heading="272.05"  radius="44" pushBackRoute="24" airlineCodes="" />
-        <Parking index="17" type="gate" name="UPS_Cargo_Ramp" lat="N43 34.027345" lon="W116 14.599726" heading="270"  radius="44" pushBackRoute="23" airlineCodes="" />
-        <Parking index="18" type="gate" name="Western_Aircraft" lat="N43 33.846657" lon="W116 14.120748" heading="175.24"  radius="19" pushBackRoute="22" airlineCodes="" />
+        <Parking index="0" type="gate" name="Executive" lat="N43 33.725375" lon="W116 12.337377" heading="190.98"  radius="10" pushBackRoute="47" airlineCodes="" />
+        <Parking index="1" type="gate" name="Executive" lat="N43 33.832628" lon="W116 12.660167" heading="190.98"  radius="10" pushBackRoute="24" airlineCodes="" />
+        <Parking index="2" type="gate" name="Executive" lat="N43 34.139018" lon="W116 13.594592" heading="2.07"  radius="18" pushBackRoute="91" airlineCodes="" />
+        <Parking index="3" type="gate" name="Executive" lat="N43 34.176676" lon="W116 13.581426" heading="2.07"  radius="18" pushBackRoute="92" airlineCodes="" />
+        <Parking index="4" type="gate" name="Executive" lat="N43 34.182610" lon="W116 13.708678" heading="2.07"  radius="18" pushBackRoute="40" airlineCodes="" />
+        <Parking index="5" type="gate" name="FedEx_Cargo_Ramp" lat="N43 34.005852" lon="W116 12.941015" heading="204.06"  radius="32" pushBackRoute="34" airlineCodes="" />
+        <Parking index="6" type="gate" name="Gate_16" lat="N43 34.070227" lon="W116 13.148542" heading="219.43"  radius="20" pushBackRoute="31" airlineCodes="" />
+        <Parking index="7" type="gate" name="Gate_18" lat="N43 34.061419" lon="W116 13.120676" heading="205.02"  radius="20" pushBackRoute="31" airlineCodes="" />
+        <Parking index="8" type="gate" name="Gate_19" lat="N43 33.991653" lon="W116 13.136995" heading="24.39"  radius="20" pushBackRoute="28" airlineCodes="" />
+        <Parking index="9" type="gate" name="Gate_21B" lat="N43 33.997793" lon="W116 13.079820" heading="318.93"  radius="20" pushBackRoute="29" airlineCodes="" />
+        <Parking index="10" type="gate" name="Gate_22A" lat="N43 34.019255" lon="W116 13.069142" heading="292.68"  radius="20" pushBackRoute="29" airlineCodes="" />
+        <Parking index="11" type="gate" name="Gate_7" lat="N43 34.084410" lon="W116 13.419330" heading="102.2"  radius="20" pushBackRoute="93" airlineCodes="" />
+        <Parking index="12" type="gate" name="Gate_9" lat="N43 34.077644" lon="W116 13.361785" heading="310.42"  radius="20" pushBackRoute="93" airlineCodes="" />
+        <Parking index="13" type="gate" name="National_Guard_A10_Ramp" lat="N43 33.847831" lon="W116 13.856605" heading="24.45"  radius="18" pushBackRoute="20" airlineCodes="" />
+        <Parking index="14" type="gate" name="National_Guard_C130_Ramp" lat="N43 33.636763" lon="W116 13.255816" heading="23.46"  radius="20" pushBackRoute="19" airlineCodes="" />
+        <Parking index="15" type="ga" name="National_Guard_Helo_Ramp" lat="N43 33.481381" lon="W116 13.377266" heading="-179.53"  radius="18" pushBackRoute="19" airlineCodes="" />
+        <Parking index="16" type="gate" name="NIFC_Ramp" lat="N43 33.913260" lon="W116 12.629477" heading="272.05"  radius="32" pushBackRoute="24" airlineCodes="" />
+        <Parking index="17" type="gate" name="UPS_Cargo_Ramp" lat="N43 34.027345" lon="W116 14.599726" heading="270"  radius="32" pushBackRoute="23" airlineCodes="" />
+        <Parking index="18" type="gate" name="Western_Aircraft" lat="N43 33.846657" lon="W116 14.120748" heading="175.24"  radius="18" pushBackRoute="22" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="19" lat="N43 33.648628" lon="W116 13.250525" isOnRunway="0" holdPointType="PushBack"  />

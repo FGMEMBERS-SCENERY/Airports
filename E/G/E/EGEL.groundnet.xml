@@ -3,7 +3,7 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="ga" name="New_Ramp_Start_7" lat="N56 35.925175" lon="W6 37.105693" heading="118.19"  radius="10" pushBackRoute="5" airlineCodes="" />
-        <Parking index="1" type="gate" name="New_Ramp_Start_7" lat="N56 35.919611" lon="W6 37.088099" heading="315"  radius="19" pushBackRoute="2" airlineCodes="" />
+        <Parking index="1" type="gate" name="New_Ramp_Start_7" lat="N56 35.919611" lon="W6 37.088099" heading="315"  radius="10" pushBackRoute="2" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="2" lat="N56 35.932610" lon="W6 37.100999" isOnRunway="0" holdPointType="PushBack"  />

@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Ramp_Parking_1" lat="N31 4.341137" lon="W81 25.602878" heading="265"  radius="19" pushBackRoute="13" airlineCodes="" />
-        <Parking index="1" type="gate" name="Ramp_Parking_2" lat="N31 4.275019" lon="W81 25.595410" heading="265"  radius="19" pushBackRoute="11" airlineCodes="" />
-        <Parking index="2" type="gate" name="Ramp_Parking_3" lat="N31 4.412836" lon="W81 25.611174" heading="265"  radius="19" pushBackRoute="7" airlineCodes="" />
-        <Parking index="3" type="gate" name="North_Hangar" lat="N31 4.561997" lon="W81 25.611528" heading="265"  radius="19" pushBackRoute="15" airlineCodes="" />
+        <Parking index="0" type="gate" name="Ramp_Parking_1" lat="N31 4.341137" lon="W81 25.602878" heading="265"  radius="10" pushBackRoute="13" airlineCodes="" />
+        <Parking index="1" type="gate" name="Ramp_Parking_2" lat="N31 4.275019" lon="W81 25.595410" heading="265"  radius="10" pushBackRoute="11" airlineCodes="" />
+        <Parking index="2" type="gate" name="Ramp_Parking_3" lat="N31 4.412836" lon="W81 25.611174" heading="265"  radius="10" pushBackRoute="7" airlineCodes="" />
+        <Parking index="3" type="gate" name="North_Hangar" lat="N31 4.561997" lon="W81 25.611528" heading="265"  radius="10" pushBackRoute="15" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="4" lat="N31 4.425005" lon="W81 25.624437" isOnRunway="0" holdPointType="none"  />

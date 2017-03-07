@@ -2,7 +2,7 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="Tiedown_prop" lat="N27 48.537149" lon="W97 5.165779" heading="32.56"  radius="10" airlineCodes="" />
-        <Parking index="1" type="gate" name="Ramp" lat="N27 48.534213" lon="W97 5.152829" heading="35.5"  radius="19" airlineCodes="" />
+        <Parking index="0" type="ga" name="Tiedown_prop" lat="N27 48.537149" lon="W97 5.165779" heading="32.56"  radius="18" airlineCodes="" />
+        <Parking index="1" type="gate" name="Ramp" lat="N27 48.534213" lon="W97 5.152829" heading="35.5"  radius="20" airlineCodes="" />
  </parkingList>
 </groundnet>

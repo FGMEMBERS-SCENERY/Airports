@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="Props" lat="N45 23.730508" lon="E6 37.981508" heading="135.66"  radius="10" pushBackRoute="8" airlineCodes="" />
-        <Parking index="1" type="gate" name="Turboprops" lat="N45 23.731295" lon="E6 37.967120" heading="137.48"  radius="19" pushBackRoute="10" airlineCodes="" />
-        <Parking index="2" type="ga" name="Helicopters_Ramp_1" lat="N45 23.745327" lon="E6 38.002495" heading="135.28"  radius="8" pushBackRoute="13" airlineCodes="" />
-        <Parking index="3" type="ga" name="Helicopters_Ramp_2" lat="N45 23.736277" lon="E6 38.110769" heading="-127.76"  radius="8" pushBackRoute="13" airlineCodes="" />
+        <Parking index="0" type="ga" name="Props" lat="N45 23.730508" lon="E6 37.981508" heading="135.66"  radius="10" pushBackRoute="8" airlineCodes="AUA" />
+        <Parking index="1" type="gate" name="Turboprops" lat="N45 23.731295" lon="E6 37.967120" heading="137.48"  radius="10" pushBackRoute="10" airlineCodes="" />
+        <Parking index="2" type="ga" name="Helicopters_Ramp_1" lat="N45 23.745327" lon="E6 38.002495" heading="135.28"  radius="10" pushBackRoute="13" airlineCodes="" />
+        <Parking index="3" type="ga" name="Helicopters_Ramp_2" lat="N45 23.736277" lon="E6 38.110769" heading="-127.76"  radius="10" pushBackRoute="13" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="4" lat="N45 23.738923" lon="E6 37.941105" isOnRunway="0" holdPointType="none"  />

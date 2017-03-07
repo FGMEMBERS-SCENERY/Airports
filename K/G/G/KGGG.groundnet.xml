@@ -2,12 +2,12 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="TOWER" lat="N32 22.793965" lon="W94 42.817262" heading="-89.61"  radius="19" pushBackRoute="59" airlineCodes="" />
-        <Parking index="1" type="gate" name="Terminal" lat="N32 23.284037" lon="W94 43.136533" heading="87.26"  radius="44" pushBackRoute="44" airlineCodes="" />
-        <Parking index="2" type="gate" name="Terminal_2" lat="N32 23.191805" lon="W94 43.138782" heading="66.63"  radius="44" pushBackRoute="47" airlineCodes="" />
-        <Parking index="3" type="gate" name="Terminal_3" lat="N32 23.224700" lon="W94 43.122965" heading="359.64"  radius="44" pushBackRoute="47" airlineCodes="" />
-        <Parking index="4" type="gate" name="COLLEGE_OF_AVIATION" lat="N32 23.568396" lon="W94 42.367580" heading="237.43"  radius="19" pushBackRoute="8" airlineCodes="" />
-        <Parking index="5" type="gate" name="Stebbins_Aviation_FBO" lat="N32 23.358384" lon="W94 43.155534" heading="40.97"  radius="19" pushBackRoute="45" airlineCodes="" />
+        <Parking index="0" type="gate" name="TOWER" lat="N32 22.793965" lon="W94 42.817262" heading="-89.61"  radius="20" pushBackRoute="59" airlineCodes="" />
+        <Parking index="1" type="gate" name="Terminal" lat="N32 23.284037" lon="W94 43.136533" heading="87.26"  radius="36" pushBackRoute="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="Terminal_2" lat="N32 23.191805" lon="W94 43.138782" heading="66.63"  radius="36" pushBackRoute="47" airlineCodes="" />
+        <Parking index="3" type="gate" name="Terminal_3" lat="N32 23.224700" lon="W94 43.122965" heading="359.64"  radius="36" pushBackRoute="47" airlineCodes="" />
+        <Parking index="4" type="gate" name="COLLEGE_OF_AVIATION" lat="N32 23.568396" lon="W94 42.367580" heading="237.43"  radius="20" pushBackRoute="8" airlineCodes="" />
+        <Parking index="5" type="gate" name="Stebbins_Aviation_FBO" lat="N32 23.358384" lon="W94 43.155534" heading="40.97"  radius="20" pushBackRoute="45" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="6" lat="N32 23.547686" lon="W94 42.905870" isOnRunway="0" holdPointType="none"  />

@@ -2,11 +2,11 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="CARGO_SOUTH" lat="N33 56.127009" lon="W81 6.678004" heading="44.3"  radius="44" pushBackRoute="39" airlineCodes="" />
-        <Parking index="1" type="gate" name="CARGO_NORTH" lat="N33 56.784129" lon="W81 8.064477" heading="18.43"  radius="44" pushBackRoute="71" airlineCodes="" />
-        <Parking index="2" type="gate" name="TERM" lat="N33 56.699217" lon="W81 7.579713" heading="83.09"  radius="44" pushBackRoute="21" airlineCodes="" />
-        <Parking index="3" type="ga" name="GA2_Ramp_Start" lat="N33 56.411339" lon="W81 6.334207" heading="307.31"  radius="10" pushBackRoute="9" airlineCodes="" />
-        <Parking index="4" type="ga" name="GA1_Ramp_Start" lat="N33 56.568276" lon="W81 6.956084" heading="105.49"  radius="10" pushBackRoute="6" airlineCodes="" />
+        <Parking index="0" type="gate" name="CARGO_SOUTH" lat="N33 56.127009" lon="W81 6.678004" heading="44.3"  radius="32" pushBackRoute="39" airlineCodes="" />
+        <Parking index="1" type="gate" name="CARGO_NORTH" lat="N33 56.784129" lon="W81 8.064477" heading="18.43"  radius="32" pushBackRoute="71" airlineCodes="" />
+        <Parking index="2" type="gate" name="TERM" lat="N33 56.699217" lon="W81 7.579713" heading="83.09"  radius="20" pushBackRoute="21" airlineCodes="" />
+        <Parking index="3" type="ga" name="GA2_Ramp_Start" lat="N33 56.411339" lon="W81 6.334207" heading="307.31"  radius="18" pushBackRoute="9" airlineCodes="" />
+        <Parking index="4" type="ga" name="GA1_Ramp_Start" lat="N33 56.568276" lon="W81 6.956084" heading="105.49"  radius="18" pushBackRoute="6" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="5" lat="N33 56.144270" lon="W81 6.658807" isOnRunway="0" holdPointType="none"  />

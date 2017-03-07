@@ -11,10 +11,10 @@
         <Parking index="6" type="ga" name="Grass_Tie-Down_(Small)" lat="N49 31.354646" lon="W113 59.876800" heading="270"  radius="10" pushBackRoute="23" airlineCodes="" />
         <Parking index="7" type="ga" name="Grass_Tie-Down_(Small)" lat="N49 31.342362" lon="W114 0.069698" heading="235"  radius="10" pushBackRoute="13" airlineCodes="" />
         <Parking index="8" type="ga" name="Grass_Tie-Down_(Small)" lat="N49 31.345474" lon="W114 0.153252" heading="180"  radius="10" pushBackRoute="75" airlineCodes="" />
-        <Parking index="9" type="gate" name="Forestry_Ramp" lat="N49 31.336137" lon="W113 59.049974" heading="180"  radius="19" pushBackRoute="49" airlineCodes="" />
-        <Parking index="10" type="gate" name="Forestry_Ramp_Parking" lat="N49 31.330321" lon="W113 58.971704" heading="315"  radius="19" pushBackRoute="78" airlineCodes="" />
-        <Parking index="11" type="gate" name="Forestry_Ramp_Parking" lat="N49 31.307981" lon="W113 58.971704" heading="315"  radius="19" pushBackRoute="79" airlineCodes="" />
-        <Parking index="12" type="gate" name="Forestry_Ramp_Parking" lat="N49 31.285475" lon="W113 58.971704" heading="315"  radius="19" pushBackRoute="79" airlineCodes="" />
+        <Parking index="9" type="gate" name="Forestry_Ramp" lat="N49 31.336137" lon="W113 59.049974" heading="180"  radius="18" pushBackRoute="49" airlineCodes="GOA" />
+        <Parking index="10" type="gate" name="Forestry_Ramp_Parking" lat="N49 31.330321" lon="W113 58.971704" heading="315"  radius="18" pushBackRoute="78" airlineCodes="GOA" />
+        <Parking index="11" type="gate" name="Forestry_Ramp_Parking" lat="N49 31.307981" lon="W113 58.971704" heading="315"  radius="18" pushBackRoute="79" airlineCodes="GOA" />
+        <Parking index="12" type="gate" name="Forestry_Ramp_Parking" lat="N49 31.285475" lon="W113 58.971704" heading="315"  radius="18" pushBackRoute="79" airlineCodes="GOA" />
  </parkingList>
  <TaxiNodes>
         <node index="13" lat="N49 31.342457" lon="W114 0.054767" isOnRunway="0" holdPointType="PushBack"  />

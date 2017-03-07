@@ -2,41 +2,41 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="I_98" lat="N47 27.355215" lon="E8 33.274064" heading="6.28"  radius="19" pushBackRoute="115" airlineCodes="" />
-        <Parking index="1" type="gate" name="E_67" lat="N47 27.724760" lon="E8 33.054744" heading="-205.05"  radius="44" pushBackRoute="135" airlineCodes="" />
-        <Parking index="2" type="gate" name="E_19" lat="N47 27.683006" lon="E8 33.533946" heading="-83.66"  radius="44" pushBackRoute="134" airlineCodes="" />
-        <Parking index="3" type="gate" name="GAC_S1_A" lat="N47 27.245094" lon="E8 34.362484" heading="185.92"  radius="19" pushBackRoute="52" airlineCodes="" />
-        <Parking index="4" type="gate" name="GAC_S1_C" lat="N47 27.242854" lon="E8 34.392706" heading="185.92"  radius="19" pushBackRoute="53" airlineCodes="" />
-        <Parking index="5" type="gate" name="GAC_S1_D" lat="N47 27.241827" lon="E8 34.407749" heading="185.92"  radius="19" pushBackRoute="35" airlineCodes="" />
-        <Parking index="6" type="gate" name="GAC_S1_E" lat="N47 27.250707" lon="E8 34.360883" heading="5.73"  radius="19" pushBackRoute="44" airlineCodes="" />
-        <Parking index="7" type="gate" name="GAC_S1_F" lat="N47 27.249534" lon="E8 34.376667" heading="5.73"  radius="19" pushBackRoute="43" airlineCodes="" />
+        <Parking index="0" type="gate" name="I_98" lat="N47 27.355215" lon="E8 33.274064" heading="6.28"  radius="20" pushBackRoute="115" airlineCodes="" />
+        <Parking index="1" type="gate" name="E_67" lat="N47 27.724760" lon="E8 33.054744" heading="-205.05"  radius="20" pushBackRoute="135" airlineCodes="" />
+        <Parking index="2" type="gate" name="E_19" lat="N47 27.683006" lon="E8 33.533946" heading="-83.66"  radius="20" pushBackRoute="134" airlineCodes="" />
+        <Parking index="3" type="gate" name="GAC_S1_A" lat="N47 27.245094" lon="E8 34.362484" heading="185.92"  radius="10" pushBackRoute="52" airlineCodes="" />
+        <Parking index="4" type="gate" name="GAC_S1_C" lat="N47 27.242854" lon="E8 34.392706" heading="185.92"  radius="10" pushBackRoute="53" airlineCodes="" />
+        <Parking index="5" type="gate" name="GAC_S1_D" lat="N47 27.241827" lon="E8 34.407749" heading="185.92"  radius="10" pushBackRoute="35" airlineCodes="" />
+        <Parking index="6" type="gate" name="GAC_S1_E" lat="N47 27.250707" lon="E8 34.360883" heading="5.73"  radius="10" pushBackRoute="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="GAC_S1_F" lat="N47 27.249534" lon="E8 34.376667" heading="5.73"  radius="10" pushBackRoute="43" airlineCodes="" />
         <Parking index="8" type="ga" name="GAC_S3_F" lat="N47 27.316811" lon="E8 34.409995" heading="185.68"  radius="10" pushBackRoute="57" airlineCodes="" />
         <Parking index="9" type="ga" name="GAC_S3_G" lat="N47 27.315946" lon="E8 34.422274" heading="185.68"  radius="10" pushBackRoute="57" airlineCodes="" />
         <Parking index="10" type="ga" name="GAC_S3_H" lat="N47 27.315305" lon="E8 34.434926" heading="185.68"  radius="10" pushBackRoute="58" airlineCodes="" />
         <Parking index="11" type="ga" name="GAC_S3_I" lat="N47 27.324931" lon="E8 34.455946" heading="5.73"  radius="10" pushBackRoute="61" airlineCodes="" />
         <Parking index="12" type="ga" name="GAC_S3_J" lat="N47 27.325801" lon="E8 34.443265" heading="5.73"  radius="10" pushBackRoute="61" airlineCodes="" />
-        <Parking index="13" type="gate" name="Gate_B_38" lat="N47 27.011908" lon="E8 33.513242" heading="5.75"  radius="19" pushBackRoute="179" airlineCodes="" />
-        <Parking index="14" type="gate" name="Terminal_A_Gate_48" lat="N47 27.195853" lon="E8 33.450813" heading="6"  radius="19" pushBackRoute="174" airlineCodes="" />
-        <Parking index="15" type="ga" name="Dock_Midfield_Gate_E56" lat="N47 27.641261" lon="E8 33.142673" heading="6.61"  radius="10" pushBackRoute="251" airlineCodes="" />
-        <Parking index="16" type="gate" name="D_16" lat="N47 26.682722" lon="E8 33.691718" heading="-115.09"  radius="19" pushBackRoute="182" airlineCodes="" />
-        <Parking index="17" type="gate" name="D_57" lat="N47 26.787019" lon="E8 33.748238" heading="64.92"  radius="19" pushBackRoute="182" airlineCodes="" />
+        <Parking index="13" type="gate" name="Gate_B_38" lat="N47 27.011908" lon="E8 33.513242" heading="5.75"  radius="20" pushBackRoute="179" airlineCodes="" />
+        <Parking index="14" type="gate" name="Terminal_A_Gate_48" lat="N47 27.195853" lon="E8 33.450813" heading="6"  radius="20" pushBackRoute="174" airlineCodes="" />
+        <Parking index="15" type="ga" name="Dock_Midfield_Gate_E56" lat="N47 27.641261" lon="E8 33.142673" heading="6.61"  radius="20" pushBackRoute="251" airlineCodes="" />
+        <Parking index="16" type="gate" name="D_16" lat="N47 26.682722" lon="E8 33.691718" heading="-115.09"  radius="20" pushBackRoute="182" airlineCodes="" />
+        <Parking index="17" type="gate" name="D_57" lat="N47 26.787019" lon="E8 33.748238" heading="64.92"  radius="20" pushBackRoute="182" airlineCodes="" />
         <Parking index="18" type="ga" name="GAC_S4_D" lat="N47 27.427841" lon="E8 34.435719" heading="5.95"  radius="10" pushBackRoute="50" airlineCodes="" />
         <Parking index="19" type="ga" name="GAC_S4_C" lat="N47 27.427049" lon="E8 34.448346" heading="5.95"  radius="10" pushBackRoute="50" airlineCodes="" />
         <Parking index="20" type="ga" name="GAC_S4_B" lat="N47 27.426364" lon="E8 34.461135" heading="5.95"  radius="10" pushBackRoute="50" airlineCodes="" />
         <Parking index="21" type="ga" name="GAC_S4_A" lat="N47 27.425509" lon="E8 34.473835" heading="5.95"  radius="10" pushBackRoute="50" airlineCodes="" />
-        <Parking index="22" type="ga" name="Heliport_West_15" lat="N47 27.114449" lon="E8 32.913699" heading="289.74"  radius="8" pushBackRoute="159" airlineCodes="" />
-        <Parking index="23" type="ga" name="Heliport_West_14" lat="N47 27.104113" lon="E8 32.908963" heading="289.74"  radius="8" pushBackRoute="159" airlineCodes="" />
-        <Parking index="24" type="ga" name="Heliport_West_12" lat="N47 27.083554" lon="E8 32.899094" heading="289.74"  radius="8" pushBackRoute="159" airlineCodes="" />
-        <Parking index="25" type="ga" name="Heliport_West_11" lat="N47 27.073270" lon="E8 32.894138" heading="289.74"  radius="8" pushBackRoute="159" airlineCodes="" />
-        <Parking index="26" type="ga" name="Heliport_West_10" lat="N47 27.062919" lon="E8 32.889464" heading="289.74"  radius="8" pushBackRoute="159" airlineCodes="" />
-        <Parking index="27" type="ga" name="Heliport_West_8" lat="N47 27.042422" lon="E8 32.879702" heading="289.74"  radius="8" pushBackRoute="159" airlineCodes="" />
-        <Parking index="28" type="ga" name="Heliport_West_7" lat="N47 27.032136" lon="E8 32.874763" heading="289.74"  radius="8" pushBackRoute="159" airlineCodes="" />
-        <Parking index="29" type="ga" name="Heliport_West_6" lat="N47 27.021802" lon="E8 32.869949" heading="289.74"  radius="8" pushBackRoute="150" airlineCodes="" />
-        <Parking index="30" type="ga" name="Heliport_West_4" lat="N47 27.001210" lon="E8 32.860150" heading="289.74"  radius="8" pushBackRoute="150" airlineCodes="" />
-        <Parking index="31" type="ga" name="Heliport_West_3" lat="N47 26.990841" lon="E8 32.855323" heading="289.74"  radius="8" pushBackRoute="150" airlineCodes="" />
-        <Parking index="32" type="ga" name="Heliport_West_1" lat="N47 26.970056" lon="E8 32.845602" heading="289.74"  radius="8" pushBackRoute="150" airlineCodes="" />
-        <Parking index="33" type="ga" name="Helipad_East" lat="N47 27.465206" lon="E8 34.267670" heading="331.63"  radius="8" pushBackRoute="229" airlineCodes="" />
-        <Parking index="34" type="ga" name="REGA_Center" lat="N47 27.487955" lon="E8 34.313896" heading="345.18"  radius="8" pushBackRoute="48" airlineCodes="" />
+        <Parking index="22" type="ga" name="Heliport_West_15" lat="N47 27.114449" lon="E8 32.913699" heading="289.74"  radius="18" pushBackRoute="159" airlineCodes="" />
+        <Parking index="23" type="ga" name="Heliport_West_14" lat="N47 27.104113" lon="E8 32.908963" heading="289.74"  radius="18" pushBackRoute="159" airlineCodes="" />
+        <Parking index="24" type="ga" name="Heliport_West_12" lat="N47 27.083554" lon="E8 32.899094" heading="289.74"  radius="18" pushBackRoute="159" airlineCodes="" />
+        <Parking index="25" type="ga" name="Heliport_West_11" lat="N47 27.073270" lon="E8 32.894138" heading="289.74"  radius="18" pushBackRoute="159" airlineCodes="" />
+        <Parking index="26" type="ga" name="Heliport_West_10" lat="N47 27.062919" lon="E8 32.889464" heading="289.74"  radius="18" pushBackRoute="159" airlineCodes="" />
+        <Parking index="27" type="ga" name="Heliport_West_8" lat="N47 27.042422" lon="E8 32.879702" heading="289.74"  radius="18" pushBackRoute="159" airlineCodes="" />
+        <Parking index="28" type="ga" name="Heliport_West_7" lat="N47 27.032136" lon="E8 32.874763" heading="289.74"  radius="18" pushBackRoute="159" airlineCodes="" />
+        <Parking index="29" type="ga" name="Heliport_West_6" lat="N47 27.021802" lon="E8 32.869949" heading="289.74"  radius="18" pushBackRoute="150" airlineCodes="" />
+        <Parking index="30" type="ga" name="Heliport_West_4" lat="N47 27.001210" lon="E8 32.860150" heading="289.74"  radius="18" pushBackRoute="150" airlineCodes="" />
+        <Parking index="31" type="ga" name="Heliport_West_3" lat="N47 26.990841" lon="E8 32.855323" heading="289.74"  radius="18" pushBackRoute="150" airlineCodes="" />
+        <Parking index="32" type="ga" name="Heliport_West_1" lat="N47 26.970056" lon="E8 32.845602" heading="289.74"  radius="18" pushBackRoute="150" airlineCodes="" />
+        <Parking index="33" type="ga" name="Helipad_East" lat="N47 27.465206" lon="E8 34.267670" heading="331.63"  radius="10" pushBackRoute="229" airlineCodes="" />
+        <Parking index="34" type="ga" name="REGA_Center" lat="N47 27.487955" lon="E8 34.313896" heading="345.18"  radius="10" pushBackRoute="48" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="35" lat="N47 27.263189" lon="E8 34.426776" isOnRunway="0" holdPointType="PushBack"  />

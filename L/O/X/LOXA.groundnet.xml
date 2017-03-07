@@ -2,22 +2,22 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="Apron_1/2_HEL_position_1" lat="N47 31.956559" lon="E14 8.444243" heading="358.4"  radius="8" pushBackRoute="76" airlineCodes="" />
-        <Parking index="1" type="ga" name="Apron_1/2_HEL_position_2" lat="N47 31.956034" lon="E14 8.422986" heading="358.4"  radius="8" pushBackRoute="27" airlineCodes="" />
-        <Parking index="2" type="ga" name="Apron_1/2_HEL_position_3" lat="N47 31.955510" lon="E14 8.402020" heading="358.4"  radius="8" pushBackRoute="28" airlineCodes="" />
-        <Parking index="3" type="ga" name="Apron_1/2_HEL_position_4" lat="N47 31.954789" lon="E14 8.380860" heading="358.4"  radius="8" pushBackRoute="29" airlineCodes="" />
-        <Parking index="4" type="ga" name="Apron_3_HEL_position_1" lat="N47 31.947334" lon="E14 8.269189" heading="247"  radius="8" pushBackRoute="32" airlineCodes="" />
-        <Parking index="5" type="ga" name="Apron_3_HEL_position_2" lat="N47 31.955662" lon="E14 8.263633" heading="247"  radius="8" pushBackRoute="34" airlineCodes="" />
-        <Parking index="6" type="ga" name="Apron_3_HEL_position_3" lat="N47 31.964025" lon="E14 8.258026" heading="247"  radius="8" pushBackRoute="34" airlineCodes="" />
-        <Parking index="7" type="ga" name="Apron_3_HEL_position_4" lat="N47 31.942794" lon="E14 8.254432" heading="67.27"  radius="8" pushBackRoute="79" airlineCodes="" />
-        <Parking index="8" type="ga" name="Apron_3_HEL_position_5" lat="N47 31.951122" lon="E14 8.248876" heading="66.67"  radius="8" pushBackRoute="79" airlineCodes="" />
-        <Parking index="9" type="ga" name="Apron_3_HEL_position_6" lat="N47 31.959485" lon="E14 8.243269" heading="65.41"  radius="8" pushBackRoute="40" airlineCodes="" />
-        <Parking index="10" type="ga" name="Apron_4_HEL_position_1" lat="N47 31.928618" lon="E14 8.207045" heading="247"  radius="8" pushBackRoute="79" airlineCodes="" />
-        <Parking index="11" type="ga" name="Apron_4_HEL_position_2" lat="N47 31.936947" lon="E14 8.201489" heading="247"  radius="8" pushBackRoute="33" airlineCodes="" />
-        <Parking index="12" type="ga" name="Apron_4_HEL_position_3" lat="N47 31.945310" lon="E14 8.195883" heading="247"  radius="8" pushBackRoute="35" airlineCodes="" />
-        <Parking index="13" type="ga" name="Apron_4_HEL_position_4" lat="N47 31.924078" lon="E14 8.192288" heading="67.27"  radius="8" pushBackRoute="37" airlineCodes="" />
-        <Parking index="14" type="ga" name="Apron_4_HEL_position_5" lat="N47 31.932407" lon="E14 8.186732" heading="66.67"  radius="8" pushBackRoute="37" airlineCodes="" />
-        <Parking index="15" type="ga" name="Apron_4_HEL_position_6" lat="N47 31.940770" lon="E14 8.181125" heading="65.41"  radius="8" pushBackRoute="39" airlineCodes="" />
+        <Parking index="0" type="ga" name="Apron_1/2_HEL_position_1" lat="N47 31.956559" lon="E14 8.444243" heading="358.4"  radius="18" pushBackRoute="76" airlineCodes="" />
+        <Parking index="1" type="ga" name="Apron_1/2_HEL_position_2" lat="N47 31.956034" lon="E14 8.422986" heading="358.4"  radius="18" pushBackRoute="27" airlineCodes="" />
+        <Parking index="2" type="ga" name="Apron_1/2_HEL_position_3" lat="N47 31.955510" lon="E14 8.402020" heading="358.4"  radius="18" pushBackRoute="28" airlineCodes="" />
+        <Parking index="3" type="ga" name="Apron_1/2_HEL_position_4" lat="N47 31.954789" lon="E14 8.380860" heading="358.4"  radius="18" pushBackRoute="29" airlineCodes="" />
+        <Parking index="4" type="ga" name="Apron_3_HEL_position_1" lat="N47 31.947334" lon="E14 8.269189" heading="247"  radius="10" pushBackRoute="32" airlineCodes="" />
+        <Parking index="5" type="ga" name="Apron_3_HEL_position_2" lat="N47 31.955662" lon="E14 8.263633" heading="247"  radius="10" pushBackRoute="34" airlineCodes="" />
+        <Parking index="6" type="ga" name="Apron_3_HEL_position_3" lat="N47 31.964025" lon="E14 8.258026" heading="247"  radius="10" pushBackRoute="34" airlineCodes="" />
+        <Parking index="7" type="ga" name="Apron_3_HEL_position_4" lat="N47 31.942794" lon="E14 8.254432" heading="67.27"  radius="10" pushBackRoute="79" airlineCodes="" />
+        <Parking index="8" type="ga" name="Apron_3_HEL_position_5" lat="N47 31.951122" lon="E14 8.248876" heading="66.67"  radius="10" pushBackRoute="79" airlineCodes="" />
+        <Parking index="9" type="ga" name="Apron_3_HEL_position_6" lat="N47 31.959485" lon="E14 8.243269" heading="65.41"  radius="10" pushBackRoute="40" airlineCodes="" />
+        <Parking index="10" type="ga" name="Apron_4_HEL_position_1" lat="N47 31.928618" lon="E14 8.207045" heading="247"  radius="10" pushBackRoute="79" airlineCodes="" />
+        <Parking index="11" type="ga" name="Apron_4_HEL_position_2" lat="N47 31.936947" lon="E14 8.201489" heading="247"  radius="10" pushBackRoute="33" airlineCodes="" />
+        <Parking index="12" type="ga" name="Apron_4_HEL_position_3" lat="N47 31.945310" lon="E14 8.195883" heading="247"  radius="10" pushBackRoute="35" airlineCodes="" />
+        <Parking index="13" type="ga" name="Apron_4_HEL_position_4" lat="N47 31.924078" lon="E14 8.192288" heading="67.27"  radius="10" pushBackRoute="37" airlineCodes="" />
+        <Parking index="14" type="ga" name="Apron_4_HEL_position_5" lat="N47 31.932407" lon="E14 8.186732" heading="66.67"  radius="10" pushBackRoute="37" airlineCodes="" />
+        <Parking index="15" type="ga" name="Apron_4_HEL_position_6" lat="N47 31.940770" lon="E14 8.181125" heading="65.41"  radius="10" pushBackRoute="39" airlineCodes="" />
         <Parking index="16" type="ga" name="Flying_club_position_1" lat="N47 31.988477" lon="E14 8.764165" heading="243.17"  radius="10" pushBackRoute="24" airlineCodes="" />
         <Parking index="17" type="ga" name="Flying_club_position_2" lat="N47 32.004885" lon="E14 8.762290" heading="151.54"  radius="10" pushBackRoute="22" airlineCodes="" />
         <Parking index="18" type="ga" name="Flying_club_position_3" lat="N47 32.001088" lon="E14 8.749610" heading="154.4"  radius="10" pushBackRoute="45" airlineCodes="" />

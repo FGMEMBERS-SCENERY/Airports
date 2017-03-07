@@ -2,19 +2,19 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="GA1" lat="N38 3.932489" lon="W97 51.913810" heading="0"  radius="19" pushBackRoute="13" airlineCodes="" />
-        <Parking index="1" type="gate" name="GA2" lat="N38 3.923571" lon="W97 51.906894" heading="180"  radius="19" pushBackRoute="15" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA3" lat="N38 3.885139" lon="W97 51.930745" heading="0"  radius="19" pushBackRoute="14" airlineCodes="" />
-        <Parking index="3" type="gate" name="GA4" lat="N38 3.885229" lon="W97 51.905171" heading="0"  radius="19" pushBackRoute="14" airlineCodes="" />
-        <Parking index="4" type="gate" name="GA5" lat="N38 3.858514" lon="W97 51.930593" heading="0"  radius="19" pushBackRoute="32" airlineCodes="" />
-        <Parking index="5" type="gate" name="GA6" lat="N38 3.869780" lon="W97 51.909232" heading="180"  radius="19" pushBackRoute="17" airlineCodes="" />
-        <Parking index="6" type="gate" name="GA7" lat="N38 3.763102" lon="W97 51.955591" heading="90"  radius="19" pushBackRoute="26" airlineCodes="" />
-        <Parking index="7" type="gate" name="GA8" lat="N38 3.733930" lon="W97 51.954125" heading="90"  radius="19" pushBackRoute="27" airlineCodes="" />
-        <Parking index="8" type="gate" name="GA9" lat="N38 3.720941" lon="W97 51.952934" heading="90"  radius="19" pushBackRoute="28" airlineCodes="" />
-        <Parking index="9" type="gate" name="GA10" lat="N38 3.697585" lon="W97 51.952601" heading="90"  radius="19" pushBackRoute="28" airlineCodes="" />
-        <Parking index="10" type="gate" name="GA11" lat="N38 3.632589" lon="W97 51.920871" heading="0"  radius="19" pushBackRoute="24" airlineCodes="" />
-        <Parking index="11" type="gate" name="GA12" lat="N38 3.592333" lon="W97 51.954175" heading="90"  radius="19" pushBackRoute="23" airlineCodes="" />
-        <Parking index="12" type="gate" name="GA13" lat="N38 3.709517" lon="W97 51.910103" heading="270"  radius="19" pushBackRoute="67" airlineCodes="" />
+        <Parking index="0" type="gate" name="GA1" lat="N38 3.932489" lon="W97 51.913810" heading="0"  radius="32" pushBackRoute="13" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA2" lat="N38 3.923571" lon="W97 51.906894" heading="180"  radius="32" pushBackRoute="15" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA3" lat="N38 3.885139" lon="W97 51.930745" heading="0"  radius="32" pushBackRoute="14" airlineCodes="" />
+        <Parking index="3" type="gate" name="GA4" lat="N38 3.885229" lon="W97 51.905171" heading="0"  radius="32" pushBackRoute="14" airlineCodes="" />
+        <Parking index="4" type="gate" name="GA5" lat="N38 3.858514" lon="W97 51.930593" heading="0"  radius="32" pushBackRoute="32" airlineCodes="" />
+        <Parking index="5" type="gate" name="GA6" lat="N38 3.869780" lon="W97 51.909232" heading="180"  radius="32" pushBackRoute="17" airlineCodes="" />
+        <Parking index="6" type="gate" name="GA7" lat="N38 3.763102" lon="W97 51.955591" heading="90"  radius="32" pushBackRoute="26" airlineCodes="" />
+        <Parking index="7" type="gate" name="GA8" lat="N38 3.733930" lon="W97 51.954125" heading="90"  radius="32" pushBackRoute="27" airlineCodes="" />
+        <Parking index="8" type="gate" name="GA9" lat="N38 3.720941" lon="W97 51.952934" heading="90"  radius="32" pushBackRoute="28" airlineCodes="" />
+        <Parking index="9" type="gate" name="GA10" lat="N38 3.697585" lon="W97 51.952601" heading="90"  radius="32" pushBackRoute="28" airlineCodes="" />
+        <Parking index="10" type="gate" name="GA11" lat="N38 3.632589" lon="W97 51.920871" heading="0"  radius="32" pushBackRoute="24" airlineCodes="" />
+        <Parking index="11" type="gate" name="GA12" lat="N38 3.592333" lon="W97 51.954175" heading="90"  radius="32" pushBackRoute="23" airlineCodes="" />
+        <Parking index="12" type="gate" name="GA13" lat="N38 3.709517" lon="W97 51.910103" heading="270"  radius="32" pushBackRoute="67" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="13" lat="N38 3.902575" lon="W97 51.936039" isOnRunway="0" holdPointType="PushBack"  />

@@ -2,19 +2,19 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Gate_1" lat="N42 16.000373" lon="W82 57.649555" heading="250"  radius="44" pushBackRoute="26" airlineCodes="" />
-        <Parking index="1" type="gate" name="Gate_2" lat="N42 15.989690" lon="W82 57.615194" heading="250"  radius="19" pushBackRoute="27" airlineCodes="" />
-        <Parking index="2" type="gate" name="Gate_3" lat="N42 15.973570" lon="W82 57.572569" heading="250"  radius="44" pushBackRoute="28" airlineCodes="" />
-        <Parking index="3" type="gate" name="Gate_4" lat="N42 15.965478" lon="W82 57.541222" heading="250"  radius="19" pushBackRoute="29" airlineCodes="" />
-        <Parking index="4" type="gate" name="Gate_5" lat="N42 15.952562" lon="W82 57.512090" heading="250"  radius="19" pushBackRoute="30" airlineCodes="" />
-        <Parking index="5" type="gate" name="Gate_6" lat="N42 15.944312" lon="W82 57.485587" heading="250"  radius="19" pushBackRoute="31" airlineCodes="" />
+        <Parking index="0" type="gate" name="Gate_1" lat="N42 16.000373" lon="W82 57.649555" heading="250"  radius="20" pushBackRoute="26" airlineCodes="" />
+        <Parking index="1" type="gate" name="Gate_2" lat="N42 15.989690" lon="W82 57.615194" heading="250"  radius="18" pushBackRoute="27" airlineCodes="" />
+        <Parking index="2" type="gate" name="Gate_3" lat="N42 15.973570" lon="W82 57.572569" heading="250"  radius="20" pushBackRoute="28" airlineCodes="" />
+        <Parking index="3" type="gate" name="Gate_4" lat="N42 15.965478" lon="W82 57.541222" heading="250"  radius="18" pushBackRoute="29" airlineCodes="" />
+        <Parking index="4" type="gate" name="Gate_5" lat="N42 15.952562" lon="W82 57.512090" heading="250"  radius="18" pushBackRoute="30" airlineCodes="" />
+        <Parking index="5" type="gate" name="Gate_6" lat="N42 15.944312" lon="W82 57.485587" heading="250"  radius="18" pushBackRoute="31" airlineCodes="" />
         <Parking index="6" type="ga" name="Apron_1_-_1" lat="N42 16.062630" lon="W82 57.937940" heading="9.79"  radius="10" pushBackRoute="20" airlineCodes="" />
         <Parking index="7" type="ga" name="Apron_1_-_2" lat="N42 16.140077" lon="W82 57.904331" heading="-83.33"  radius="10" pushBackRoute="21" airlineCodes="" />
         <Parking index="8" type="ga" name="Apron_1_-_3" lat="N42 16.174967" lon="W82 57.989513" heading="106.05"  radius="10" pushBackRoute="22" airlineCodes="" />
         <Parking index="9" type="ga" name="Apron_1_-_4" lat="N42 16.209893" lon="W82 58.066025" heading="75.62"  radius="10" pushBackRoute="77" airlineCodes="" />
         <Parking index="10" type="ga" name="Apron_1_-_5" lat="N42 16.210437" lon="W82 58.101608" heading="31.16"  radius="10" pushBackRoute="77" airlineCodes="" />
         <Parking index="11" type="ga" name="Apron_1_-_6" lat="N42 16.224539" lon="W82 58.127761" heading="31.16"  radius="10" pushBackRoute="78" airlineCodes="" />
-        <Parking index="12" type="gate" name="Great_Lakes_Flying_Center" lat="N42 15.965209" lon="W82 57.959008" heading="284.62"  radius="19" pushBackRoute="58" airlineCodes="" />
+        <Parking index="12" type="gate" name="Great_Lakes_Flying_Center" lat="N42 15.965209" lon="W82 57.959008" heading="284.62"  radius="10" pushBackRoute="58" airlineCodes="" />
         <Parking index="13" type="ga" name="Windsor_Flying_Club" lat="N42 16.117148" lon="W82 57.986897" heading="244.63"  radius="10" pushBackRoute="63" airlineCodes="" />
  </parkingList>
  <TaxiNodes>

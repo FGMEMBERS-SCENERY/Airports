@@ -2,7 +2,7 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Terminal_1_Gate_6" lat="N36 46.641711" lon="W119 43.740491" heading="-143.42"  radius="44" pushBackRoute="50" airlineCodes="" />
+        <Parking index="0" type="gate" name="Terminal_1_Gate_6" lat="N36 46.641711" lon="W119 43.740491" heading="-143.42"  radius="36" pushBackRoute="50" airlineCodes="" />
         <Parking index="1" type="gate" name="Terminal_Gate_1" lat="N36 46.269277" lon="W119 43.172252" heading="125.48"  radius="17" pushBackRoute="69" airlineCodes="" />
         <Parking index="2" type="gate" name="Terminal_Gate_2" lat="N36 46.295645" lon="W119 43.154644" heading="125.28"  radius="17" pushBackRoute="69" airlineCodes="" />
         <Parking index="3" type="gate" name="Terminal_Gate_3" lat="N36 46.311329" lon="W119 43.142384" heading="125.44"  radius="17" pushBackRoute="135" airlineCodes="" />
@@ -10,20 +10,20 @@
         <Parking index="5" type="gate" name="Terminal_Gate_5" lat="N36 46.269511" lon="W119 43.081757" heading="305.48"  radius="17" pushBackRoute="131" airlineCodes="" />
         <Parking index="6" type="gate" name="Terminal_Gate_6" lat="N36 46.246573" lon="W119 43.103174" heading="311.34"  radius="17" pushBackRoute="131" airlineCodes="" />
         <Parking index="7" type="gate" name="ANG_Hangar" lat="N36 46.007853" lon="W119 42.388893" heading="157.38"  radius="17" pushBackRoute="53" airlineCodes="" />
-        <Parking index="8" type="ga" name="CHP_Ramp" lat="N36 47.128837" lon="W119 43.600703" heading="216.04"  radius="10" pushBackRoute="26" airlineCodes="" />
+        <Parking index="8" type="ga" name="CHP_Ramp" lat="N36 47.128837" lon="W119 43.600703" heading="216.04"  radius="18" pushBackRoute="26" airlineCodes="" />
         <Parking index="9" type="gate" name="Air_Cargo_Ramp" lat="N36 46.846691" lon="W119 42.854205" heading="307.53"  radius="17" pushBackRoute="27" airlineCodes="" />
         <Parking index="10" type="gate" name="GA_Parking" lat="N36 46.584875" lon="W119 43.584045" heading="306.43"  radius="17" pushBackRoute="44" airlineCodes="" />
         <Parking index="11" type="gate" name="NG_Ramp" lat="N36 47.097940" lon="W119 43.234042" heading="92.12"  radius="17" pushBackRoute="65" airlineCodes="" />
         <Parking index="12" type="gate" name="Scott_Air" lat="N36 46.593780" lon="W119 43.609860" heading="125.48"  radius="17" pushBackRoute="32" airlineCodes="" />
         <Parking index="13" type="gate" name="US_Forestry" lat="N36 46.289819" lon="W119 42.139097" heading="-56.85"  radius="17" pushBackRoute="62" airlineCodes="" />
         <Parking index="14" type="gate" name="USAF_Ramp" lat="N36 46.701140" lon="W119 42.844749" heading="34.64"  radius="17" pushBackRoute="140" airlineCodes="" />
-        <Parking index="15" type="gate" name="Air_Freight_Ramp" lat="N36 46.859616" lon="W119 42.778477" heading="215.45"  radius="44" pushBackRoute="27" airlineCodes="" />
-        <Parking index="16" type="ga" name="Air_NG_ramp" lat="N36 45.953696" lon="W119 42.427896" heading="314.8"  radius="10" pushBackRoute="54" airlineCodes="" />
-        <Parking index="17" type="ga" name="Army_NG_Helicopter_Ramp" lat="N36 47.054409" lon="W119 43.188181" heading="270.27"  radius="10" pushBackRoute="67" airlineCodes="" />
-        <Parking index="18" type="ga" name="Base_of_the_Tower" lat="N36 46.406746" lon="W119 43.261233" heading="306.76"  radius="10" pushBackRoute="40" airlineCodes="" />
-        <Parking index="19" type="gate" name="CDF_Ramp" lat="N36 46.230991" lon="W119 42.117544" heading="333.01"  radius="19" pushBackRoute="28" airlineCodes="" />
-        <Parking index="20" type="ga" name="Mazzei_Aviation_School" lat="N36 46.817948" lon="W119 43.902080" heading="268"  radius="10" pushBackRoute="86" airlineCodes="" />
-        <Parking index="21" type="ga" name="Signature_Air_Services" lat="N36 46.737494" lon="W119 43.865210" heading="124.8"  radius="10" pushBackRoute="58" airlineCodes="" />
+        <Parking index="15" type="gate" name="Air_Freight_Ramp" lat="N36 46.859616" lon="W119 42.778477" heading="215.45"  radius="36" pushBackRoute="27" airlineCodes="" />
+        <Parking index="16" type="ga" name="Air_NG_ramp" lat="N36 45.953696" lon="W119 42.427896" heading="314.8"  radius="18" pushBackRoute="54" airlineCodes="" />
+        <Parking index="17" type="ga" name="Army_NG_Helicopter_Ramp" lat="N36 47.054409" lon="W119 43.188181" heading="270.27"  radius="18" pushBackRoute="67" airlineCodes="" />
+        <Parking index="18" type="ga" name="Base_of_the_Tower" lat="N36 46.406746" lon="W119 43.261233" heading="306.76"  radius="18" pushBackRoute="40" airlineCodes="" />
+        <Parking index="19" type="gate" name="CDF_Ramp" lat="N36 46.230991" lon="W119 42.117544" heading="333.01"  radius="20" pushBackRoute="28" airlineCodes="" />
+        <Parking index="20" type="ga" name="Mazzei_Aviation_School" lat="N36 46.817948" lon="W119 43.902080" heading="268"  radius="20" pushBackRoute="86" airlineCodes="" />
+        <Parking index="21" type="ga" name="Signature_Air_Services" lat="N36 46.737494" lon="W119 43.865210" heading="124.8"  radius="18" pushBackRoute="58" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="22" lat="N36 46.877760" lon="W119 43.910704" isOnRunway="0" holdPointType="none"  />

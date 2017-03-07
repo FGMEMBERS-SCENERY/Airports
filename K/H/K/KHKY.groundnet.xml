@@ -2,15 +2,15 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Hold_Short_Rwy1" lat="N35 44.229323" lon="W81 23.485312" heading="188"  radius="44" pushBackRoute="39" airlineCodes="" />
-        <Parking index="1" type="gate" name="Hold_Short_Rwy19" lat="N35 44.916063" lon="W81 23.364770" heading="308.54"  radius="44" pushBackRoute="34" airlineCodes="" />
-        <Parking index="2" type="gate" name="Hold_Short_Rwy24" lat="N35 44.711287" lon="W81 22.855607" heading="64.69"  radius="44" pushBackRoute="19" airlineCodes="" />
-        <Parking index="3" type="gate" name="Hold_Short_Rwy6" lat="N35 44.159365" lon="W81 23.839248" heading="231.2"  radius="44" pushBackRoute="13" airlineCodes="" />
-        <Parking index="4" type="gate" name="South_Ramp" lat="N35 44.303276" lon="W81 23.229838" heading="-155.94"  radius="19" pushBackRoute="48" airlineCodes="" />
-        <Parking index="5" type="gate" name="Terminal" lat="N35 44.509697" lon="W81 23.339108" heading="-34.39"  radius="19" pushBackRoute="55" airlineCodes="" />
-        <Parking index="6" type="gate" name="West_Ramp" lat="N35 44.436650" lon="W81 23.693565" heading="111.47"  radius="19" pushBackRoute="47" airlineCodes="" />
-        <Parking index="7" type="gate" name="Gen_Avia._Parking" lat="N35 44.599046" lon="W81 23.414198" heading="86.71"  radius="19" pushBackRoute="52" airlineCodes="" />
-        <Parking index="8" type="ga" name="Helocopter_Pad" lat="N35 44.625216" lon="W81 23.401556" heading="99.69"  radius="8" pushBackRoute="41" airlineCodes="" />
+        <Parking index="0" type="gate" name="Hold_Short_Rwy1" lat="N35 44.229323" lon="W81 23.485312" heading="188"  radius="20" pushBackRoute="39" airlineCodes="" />
+        <Parking index="1" type="gate" name="Hold_Short_Rwy19" lat="N35 44.916063" lon="W81 23.364770" heading="308.54"  radius="20" pushBackRoute="34" airlineCodes="" />
+        <Parking index="2" type="gate" name="Hold_Short_Rwy24" lat="N35 44.711287" lon="W81 22.855607" heading="64.69"  radius="20" pushBackRoute="19" airlineCodes="" />
+        <Parking index="3" type="gate" name="Hold_Short_Rwy6" lat="N35 44.159365" lon="W81 23.839248" heading="231.2"  radius="20" pushBackRoute="13" airlineCodes="" />
+        <Parking index="4" type="gate" name="South_Ramp" lat="N35 44.303276" lon="W81 23.229838" heading="-155.94"  radius="20" pushBackRoute="48" airlineCodes="" />
+        <Parking index="5" type="gate" name="Terminal" lat="N35 44.509697" lon="W81 23.339108" heading="-34.39"  radius="20" pushBackRoute="55" airlineCodes="" />
+        <Parking index="6" type="gate" name="West_Ramp" lat="N35 44.436650" lon="W81 23.693565" heading="111.47"  radius="20" pushBackRoute="47" airlineCodes="" />
+        <Parking index="7" type="gate" name="Gen_Avia._Parking" lat="N35 44.599046" lon="W81 23.414198" heading="86.71"  radius="20" pushBackRoute="52" airlineCodes="" />
+        <Parking index="8" type="ga" name="Helocopter_Pad" lat="N35 44.625216" lon="W81 23.401556" heading="99.69"  radius="36" pushBackRoute="41" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="9" lat="N35 44.125702" lon="W81 23.851018" isOnRunway="0" holdPointType="none"  />

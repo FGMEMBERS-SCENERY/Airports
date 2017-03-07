@@ -2,18 +2,18 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="E_Rmp_Hngr" lat="N41 42.105181" lon="W86 18.459738" heading="0"  radius="19" pushBackRoute="253" airlineCodes="" />
-        <Parking index="1" type="gate" name="N_Com_Rmp" lat="N41 42.714965" lon="W86 18.721406" heading="160"  radius="19" pushBackRoute="202" airlineCodes="" />
-        <Parking index="2" type="gate" name="Far_ERmp" lat="N41 42.128825" lon="W86 18.306968" heading="310"  radius="19" pushBackRoute="94" airlineCodes="" />
-        <Parking index="3" type="gate" name="West_Ramp" lat="N41 42.024121" lon="W86 18.976297" heading="150"  radius="19" pushBackRoute="220" airlineCodes="" />
-        <Parking index="4" type="gate" name="UPS_Rmp" lat="N41 42.430894" lon="W86 18.279585" heading="88.64"  radius="19" pushBackRoute="244" airlineCodes="" />
-        <Parking index="5" type="gate" name="SW_Cargo_2" lat="N41 42.124557" lon="W86 19.294867" heading="-102.14"  radius="19" pushBackRoute="233" airlineCodes="" />
-        <Parking index="6" type="gate" name="SW_Cargo" lat="N41 42.111844" lon="W86 19.347282" heading="105.25"  radius="19" pushBackRoute="228" airlineCodes="" />
-        <Parking index="7" type="gate" name="North_GA_Ramp" lat="N41 42.407345" lon="W86 18.686371" heading="90"  radius="44" pushBackRoute="236" airlineCodes="" />
+        <Parking index="0" type="gate" name="E_Rmp_Hngr" lat="N41 42.105181" lon="W86 18.459738" heading="0"  radius="20" pushBackRoute="253" airlineCodes="" />
+        <Parking index="1" type="gate" name="N_Com_Rmp" lat="N41 42.714965" lon="W86 18.721406" heading="160"  radius="18" pushBackRoute="202" airlineCodes="" />
+        <Parking index="2" type="gate" name="Far_ERmp" lat="N41 42.128825" lon="W86 18.306968" heading="310"  radius="20" pushBackRoute="94" airlineCodes="" />
+        <Parking index="3" type="gate" name="West_Ramp" lat="N41 42.024121" lon="W86 18.976297" heading="150"  radius="20" pushBackRoute="220" airlineCodes="" />
+        <Parking index="4" type="gate" name="UPS_Rmp" lat="N41 42.430894" lon="W86 18.279585" heading="88.64"  radius="20" pushBackRoute="244" airlineCodes="" />
+        <Parking index="5" type="gate" name="SW_Cargo_2" lat="N41 42.124557" lon="W86 19.294867" heading="-102.14"  radius="18" pushBackRoute="233" airlineCodes="" />
+        <Parking index="6" type="gate" name="SW_Cargo" lat="N41 42.111844" lon="W86 19.347282" heading="105.25"  radius="18" pushBackRoute="228" airlineCodes="" />
+        <Parking index="7" type="gate" name="North_GA_Ramp" lat="N41 42.407345" lon="W86 18.686371" heading="90"  radius="18" pushBackRoute="236" airlineCodes="" />
         <Parking index="8" type="ga" name="GA_THngr" lat="N41 42.537176" lon="W86 18.884890" heading="0"  radius="10" pushBackRoute="212" airlineCodes="" />
-        <Parking index="9" type="gate" name="Terminal_Gate_3" lat="N41 42.108079" lon="W86 18.776572" heading="164.84"  radius="19" pushBackRoute="76" airlineCodes="" />
-        <Parking index="10" type="gate" name="Terminal_Gate_2" lat="N41 42.108359" lon="W86 18.814136" heading="178.89"  radius="19" pushBackRoute="79" airlineCodes="" />
-        <Parking index="11" type="gate" name="Terminal_Gate_1" lat="N41 42.086202" lon="W86 18.855069" heading="107.51"  radius="19" pushBackRoute="217" airlineCodes="" />
+        <Parking index="9" type="gate" name="Terminal_Gate_3" lat="N41 42.108079" lon="W86 18.776572" heading="164.84"  radius="20" pushBackRoute="76" airlineCodes="" />
+        <Parking index="10" type="gate" name="Terminal_Gate_2" lat="N41 42.108359" lon="W86 18.814136" heading="178.89"  radius="20" pushBackRoute="79" airlineCodes="" />
+        <Parking index="11" type="gate" name="Terminal_Gate_1" lat="N41 42.086202" lon="W86 18.855069" heading="107.51"  radius="20" pushBackRoute="217" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="12" lat="N41 42.835309" lon="W86 19.714156" isOnRunway="0" holdPointType="none"  />

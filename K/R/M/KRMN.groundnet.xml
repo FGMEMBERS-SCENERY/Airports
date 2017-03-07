@@ -2,13 +2,13 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="FBO" lat="N38 23.808526" lon="W77 27.018709" heading="140.89"  radius="19" pushBackRoute="7" airlineCodes="" />
-        <Parking index="1" type="gate" name="GA_Ramp_1" lat="N38 23.792043" lon="W77 27.025464" heading="228.09"  radius="19" pushBackRoute="9" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA_Ramp_2" lat="N38 23.784328" lon="W77 27.070131" heading="50.56"  radius="19" pushBackRoute="8" airlineCodes="" />
-        <Parking index="3" type="gate" name="GA_Ramp_3" lat="N38 23.843819" lon="W77 27.079173" heading="231.34"  radius="19" pushBackRoute="7" airlineCodes="" />
-        <Parking index="4" type="gate" name="East_Ramp" lat="N38 23.768891" lon="W77 26.927716" heading="-88.55"  radius="19" pushBackRoute="74" airlineCodes="" />
+        <Parking index="0" type="gate" name="FBO" lat="N38 23.808526" lon="W77 27.018709" heading="140.89"  radius="18" pushBackRoute="7" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA_Ramp_1" lat="N38 23.792043" lon="W77 27.025464" heading="228.09"  radius="10" pushBackRoute="9" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_Ramp_2" lat="N38 23.784328" lon="W77 27.070131" heading="50.56"  radius="10" pushBackRoute="8" airlineCodes="" />
+        <Parking index="3" type="gate" name="GA_Ramp_3" lat="N38 23.843819" lon="W77 27.079173" heading="231.34"  radius="10" pushBackRoute="7" airlineCodes="" />
+        <Parking index="4" type="gate" name="East_Ramp" lat="N38 23.768891" lon="W77 26.927716" heading="-88.55"  radius="18" pushBackRoute="74" airlineCodes="" />
         <Parking index="5" type="ga" name="North_Hangars" lat="N38 23.961583" lon="W77 27.238880" heading="180.34"  radius="10" pushBackRoute="68" airlineCodes="" />
-        <Parking index="6" type="gate" name="South_Hangars" lat="N38 23.685618" lon="W77 26.829006" heading="232.85"  radius="19" pushBackRoute="63" airlineCodes="" />
+        <Parking index="6" type="gate" name="South_Hangars" lat="N38 23.685618" lon="W77 26.829006" heading="232.85"  radius="18" pushBackRoute="63" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="7" lat="N38 23.811245" lon="W77 27.053142" isOnRunway="0" holdPointType="PushBack"  />

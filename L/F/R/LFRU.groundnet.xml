@@ -2,13 +2,13 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Refueling" lat="N48 36.001100" lon="W3 48.951133" heading="269.96"  radius="19" pushBackRoute="20" airlineCodes="" />
-        <Parking index="1" type="gate" name="Hop_1" lat="N48 36.021206" lon="W3 48.892201" heading="269.96"  radius="19" pushBackRoute="20" airlineCodes="" />
-        <Parking index="2" type="gate" name="Hop_2" lat="N48 36.019792" lon="W3 48.847798" heading="-135"  radius="19" pushBackRoute="20" airlineCodes="" />
+        <Parking index="0" type="gate" name="Refueling" lat="N48 36.001100" lon="W3 48.951133" heading="269.96"  radius="20" pushBackRoute="20" airlineCodes="" />
+        <Parking index="1" type="gate" name="Hop_1" lat="N48 36.021206" lon="W3 48.892201" heading="269.96"  radius="20" pushBackRoute="20" airlineCodes="" />
+        <Parking index="2" type="gate" name="Hop_2" lat="N48 36.019792" lon="W3 48.847798" heading="-135"  radius="20" pushBackRoute="20" airlineCodes="" />
         <Parking index="3" type="ga" name="Microlight" lat="N48 36.059809" lon="W3 48.520058" heading="284.55"  radius="10" pushBackRoute="8" airlineCodes="" />
-        <Parking index="4" type="gate" name="GA_Refueling" lat="N48 35.996655" lon="W3 48.961029" heading="269.88"  radius="19" pushBackRoute="20" airlineCodes="" />
-        <Parking index="5" type="gate" name="GA_1" lat="N48 36.036100" lon="W3 48.931729" heading="179.22"  radius="19" pushBackRoute="20" airlineCodes="" />
-        <Parking index="6" type="gate" name="GA_2" lat="N48 36.016272" lon="W3 48.982948" heading="159.83"  radius="19" pushBackRoute="23" airlineCodes="" />
+        <Parking index="4" type="gate" name="GA_Refueling" lat="N48 35.996655" lon="W3 48.961029" heading="269.88"  radius="10" pushBackRoute="20" airlineCodes="" />
+        <Parking index="5" type="gate" name="GA_1" lat="N48 36.036100" lon="W3 48.931729" heading="179.22"  radius="10" pushBackRoute="20" airlineCodes="" />
+        <Parking index="6" type="gate" name="GA_2" lat="N48 36.016272" lon="W3 48.982948" heading="159.83"  radius="10" pushBackRoute="23" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="7" lat="N48 36.031886" lon="W3 48.543070" isOnRunway="0" holdPointType="none"  />

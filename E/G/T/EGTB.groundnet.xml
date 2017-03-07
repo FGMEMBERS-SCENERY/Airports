@@ -10,9 +10,9 @@
         <Parking index="5" type="ga" name="Grass" lat="N51 36.619753" lon="W0 48.207713" heading="294.48"  radius="10" pushBackRoute="39" airlineCodes="" />
         <Parking index="6" type="ga" name="Hard_Standing" lat="N51 36.665234" lon="W0 48.147703" heading="274.44"  radius="10" pushBackRoute="38" airlineCodes="" />
         <Parking index="7" type="ga" name="Hard_Standing" lat="N51 36.678380" lon="W0 48.146327" heading="274.44"  radius="10" pushBackRoute="38" airlineCodes="" />
-        <Parking index="8" type="ga" name="Helipad" lat="N51 36.700651" lon="W0 48.122186" heading="93.07"  radius="8" pushBackRoute="41" airlineCodes="" />
-        <Parking index="9" type="ga" name="Helipad" lat="N51 36.694186" lon="W0 48.122798" heading="93.07"  radius="8" pushBackRoute="41" airlineCodes="" />
-        <Parking index="10" type="ga" name="Helipad" lat="N51 36.674469" lon="W0 48.125860" heading="93.07"  radius="8" pushBackRoute="39" airlineCodes="" />
+        <Parking index="8" type="ga" name="Helipad" lat="N51 36.700651" lon="W0 48.122186" heading="93.07"  radius="10" pushBackRoute="41" airlineCodes="" />
+        <Parking index="9" type="ga" name="Helipad" lat="N51 36.694186" lon="W0 48.122798" heading="93.07"  radius="10" pushBackRoute="41" airlineCodes="" />
+        <Parking index="10" type="ga" name="Helipad" lat="N51 36.674469" lon="W0 48.125860" heading="93.07"  radius="10" pushBackRoute="39" airlineCodes="" />
         <Parking index="11" type="ga" name="Apron" lat="N51 36.677722" lon="W0 48.079175" heading="275.97"  radius="10" pushBackRoute="37" airlineCodes="" />
         <Parking index="12" type="ga" name="Apron" lat="N51 36.671500" lon="W0 48.080447" heading="275.97"  radius="10" pushBackRoute="37" airlineCodes="" />
         <Parking index="13" type="ga" name="Apron" lat="N51 36.665130" lon="W0 48.081163" heading="275.97"  radius="10" pushBackRoute="36" airlineCodes="" />
@@ -27,8 +27,8 @@
         <Parking index="22" type="ga" name="Apron" lat="N51 36.685771" lon="W0 48.099929" heading="275.97"  radius="10" pushBackRoute="37" airlineCodes="" />
         <Parking index="23" type="ga" name="Apron" lat="N51 36.692092" lon="W0 48.098895" heading="275.97"  radius="10" pushBackRoute="37" airlineCodes="" />
         <Parking index="24" type="ga" name="Apron" lat="N51 36.698512" lon="W0 48.098497" heading="275.97"  radius="10" pushBackRoute="37" airlineCodes="" />
-        <Parking index="25" type="ga" name="Helipad" lat="N51 36.687560" lon="W0 48.123498" heading="93.07"  radius="8" pushBackRoute="39" airlineCodes="" />
-        <Parking index="26" type="ga" name="Helipad" lat="N51 36.681041" lon="W0 48.124460" heading="93.07"  radius="8" pushBackRoute="39" airlineCodes="" />
+        <Parking index="25" type="ga" name="Helipad" lat="N51 36.687560" lon="W0 48.123498" heading="93.07"  radius="10" pushBackRoute="39" airlineCodes="" />
+        <Parking index="26" type="ga" name="Helipad" lat="N51 36.681041" lon="W0 48.124460" heading="93.07"  radius="10" pushBackRoute="39" airlineCodes="" />
         <Parking index="27" type="ga" name="Hard_Standing" lat="N51 36.671939" lon="W0 48.147068" heading="274.44"  radius="10" pushBackRoute="38" airlineCodes="" />
         <Parking index="28" type="ga" name="North_Grass" lat="N51 36.810265" lon="W0 48.327745" heading="181.09"  radius="10" pushBackRoute="53" airlineCodes="" />
         <Parking index="29" type="ga" name="North_Grass" lat="N51 36.809740" lon="W0 48.341410" heading="181.09"  radius="10" pushBackRoute="53" airlineCodes="" />

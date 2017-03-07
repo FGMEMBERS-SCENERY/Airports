@@ -5,7 +5,7 @@
         <Parking index="0" type="ga" name="P1" lat="N47 35.016665" lon="E10 41.208875" heading="170.91"  radius="10" airlineCodes="" />
         <Parking index="1" type="ga" name="P2" lat="N47 35.014597" lon="E10 41.188307" heading="171.09"  radius="10" airlineCodes="" />
         <Parking index="2" type="ga" name="P3" lat="N47 35.004442" lon="E10 41.181026" heading="85.76"  radius="10" airlineCodes="" />
-        <Parking index="3" type="ga" name="P4" lat="N47 34.991558" lon="E10 41.182893" heading="85.52"  radius="10" airlineCodes="" />
+        <Parking index="3" type="ga" name="P4" lat="N47 34.991558" lon="E10 41.182893" heading="85.52"  radius="18" airlineCodes="" />
         <Parking index="4" type="ga" name="PS" lat="N47 34.999741" lon="E10 41.124651" heading="177.02"  radius="10" airlineCodes="" />
  </parkingList>
 </groundnet>

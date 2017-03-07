@@ -2,19 +2,19 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Main_Apron_Ramp_(Large)" lat="N53 12.871883" lon="W105 40.861480" heading="277.43"  radius="44" pushBackRoute="122" airlineCodes="" />
-        <Parking index="1" type="gate" name="Main_Apron_Ramp_(Large)" lat="N53 12.898423" lon="W105 40.916634" heading="247.43"  radius="44" pushBackRoute="125" airlineCodes="" />
-        <Parking index="2" type="gate" name="Main_Apron_Ramp_(Large)" lat="N53 12.919331" lon="W105 40.944802" heading="247.43"  radius="44" pushBackRoute="124" airlineCodes="" />
-        <Parking index="3" type="gate" name="Transwest_Ramp_(Medium)" lat="N53 12.770196" lon="W105 40.784076" heading="52.43"  radius="19" pushBackRoute="167" airlineCodes="" />
-        <Parking index="4" type="gate" name="Transwest_Tie-Down_(Medium)" lat="N53 12.826725" lon="W105 40.739252" heading="232.43"  radius="19" pushBackRoute="170" airlineCodes="" />
-        <Parking index="5" type="gate" name="Transwest_Tie-Down_(Medium)" lat="N53 12.817086" lon="W105 40.726867" heading="232.43"  radius="19" pushBackRoute="170" airlineCodes="" />
-        <Parking index="6" type="gate" name="Transwest_Tie-Down_(Medium)" lat="N53 12.807447" lon="W105 40.714483" heading="232.43"  radius="19" pushBackRoute="170" airlineCodes="" />
+        <Parking index="0" type="gate" name="Main_Apron_Ramp_(Large)" lat="N53 12.871883" lon="W105 40.861480" heading="277.43"  radius="20" pushBackRoute="122" airlineCodes="WEW" />
+        <Parking index="1" type="gate" name="Main_Apron_Ramp_(Large)" lat="N53 12.898423" lon="W105 40.916634" heading="247.43"  radius="20" pushBackRoute="125" airlineCodes="WEW" />
+        <Parking index="2" type="gate" name="Main_Apron_Ramp_(Large)" lat="N53 12.919331" lon="W105 40.944802" heading="247.43"  radius="20" pushBackRoute="124" airlineCodes="WEW" />
+        <Parking index="3" type="gate" name="Transwest_Ramp_(Medium)" lat="N53 12.770196" lon="W105 40.784076" heading="52.43"  radius="18" pushBackRoute="167" airlineCodes="ABS" />
+        <Parking index="4" type="gate" name="Transwest_Tie-Down_(Medium)" lat="N53 12.826725" lon="W105 40.739252" heading="232.43"  radius="18" pushBackRoute="170" airlineCodes="ABS" />
+        <Parking index="5" type="gate" name="Transwest_Tie-Down_(Medium)" lat="N53 12.817086" lon="W105 40.726867" heading="232.43"  radius="18" pushBackRoute="170" airlineCodes="ABS" />
+        <Parking index="6" type="gate" name="Transwest_Tie-Down_(Medium)" lat="N53 12.807447" lon="W105 40.714483" heading="232.43"  radius="18" pushBackRoute="170" airlineCodes="ABS" />
         <Parking index="7" type="ga" name="Apron_Parking_(Small)" lat="N53 12.836617" lon="W105 40.811289" heading="52.43"  radius="10" pushBackRoute="127" airlineCodes="" />
         <Parking index="8" type="ga" name="Apron_Parking_(Small)" lat="N53 12.844317" lon="W105 40.821443" heading="52.43"  radius="10" pushBackRoute="127" airlineCodes="" />
-        <Parking index="9" type="gate" name="Foresty_Ramp" lat="N53 12.913955" lon="W105 40.602477" heading="270"  radius="19" pushBackRoute="160" airlineCodes="" />
-        <Parking index="10" type="gate" name="Foresty_Ramp" lat="N53 12.918163" lon="W105 40.685652" heading="90"  radius="19" pushBackRoute="163" airlineCodes="" />
-        <Parking index="11" type="gate" name="RCMP_Ramp_(Medium)" lat="N53 12.906328" lon="W105 41.029305" heading="0"  radius="19" pushBackRoute="171" airlineCodes="" />
-        <Parking index="12" type="gate" name="West_Hangar_Ramp_(Medium)" lat="N53 12.885578" lon="W105 41.173493" heading="0"  radius="19" pushBackRoute="172" airlineCodes="" />
+        <Parking index="9" type="gate" name="Foresty_Ramp" lat="N53 12.913955" lon="W105 40.602477" heading="270"  radius="20" pushBackRoute="160" airlineCodes="" />
+        <Parking index="10" type="gate" name="Foresty_Ramp" lat="N53 12.918163" lon="W105 40.685652" heading="90"  radius="20" pushBackRoute="163" airlineCodes="" />
+        <Parking index="11" type="gate" name="RCMP_Ramp_(Medium)" lat="N53 12.906328" lon="W105 41.029305" heading="0"  radius="18" pushBackRoute="171" airlineCodes="SST" />
+        <Parking index="12" type="gate" name="West_Hangar_Ramp_(Medium)" lat="N53 12.885578" lon="W105 41.173493" heading="0"  radius="18" pushBackRoute="172" airlineCodes="" />
         <Parking index="13" type="ga" name="West_Hangars_(Small)" lat="N53 12.910084" lon="W105 41.075783" heading="45"  radius="10" pushBackRoute="174" airlineCodes="" />
         <Parking index="14" type="ga" name="West_Hangars_(Small)" lat="N53 12.904132" lon="W105 41.111665" heading="270"  radius="10" pushBackRoute="173" airlineCodes="" />
         <Parking index="15" type="ga" name="West_Hangars_(Small)" lat="N53 12.893674" lon="W105 41.111523" heading="270"  radius="10" pushBackRoute="174" airlineCodes="" />
@@ -28,23 +28,23 @@
         <Parking index="23" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.796856" lon="W105 40.519297" heading="322.43"  radius="10" pushBackRoute="181" airlineCodes="" />
         <Parking index="24" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.830269" lon="W105 40.495370" heading="322.43"  radius="10" pushBackRoute="179" airlineCodes="" />
         <Parking index="25" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.824731" lon="W105 40.507211" heading="322.43"  radius="10" pushBackRoute="180" airlineCodes="" />
-        <Parking index="26" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.819259" lon="W105 40.519074" heading="322.43"  radius="10" pushBackRoute="181" airlineCodes="" />
+        <Parking index="26" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.819258" lon="W105 40.519074" heading="322.43"  radius="10" pushBackRoute="181" airlineCodes="" />
         <Parking index="27" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.813785" lon="W105 40.530937" heading="322.43"  radius="10" pushBackRoute="182" airlineCodes="" />
         <Parking index="28" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.842038" lon="W105 40.519748" heading="322.43"  radius="10" pushBackRoute="184" airlineCodes="" />
         <Parking index="29" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.836500" lon="W105 40.531588" heading="322.43"  radius="10" pushBackRoute="185" airlineCodes="" />
         <Parking index="30" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.831027" lon="W105 40.543451" heading="322.43"  radius="10" pushBackRoute="186" airlineCodes="" />
         <Parking index="31" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.825554" lon="W105 40.555314" heading="322.43"  radius="10" pushBackRoute="81" airlineCodes="" />
         <Parking index="32" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.858502" lon="W105 40.532396" heading="322.43"  radius="10" pushBackRoute="187" airlineCodes="" />
-        <Parking index="33" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.852964" lon="W105 40.544236" heading="322.43"  radius="10" pushBackRoute="188" airlineCodes="" />
+        <Parking index="33" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.852964" lon="W105 40.544237" heading="322.43"  radius="10" pushBackRoute="188" airlineCodes="" />
         <Parking index="34" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.847490" lon="W105 40.556099" heading="322.43"  radius="10" pushBackRoute="189" airlineCodes="" />
         <Parking index="35" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.842017" lon="W105 40.567963" heading="322.43"  radius="10" pushBackRoute="190" airlineCodes="" />
         <Parking index="36" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.851144" lon="W105 40.597318" heading="142.43"  radius="10" pushBackRoute="195" airlineCodes="" />
         <Parking index="37" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.856588" lon="W105 40.585631" heading="142.43"  radius="10" pushBackRoute="195" airlineCodes="" />
         <Parking index="38" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.862061" lon="W105 40.573768" heading="142.43"  radius="10" pushBackRoute="196" airlineCodes="" />
         <Parking index="39" type="ga" name="Grass_Tie-Down_(Small)" lat="N53 12.867534" lon="W105 40.561904" heading="142.43"  radius="10" pushBackRoute="197" airlineCodes="" />
-        <Parking index="40" type="ga" name="Heli_Tie-Down" lat="N53 12.713994" lon="W105 40.653574" heading="233.31"  radius="8" pushBackRoute="199" airlineCodes="" />
-        <Parking index="41" type="ga" name="Heli_Tie-Down" lat="N53 12.721756" lon="W105 40.663100" heading="233.31"  radius="8" pushBackRoute="199" airlineCodes="" />
-        <Parking index="42" type="ga" name="Heli_Tie-Down" lat="N53 12.729425" lon="W105 40.672471" heading="233.31"  radius="8" pushBackRoute="199" airlineCodes="" />
+        <Parking index="40" type="ga" name="Heli_Tie-Down" lat="N53 12.713994" lon="W105 40.653574" heading="233.31"  radius="10" pushBackRoute="199" airlineCodes="" />
+        <Parking index="41" type="ga" name="Heli_Tie-Down" lat="N53 12.721756" lon="W105 40.663100" heading="233.31"  radius="10" pushBackRoute="199" airlineCodes="" />
+        <Parking index="42" type="ga" name="Heli_Tie-Down" lat="N53 12.729425" lon="W105 40.672471" heading="233.31"  radius="10" pushBackRoute="199" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="43" lat="N53 13.081975" lon="W105 39.727936" isOnRunway="1" holdPointType="none"  />
@@ -88,7 +88,7 @@
         <node index="81" lat="N53 12.801692" lon="W105 40.525257" isOnRunway="0" holdPointType="PushBack"  />
         <node index="82" lat="N53 12.826480" lon="W105 40.470969" isOnRunway="0" holdPointType="none"  />
         <node index="83" lat="N53 12.820891" lon="W105 40.483225" isOnRunway="0" holdPointType="none"  />
-        <node index="84" lat="N53 12.817749" lon="W105 40.489842" isOnRunway="0" holdPointType="none"  />
+        <node index="84" lat="N53 12.817750" lon="W105 40.489842" isOnRunway="0" holdPointType="none"  />
         <node index="85" lat="N53 12.815276" lon="W105 40.495246" isOnRunway="0" holdPointType="none"  />
         <node index="86" lat="N53 12.812483" lon="W105 40.501378" isOnRunway="0" holdPointType="none"  />
         <node index="87" lat="N53 12.809869" lon="W105 40.507183" isOnRunway="0" holdPointType="none"  />
@@ -99,9 +99,9 @@
         <node index="92" lat="N53 12.835048" lon="W105 40.501773" isOnRunway="0" holdPointType="none"  />
         <node index="93" lat="N53 12.832662" lon="W105 40.506908" isOnRunway="0" holdPointType="none"  />
         <node index="94" lat="N53 12.829771" lon="W105 40.513378" isOnRunway="0" holdPointType="none"  />
-        <node index="95" lat="N53 12.827287" lon="W105 40.518769" isOnRunway="0" holdPointType="none"  />
+        <node index="95" lat="N53 12.827287" lon="W105 40.518770" isOnRunway="0" holdPointType="none"  />
         <node index="96" lat="N53 12.824198" lon="W105 40.525488" isOnRunway="0" holdPointType="none"  />
-        <node index="97" lat="N53 12.821288" lon="W105 40.531832" isOnRunway="0" holdPointType="none"  />
+        <node index="97" lat="N53 12.821288" lon="W105 40.531833" isOnRunway="0" holdPointType="none"  />
         <node index="98" lat="N53 12.818715" lon="W105 40.537381" isOnRunway="0" holdPointType="none"  />
         <node index="99" lat="N53 12.877498" lon="W105 40.536399" isOnRunway="0" holdPointType="none"  />
         <node index="100" lat="N53 12.871838" lon="W105 40.529069" isOnRunway="0" holdPointType="none"  />
@@ -111,7 +111,7 @@
         <node index="104" lat="N53 12.849131" lon="W105 40.577017" isOnRunway="0" holdPointType="none"  />
         <node index="105" lat="N53 12.855301" lon="W105 40.507998" isOnRunway="0" holdPointType="none"  />
         <node index="106" lat="N53 12.849726" lon="W105 40.520001" isOnRunway="0" holdPointType="none"  />
-        <node index="107" lat="N53 12.846814" lon="W105 40.526198" isOnRunway="0" holdPointType="none"  />
+        <node index="107" lat="N53 12.846814" lon="W105 40.526199" isOnRunway="0" holdPointType="none"  />
         <node index="108" lat="N53 12.844040" lon="W105 40.532132" isOnRunway="0" holdPointType="none"  />
         <node index="109" lat="N53 12.841301" lon="W105 40.537898" isOnRunway="0" holdPointType="none"  />
         <node index="110" lat="N53 12.838444" lon="W105 40.544122" isOnRunway="0" holdPointType="none"  />
@@ -122,13 +122,13 @@
         <node index="115" lat="N53 12.942495" lon="W105 40.571687" isOnRunway="0" holdPointType="none"  />
         <node index="116" lat="N53 12.939411" lon="W105 40.565483" isOnRunway="0" holdPointType="none"  />
         <node index="117" lat="N53 12.933662" lon="W105 40.559863" isOnRunway="0" holdPointType="none"  />
-        <node index="118" lat="N53 12.882907" lon="W105 40.870669" isOnRunway="0" holdPointType="none"  />
+        <node index="118" lat="N53 12.882907" lon="W105 40.870670" isOnRunway="0" holdPointType="none"  />
         <node index="119" lat="N53 12.891302" lon="W105 40.856800" isOnRunway="0" holdPointType="none"  />
         <node index="120" lat="N53 12.876571" lon="W105 40.874836" isOnRunway="0" holdPointType="none"  />
         <node index="121" lat="N53 12.870420" lon="W105 40.842456" isOnRunway="0" holdPointType="none"  />
         <node index="122" lat="N53 12.873787" lon="W105 40.831367" isOnRunway="0" holdPointType="PushBack"  />
         <node index="123" lat="N53 12.880334" lon="W105 40.827619" isOnRunway="0" holdPointType="none"  />
-        <node index="124" lat="N53 12.928241" lon="W105 40.895585" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="124" lat="N53 12.928240" lon="W105 40.895585" isOnRunway="0" holdPointType="PushBack"  />
         <node index="125" lat="N53 12.904363" lon="W105 40.875229" isOnRunway="0" holdPointType="PushBack"  />
         <node index="126" lat="N53 12.911500" lon="W105 40.868069" isOnRunway="0" holdPointType="none"  />
         <node index="127" lat="N53 12.845600" lon="W105 40.818657" isOnRunway="0" holdPointType="PushBack"  />
@@ -189,14 +189,14 @@
         <node index="182" lat="N53 12.796856" lon="W105 40.519297" isOnRunway="0" holdPointType="PushBack"  />
         <node index="183" lat="N53 12.830269" lon="W105 40.495370" isOnRunway="0" holdPointType="none"  />
         <node index="184" lat="N53 12.824731" lon="W105 40.507211" isOnRunway="0" holdPointType="PushBack"  />
-        <node index="185" lat="N53 12.819259" lon="W105 40.519074" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="185" lat="N53 12.819258" lon="W105 40.519074" isOnRunway="0" holdPointType="PushBack"  />
         <node index="186" lat="N53 12.813785" lon="W105 40.530937" isOnRunway="0" holdPointType="PushBack"  />
         <node index="187" lat="N53 12.842038" lon="W105 40.519748" isOnRunway="0" holdPointType="PushBack"  />
         <node index="188" lat="N53 12.836500" lon="W105 40.531588" isOnRunway="0" holdPointType="PushBack"  />
         <node index="189" lat="N53 12.831027" lon="W105 40.543451" isOnRunway="0" holdPointType="PushBack"  />
         <node index="190" lat="N53 12.825554" lon="W105 40.555314" isOnRunway="0" holdPointType="PushBack"  />
         <node index="191" lat="N53 12.858502" lon="W105 40.532396" isOnRunway="0" holdPointType="none"  />
-        <node index="192" lat="N53 12.852964" lon="W105 40.544236" isOnRunway="0" holdPointType="none"  />
+        <node index="192" lat="N53 12.852964" lon="W105 40.544237" isOnRunway="0" holdPointType="none"  />
         <node index="193" lat="N53 12.847490" lon="W105 40.556099" isOnRunway="0" holdPointType="none"  />
         <node index="194" lat="N53 12.842017" lon="W105 40.567963" isOnRunway="0" holdPointType="none"  />
         <node index="195" lat="N53 12.851144" lon="W105 40.597318" isOnRunway="0" holdPointType="PushBack"  />
@@ -239,7 +239,7 @@
         <node index="232" lat="N53 12.809528" lon="W105 40.526912" isOnRunway="0" holdPointType="none"  />
         <node index="233" lat="N53 12.804055" lon="W105 40.538775" isOnRunway="0" holdPointType="none"  />
         <node index="234" lat="N53 12.837002" lon="W105 40.515858" isOnRunway="0" holdPointType="none"  />
-        <node index="235" lat="N53 12.831464" lon="W105 40.527697" isOnRunway="0" holdPointType="none"  />
+        <node index="235" lat="N53 12.831464" lon="W105 40.527698" isOnRunway="0" holdPointType="none"  />
         <node index="236" lat="N53 12.825991" lon="W105 40.539561" isOnRunway="0" holdPointType="none"  />
         <node index="237" lat="N53 12.820518" lon="W105 40.551424" isOnRunway="0" holdPointType="none"  />
         <node index="238" lat="N53 12.872644" lon="W105 40.613856" isOnRunway="0" holdPointType="none"  />

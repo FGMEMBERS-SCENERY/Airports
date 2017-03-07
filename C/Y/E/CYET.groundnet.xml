@@ -2,15 +2,15 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Gate" lat="N53 34.806014" lon="W116 27.260149" heading="90"  radius="19" pushBackRoute="43" airlineCodes="" />
-        <Parking index="1" type="gate" name="Ramp_A" lat="N53 34.819146" lon="W116 27.356974" heading="125.51"  radius="19" pushBackRoute="41" airlineCodes="" />
-        <Parking index="2" type="gate" name="Ramp_Tie_Down_A" lat="N53 34.783987" lon="W116 27.374746" heading="0"  radius="19" pushBackRoute="22" airlineCodes="" />
-        <Parking index="3" type="gate" name="Ramp_Tie_Down_B" lat="N53 34.783987" lon="W116 27.358898" heading="0"  radius="19" pushBackRoute="23" airlineCodes="" />
-        <Parking index="4" type="gate" name="Ramp_Tie_Down_C" lat="N53 34.783987" lon="W116 27.343366" heading="0"  radius="19" pushBackRoute="24" airlineCodes="" />
-        <Parking index="5" type="gate" name="Fire_Base_Pad_A" lat="N53 34.806374" lon="W116 27.617736" heading="90"  radius="19" pushBackRoute="85" airlineCodes="" />
-        <Parking index="6" type="gate" name="Fire_Base_Pad_B" lat="N53 34.806434" lon="W116 27.569790" heading="90"  radius="19" pushBackRoute="25" airlineCodes="" />
-        <Parking index="7" type="ga" name="Fire_Base_Sm_Tie-Down_A" lat="N53 34.785413" lon="W116 27.499553" heading="0"  radius="10" pushBackRoute="27" airlineCodes="" />
-        <Parking index="8" type="ga" name="Fire_Base_Sm_Tie-Down_B" lat="N53 34.785413" lon="W116 27.515233" heading="0"  radius="10" pushBackRoute="28" airlineCodes="" />
+        <Parking index="0" type="gate" name="Gate" lat="N53 34.806014" lon="W116 27.260149" heading="90"  radius="18" pushBackRoute="43" airlineCodes="" />
+        <Parking index="1" type="gate" name="Ramp_A" lat="N53 34.819146" lon="W116 27.356974" heading="125.51"  radius="18" pushBackRoute="41" airlineCodes="" />
+        <Parking index="2" type="gate" name="Ramp_Tie_Down_A" lat="N53 34.783987" lon="W116 27.374746" heading="0"  radius="10" pushBackRoute="22" airlineCodes="" />
+        <Parking index="3" type="gate" name="Ramp_Tie_Down_B" lat="N53 34.783987" lon="W116 27.358898" heading="0"  radius="10" pushBackRoute="23" airlineCodes="" />
+        <Parking index="4" type="gate" name="Ramp_Tie_Down_C" lat="N53 34.783987" lon="W116 27.343366" heading="0"  radius="10" pushBackRoute="24" airlineCodes="" />
+        <Parking index="5" type="gate" name="Fire_Base_Pad_A" lat="N53 34.806374" lon="W116 27.617736" heading="90"  radius="20" pushBackRoute="85" airlineCodes="GOA" />
+        <Parking index="6" type="gate" name="Fire_Base_Pad_B" lat="N53 34.806434" lon="W116 27.569790" heading="90"  radius="20" pushBackRoute="25" airlineCodes="GOA" />
+        <Parking index="7" type="ga" name="Fire_Base_Sm_Tie-Down_A" lat="N53 34.785413" lon="W116 27.499553" heading="0"  radius="10" pushBackRoute="27" airlineCodes="GOA" />
+        <Parking index="8" type="ga" name="Fire_Base_Sm_Tie-Down_B" lat="N53 34.785413" lon="W116 27.515233" heading="0"  radius="10" pushBackRoute="28" airlineCodes="GOA" />
         <Parking index="9" type="ga" name="Grass_Tie-Down_A" lat="N53 34.808561" lon="W116 27.079551" heading="270"  radius="10" pushBackRoute="29" airlineCodes="" />
         <Parking index="10" type="ga" name="Grass_Tie-Down_B" lat="N53 34.797425" lon="W116 27.079551" heading="270"  radius="10" pushBackRoute="30" airlineCodes="" />
         <Parking index="11" type="ga" name="Grass_Tie-Down_C" lat="N53 34.797747" lon="W116 27.115594" heading="0"  radius="10" pushBackRoute="31" airlineCodes="" />

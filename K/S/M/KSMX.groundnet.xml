@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Gate_1" lat="N34 53.923148" lon="W120 26.893109" heading="134.55"  radius="44" pushBackRoute="42" airlineCodes="" />
-        <Parking index="1" type="gate" name="Gate_2" lat="N34 53.896816" lon="W120 26.855223" heading="46.35"  radius="44" pushBackRoute="68" airlineCodes="" />
-        <Parking index="2" type="gate" name="Cargo_Ramp_1" lat="N34 53.640942" lon="W120 26.570032" heading="-107.57"  radius="44" pushBackRoute="336" airlineCodes="" />
-        <Parking index="3" type="gate" name="Cargo_Ramp_2" lat="N34 53.656920" lon="W120 26.599581" heading="136.28"  radius="44" pushBackRoute="337" airlineCodes="" />
+        <Parking index="0" type="gate" name="Gate_1" lat="N34 53.923148" lon="W120 26.893109" heading="134.55"  radius="20" pushBackRoute="42" airlineCodes="" />
+        <Parking index="1" type="gate" name="Gate_2" lat="N34 53.896816" lon="W120 26.855223" heading="46.35"  radius="20" pushBackRoute="68" airlineCodes="" />
+        <Parking index="2" type="gate" name="Cargo_Ramp_1" lat="N34 53.640942" lon="W120 26.570032" heading="-107.57"  radius="20" pushBackRoute="336" airlineCodes="" />
+        <Parking index="3" type="gate" name="Cargo_Ramp_2" lat="N34 53.656920" lon="W120 26.599581" heading="136.28"  radius="20" pushBackRoute="337" airlineCodes="" />
         <Parking index="4" type="ga" name="South_Ramp_1" lat="N34 53.442817" lon="W120 26.931329" heading="30.05"  radius="10" pushBackRoute="338" airlineCodes="" />
         <Parking index="5" type="ga" name="South_Ramp_2" lat="N34 53.441990" lon="W120 27.041329" heading="1.33"  radius="10" pushBackRoute="339" airlineCodes="" />
         <Parking index="6" type="ga" name="East_Ramp_1" lat="N34 53.729987" lon="W120 26.672335" heading="314.31"  radius="10" pushBackRoute="60" airlineCodes="" />
@@ -21,10 +21,10 @@
         <Parking index="16" type="ga" name="West_Ramp_1" lat="N34 54.363602" lon="W120 27.459088" heading="316.24"  radius="10" pushBackRoute="350" airlineCodes="" />
         <Parking index="17" type="ga" name="West_Ramp_2" lat="N34 54.412036" lon="W120 27.517573" heading="162.82"  radius="10" pushBackRoute="351" airlineCodes="" />
         <Parking index="18" type="ga" name="West_Ramp_3" lat="N34 54.420234" lon="W120 27.480689" heading="134.4"  radius="10" pushBackRoute="352" airlineCodes="" />
-        <Parking index="19" type="gate" name="Central_Coast_Jet_Ctr" lat="N34 53.500797" lon="W120 27.316587" heading="0.72"  radius="10" pushBackRoute="353" airlineCodes="" />
+        <Parking index="19" type="gate" name="Central_Coast_Jet_Ctr" lat="N34 53.500797" lon="W120 27.316587" heading="0.72"  radius="18" pushBackRoute="353" airlineCodes="" />
         <Parking index="20" type="ga" name="Coastal_Valley_Aviation" lat="N34 54.082399" lon="W120 27.046755" heading="154.69"  radius="10" pushBackRoute="354" airlineCodes="" />
-        <Parking index="21" type="gate" name="Zodiac_Aerospace" lat="N34 54.625610" lon="W120 27.422711" heading="214.84"  radius="19" pushBackRoute="355" airlineCodes="" />
-        <Parking index="22" type="ga" name="Rotorcraft_Leasing" lat="N34 53.519283" lon="W120 27.253799" heading="0"  radius="8" pushBackRoute="356" airlineCodes="" />
+        <Parking index="21" type="gate" name="Zodiac_Aerospace" lat="N34 54.625610" lon="W120 27.422711" heading="214.84"  radius="18" pushBackRoute="355" airlineCodes="" />
+        <Parking index="22" type="ga" name="Rotorcraft_Leasing" lat="N34 53.519283" lon="W120 27.253799" heading="0"  radius="10" pushBackRoute="356" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="23" lat="N34 54.271805" lon="W120 27.262135" isOnRunway="0" holdPointType="none"  />

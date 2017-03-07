@@ -2,15 +2,15 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Paved_Ramp" lat="N53 7.039222" lon="E4 49.609260" heading="168.92"  radius="19" pushBackRoute="52" airlineCodes="" />
-        <Parking index="1" type="gate" name="Grass_Ramp_1" lat="N53 7.002459" lon="E4 49.617936" heading="35"  radius="19" pushBackRoute="51" airlineCodes="" />
-        <Parking index="2" type="gate" name="Grass_Ramp_2" lat="N53 7.047527" lon="E4 49.645926" heading="-144.54"  radius="19" pushBackRoute="48" airlineCodes="" />
-        <Parking index="3" type="gate" name="Grass_Ramp_3" lat="N53 7.060014" lon="E4 49.666774" heading="212.74"  radius="19" pushBackRoute="48" airlineCodes="" />
-        <Parking index="4" type="gate" name="Grass_Ramp_4" lat="N53 7.078452" lon="E4 49.689509" heading="215"  radius="19" pushBackRoute="45" airlineCodes="" />
-        <Parking index="5" type="gate" name="Hangar_Ramp_North" lat="N53 7.136198" lon="E4 49.725960" heading="188.33"  radius="19" pushBackRoute="44" airlineCodes="" />
-        <Parking index="6" type="gate" name="Hangar_Ramp_South" lat="N53 7.020601" lon="E4 49.587422" heading="86.37"  radius="19" pushBackRoute="52" airlineCodes="" />
-        <Parking index="7" type="gate" name="Fuel_Ramp" lat="N53 6.995355" lon="E4 49.595905" heading="35"  radius="19" pushBackRoute="51" airlineCodes="" />
-        <Parking index="8" type="ga" name="Helipad" lat="N53 6.960421" lon="E4 49.620181" heading="35.98"  radius="8" pushBackRoute="51" airlineCodes="" />
+        <Parking index="0" type="gate" name="Paved_Ramp" lat="N53 7.039222" lon="E4 49.609260" heading="168.92"  radius="10" pushBackRoute="52" airlineCodes="" />
+        <Parking index="1" type="gate" name="Grass_Ramp_1" lat="N53 7.002459" lon="E4 49.617936" heading="35"  radius="10" pushBackRoute="51" airlineCodes="" />
+        <Parking index="2" type="gate" name="Grass_Ramp_2" lat="N53 7.047527" lon="E4 49.645926" heading="-144.54"  radius="10" pushBackRoute="48" airlineCodes="" />
+        <Parking index="3" type="gate" name="Grass_Ramp_3" lat="N53 7.060014" lon="E4 49.666774" heading="212.74"  radius="18" pushBackRoute="48" airlineCodes="" />
+        <Parking index="4" type="gate" name="Grass_Ramp_4" lat="N53 7.078452" lon="E4 49.689509" heading="215"  radius="18" pushBackRoute="45" airlineCodes="" />
+        <Parking index="5" type="gate" name="Hangar_Ramp_North" lat="N53 7.136198" lon="E4 49.725960" heading="188.33"  radius="10" pushBackRoute="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="Hangar_Ramp_South" lat="N53 7.020601" lon="E4 49.587422" heading="86.37"  radius="10" pushBackRoute="52" airlineCodes="" />
+        <Parking index="7" type="gate" name="Fuel_Ramp" lat="N53 6.995355" lon="E4 49.595905" heading="35"  radius="10" pushBackRoute="51" airlineCodes="" />
+        <Parking index="8" type="ga" name="Helipad" lat="N53 6.960421" lon="E4 49.620181" heading="35.98"  radius="10" pushBackRoute="51" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="9" lat="N53 6.830400" lon="E4 49.446900" isOnRunway="1" holdPointType="none"  />

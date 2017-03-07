@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="FBO" lat="N41 20.118850" lon="W72 2.494655" heading="-57.53"  radius="19" pushBackRoute="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="FBO" lat="N41 20.118850" lon="W72 2.494655" heading="-57.53"  radius="20" pushBackRoute="44" airlineCodes="" />
         <Parking index="1" type="gate" name="GA_Ramp" lat="N41 19.929146" lon="W72 2.875261" heading="-134.92"  radius="17" pushBackRoute="77" airlineCodes="" />
-        <Parking index="2" type="gate" name="Main_Ramp_1" lat="N41 19.888690" lon="W72 2.796536" heading="219.67"  radius="19" pushBackRoute="77" airlineCodes="" />
-        <Parking index="3" type="gate" name="Main_Ramp_2" lat="N41 19.890961" lon="W72 2.754444" heading="138.07"  radius="19" pushBackRoute="77" airlineCodes="" />
+        <Parking index="2" type="gate" name="Main_Ramp_1" lat="N41 19.888690" lon="W72 2.796536" heading="219.67"  radius="20" pushBackRoute="77" airlineCodes="" />
+        <Parking index="3" type="gate" name="Main_Ramp_2" lat="N41 19.890961" lon="W72 2.754444" heading="138.07"  radius="20" pushBackRoute="77" airlineCodes="" />
         <Parking index="4" type="gate" name="ANG_Ramp" lat="N41 19.975906" lon="W72 2.923306" heading="225"  radius="17" pushBackRoute="78" airlineCodes="" />
  </parkingList>
  <TaxiNodes>

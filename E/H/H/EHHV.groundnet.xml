@@ -18,6 +18,6 @@
         <Parking index="13" type="ga" name="P14" lat="N52 11.530969" lon="E5 9.105520" heading="203.99"  radius="10" airlineCodes="" />
         <Parking index="14" type="ga" name="P15" lat="N52 11.535041" lon="E5 9.090539" heading="204.28"  radius="10" airlineCodes="" />
         <Parking index="15" type="ga" name="P16" lat="N52 11.538592" lon="E5 9.076085" heading="200.11"  radius="10" airlineCodes="" />
-        <Parking index="16" type="gate" name="P17" lat="N52 11.550227" lon="E5 9.064337" heading="-154.62"  radius="19" airlineCodes="" />
+        <Parking index="16" type="gate" name="P17" lat="N52 11.550227" lon="E5 9.064337" heading="-154.62"  radius="10" airlineCodes="" />
  </parkingList>
 </groundnet>

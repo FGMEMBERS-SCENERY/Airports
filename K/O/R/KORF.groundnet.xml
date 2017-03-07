@@ -2,15 +2,15 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Gate_A6/American" lat="N36 53.908385" lon="W76 12.112863" heading="27.08"  radius="44" pushBackRoute="38" airlineCodes="" />
-        <Parking index="1" type="gate" name="Gate_A1/Customs" lat="N36 53.999065" lon="W76 12.198495" heading="192.99"  radius="44" pushBackRoute="24" airlineCodes="" />
-        <Parking index="2" type="gate" name="Gate_A5/Southwest" lat="N36 53.991085" lon="W76 12.137715" heading="192.51"  radius="44" pushBackRoute="30" airlineCodes="" />
-        <Parking index="3" type="gate" name="Gate_B23/Delta" lat="N36 53.840697" lon="W76 12.107320" heading="220"  radius="44" pushBackRoute="37" airlineCodes="" />
-        <Parking index="4" type="gate" name="Gate_B30/United" lat="N36 53.780623" lon="W76 12.169789" heading="84.73"  radius="44" pushBackRoute="45" airlineCodes="" />
-        <Parking index="5" type="gate" name="Gate_B16" lat="N36 53.827064" lon="W76 12.231119" heading="36.43"  radius="19" pushBackRoute="48" airlineCodes="" />
-        <Parking index="6" type="gate" name="GA_Ramp_1" lat="N36 53.195836" lon="W76 12.094807" heading="0"  radius="19" pushBackRoute="13" airlineCodes="" />
-        <Parking index="7" type="gate" name="GA_Ramp_2" lat="N36 53.220392" lon="W76 12.044602" heading="0"  radius="19" pushBackRoute="11" airlineCodes="" />
-        <Parking index="8" type="gate" name="Shipping_Ramp_1" lat="N36 53.477401" lon="W76 12.416920" heading="0"  radius="19" pushBackRoute="125" airlineCodes="" />
+        <Parking index="0" type="gate" name="Gate_A6/American" lat="N36 53.908385" lon="W76 12.112863" heading="27.08"  radius="36" pushBackRoute="38" airlineCodes="" />
+        <Parking index="1" type="gate" name="Gate_A1/Customs" lat="N36 53.999065" lon="W76 12.198495" heading="192.99"  radius="36" pushBackRoute="24" airlineCodes="" />
+        <Parking index="2" type="gate" name="Gate_A5/Southwest" lat="N36 53.991085" lon="W76 12.137715" heading="192.51"  radius="36" pushBackRoute="30" airlineCodes="" />
+        <Parking index="3" type="gate" name="Gate_B23/Delta" lat="N36 53.840697" lon="W76 12.107320" heading="220"  radius="36" pushBackRoute="37" airlineCodes="" />
+        <Parking index="4" type="gate" name="Gate_B30/United" lat="N36 53.780623" lon="W76 12.169789" heading="84.73"  radius="36" pushBackRoute="45" airlineCodes="" />
+        <Parking index="5" type="gate" name="Gate_B16" lat="N36 53.827064" lon="W76 12.231119" heading="36.43"  radius="20" pushBackRoute="48" airlineCodes="" />
+        <Parking index="6" type="gate" name="GA_Ramp_1" lat="N36 53.195836" lon="W76 12.094807" heading="0"  radius="20" pushBackRoute="13" airlineCodes="" />
+        <Parking index="7" type="gate" name="GA_Ramp_2" lat="N36 53.220392" lon="W76 12.044602" heading="0"  radius="20" pushBackRoute="11" airlineCodes="" />
+        <Parking index="8" type="gate" name="Shipping_Ramp_1" lat="N36 53.477401" lon="W76 12.416920" heading="0"  radius="20" pushBackRoute="125" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="9" lat="N36 53.810762" lon="W76 11.897747" isOnRunway="0" holdPointType="none"  />

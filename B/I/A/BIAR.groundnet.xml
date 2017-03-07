@@ -2,14 +2,14 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Gate_1" lat="N65 39.294919" lon="W18 4.491568" heading="265.56"  radius="19" pushBackRoute="29" airlineCodes="" />
-        <Parking index="1" type="gate" name="Gate_2" lat="N65 39.283344" lon="W18 4.486589" heading="265.56"  radius="19" pushBackRoute="33" airlineCodes="" />
-        <Parking index="2" type="gate" name="Gate_3" lat="N65 39.269795" lon="W18 4.490711" heading="265.56"  radius="19" pushBackRoute="34" airlineCodes="" />
-        <Parking index="3" type="gate" name="Park_1" lat="N65 39.251264" lon="W18 4.485770" heading="265.56"  radius="19" pushBackRoute="35" airlineCodes="" />
+        <Parking index="0" type="gate" name="Gate_1" lat="N65 39.294919" lon="W18 4.491568" heading="265.56"  radius="18" pushBackRoute="29" airlineCodes="FXI" />
+        <Parking index="1" type="gate" name="Gate_2" lat="N65 39.283344" lon="W18 4.486589" heading="265.56"  radius="20" pushBackRoute="33" airlineCodes="FXI,ICE" />
+        <Parking index="2" type="gate" name="Gate_3" lat="N65 39.269795" lon="W18 4.490711" heading="265.56"  radius="18" pushBackRoute="34" airlineCodes="FXI" />
+        <Parking index="3" type="gate" name="Park_1" lat="N65 39.251264" lon="W18 4.485770" heading="265.56"  radius="18" pushBackRoute="35" airlineCodes="FXI" />
         <Parking index="4" type="ga" name="Park_2" lat="N65 39.258424" lon="W18 4.417177" heading="-95.18"  radius="10" pushBackRoute="9" airlineCodes="" />
         <Parking index="5" type="ga" name="Park_3" lat="N65 39.248696" lon="W18 4.414930" heading="264.39"  radius="10" pushBackRoute="10" airlineCodes="" />
-        <Parking index="6" type="gate" name="Park_4" lat="N65 39.229365" lon="W18 4.407365" heading="-4.34"  radius="19" pushBackRoute="11" airlineCodes="" />
-        <Parking index="7" type="ga" name="Myflug" lat="N65 39.227587" lon="W18 4.667077" heading="90"  radius="10" pushBackRoute="27" airlineCodes="" />
+        <Parking index="6" type="gate" name="Park_4" lat="N65 39.229365" lon="W18 4.407365" heading="-4.34"  radius="10" pushBackRoute="11" airlineCodes="" />
+        <Parking index="7" type="ga" name="Myflug" lat="N65 39.227587" lon="W18 4.667077" heading="90"  radius="10" pushBackRoute="27" airlineCodes="MYA" />
  </parkingList>
  <TaxiNodes>
         <node index="8" lat="N65 39.250592" lon="W18 4.494424" isOnRunway="0" holdPointType="none"  />

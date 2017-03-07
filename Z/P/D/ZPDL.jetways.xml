@@ -2,7 +2,7 @@
 <PropertyList>
 <jetway n="0">
   <model type="string">generic</model>
-  <gate type="string">FG</gate>
+  <gate type="string">0</gate>
   <door type="int">1</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">25.6501212</latitude-deg>
@@ -18,7 +18,7 @@
 </jetway>
 <jetway n="1">
   <model type="string">generic</model>
-  <gate type="string">FG</gate>
+  <gate type="string">1</gate>
   <door type="int">1</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">25.649406299</latitude-deg>
@@ -34,7 +34,7 @@
 </jetway>
 <jetway n="2">
   <model type="string">generic</model>
-  <gate type="string">FG</gate>
+  <gate type="string">2</gate>
   <door type="int">1</door>
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">25.649762387</latitude-deg>

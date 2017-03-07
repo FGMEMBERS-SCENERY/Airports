@@ -3,9 +3,18 @@ https://github.com/mherweg/Airports
 
 only on github, not yet in Terrasync
 
-number of airports with parking/startup locations: 9341 (+358)
-number of AI ground networks: 1744 (+295)
-number of airports with AI jetways: same as before.
+
+
+
+source: /xp11/Resources/default scenery/default apt dat/Earth nav data/apt.dat (February 2017)
+number of airports with parking locations: 9335
+number of AI ground networks: 1722
+
+source: /xp11/Custom Scenery/Global Airports/Earth nav data/apt.dat (February 2017)
+number of airports with parking locations: 3764
+number of AI ground networks: 1672
+
+
 
 This folder contains...
 

@@ -2,15 +2,15 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="ANG_1" lat="N33 39.393447" lon="W101 49.923475" heading="129.35"  radius="19" pushBackRoute="12" airlineCodes="" />
-        <Parking index="1" type="gate" name="ANG_2" lat="N33 39.436831" lon="W101 49.862194" heading="137.25"  radius="19" pushBackRoute="37" airlineCodes="" />
-        <Parking index="2" type="gate" name="Chaparral_Jet_Center" lat="N33 39.470525" lon="W101 48.959157" heading="90"  radius="19" pushBackRoute="10" airlineCodes="" />
-        <Parking index="3" type="ga" name="GATE_1" lat="N33 39.468736" lon="W101 49.243733" heading="178.53"  radius="10" pushBackRoute="23" airlineCodes="" />
-        <Parking index="4" type="gate" name="Gate_3" lat="N33 39.470835" lon="W101 49.318724" heading="184.12"  radius="44" pushBackRoute="23" airlineCodes="" />
-        <Parking index="5" type="gate" name="Gate_6" lat="N33 39.430385" lon="W101 49.409899" heading="137.77"  radius="44" pushBackRoute="21" airlineCodes="" />
-        <Parking index="6" type="gate" name="GATE_8" lat="N33 39.362930" lon="W101 49.427591" heading="91.27"  radius="19" pushBackRoute="19" airlineCodes="" />
-        <Parking index="7" type="gate" name="Air_Cargo" lat="N33 40.438998" lon="W101 49.998104" heading="91.94"  radius="44" pushBackRoute="29" airlineCodes="" />
-        <Parking index="8" type="gate" name="FBO" lat="N33 39.552303" lon="W101 49.921494" heading="90"  radius="19" pushBackRoute="42" airlineCodes="" />
+        <Parking index="0" type="gate" name="ANG_1" lat="N33 39.393447" lon="W101 49.923475" heading="129.35"  radius="20" pushBackRoute="12" airlineCodes="" />
+        <Parking index="1" type="gate" name="ANG_2" lat="N33 39.436831" lon="W101 49.862194" heading="137.25"  radius="20" pushBackRoute="37" airlineCodes="" />
+        <Parking index="2" type="gate" name="Chaparral_Jet_Center" lat="N33 39.470525" lon="W101 48.959157" heading="90"  radius="20" pushBackRoute="10" airlineCodes="" />
+        <Parking index="3" type="ga" name="GATE_1" lat="N33 39.468736" lon="W101 49.243733" heading="178.53"  radius="18" pushBackRoute="23" airlineCodes="" />
+        <Parking index="4" type="gate" name="Gate_3" lat="N33 39.470835" lon="W101 49.318724" heading="184.12"  radius="36" pushBackRoute="23" airlineCodes="" />
+        <Parking index="5" type="gate" name="Gate_6" lat="N33 39.430385" lon="W101 49.409899" heading="137.77"  radius="36" pushBackRoute="21" airlineCodes="" />
+        <Parking index="6" type="gate" name="GATE_8" lat="N33 39.362930" lon="W101 49.427591" heading="91.27"  radius="20" pushBackRoute="19" airlineCodes="" />
+        <Parking index="7" type="gate" name="Air_Cargo" lat="N33 40.438998" lon="W101 49.998104" heading="91.94"  radius="36" pushBackRoute="29" airlineCodes="" />
+        <Parking index="8" type="gate" name="FBO" lat="N33 39.552303" lon="W101 49.921494" heading="90"  radius="20" pushBackRoute="42" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="9" lat="N33 39.091640" lon="W101 48.929266" isOnRunway="0" holdPointType="none"  />

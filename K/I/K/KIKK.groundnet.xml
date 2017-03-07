@@ -2,9 +2,9 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="GA1_Ramp_Start" lat="N41 3.983267" lon="W87 51.038868" heading="35.63"  radius="19" pushBackRoute="29" airlineCodes="" />
+        <Parking index="0" type="gate" name="GA1_Ramp_Start" lat="N41 3.983267" lon="W87 51.038868" heading="35.63"  radius="18" pushBackRoute="29" airlineCodes="" />
         <Parking index="1" type="ga" name="GA2_Ramp_Start" lat="N41 4.039789" lon="W87 50.957064" heading="345.96"  radius="10" pushBackRoute="3" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA3_Ramp_Start" lat="N41 4.015871" lon="W87 50.920507" heading="345.47"  radius="19" pushBackRoute="4" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA3_Ramp_Start" lat="N41 4.015871" lon="W87 50.920507" heading="345.47"  radius="18" pushBackRoute="4" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="3" lat="N41 4.017775" lon="W87 51.015512" isOnRunway="0" holdPointType="PushBack"  />

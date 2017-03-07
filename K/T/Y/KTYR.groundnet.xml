@@ -4,10 +4,10 @@
   <parkingList>
         <Parking index="0" type="gate" name="Gate_1" lat="N32 21.042943" lon="W95 24.504370" heading="315"  radius="17" pushBackRoute="26" airlineCodes="" />
         <Parking index="1" type="gate" name="Gate_2" lat="N32 21.062411" lon="W95 24.487369" heading="315"  radius="17" pushBackRoute="8" airlineCodes="" />
-        <Parking index="2" type="gate" name="FBO_NORTHEAST" lat="N32 21.635762" lon="W95 23.804484" heading="135.1"  radius="19" pushBackRoute="6" airlineCodes="" />
-        <Parking index="3" type="gate" name="FBO_NORTHWEST" lat="N32 21.740380" lon="W95 24.222132" heading="136.33"  radius="19" pushBackRoute="41" airlineCodes="" />
-        <Parking index="4" type="gate" name="CONTROL_TOWER" lat="N32 21.564255" lon="W95 23.970502" heading="225"  radius="19" pushBackRoute="37" airlineCodes="" />
-        <Parking index="5" type="gate" name="MUSEUM" lat="N32 21.522647" lon="W95 23.943051" heading="179.67"  radius="19" pushBackRoute="37" airlineCodes="" />
+        <Parking index="2" type="gate" name="FBO_NORTHEAST" lat="N32 21.635762" lon="W95 23.804484" heading="135.1"  radius="20" pushBackRoute="6" airlineCodes="" />
+        <Parking index="3" type="gate" name="FBO_NORTHWEST" lat="N32 21.740380" lon="W95 24.222132" heading="136.33"  radius="20" pushBackRoute="41" airlineCodes="" />
+        <Parking index="4" type="gate" name="CONTROL_TOWER" lat="N32 21.564255" lon="W95 23.970502" heading="225"  radius="20" pushBackRoute="37" airlineCodes="" />
+        <Parking index="5" type="gate" name="MUSEUM" lat="N32 21.522647" lon="W95 23.943051" heading="179.67"  radius="20" pushBackRoute="37" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="6" lat="N32 21.622749" lon="W95 23.790228" isOnRunway="0" holdPointType="PushBack"  />

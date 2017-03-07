@@ -2,31 +2,31 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Ramp_A" lat="N54 49.373752" lon="W127 11.136826" heading="-54.32"  radius="19" pushBackRoute="30" airlineCodes="" />
-        <Parking index="1" type="gate" name="Ramp_B" lat="N54 49.399615" lon="W127 11.144121" heading="-54.32"  radius="19" pushBackRoute="30" airlineCodes="" />
-        <Parking index="2" type="gate" name="Ramp_C" lat="N54 49.425843" lon="W127 11.151304" heading="-54.32"  radius="19" pushBackRoute="31" airlineCodes="" />
-        <Parking index="3" type="gate" name="Ramp_D" lat="N54 49.451950" lon="W127 11.158462" heading="-54.32"  radius="19" pushBackRoute="43" airlineCodes="" />
+        <Parking index="0" type="gate" name="Ramp_A" lat="N54 49.373752" lon="W127 11.136826" heading="-54.32"  radius="18" pushBackRoute="30" airlineCodes="ACA,JZA,GLR,NTA" />
+        <Parking index="1" type="gate" name="Ramp_B" lat="N54 49.399615" lon="W127 11.144121" heading="-54.32"  radius="18" pushBackRoute="30" airlineCodes="ACA,JZA,GLR,NTA" />
+        <Parking index="2" type="gate" name="Ramp_C" lat="N54 49.425843" lon="W127 11.151304" heading="-54.32"  radius="18" pushBackRoute="31" airlineCodes="ACA,JZA,GLR,NTA" />
+        <Parking index="3" type="gate" name="Ramp_D" lat="N54 49.451950" lon="W127 11.158462" heading="-54.32"  radius="18" pushBackRoute="43" airlineCodes="ACA,JZA,GLR,NTA" />
         <Parking index="4" type="ga" name="Ramp_Tie_Down_(Small)" lat="N54 49.312764" lon="W127 11.088433" heading="260.58"  radius="10" pushBackRoute="94" airlineCodes="" />
         <Parking index="5" type="ga" name="Ramp_Tie_Down_(Small)" lat="N54 49.303165" lon="W127 11.085668" heading="260.58"  radius="10" pushBackRoute="95" airlineCodes="" />
         <Parking index="6" type="ga" name="Ramp_Tie_Down_(Small)" lat="N54 49.293566" lon="W127 11.082903" heading="260.58"  radius="10" pushBackRoute="96" airlineCodes="" />
         <Parking index="7" type="ga" name="Ramp_Tie_Down_(Small)" lat="N54 49.283968" lon="W127 11.080138" heading="260.58"  radius="10" pushBackRoute="97" airlineCodes="" />
         <Parking index="8" type="ga" name="Ramp_Tie_Down_(Small)" lat="N54 49.274369" lon="W127 11.077373" heading="260.58"  radius="10" pushBackRoute="98" airlineCodes="" />
         <Parking index="9" type="ga" name="Central_Mountain_Air_Hangar_(Small)" lat="N54 49.301902" lon="W127 11.169877" heading="80.58"  radius="10" pushBackRoute="99" airlineCodes="" />
-        <Parking index="10" type="ga" name="Highland_Helicopters" lat="N54 49.167061" lon="W127 11.577453" heading="39.38"  radius="8" pushBackRoute="51" airlineCodes="" />
-        <Parking index="11" type="ga" name="Heli_Tie-Down" lat="N54 49.115143" lon="W127 11.109451" heading="80.58"  radius="8" pushBackRoute="106" airlineCodes="" />
-        <Parking index="12" type="ga" name="Heli_Tie-Down" lat="N54 49.143013" lon="W127 11.044274" heading="260.58"  radius="8" pushBackRoute="101" airlineCodes="" />
-        <Parking index="13" type="ga" name="Heli_Tie-Down" lat="N54 49.156234" lon="W127 11.048464" heading="260.58"  radius="8" pushBackRoute="102" airlineCodes="" />
-        <Parking index="14" type="ga" name="Heli_Tie-Down" lat="N54 49.133489" lon="W127 11.104222" heading="260.58"  radius="8" pushBackRoute="62" airlineCodes="" />
-        <Parking index="15" type="ga" name="Heli_Tie-Down" lat="N54 49.144171" lon="W127 11.107299" heading="260.58"  radius="8" pushBackRoute="63" airlineCodes="" />
-        <Parking index="16" type="ga" name="Heli_Tie-Down" lat="N54 49.155442" lon="W127 11.121061" heading="80.58"  radius="8" pushBackRoute="105" airlineCodes="" />
+        <Parking index="10" type="ga" name="Highland_Helicopters" lat="N54 49.167061" lon="W127 11.577453" heading="39.38"  radius="10" pushBackRoute="51" airlineCodes="" />
+        <Parking index="11" type="ga" name="Heli_Tie-Down" lat="N54 49.115143" lon="W127 11.109451" heading="80.58"  radius="10" pushBackRoute="106" airlineCodes="" />
+        <Parking index="12" type="ga" name="Heli_Tie-Down" lat="N54 49.143013" lon="W127 11.044274" heading="260.58"  radius="10" pushBackRoute="101" airlineCodes="" />
+        <Parking index="13" type="ga" name="Heli_Tie-Down" lat="N54 49.156234" lon="W127 11.048464" heading="260.58"  radius="10" pushBackRoute="102" airlineCodes="" />
+        <Parking index="14" type="ga" name="Heli_Tie-Down" lat="N54 49.133489" lon="W127 11.104222" heading="260.58"  radius="10" pushBackRoute="62" airlineCodes="" />
+        <Parking index="15" type="ga" name="Heli_Tie-Down" lat="N54 49.144171" lon="W127 11.107299" heading="260.58"  radius="10" pushBackRoute="63" airlineCodes="" />
+        <Parking index="16" type="ga" name="Heli_Tie-Down" lat="N54 49.155442" lon="W127 11.121061" heading="80.58"  radius="10" pushBackRoute="105" airlineCodes="" />
         <Parking index="17" type="ga" name="Sustut_Air_Tie-Down_(Small)" lat="N54 49.086752" lon="W127 11.132036" heading="170.58"  radius="10" pushBackRoute="100" airlineCodes="" />
         <Parking index="18" type="ga" name="Sustut_Air_Tie-Down_(Small)" lat="N54 49.058073" lon="W127 11.242576" heading="-9.42"  radius="10" pushBackRoute="107" airlineCodes="" />
         <Parking index="19" type="ga" name="Sustut_Air_Tie-Down_(Small)" lat="N54 49.059950" lon="W127 11.222938" heading="-9.42"  radius="10" pushBackRoute="108" airlineCodes="" />
         <Parking index="20" type="ga" name="Sustut_Air_Tie-Down_(Small)" lat="N54 49.061828" lon="W127 11.203300" heading="-9.42"  radius="10" pushBackRoute="109" airlineCodes="" />
         <Parking index="21" type="ga" name="Sustut_Air_Tie-Down_(Small)" lat="N54 49.063705" lon="W127 11.183662" heading="-9.42"  radius="10" pushBackRoute="110" airlineCodes="" />
         <Parking index="22" type="ga" name="Sustut_Air_Tie-Down_(Small)" lat="N54 49.065583" lon="W127 11.164024" heading="-9.42"  radius="10" pushBackRoute="111" airlineCodes="" />
-        <Parking index="23" type="ga" name="Sustut_Air_Heli_Tie-Down" lat="N54 49.066333" lon="W127 11.122571" heading="-9.42"  radius="8" pushBackRoute="112" airlineCodes="" />
-        <Parking index="24" type="ga" name="Sustut_Air_Heli_Tie-Down" lat="N54 49.069346" lon="W127 11.091046" heading="-9.42"  radius="8" pushBackRoute="113" airlineCodes="" />
+        <Parking index="23" type="ga" name="Sustut_Air_Heli_Tie-Down" lat="N54 49.066333" lon="W127 11.122571" heading="-9.42"  radius="10" pushBackRoute="112" airlineCodes="" />
+        <Parking index="24" type="ga" name="Sustut_Air_Heli_Tie-Down" lat="N54 49.069346" lon="W127 11.091046" heading="-9.42"  radius="10" pushBackRoute="113" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="25" lat="N54 49.383191" lon="W127 11.145137" isOnRunway="0" holdPointType="none"  />

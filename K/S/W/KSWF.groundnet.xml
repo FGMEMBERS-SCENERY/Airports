@@ -2,20 +2,20 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Hold_Short_Rwy_09" lat="N41 29.963227" lon="W74 7.784526" heading="311.25"  radius="44" pushBackRoute="66" airlineCodes="" />
-        <Parking index="1" type="gate" name="Hold_Short_Rwy_16" lat="N41 30.705822" lon="W74 5.998099" heading="239.01"  radius="44" pushBackRoute="19" airlineCodes="" />
-        <Parking index="2" type="gate" name="Hold_Short_Rwy_27" lat="N41 30.375248" lon="W74 5.278923" heading="349.08"  radius="44" pushBackRoute="81" airlineCodes="" />
-        <Parking index="3" type="gate" name="Hold_Short_Rwy_34" lat="N41 29.801154" lon="W74 5.495913" heading="17.59"  radius="44" pushBackRoute="146" airlineCodes="" />
-        <Parking index="4" type="gate" name="Gate_1A" lat="N41 29.990838" lon="W74 6.000024" heading="235.88"  radius="19" pushBackRoute="44" airlineCodes="" />
-        <Parking index="5" type="gate" name="Gate_1B" lat="N41 29.976311" lon="W74 5.986746" heading="254.62"  radius="19" pushBackRoute="44" airlineCodes="" />
-        <Parking index="6" type="gate" name="Gate_3" lat="N41 29.934060" lon="W74 5.976094" heading="250.4"  radius="19" pushBackRoute="44" airlineCodes="" />
-        <Parking index="7" type="gate" name="Gate_4" lat="N41 29.912997" lon="W74 5.963761" heading="248.11"  radius="19" pushBackRoute="44" airlineCodes="" />
-        <Parking index="8" type="gate" name="Gate_5" lat="N41 29.890434" lon="W74 5.957669" heading="270.87"  radius="19" pushBackRoute="44" airlineCodes="" />
-        <Parking index="9" type="gate" name="Gate_6" lat="N41 29.868411" lon="W74 5.959972" heading="301.1"  radius="44" pushBackRoute="44" airlineCodes="" />
-        <Parking index="10" type="gate" name="ANG_Ramp" lat="N41 30.063743" lon="W74 5.376731" heading="59.83"  radius="44" pushBackRoute="18" airlineCodes="" />
-        <Parking index="11" type="gate" name="Cargo_Ramp" lat="N41 30.397352" lon="W74 6.875460" heading="348"  radius="44" pushBackRoute="33" airlineCodes="" />
-        <Parking index="12" type="gate" name="Cessna_Citation_Hangar" lat="N41 30.510940" lon="W74 5.696097" heading="159.69"  radius="44" pushBackRoute="26" airlineCodes="" />
-        <Parking index="13" type="gate" name="Atlantic_Aviation" lat="N41 29.637651" lon="W74 5.778976" heading="286.69"  radius="44" pushBackRoute="14" airlineCodes="" />
+        <Parking index="0" type="gate" name="Hold_Short_Rwy_09" lat="N41 29.963227" lon="W74 7.784526" heading="311.25"  radius="36" pushBackRoute="66" airlineCodes="" />
+        <Parking index="1" type="gate" name="Hold_Short_Rwy_16" lat="N41 30.705822" lon="W74 5.998099" heading="239.01"  radius="36" pushBackRoute="19" airlineCodes="" />
+        <Parking index="2" type="gate" name="Hold_Short_Rwy_27" lat="N41 30.375248" lon="W74 5.278923" heading="349.08"  radius="36" pushBackRoute="81" airlineCodes="" />
+        <Parking index="3" type="gate" name="Hold_Short_Rwy_34" lat="N41 29.801154" lon="W74 5.495913" heading="17.59"  radius="36" pushBackRoute="146" airlineCodes="" />
+        <Parking index="4" type="gate" name="Gate_1A" lat="N41 29.990838" lon="W74 6.000024" heading="235.88"  radius="32" pushBackRoute="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="Gate_1B" lat="N41 29.976311" lon="W74 5.986746" heading="254.62"  radius="32" pushBackRoute="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="Gate_3" lat="N41 29.934060" lon="W74 5.976094" heading="250.4"  radius="32" pushBackRoute="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="Gate_4" lat="N41 29.912997" lon="W74 5.963761" heading="248.11"  radius="32" pushBackRoute="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="Gate_5" lat="N41 29.890434" lon="W74 5.957669" heading="270.87"  radius="32" pushBackRoute="44" airlineCodes="" />
+        <Parking index="9" type="gate" name="Gate_6" lat="N41 29.868411" lon="W74 5.959972" heading="301.1"  radius="36" pushBackRoute="44" airlineCodes="" />
+        <Parking index="10" type="gate" name="ANG_Ramp" lat="N41 30.063743" lon="W74 5.376731" heading="59.83"  radius="36" pushBackRoute="18" airlineCodes="" />
+        <Parking index="11" type="gate" name="Cargo_Ramp" lat="N41 30.397352" lon="W74 6.875460" heading="348"  radius="36" pushBackRoute="33" airlineCodes="" />
+        <Parking index="12" type="gate" name="Cessna_Citation_Hangar" lat="N41 30.510940" lon="W74 5.696097" heading="159.69"  radius="20" pushBackRoute="26" airlineCodes="" />
+        <Parking index="13" type="gate" name="Atlantic_Aviation" lat="N41 29.637651" lon="W74 5.778976" heading="286.69"  radius="36" pushBackRoute="14" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="14" lat="N41 29.642707" lon="W74 5.807192" isOnRunway="0" holdPointType="PushBack"  />

@@ -2,9 +2,9 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="SeaLane" lat="N49 12.665268" lon="W122 43.028104" heading="117.17"  radius="10" airlineCodes="" />
-        <Parking index="1" type="ga" name="New_Ramp_Start_c" lat="N49 12.754918" lon="W122 42.750356" heading="329.3"  radius="10" airlineCodes="" />
-        <Parking index="2" type="ga" name="New_Ramp_Start_b" lat="N49 12.736674" lon="W122 42.499586" heading="0"  radius="10" airlineCodes="" />
-        <Parking index="3" type="ga" name="New_Ramp_Start_a" lat="N49 12.734639" lon="W122 42.276287" heading="213.02"  radius="10" airlineCodes="" />
+        <Parking index="0" type="ga" name="SeaLane" lat="N49 12.665268" lon="W122 43.028104" heading="117.17"  radius="18" airlineCodes="" />
+        <Parking index="1" type="ga" name="New_Ramp_Start_c" lat="N49 12.754918" lon="W122 42.750356" heading="329.3"  radius="18" airlineCodes="" />
+        <Parking index="2" type="ga" name="New_Ramp_Start_b" lat="N49 12.736674" lon="W122 42.499586" heading="0"  radius="18" airlineCodes="" />
+        <Parking index="3" type="ga" name="New_Ramp_Start_a" lat="N49 12.734639" lon="W122 42.276287" heading="213.02"  radius="18" airlineCodes="" />
  </parkingList>
 </groundnet>

@@ -2,17 +2,17 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Delmarva_Aviation" lat="N38 41.402459" lon="W75 21.770255" heading="-56.77"  radius="19" pushBackRoute="61" airlineCodes="" />
-        <Parking index="1" type="gate" name="Georgretown_Air_Services" lat="N38 41.430658" lon="W75 21.746572" heading="303"  radius="19" pushBackRoute="60" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA_Ramp_1" lat="N38 41.376168" lon="W75 21.819025" heading="212.28"  radius="19" pushBackRoute="39" airlineCodes="" />
-        <Parking index="3" type="gate" name="GA_Ramp_2" lat="N38 41.353357" lon="W75 21.852369" heading="30.03"  radius="19" pushBackRoute="77" airlineCodes="" />
-        <Parking index="4" type="gate" name="GA_Ramp_3" lat="N38 41.333282" lon="W75 21.776564" heading="-58.39"  radius="19" pushBackRoute="32" airlineCodes="" />
-        <Parking index="5" type="gate" name="GA_Ramp_4" lat="N38 41.314231" lon="W75 21.805439" heading="30.24"  radius="19" pushBackRoute="77" airlineCodes="" />
-        <Parking index="6" type="ga" name="Christina_LifeNet_6-4" lat="N38 41.525057" lon="W75 21.694678" heading="123"  radius="8" pushBackRoute="12" airlineCodes="" />
-        <Parking index="7" type="gate" name="North_Hangars" lat="N38 41.672788" lon="W75 21.629021" heading="123"  radius="19" pushBackRoute="22" airlineCodes="" />
-        <Parking index="8" type="gate" name="ALOFT_AeroArchitects" lat="N38 41.483040" lon="W75 21.355681" heading="63.97"  radius="19" pushBackRoute="132" airlineCodes="" />
-        <Parking index="9" type="ga" name="DSP_Aviation" lat="N38 41.687723" lon="W75 21.561259" heading="303.17"  radius="8" pushBackRoute="59" airlineCodes="" />
-        <Parking index="10" type="ga" name="DSP_Aviation" lat="N38 41.680990" lon="W75 21.566224" heading="303.17"  radius="8" pushBackRoute="59" airlineCodes="" />
+        <Parking index="0" type="gate" name="Delmarva_Aviation" lat="N38 41.402459" lon="W75 21.770255" heading="-56.77"  radius="18" pushBackRoute="61" airlineCodes="" />
+        <Parking index="1" type="gate" name="Georgretown_Air_Services" lat="N38 41.430658" lon="W75 21.746572" heading="303"  radius="18" pushBackRoute="60" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_Ramp_1" lat="N38 41.376168" lon="W75 21.819025" heading="212.28"  radius="10" pushBackRoute="39" airlineCodes="" />
+        <Parking index="3" type="gate" name="GA_Ramp_2" lat="N38 41.353357" lon="W75 21.852369" heading="30.03"  radius="10" pushBackRoute="77" airlineCodes="" />
+        <Parking index="4" type="gate" name="GA_Ramp_3" lat="N38 41.333282" lon="W75 21.776564" heading="-58.39"  radius="10" pushBackRoute="32" airlineCodes="" />
+        <Parking index="5" type="gate" name="GA_Ramp_4" lat="N38 41.314231" lon="W75 21.805439" heading="30.24"  radius="10" pushBackRoute="77" airlineCodes="" />
+        <Parking index="6" type="ga" name="Christina_LifeNet_6-4" lat="N38 41.525057" lon="W75 21.694678" heading="123"  radius="10" pushBackRoute="12" airlineCodes="" />
+        <Parking index="7" type="gate" name="North_Hangars" lat="N38 41.672788" lon="W75 21.629021" heading="123"  radius="10" pushBackRoute="22" airlineCodes="" />
+        <Parking index="8" type="gate" name="ALOFT_AeroArchitects" lat="N38 41.483040" lon="W75 21.355681" heading="63.97"  radius="20" pushBackRoute="132" airlineCodes="" />
+        <Parking index="9" type="ga" name="DSP_Aviation" lat="N38 41.687723" lon="W75 21.561259" heading="303.17"  radius="10" pushBackRoute="59" airlineCodes="" />
+        <Parking index="10" type="ga" name="DSP_Aviation" lat="N38 41.680990" lon="W75 21.566224" heading="303.17"  radius="10" pushBackRoute="59" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="11" lat="N38 41.523705" lon="W75 21.693177" isOnRunway="0" holdPointType="none"  />

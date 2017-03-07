@@ -3,7 +3,7 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="ga" name="Apron" lat="N56 3.491609" lon="W6 14.628323" heading="276.81"  radius="10" pushBackRoute="2" airlineCodes="" />
-        <Parking index="1" type="gate" name="Apron" lat="N56 3.503974" lon="W6 14.644981" heading="151.77"  radius="19" pushBackRoute="2" airlineCodes="" />
+        <Parking index="1" type="gate" name="Apron" lat="N56 3.503974" lon="W6 14.644981" heading="151.77"  radius="10" pushBackRoute="2" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="2" lat="N56 3.494632" lon="W6 14.639875" isOnRunway="0" holdPointType="PushBack"  />

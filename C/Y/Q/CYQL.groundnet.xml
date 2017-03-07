@@ -2,9 +2,9 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Terminal_Ramp_(Medium)" lat="N49 38.007224" lon="W112 47.314310" heading="100"  radius="19" pushBackRoute="16" airlineCodes="" />
-        <Parking index="1" type="gate" name="Terminal_Ramp_(Medium)" lat="N49 38.026019" lon="W112 47.332599" heading="100"  radius="19" pushBackRoute="19" airlineCodes="" />
-        <Parking index="2" type="gate" name="Terminal_Ramp_(Medium)" lat="N49 37.988428" lon="W112 47.296019" heading="100"  radius="19" pushBackRoute="15" airlineCodes="" />
+        <Parking index="0" type="gate" name="Terminal_Ramp_(Medium)" lat="N49 38.007224" lon="W112 47.314310" heading="100"  radius="18" pushBackRoute="16" airlineCodes="GGN,JZA,ACA,ROU" />
+        <Parking index="1" type="gate" name="Terminal_Ramp_(Medium)" lat="N49 38.026019" lon="W112 47.332599" heading="100"  radius="18" pushBackRoute="19" airlineCodes="GGN,JZA,ACA,ROU" />
+        <Parking index="2" type="gate" name="Terminal_Ramp_(Medium)" lat="N49 37.988428" lon="W112 47.296019" heading="100"  radius="18" pushBackRoute="15" airlineCodes="GGN,JZA,ACA,ROU" />
         <Parking index="3" type="ga" name="Air_West_Tie-Down_(Small)" lat="N49 38.020809" lon="W112 47.186114" heading="140.87"  radius="10" pushBackRoute="62" airlineCodes="" />
         <Parking index="4" type="ga" name="Air_West_Tie-Down_(Small)" lat="N49 38.014373" lon="W112 47.198610" heading="140.87"  radius="10" pushBackRoute="63" airlineCodes="" />
         <Parking index="5" type="ga" name="Air_West_Tie-Down_(Small)" lat="N49 38.007937" lon="W112 47.211106" heading="140.87"  radius="10" pushBackRoute="63" airlineCodes="" />

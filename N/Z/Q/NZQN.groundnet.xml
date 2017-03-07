@@ -2,23 +2,23 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="R1A" lat="S45 1.253463" lon="E168 44.291914" heading="256.89"  radius="19" pushBackRoute="43" airlineCodes="" />
-        <Parking index="1" type="gate" name="R1" lat="S45 1.259615" lon="E168 44.336209" heading="296.36"  radius="19" pushBackRoute="38" airlineCodes="" />
-        <Parking index="2" type="gate" name="R2" lat="S45 1.267005" lon="E168 44.378283" heading="206.38"  radius="19" pushBackRoute="39" airlineCodes="" />
-        <Parking index="3" type="gate" name="R3" lat="S45 1.274759" lon="E168 44.409034" heading="206.83"  radius="19" pushBackRoute="41" airlineCodes="" />
-        <Parking index="4" type="gate" name="R4" lat="S45 1.286585" lon="E168 44.439085" heading="206.49"  radius="19" pushBackRoute="42" airlineCodes="" />
-        <Parking index="5" type="gate" name="R5" lat="S45 1.299834" lon="E168 44.461997" heading="251.74"  radius="19" pushBackRoute="31" airlineCodes="" />
-        <Parking index="6" type="gate" name="R6" lat="S45 1.322573" lon="E168 44.473088" heading="251.97"  radius="19" pushBackRoute="32" airlineCodes="" />
-        <Parking index="7" type="gate" name="R7" lat="S45 1.345586" lon="E168 44.482511" heading="250.44"  radius="19" pushBackRoute="33" airlineCodes="" />
-        <Parking index="8" type="gate" name="R8" lat="S45 1.368274" lon="E168 44.494074" heading="250.78"  radius="19" pushBackRoute="34" airlineCodes="" />
-        <Parking index="9" type="gate" name="Air_Milford" lat="S45 1.514575" lon="E168 44.432056" heading="301.51"  radius="19" pushBackRoute="26" airlineCodes="" />
-        <Parking index="10" type="ga" name="Helicopter_Line" lat="S45 1.429498" lon="E168 44.258236" heading="90"  radius="8" pushBackRoute="44" airlineCodes="" />
-        <Parking index="11" type="ga" name="Heliworks" lat="S45 1.474036" lon="E168 44.411264" heading="253.3"  radius="8" pushBackRoute="26" airlineCodes="" />
-        <Parking index="12" type="ga" name="LDART" lat="S45 1.457431" lon="E168 44.274701" heading="69.94"  radius="10" pushBackRoute="44" airlineCodes="" />
-        <Parking index="13" type="ga" name="Over_The_Top_Helicopters" lat="S45 1.464975" lon="E168 44.506816" heading="342.4"  radius="8" pushBackRoute="25" airlineCodes="" />
-        <Parking index="14" type="gate" name="Real_Journeys" lat="S45 1.522541" lon="E168 44.307962" heading="6.55"  radius="19" pushBackRoute="38" airlineCodes="" />
-        <Parking index="15" type="ga" name="Southern_Lakes_Helicopters" lat="S45 1.472328" lon="E168 44.282825" heading="70.71"  radius="8" pushBackRoute="44" airlineCodes="" />
-        <Parking index="16" type="ga" name="Wakatipu_Aero_Club" lat="S45 1.410875" lon="E168 44.252966" heading="136.51"  radius="10" pushBackRoute="44" airlineCodes="" />
+        <Parking index="0" type="gate" name="R1A" lat="S45 1.253463" lon="E168 44.291914" heading="256.89"  radius="20" pushBackRoute="43" airlineCodes="" />
+        <Parking index="1" type="gate" name="R1" lat="S45 1.259615" lon="E168 44.336209" heading="296.36"  radius="20" pushBackRoute="38" airlineCodes="" />
+        <Parking index="2" type="gate" name="R2" lat="S45 1.267005" lon="E168 44.378283" heading="206.38"  radius="20" pushBackRoute="39" airlineCodes="" />
+        <Parking index="3" type="gate" name="R3" lat="S45 1.274759" lon="E168 44.409034" heading="206.83"  radius="20" pushBackRoute="41" airlineCodes="" />
+        <Parking index="4" type="gate" name="R4" lat="S45 1.286585" lon="E168 44.439085" heading="206.49"  radius="20" pushBackRoute="42" airlineCodes="" />
+        <Parking index="5" type="gate" name="R5" lat="S45 1.299834" lon="E168 44.461997" heading="251.74"  radius="20" pushBackRoute="31" airlineCodes="" />
+        <Parking index="6" type="gate" name="R6" lat="S45 1.322573" lon="E168 44.473088" heading="251.97"  radius="20" pushBackRoute="32" airlineCodes="" />
+        <Parking index="7" type="gate" name="R7" lat="S45 1.345586" lon="E168 44.482511" heading="250.44"  radius="20" pushBackRoute="33" airlineCodes="" />
+        <Parking index="8" type="gate" name="R8" lat="S45 1.368274" lon="E168 44.494074" heading="250.78"  radius="20" pushBackRoute="34" airlineCodes="" />
+        <Parking index="9" type="gate" name="Air_Milford" lat="S45 1.514575" lon="E168 44.432056" heading="301.51"  radius="20" pushBackRoute="26" airlineCodes="" />
+        <Parking index="10" type="ga" name="Helicopter_Line" lat="S45 1.429498" lon="E168 44.258236" heading="90"  radius="20" pushBackRoute="44" airlineCodes="" />
+        <Parking index="11" type="ga" name="Heliworks" lat="S45 1.474036" lon="E168 44.411264" heading="253.3"  radius="20" pushBackRoute="26" airlineCodes="" />
+        <Parking index="12" type="ga" name="LDART" lat="S45 1.457431" lon="E168 44.274701" heading="69.94"  radius="20" pushBackRoute="44" airlineCodes="" />
+        <Parking index="13" type="ga" name="Over_The_Top_Helicopters" lat="S45 1.464975" lon="E168 44.506816" heading="342.4"  radius="20" pushBackRoute="25" airlineCodes="" />
+        <Parking index="14" type="gate" name="Real_Journeys" lat="S45 1.522541" lon="E168 44.307962" heading="6.55"  radius="20" pushBackRoute="38" airlineCodes="" />
+        <Parking index="15" type="ga" name="Southern_Lakes_Helicopters" lat="S45 1.472328" lon="E168 44.282825" heading="70.71"  radius="20" pushBackRoute="44" airlineCodes="" />
+        <Parking index="16" type="ga" name="Wakatipu_Aero_Club" lat="S45 1.410875" lon="E168 44.252966" heading="136.51"  radius="20" pushBackRoute="44" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="17" lat="S45 1.206755" lon="E168 44.412536" isOnRunway="0" holdPointType="none"  />

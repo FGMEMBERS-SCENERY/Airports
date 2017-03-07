@@ -2,12 +2,12 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Transient_Parking" lat="N33 47.472531" lon="W81 14.794477" heading="98.44"  radius="19" pushBackRoute="6" airlineCodes="" />
-        <Parking index="1" type="gate" name="East_Ramp" lat="N33 47.433176" lon="W81 14.761486" heading="260.21"  radius="19" pushBackRoute="17" airlineCodes="" />
-        <Parking index="2" type="gate" name="North_Ramp" lat="N33 47.438896" lon="W81 14.798687" heading="351.9"  radius="19" pushBackRoute="11" airlineCodes="" />
-        <Parking index="3" type="gate" name="South_Ramp" lat="N33 47.419726" lon="W81 14.803591" heading="171.28"  radius="19" pushBackRoute="8" airlineCodes="" />
-        <Parking index="4" type="gate" name="West_Hangars" lat="N33 47.450606" lon="W81 14.856149" heading="350.06"  radius="19" pushBackRoute="7" airlineCodes="" />
-        <Parking index="5" type="gate" name="Fuel_Box" lat="N33 47.380177" lon="W81 14.801372" heading="350.05"  radius="19" pushBackRoute="13" airlineCodes="" />
+        <Parking index="0" type="gate" name="Transient_Parking" lat="N33 47.472531" lon="W81 14.794477" heading="98.44"  radius="10" pushBackRoute="6" airlineCodes="" />
+        <Parking index="1" type="gate" name="East_Ramp" lat="N33 47.433176" lon="W81 14.761486" heading="260.21"  radius="10" pushBackRoute="17" airlineCodes="" />
+        <Parking index="2" type="gate" name="North_Ramp" lat="N33 47.438896" lon="W81 14.798687" heading="351.9"  radius="10" pushBackRoute="11" airlineCodes="" />
+        <Parking index="3" type="gate" name="South_Ramp" lat="N33 47.419726" lon="W81 14.803591" heading="171.28"  radius="10" pushBackRoute="8" airlineCodes="" />
+        <Parking index="4" type="gate" name="West_Hangars" lat="N33 47.450606" lon="W81 14.856149" heading="350.06"  radius="10" pushBackRoute="7" airlineCodes="" />
+        <Parking index="5" type="gate" name="Fuel_Box" lat="N33 47.380177" lon="W81 14.801372" heading="350.05"  radius="10" pushBackRoute="13" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="6" lat="N33 47.480564" lon="W81 14.833830" isOnRunway="0" holdPointType="PushBack"  />

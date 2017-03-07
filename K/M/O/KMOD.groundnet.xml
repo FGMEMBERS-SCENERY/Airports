@@ -2,13 +2,13 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="East_Parking" lat="N37 37.468980" lon="W120 56.872894" heading="216.21"  radius="19" pushBackRoute="31" airlineCodes="" />
-        <Parking index="1" type="gate" name="FBO" lat="N37 37.639865" lon="W120 57.917406" heading="91.9"  radius="19" pushBackRoute="8" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA_4" lat="N37 37.529248" lon="W120 57.897836" heading="0"  radius="19" pushBackRoute="7" airlineCodes="" />
-        <Parking index="3" type="gate" name="GA_2" lat="N37 37.705946" lon="W120 57.822290" heading="216.67"  radius="19" pushBackRoute="77" airlineCodes="" />
-        <Parking index="4" type="gate" name="GA_3" lat="N37 37.597168" lon="W120 57.729828" heading="0"  radius="19" pushBackRoute="50" airlineCodes="" />
-        <Parking index="5" type="gate" name="GA_1" lat="N37 37.706539" lon="W120 57.848861" heading="-144.73"  radius="19" pushBackRoute="76" airlineCodes="" />
-        <Parking index="6" type="gate" name="West_Parking" lat="N37 37.836912" lon="W120 57.539807" heading="-143.51"  radius="19" pushBackRoute="62" airlineCodes="" />
+        <Parking index="0" type="gate" name="East_Parking" lat="N37 37.468980" lon="W120 56.872894" heading="216.21"  radius="20" pushBackRoute="31" airlineCodes="" />
+        <Parking index="1" type="gate" name="FBO" lat="N37 37.639865" lon="W120 57.917406" heading="91.9"  radius="20" pushBackRoute="8" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_4" lat="N37 37.529248" lon="W120 57.897836" heading="0"  radius="20" pushBackRoute="7" airlineCodes="" />
+        <Parking index="3" type="gate" name="GA_2" lat="N37 37.705946" lon="W120 57.822290" heading="216.67"  radius="20" pushBackRoute="77" airlineCodes="" />
+        <Parking index="4" type="gate" name="GA_3" lat="N37 37.597168" lon="W120 57.729828" heading="0"  radius="20" pushBackRoute="50" airlineCodes="" />
+        <Parking index="5" type="gate" name="GA_1" lat="N37 37.706539" lon="W120 57.848861" heading="-144.73"  radius="20" pushBackRoute="76" airlineCodes="" />
+        <Parking index="6" type="gate" name="West_Parking" lat="N37 37.836912" lon="W120 57.539807" heading="-143.51"  radius="20" pushBackRoute="62" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="7" lat="N37 37.503263" lon="W120 57.884429" isOnRunway="0" holdPointType="PushBack"  />

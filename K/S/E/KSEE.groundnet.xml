@@ -18,18 +18,18 @@
         <Parking index="13" type="ga" name="East_Transient_Parking_2" lat="N32 49.487668" lon="W116 58.182231" heading="14.53"  radius="10" airlineCodes="" />
         <Parking index="14" type="ga" name="East_Transient_Parking_3" lat="N32 49.489627" lon="W116 58.087783" heading="14.53"  radius="10" airlineCodes="" />
         <Parking index="15" type="ga" name="East_Transient_Parking_4" lat="N32 49.492437" lon="W116 58.103345" heading="14.53"  radius="10" airlineCodes="" />
-        <Parking index="16" type="gate" name="East_Transient_Parking_5" lat="N32 49.486844" lon="W116 58.122265" heading="14.53"  radius="19" airlineCodes="" />
+        <Parking index="16" type="gate" name="East_Transient_Parking_5" lat="N32 49.486844" lon="W116 58.122265" heading="14.53"  radius="10" airlineCodes="" />
         <Parking index="17" type="ga" name="East_Transient_Parking_6" lat="N32 49.487271" lon="W116 58.167127" heading="14.53"  radius="10" airlineCodes="" />
-        <Parking index="18" type="gate" name="West_Hangars_1" lat="N32 49.336177" lon="W116 58.394959" heading="-90.4"  radius="19" airlineCodes="" />
-        <Parking index="19" type="gate" name="West_Hangars_2" lat="N32 49.307881" lon="W116 58.394454" heading="-90.4"  radius="19" airlineCodes="" />
-        <Parking index="20" type="gate" name="West_Hangars_3" lat="N32 49.321995" lon="W116 58.394454" heading="-90.4"  radius="19" airlineCodes="" />
-        <Parking index="21" type="gate" name="West_Transient_Parking_1" lat="N32 49.610893" lon="W116 58.760733" heading="101.63"  radius="19" airlineCodes="" />
-        <Parking index="22" type="gate" name="West_Transient_Parking_2" lat="N32 49.602671" lon="W116 58.787165" heading="-258.44"  radius="19" airlineCodes="" />
-        <Parking index="23" type="gate" name="West_Transient_Parking_3" lat="N32 49.620022" lon="W116 58.783563" heading="99.23"  radius="19" airlineCodes="" />
-        <Parking index="24" type="gate" name="West_Transient_Parking_4" lat="N32 49.585374" lon="W116 58.791986" heading="102.13"  radius="19" airlineCodes="" />
-        <Parking index="25" type="gate" name="West_Transient_Parking_5" lat="N32 49.593273" lon="W116 58.788953" heading="100.38"  radius="19" airlineCodes="" />
-        <Parking index="26" type="gate" name="West_Transient_Parking_6" lat="N32 49.611017" lon="W116 58.784735" heading="100.64"  radius="19" airlineCodes="" />
-        <Parking index="27" type="gate" name="West_Transient_Parking_7" lat="N32 49.597444" lon="W116 58.757330" heading="101.54"  radius="19" airlineCodes="" />
-        <Parking index="28" type="gate" name="West_Transient_Parking_8" lat="N32 49.585328" lon="W116 58.761567" heading="99.83"  radius="19" airlineCodes="" />
+        <Parking index="18" type="gate" name="West_Hangars_1" lat="N32 49.336177" lon="W116 58.394959" heading="-90.4"  radius="18" airlineCodes="" />
+        <Parking index="19" type="gate" name="West_Hangars_2" lat="N32 49.307881" lon="W116 58.394454" heading="-90.4"  radius="18" airlineCodes="" />
+        <Parking index="20" type="gate" name="West_Hangars_3" lat="N32 49.321995" lon="W116 58.394454" heading="-90.4"  radius="18" airlineCodes="" />
+        <Parking index="21" type="gate" name="West_Transient_Parking_1" lat="N32 49.610893" lon="W116 58.760733" heading="101.63"  radius="10" airlineCodes="" />
+        <Parking index="22" type="gate" name="West_Transient_Parking_2" lat="N32 49.602671" lon="W116 58.787165" heading="-258.44"  radius="10" airlineCodes="" />
+        <Parking index="23" type="gate" name="West_Transient_Parking_3" lat="N32 49.620022" lon="W116 58.783563" heading="99.23"  radius="10" airlineCodes="" />
+        <Parking index="24" type="gate" name="West_Transient_Parking_4" lat="N32 49.585374" lon="W116 58.791986" heading="102.13"  radius="10" airlineCodes="" />
+        <Parking index="25" type="gate" name="West_Transient_Parking_5" lat="N32 49.593273" lon="W116 58.788953" heading="100.38"  radius="10" airlineCodes="" />
+        <Parking index="26" type="gate" name="West_Transient_Parking_6" lat="N32 49.611017" lon="W116 58.784735" heading="100.64"  radius="10" airlineCodes="" />
+        <Parking index="27" type="gate" name="West_Transient_Parking_7" lat="N32 49.597444" lon="W116 58.757330" heading="101.54"  radius="18" airlineCodes="" />
+        <Parking index="28" type="gate" name="West_Transient_Parking_8" lat="N32 49.585328" lon="W116 58.761567" heading="99.83"  radius="18" airlineCodes="" />
  </parkingList>
 </groundnet>

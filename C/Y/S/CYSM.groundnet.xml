@@ -2,14 +2,14 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Main_Ramp_A" lat="N60 1.241635" lon="W111 57.403753" heading="133.05"  radius="19" pushBackRoute="42" airlineCodes="" />
-        <Parking index="1" type="gate" name="Main_Ramp_B" lat="N60 1.249311" lon="W111 57.464545" heading="133.05"  radius="19" pushBackRoute="47" airlineCodes="" />
-        <Parking index="2" type="gate" name="Cargo_Ramp" lat="N60 1.216618" lon="W111 57.364557" heading="-211.99"  radius="19" pushBackRoute="58" airlineCodes="" />
-        <Parking index="3" type="gate" name="Forestry_Ramp_A" lat="N60 1.103460" lon="W111 57.118894" heading="313.05"  radius="19" pushBackRoute="27" airlineCodes="" />
-        <Parking index="4" type="gate" name="Forestry_Ramp_B" lat="N60 1.080005" lon="W111 57.077908" heading="313.05"  radius="19" pushBackRoute="62" airlineCodes="" />
+        <Parking index="0" type="gate" name="Main_Ramp_A" lat="N60 1.241635" lon="W111 57.403753" heading="133.05"  radius="18" pushBackRoute="42" airlineCodes="" />
+        <Parking index="1" type="gate" name="Main_Ramp_B" lat="N60 1.249311" lon="W111 57.464545" heading="133.05"  radius="18" pushBackRoute="47" airlineCodes="" />
+        <Parking index="2" type="gate" name="Cargo_Ramp" lat="N60 1.216618" lon="W111 57.364557" heading="-211.99"  radius="18" pushBackRoute="58" airlineCodes="" />
+        <Parking index="3" type="gate" name="Forestry_Ramp_A" lat="N60 1.103460" lon="W111 57.118894" heading="313.05"  radius="18" pushBackRoute="27" airlineCodes="GOA" />
+        <Parking index="4" type="gate" name="Forestry_Ramp_B" lat="N60 1.080005" lon="W111 57.077908" heading="313.05"  radius="18" pushBackRoute="62" airlineCodes="GOA" />
         <Parking index="5" type="ga" name="Apron_Parking_A" lat="N60 1.187831" lon="W111 57.397563" heading="43.05"  radius="10" pushBackRoute="64" airlineCodes="" />
         <Parking index="6" type="ga" name="Apron_Parking_B" lat="N60 1.193530" lon="W111 57.410101" heading="43.05"  radius="10" pushBackRoute="45" airlineCodes="" />
-        <Parking index="7" type="gate" name="Northwestern_Apron" lat="N60 1.125600" lon="W111 57.161398" heading="258.05"  radius="19" pushBackRoute="23" airlineCodes="" />
+        <Parking index="7" type="gate" name="Northwestern_Apron" lat="N60 1.125600" lon="W111 57.161398" heading="258.05"  radius="18" pushBackRoute="23" airlineCodes="" />
         <Parking index="8" type="ga" name="Northwestern_Apron" lat="N60 1.128149" lon="W111 57.196729" heading="133.05"  radius="10" pushBackRoute="68" airlineCodes="" />
         <Parking index="9" type="ga" name="Northwestern_Apron" lat="N60 1.115910" lon="W111 57.171142" heading="-48.26"  radius="10" pushBackRoute="31" airlineCodes="" />
         <Parking index="10" type="ga" name="Northwestern_Apron" lat="N60 1.135967" lon="W111 57.222607" heading="258.05"  radius="10" pushBackRoute="66" airlineCodes="" />

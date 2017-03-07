@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Terminal" lat="N60 29.627977" lon="W145 28.302841" heading="-234.73"  radius="19" airlineCodes="" />
-        <Parking index="1" type="gate" name="GA_East_Ramp" lat="N60 29.660070" lon="W145 28.431934" heading="-154.47"  radius="19" airlineCodes="" />
-        <Parking index="2" type="gate" name="Pvt._Hangar_East" lat="N60 29.653001" lon="W145 28.075929" heading="116.56"  radius="19" airlineCodes="" />
-        <Parking index="3" type="gate" name="Fuel_West_Ramp" lat="N60 29.741943" lon="W145 28.768166" heading="88.42"  radius="19" airlineCodes="" />
-        <Parking index="4" type="gate" name="Pvt._Hangar_West" lat="N60 29.795279" lon="W145 28.657265" heading="268.78"  radius="19" airlineCodes="" />
+        <Parking index="0" type="gate" name="Terminal" lat="N60 29.627977" lon="W145 28.302841" heading="-234.73"  radius="32" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA_East_Ramp" lat="N60 29.660070" lon="W145 28.431934" heading="-154.47"  radius="20" airlineCodes="" />
+        <Parking index="2" type="gate" name="Pvt._Hangar_East" lat="N60 29.653001" lon="W145 28.075929" heading="116.56"  radius="18" airlineCodes="" />
+        <Parking index="3" type="gate" name="Fuel_West_Ramp" lat="N60 29.741943" lon="W145 28.768166" heading="88.42"  radius="18" airlineCodes="" />
+        <Parking index="4" type="gate" name="Pvt._Hangar_West" lat="N60 29.795279" lon="W145 28.657265" heading="268.78"  radius="18" airlineCodes="" />
  </parkingList>
 </groundnet>

@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Apron_size_B" lat="N48 29.246051" lon="W122 56.196229" heading="179.98"  radius="19" pushBackRoute="33" airlineCodes="" />
-        <Parking index="1" type="gate" name="Apron_size_B" lat="N48 29.246051" lon="W122 56.211154" heading="179.98"  radius="19" pushBackRoute="33" airlineCodes="" />
-        <Parking index="2" type="gate" name="Apron_size_B" lat="N48 29.129331" lon="W122 56.210137" heading="0.35"  radius="19" pushBackRoute="52" airlineCodes="" />
-        <Parking index="3" type="ga" name="Fuel_station" lat="N48 29.141144" lon="W122 56.195776" heading="126.44"  radius="10" pushBackRoute="36" airlineCodes="" />
+        <Parking index="0" type="gate" name="Apron_size_B" lat="N48 29.246051" lon="W122 56.196229" heading="179.98"  radius="18" pushBackRoute="33" airlineCodes="" />
+        <Parking index="1" type="gate" name="Apron_size_B" lat="N48 29.246051" lon="W122 56.211154" heading="179.98"  radius="18" pushBackRoute="33" airlineCodes="" />
+        <Parking index="2" type="gate" name="Apron_size_B" lat="N48 29.129331" lon="W122 56.210137" heading="0.35"  radius="18" pushBackRoute="52" airlineCodes="" />
+        <Parking index="3" type="ga" name="Fuel_station" lat="N48 29.141144" lon="W122 56.195776" heading="126.44"  radius="18" pushBackRoute="36" airlineCodes="" />
         <Parking index="4" type="ga" name="Apron" lat="N48 29.193682" lon="W122 56.195450" heading="270"  radius="10" pushBackRoute="41" airlineCodes="" />
         <Parking index="5" type="ga" name="Apron" lat="N48 29.193377" lon="W122 56.216222" heading="270"  radius="10" pushBackRoute="42" airlineCodes="" />
         <Parking index="6" type="ga" name="Apron" lat="N48 29.163782" lon="W122 56.195450" heading="270"  radius="10" pushBackRoute="38" airlineCodes="" />

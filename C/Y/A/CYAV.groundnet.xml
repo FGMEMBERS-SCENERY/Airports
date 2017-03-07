@@ -2,28 +2,28 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Apron_1-1" lat="N50 3.257819" lon="W97 2.482708" heading="-46.31"  radius="19" pushBackRoute="197" airlineCodes="" />
-        <Parking index="1" type="gate" name="Apron_1-2" lat="N50 3.245622" lon="W97 2.486252" heading="225.6"  radius="19" pushBackRoute="72" airlineCodes="" />
-        <Parking index="2" type="gate" name="Apron_1-3" lat="N50 3.244088" lon="W97 2.461196" heading="186.6"  radius="19" pushBackRoute="110" airlineCodes="" />
-        <Parking index="3" type="gate" name="Apron_2-1" lat="N50 3.348775" lon="W97 2.485897" heading="0.46"  radius="19" pushBackRoute="108" airlineCodes="" />
-        <Parking index="4" type="gate" name="Apron_2-2" lat="N50 3.354782" lon="W97 2.511144" heading="0.46"  radius="19" pushBackRoute="109" airlineCodes="" />
-        <Parking index="5" type="gate" name="Apron_2-3" lat="N50 3.359081" lon="W97 2.546932" heading="-46.31"  radius="19" pushBackRoute="109" airlineCodes="" />
+        <Parking index="0" type="gate" name="Apron_1-1" lat="N50 3.257819" lon="W97 2.482708" heading="-46.31"  radius="18" pushBackRoute="197" airlineCodes="" />
+        <Parking index="1" type="gate" name="Apron_1-2" lat="N50 3.245622" lon="W97 2.486252" heading="225.6"  radius="18" pushBackRoute="72" airlineCodes="" />
+        <Parking index="2" type="gate" name="Apron_1-3" lat="N50 3.244088" lon="W97 2.461196" heading="186.6"  radius="18" pushBackRoute="110" airlineCodes="" />
+        <Parking index="3" type="gate" name="Apron_2-1" lat="N50 3.348775" lon="W97 2.485897" heading="0.46"  radius="18" pushBackRoute="108" airlineCodes="" />
+        <Parking index="4" type="gate" name="Apron_2-2" lat="N50 3.354782" lon="W97 2.511144" heading="0.46"  radius="18" pushBackRoute="109" airlineCodes="" />
+        <Parking index="5" type="gate" name="Apron_2-3" lat="N50 3.359081" lon="W97 2.546932" heading="-46.31"  radius="18" pushBackRoute="109" airlineCodes="" />
         <Parking index="6" type="ga" name="Apron_2-4" lat="N50 3.364344" lon="W97 2.658504" heading="-204.61"  radius="10" pushBackRoute="199" airlineCodes="" />
         <Parking index="7" type="ga" name="Apron_2-5" lat="N50 3.344803" lon="W97 2.636626" heading="276.11"  radius="10" pushBackRoute="200" airlineCodes="" />
         <Parking index="8" type="ga" name="Apron_2-6" lat="N50 3.337119" lon="W97 2.637995" heading="276.11"  radius="10" pushBackRoute="201" airlineCodes="" />
         <Parking index="9" type="ga" name="Apron_2-7" lat="N50 3.329801" lon="W97 2.641216" heading="276.11"  radius="10" pushBackRoute="202" airlineCodes="" />
         <Parking index="10" type="ga" name="Apron_2-8" lat="N50 3.312493" lon="W97 2.670621" heading="276.11"  radius="10" pushBackRoute="41" airlineCodes="" />
         <Parking index="11" type="ga" name="Apron_2-9" lat="N50 3.303535" lon="W97 2.667801" heading="60.06"  radius="10" pushBackRoute="204" airlineCodes="" />
-        <Parking index="12" type="gate" name="Apron_2-10" lat="N50 3.285130" lon="W97 2.495696" heading="0.46"  radius="19" pushBackRoute="195" airlineCodes="" />
+        <Parking index="12" type="gate" name="Apron_2-10" lat="N50 3.285130" lon="W97 2.495696" heading="0.46"  radius="10" pushBackRoute="195" airlineCodes="" />
         <Parking index="13" type="ga" name="Ramp_3-1" lat="N50 3.490514" lon="W97 2.450874" heading="-110.14"  radius="10" pushBackRoute="206" airlineCodes="" />
-        <Parking index="14" type="gate" name="Ramp_3-2" lat="N50 3.485643" lon="W97 2.474623" heading="0"  radius="19" pushBackRoute="191" airlineCodes="" />
-        <Parking index="15" type="gate" name="Ramp_3-3" lat="N50 3.483960" lon="W97 2.500535" heading="0"  radius="19" pushBackRoute="100" airlineCodes="" />
-        <Parking index="16" type="ga" name="Ramp_3-4" lat="N50 3.498635" lon="W97 2.530504" heading="-87.04"  radius="8" pushBackRoute="207" airlineCodes="" />
+        <Parking index="14" type="gate" name="Ramp_3-2" lat="N50 3.485643" lon="W97 2.474623" heading="0"  radius="18" pushBackRoute="191" airlineCodes="" />
+        <Parking index="15" type="gate" name="Ramp_3-3" lat="N50 3.483960" lon="W97 2.500535" heading="0"  radius="10" pushBackRoute="100" airlineCodes="" />
+        <Parking index="16" type="ga" name="Ramp_3-4" lat="N50 3.498635" lon="W97 2.530504" heading="-87.04"  radius="10" pushBackRoute="207" airlineCodes="" />
         <Parking index="17" type="ga" name="Ramp_3-5" lat="N50 3.501349" lon="W97 2.544334" heading="92.77"  radius="10" pushBackRoute="212" airlineCodes="" />
         <Parking index="18" type="ga" name="Ramp_3-6" lat="N50 3.537184" lon="W97 2.574768" heading="235.29"  radius="10" pushBackRoute="210" airlineCodes="" />
         <Parking index="19" type="ga" name="Ramp_3-7" lat="N50 3.519473" lon="W97 2.574493" heading="-87.04"  radius="10" pushBackRoute="209" airlineCodes="" />
         <Parking index="20" type="ga" name="Ramp_3-8" lat="N50 3.503750" lon="W97 2.576839" heading="-87.04"  radius="10" pushBackRoute="209" airlineCodes="" />
-        <Parking index="21" type="gate" name="Ramp_3-9" lat="N50 3.518222" lon="W97 2.620326" heading="-170.19"  radius="19" pushBackRoute="221" airlineCodes="" />
+        <Parking index="21" type="gate" name="Ramp_3-9" lat="N50 3.518222" lon="W97 2.620326" heading="-170.19"  radius="18" pushBackRoute="221" airlineCodes="" />
         <Parking index="22" type="ga" name="Ramp_3-10" lat="N50 3.514744" lon="W97 2.641960" heading="-138.99"  radius="10" pushBackRoute="57" airlineCodes="" />
         <Parking index="23" type="ga" name="Ramp_3-11" lat="N50 3.513880" lon="W97 2.656104" heading="96.81"  radius="10" pushBackRoute="214" airlineCodes="" />
         <Parking index="24" type="ga" name="Ramp_3-12" lat="N50 3.505537" lon="W97 2.653300" heading="46.67"  radius="10" pushBackRoute="216" airlineCodes="" />
@@ -40,7 +40,7 @@
         <Parking index="35" type="ga" name="Apron_4-4" lat="N50 3.646095" lon="W97 2.520172" heading="201.24"  radius="10" pushBackRoute="49" airlineCodes="" />
         <Parking index="36" type="ga" name="Apron_4-5" lat="N50 3.657635" lon="W97 2.479006" heading="186.3"  radius="10" pushBackRoute="51" airlineCodes="" />
         <Parking index="37" type="ga" name="Apron_4-6" lat="N50 3.641137" lon="W97 2.447248" heading="201.24"  radius="10" pushBackRoute="48" airlineCodes="" />
-        <Parking index="38" type="gate" name="Apron_4-9" lat="N50 3.558901" lon="W97 2.425624" heading="238.73"  radius="19" pushBackRoute="193" airlineCodes="" />
+        <Parking index="38" type="gate" name="Apron_4-9" lat="N50 3.558901" lon="W97 2.425624" heading="238.73"  radius="10" pushBackRoute="193" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="39" lat="N50 3.484933" lon="W97 2.459654" isOnRunway="0" holdPointType="none"  />

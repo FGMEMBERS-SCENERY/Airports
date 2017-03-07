@@ -2,11 +2,11 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="RWY_012" lat="N49 4.727917" lon="W123 1.189590" heading="143"  radius="10" pushBackRoute="7" airlineCodes="" />
-        <Parking index="1" type="ga" name="RWY_07" lat="N49 4.673283" lon="W123 1.154915" heading="87"  radius="10" pushBackRoute="45" airlineCodes="" />
-        <Parking index="2" type="ga" name="RWY_25" lat="N49 4.669487" lon="W123 0.253651" heading="270"  radius="10" pushBackRoute="37" airlineCodes="" />
-        <Parking index="3" type="ga" name="RWY_30" lat="N49 4.125035" lon="W123 0.512413" heading="323"  radius="10" pushBackRoute="11" airlineCodes="" />
-        <Parking index="4" type="ga" name="Hangar_Start" lat="N49 4.807787" lon="W123 0.699811" heading="181.1"  radius="10" pushBackRoute="8" airlineCodes="" />
+        <Parking index="0" type="ga" name="RWY_012" lat="N49 4.727917" lon="W123 1.189590" heading="143"  radius="20" pushBackRoute="7" airlineCodes="" />
+        <Parking index="1" type="ga" name="RWY_07" lat="N49 4.673283" lon="W123 1.154915" heading="87"  radius="20" pushBackRoute="45" airlineCodes="" />
+        <Parking index="2" type="ga" name="RWY_25" lat="N49 4.669487" lon="W123 0.253651" heading="270"  radius="20" pushBackRoute="37" airlineCodes="" />
+        <Parking index="3" type="ga" name="RWY_30" lat="N49 4.125035" lon="W123 0.512413" heading="323"  radius="20" pushBackRoute="11" airlineCodes="" />
+        <Parking index="4" type="ga" name="Hangar_Start" lat="N49 4.807787" lon="W123 0.699811" heading="181.1"  radius="20" pushBackRoute="8" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="5" lat="N49 4.743905" lon="W123 0.548197" isOnRunway="0" holdPointType="none"  />

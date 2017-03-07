@@ -2,7 +2,7 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Apron_Start_(Medium)" lat="N52 50.415601" lon="W104 3.799508" heading="270"  radius="19" pushBackRoute="51" airlineCodes="" />
+        <Parking index="0" type="gate" name="Apron_Start_(Medium)" lat="N52 50.415601" lon="W104 3.799508" heading="270"  radius="18" pushBackRoute="51" airlineCodes="" />
         <Parking index="1" type="ga" name="North_Hangars_(Small)" lat="N52 50.452346" lon="W104 3.906295" heading="270"  radius="10" pushBackRoute="52" airlineCodes="" />
         <Parking index="2" type="ga" name="Grass_Tie-Down_(Small)" lat="N52 50.391599" lon="W104 3.827697" heading="270"  radius="10" pushBackRoute="33" airlineCodes="" />
         <Parking index="3" type="ga" name="Grass_Tie-Down_(Small)" lat="N52 50.391599" lon="W104 3.867003" heading="90"  radius="10" pushBackRoute="27" airlineCodes="" />

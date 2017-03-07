@@ -2,12 +2,12 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Ramp_112" lat="N45 25.499523" lon="E10 19.742044" heading="272.23"  radius="19" pushBackRoute="28" airlineCodes="" />
-        <Parking index="1" type="gate" name="Ramp_102" lat="N45 25.623975" lon="E10 19.578588" heading="222.56"  radius="19" pushBackRoute="32" airlineCodes="" />
-        <Parking index="2" type="gate" name="Ramp_115" lat="N45 25.414802" lon="E10 19.878223" heading="222.46"  radius="19" pushBackRoute="25" airlineCodes="" />
-        <Parking index="3" type="gate" name="Ramp_113" lat="N45 25.481054" lon="E10 19.798992" heading="222.45"  radius="19" pushBackRoute="28" airlineCodes="" />
-        <Parking index="4" type="gate" name="Ramp_201" lat="N45 25.654201" lon="E10 19.627792" heading="103.5"  radius="19" pushBackRoute="33" airlineCodes="" />
-        <Parking index="5" type="gate" name="Ramp_601" lat="N45 25.622090" lon="E10 19.506775" heading="335.2"  radius="19" pushBackRoute="20" airlineCodes="" />
+        <Parking index="0" type="gate" name="Ramp_112" lat="N45 25.499523" lon="E10 19.742044" heading="272.23"  radius="32" pushBackRoute="28" airlineCodes="" />
+        <Parking index="1" type="gate" name="Ramp_102" lat="N45 25.623975" lon="E10 19.578588" heading="222.56"  radius="20" pushBackRoute="32" airlineCodes="" />
+        <Parking index="2" type="gate" name="Ramp_115" lat="N45 25.414802" lon="E10 19.878223" heading="222.46"  radius="32" pushBackRoute="25" airlineCodes="" />
+        <Parking index="3" type="gate" name="Ramp_113" lat="N45 25.481054" lon="E10 19.798992" heading="222.45"  radius="32" pushBackRoute="28" airlineCodes="" />
+        <Parking index="4" type="gate" name="Ramp_201" lat="N45 25.654201" lon="E10 19.627792" heading="103.5"  radius="20" pushBackRoute="33" airlineCodes="" />
+        <Parking index="5" type="gate" name="Ramp_601" lat="N45 25.622090" lon="E10 19.506775" heading="335.2"  radius="20" pushBackRoute="20" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="6" lat="N45 26.257015" lon="E10 19.101040" isOnRunway="0" holdPointType="none"  />

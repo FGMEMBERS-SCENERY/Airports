@@ -2,18 +2,18 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Hold_Short_Rwy_5L" lat="N42 13.980996" lon="W83 32.546671" heading="138"  radius="19" airlineCodes="" />
+        <Parking index="0" type="gate" name="Hold_Short_Rwy_5L" lat="N42 13.980996" lon="W83 32.546671" heading="138"  radius="20" airlineCodes="" />
         <Parking index="1" type="gate" name="Hold_Short_Rwy_5R" lat="N42 13.800471" lon="W83 32.332550" heading="315.48"  radius="17" airlineCodes="" />
         <Parking index="2" type="gate" name="Hold_Short_Rwy_9" lat="N42 14.585504" lon="W83 32.588632" heading="0"  radius="17" airlineCodes="" />
-        <Parking index="3" type="gate" name="Hold_Short_Rwy_23L" lat="N42 14.665441" lon="W83 31.091747" heading="268.96"  radius="44" airlineCodes="" />
-        <Parking index="4" type="gate" name="Hold_Short_Rwy_23R" lat="N42 14.588854" lon="W83 31.668458" heading="88"  radius="19" airlineCodes="" />
-        <Parking index="5" type="gate" name="Hold_Short_Rwy27" lat="N42 14.605739" lon="W83 30.964819" heading="340"  radius="19" airlineCodes="" />
-        <Parking index="6" type="gate" name="AvFlight_FBO" lat="N42 14.438812" lon="W83 30.854005" heading="179.26"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Hold_Short_Rwy_23L" lat="N42 14.665441" lon="W83 31.091747" heading="268.96"  radius="36" airlineCodes="" />
+        <Parking index="4" type="gate" name="Hold_Short_Rwy_23R" lat="N42 14.588854" lon="W83 31.668458" heading="88"  radius="20" airlineCodes="" />
+        <Parking index="5" type="gate" name="Hold_Short_Rwy27" lat="N42 14.605739" lon="W83 30.964819" heading="340"  radius="20" airlineCodes="" />
+        <Parking index="6" type="gate" name="AvFlight_FBO" lat="N42 14.438812" lon="W83 30.854005" heading="179.26"  radius="36" airlineCodes="" />
         <Parking index="7" type="gate" name="Freight_Distribution_Center_South_Ramp" lat="N42 13.602999" lon="W83 32.148047" heading="230"  radius="17" airlineCodes="" />
         <Parking index="8" type="gate" name="Gen_Avia_Parking_West_Ramp" lat="N42 14.247832" lon="W83 32.689422" heading="180"  radius="17" airlineCodes="" />
-        <Parking index="9" type="gate" name="Johnson_Controls_Ramp" lat="N42 14.740805" lon="W83 31.764040" heading="270"  radius="44" airlineCodes="" />
-        <Parking index="10" type="gate" name="Active_Aero_Services" lat="N42 14.213130" lon="W83 30.849564" heading="180"  radius="44" airlineCodes="" />
-        <Parking index="11" type="gate" name="T-Hanger_North" lat="N42 14.405018" lon="W83 30.659678" heading="2.36"  radius="19" airlineCodes="" />
-        <Parking index="12" type="gate" name="Anglin_Aviation_T-Hangers" lat="N42 14.131624" lon="W83 30.666159" heading="358.29"  radius="19" airlineCodes="" />
+        <Parking index="9" type="gate" name="Johnson_Controls_Ramp" lat="N42 14.740805" lon="W83 31.764040" heading="270"  radius="36" airlineCodes="" />
+        <Parking index="10" type="gate" name="Active_Aero_Services" lat="N42 14.213130" lon="W83 30.849564" heading="180"  radius="36" airlineCodes="" />
+        <Parking index="11" type="gate" name="T-Hanger_North" lat="N42 14.405018" lon="W83 30.659678" heading="2.36"  radius="20" airlineCodes="" />
+        <Parking index="12" type="gate" name="Anglin_Aviation_T-Hangers" lat="N42 14.131624" lon="W83 30.666159" heading="358.29"  radius="20" airlineCodes="" />
  </parkingList>
 </groundnet>

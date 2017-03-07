@@ -5,8 +5,8 @@
         <Parking index="0" type="ga" name="Grass_2" lat="N53 47.308892" lon="W1 12.623919" heading="-26.57"  radius="10" pushBackRoute="13" airlineCodes="" />
         <Parking index="1" type="ga" name="Apron" lat="N53 47.347871" lon="W1 12.553025" heading="220.19"  radius="10" pushBackRoute="11" airlineCodes="" />
         <Parking index="2" type="ga" name="Apron" lat="N53 47.342414" lon="W1 12.556898" heading="304.97"  radius="10" pushBackRoute="12" airlineCodes="" />
-        <Parking index="3" type="gate" name="Apron" lat="N53 47.385110" lon="W1 12.548023" heading="191.07"  radius="19" pushBackRoute="11" airlineCodes="" />
-        <Parking index="4" type="gate" name="Apron" lat="N53 47.366149" lon="W1 12.571062" heading="198.97"  radius="19" pushBackRoute="11" airlineCodes="" />
+        <Parking index="3" type="gate" name="Apron" lat="N53 47.385110" lon="W1 12.548023" heading="191.07"  radius="10" pushBackRoute="11" airlineCodes="" />
+        <Parking index="4" type="gate" name="Apron" lat="N53 47.366149" lon="W1 12.571062" heading="198.97"  radius="10" pushBackRoute="11" airlineCodes="" />
         <Parking index="5" type="ga" name="Grass" lat="N53 47.331584" lon="W1 12.611611" heading="160.43"  radius="10" pushBackRoute="12" airlineCodes="" />
         <Parking index="6" type="ga" name="Hangers_2" lat="N53 47.173291" lon="W1 12.753121" heading="280.97"  radius="10" pushBackRoute="15" airlineCodes="" />
         <Parking index="7" type="ga" name="Hangers_2" lat="N53 47.168698" lon="W1 12.744866" heading="8.18"  radius="10" pushBackRoute="15" airlineCodes="" />

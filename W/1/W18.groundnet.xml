@@ -2,11 +2,11 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Fuel_Pump" lat="N39 4.616446" lon="W76 49.625914" heading="-66.8"  radius="19" pushBackRoute="19" airlineCodes="" />
-        <Parking index="1" type="gate" name="South_Hangar" lat="N39 4.535120" lon="W76 49.660881" heading="309.27"  radius="19" pushBackRoute="21" airlineCodes="" />
-        <Parking index="2" type="gate" name="East_Grass_Ramp" lat="N39 4.652191" lon="W76 49.607449" heading="286.6"  radius="19" pushBackRoute="18" airlineCodes="" />
-        <Parking index="3" type="gate" name="West_Grass_Ramp" lat="N39 4.631636" lon="W76 49.744764" heading="114.93"  radius="19" pushBackRoute="16" airlineCodes="" />
-        <Parking index="4" type="gate" name="North_Hangar" lat="N39 4.637277" lon="W76 49.592423" heading="251.4"  radius="19" pushBackRoute="18" airlineCodes="" />
+        <Parking index="0" type="gate" name="Fuel_Pump" lat="N39 4.616446" lon="W76 49.625914" heading="-66.8"  radius="10" pushBackRoute="19" airlineCodes="" />
+        <Parking index="1" type="gate" name="South_Hangar" lat="N39 4.535120" lon="W76 49.660881" heading="309.27"  radius="10" pushBackRoute="21" airlineCodes="" />
+        <Parking index="2" type="gate" name="East_Grass_Ramp" lat="N39 4.652191" lon="W76 49.607449" heading="286.6"  radius="10" pushBackRoute="18" airlineCodes="" />
+        <Parking index="3" type="gate" name="West_Grass_Ramp" lat="N39 4.631636" lon="W76 49.744764" heading="114.93"  radius="10" pushBackRoute="16" airlineCodes="" />
+        <Parking index="4" type="gate" name="North_Hangar" lat="N39 4.637277" lon="W76 49.592423" heading="251.4"  radius="10" pushBackRoute="18" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="5" lat="N39 4.767278" lon="W76 49.614565" isOnRunway="0" holdPointType="none"  />

@@ -2,15 +2,15 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Terminal_Start_(Medium)" lat="N50 1.284490" lon="W110 43.292096" heading="0"  radius="19" pushBackRoute="66" airlineCodes="" />
-        <Parking index="1" type="gate" name="Terminal_Start_(Medium)" lat="N50 1.289032" lon="W110 43.317004" heading="0"  radius="19" pushBackRoute="66" airlineCodes="" />
-        <Parking index="2" type="gate" name="FBO_Ramp_(Medium)" lat="N50 1.236121" lon="W110 43.548739" heading="130.41"  radius="19" pushBackRoute="91" airlineCodes="" />
-        <Parking index="3" type="gate" name="FBO_Tie-Down_(Small)" lat="N50 1.242121" lon="W110 43.531003" heading="133.57"  radius="19" pushBackRoute="91" airlineCodes="" />
-        <Parking index="4" type="gate" name="FBO_Tie-Down_(Small)" lat="N50 1.248524" lon="W110 43.521037" heading="133.57"  radius="19" pushBackRoute="98" airlineCodes="" />
-        <Parking index="5" type="gate" name="FBO_Ramp_(Medium)" lat="N50 1.189357" lon="W110 43.580636" heading="42.24"  radius="19" pushBackRoute="97" airlineCodes="" />
-        <Parking index="6" type="gate" name="FBO_Tie-Down_(Small)" lat="N50 1.149045" lon="W110 43.587521" heading="49.38"  radius="19" pushBackRoute="97" airlineCodes="" />
-        <Parking index="7" type="gate" name="FBO_Tie-Down_(Small)" lat="N50 1.157802" lon="W110 43.599795" heading="49.38"  radius="19" pushBackRoute="97" airlineCodes="" />
-        <Parking index="8" type="gate" name="FBO_Tie-Down_(Small)" lat="N50 1.166558" lon="W110 43.612070" heading="49.38"  radius="19" pushBackRoute="97" airlineCodes="" />
+        <Parking index="0" type="gate" name="Terminal_Start_(Medium)" lat="N50 1.284490" lon="W110 43.292096" heading="0"  radius="18" pushBackRoute="66" airlineCodes="GGN,CNK,BXH" />
+        <Parking index="1" type="gate" name="Terminal_Start_(Medium)" lat="N50 1.289032" lon="W110 43.317004" heading="0"  radius="18" pushBackRoute="66" airlineCodes="GGN,CNK,BXH" />
+        <Parking index="2" type="gate" name="FBO_Ramp_(Medium)" lat="N50 1.236121" lon="W110 43.548739" heading="130.41"  radius="18" pushBackRoute="91" airlineCodes="" />
+        <Parking index="3" type="gate" name="FBO_Tie-Down_(Small)" lat="N50 1.242121" lon="W110 43.531003" heading="133.57"  radius="10" pushBackRoute="91" airlineCodes="" />
+        <Parking index="4" type="gate" name="FBO_Tie-Down_(Small)" lat="N50 1.248524" lon="W110 43.521037" heading="133.57"  radius="10" pushBackRoute="98" airlineCodes="" />
+        <Parking index="5" type="gate" name="FBO_Ramp_(Medium)" lat="N50 1.189357" lon="W110 43.580636" heading="42.24"  radius="18" pushBackRoute="97" airlineCodes="" />
+        <Parking index="6" type="gate" name="FBO_Tie-Down_(Small)" lat="N50 1.149045" lon="W110 43.587521" heading="49.38"  radius="10" pushBackRoute="97" airlineCodes="" />
+        <Parking index="7" type="gate" name="FBO_Tie-Down_(Small)" lat="N50 1.157802" lon="W110 43.599795" heading="49.38"  radius="10" pushBackRoute="97" airlineCodes="" />
+        <Parking index="8" type="gate" name="FBO_Tie-Down_(Small)" lat="N50 1.166558" lon="W110 43.612070" heading="49.38"  radius="10" pushBackRoute="97" airlineCodes="" />
         <Parking index="9" type="ga" name="Row_Hangars_(Small)" lat="N50 1.272668" lon="W110 43.513396" heading="90"  radius="10" pushBackRoute="98" airlineCodes="" />
         <Parking index="10" type="ga" name="Row_Hangars_(Small)" lat="N50 1.322688" lon="W110 43.477444" heading="136.49"  radius="10" pushBackRoute="99" airlineCodes="" />
         <Parking index="11" type="ga" name="Field_Tie-Down_(Small)" lat="N50 1.188034" lon="W110 43.488964" heading="316.65"  radius="10" pushBackRoute="101" airlineCodes="" />

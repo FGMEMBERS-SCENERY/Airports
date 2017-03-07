@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Apron" lat="N54 7.466442" lon="W3 15.673012" heading="-79.21"  radius="19" pushBackRoute="4" airlineCodes="" />
-        <Parking index="1" type="gate" name="Apron" lat="N54 7.505204" lon="W3 15.658855" heading="312.39"  radius="19" pushBackRoute="6" airlineCodes="" />
-        <Parking index="2" type="gate" name="Apron" lat="N54 7.558644" lon="W3 15.679924" heading="134.78"  radius="19" pushBackRoute="8" airlineCodes="" />
-        <Parking index="3" type="ga" name="Apron" lat="N54 7.520576" lon="W3 15.654701" heading="313.29"  radius="8" pushBackRoute="6" airlineCodes="" />
+        <Parking index="0" type="gate" name="Apron" lat="N54 7.466442" lon="W3 15.673012" heading="-79.21"  radius="10" pushBackRoute="4" airlineCodes="" />
+        <Parking index="1" type="gate" name="Apron" lat="N54 7.505204" lon="W3 15.658855" heading="312.39"  radius="10" pushBackRoute="6" airlineCodes="" />
+        <Parking index="2" type="gate" name="Apron" lat="N54 7.558644" lon="W3 15.679924" heading="134.78"  radius="18" pushBackRoute="8" airlineCodes="" />
+        <Parking index="3" type="ga" name="Apron" lat="N54 7.520576" lon="W3 15.654701" heading="313.29"  radius="10" pushBackRoute="6" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="4" lat="N54 7.473303" lon="W3 15.721043" isOnRunway="0" holdPointType="PushBack"  />

@@ -2,12 +2,12 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Term_1_Gate_1" lat="N21 2.670534" lon="W86 52.756902" heading="124.59"  radius="10" airlineCodes="" />
-        <Parking index="1" type="gate" name="Term_1_Gate_4" lat="N21 2.600315" lon="W86 52.804430" heading="124.7"  radius="10" airlineCodes="" />
-        <Parking index="2" type="gate" name="Term_2_Gate_24" lat="N21 2.329581" lon="W86 52.477350" heading="35.31"  radius="10" airlineCodes="" />
-        <Parking index="3" type="gate" name="Term_2_Gate_16" lat="N21 2.435268" lon="W86 52.616634" heading="123.87"  radius="10" airlineCodes="" />
-        <Parking index="4" type="gate" name="Term_3_Gate_38" lat="N21 2.105788" lon="W86 52.122530" heading="32.74"  radius="10" airlineCodes="" />
-        <Parking index="5" type="gate" name="Term_3_Gate_34" lat="N21 2.174374" lon="W86 52.230409" heading="32.35"  radius="10" airlineCodes="" />
+        <Parking index="0" type="gate" name="Term_1_Gate_1" lat="N21 2.670534" lon="W86 52.756902" heading="124.59"  radius="20" airlineCodes="" />
+        <Parking index="1" type="gate" name="Term_1_Gate_4" lat="N21 2.600315" lon="W86 52.804430" heading="124.7"  radius="20" airlineCodes="" />
+        <Parking index="2" type="gate" name="Term_2_Gate_24" lat="N21 2.329581" lon="W86 52.477350" heading="35.31"  radius="20" airlineCodes="" />
+        <Parking index="3" type="gate" name="Term_2_Gate_16" lat="N21 2.435268" lon="W86 52.616634" heading="123.87"  radius="20" airlineCodes="" />
+        <Parking index="4" type="gate" name="Term_3_Gate_38" lat="N21 2.105788" lon="W86 52.122530" heading="32.74"  radius="20" airlineCodes="" />
+        <Parking index="5" type="gate" name="Term_3_Gate_34" lat="N21 2.174374" lon="W86 52.230409" heading="32.35"  radius="20" airlineCodes="" />
         <Parking index="6" type="gate" name="Hold_C1" lat="N21 2.207682" lon="W86 52.389811" heading="199.69"  radius="17" airlineCodes="" />
         <Parking index="7" type="gate" name="New_Ramp_Hokd_12L" lat="N21 3.247086" lon="W86 52.859699" heading="337.09"  radius="17" airlineCodes="" />
         <Parking index="8" type="gate" name="New_Ramp_Start_Hold_30R" lat="N21 2.390924" lon="W86 51.541211" heading="13.3"  radius="17" airlineCodes="" />

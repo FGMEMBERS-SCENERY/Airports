@@ -22,18 +22,18 @@
         <Parking index="17" type="ga" name="Ramp_Start_GA_43" lat="N37 11.160316" lon="W3 46.356053" heading="-90"  radius="10" airlineCodes="" />
         <Parking index="18" type="ga" name="Ramp_Start_GA_44" lat="N37 11.150081" lon="W3 46.356017" heading="-90"  radius="10" airlineCodes="" />
         <Parking index="19" type="ga" name="Ramp_Start_GA_45" lat="N37 11.139827" lon="W3 46.355863" heading="-90"  radius="10" airlineCodes="" />
-        <Parking index="20" type="gate" name="Ramp_Start_1" lat="N37 11.183526" lon="W3 46.747043" heading="-90"  radius="44" airlineCodes="" />
-        <Parking index="21" type="gate" name="Ramp_Start_2" lat="N37 11.145773" lon="W3 46.746731" heading="-90.49"  radius="44" airlineCodes="" />
-        <Parking index="22" type="gate" name="Ramp_Start_3" lat="N37 11.192442" lon="W3 46.632913" heading="-90"  radius="10" airlineCodes="" />
-        <Parking index="23" type="gate" name="Ramp_Start_4" lat="N37 11.165804" lon="W3 46.632540" heading="-90"  radius="10" airlineCodes="" />
-        <Parking index="24" type="gate" name="Ramp_Start_5" lat="N37 11.139692" lon="W3 46.632327" heading="-90"  radius="10" airlineCodes="" />
-        <Parking index="25" type="gate" name="Ramp_Start_6" lat="N37 11.189834" lon="W3 46.556221" heading="-90"  radius="10" airlineCodes="" />
-        <Parking index="26" type="gate" name="Ramp_Start_7" lat="N37 11.165285" lon="W3 46.556157" heading="-90"  radius="10" airlineCodes="" />
-        <Parking index="27" type="gate" name="Ramp_Start_8" lat="N37 11.140947" lon="W3 46.556076" heading="-90"  radius="10" airlineCodes="" />
-        <Parking index="28" type="gate" name="Ramp_Start_9" lat="N37 11.186299" lon="W3 46.485622" heading="-90"  radius="19" airlineCodes="" />
-        <Parking index="29" type="gate" name="Ramp_Start_10" lat="N37 11.164329" lon="W3 46.485358" heading="-90"  radius="19" airlineCodes="" />
-        <Parking index="30" type="gate" name="Ramp_Start_11" lat="N37 11.142796" lon="W3 46.484980" heading="-90"  radius="19" airlineCodes="" />
-        <Parking index="31" type="ga" name="Ramp_Start_H1" lat="N37 11.187288" lon="W3 46.825292" heading="0"  radius="8" airlineCodes="" />
-        <Parking index="32" type="ga" name="Ramp_Start_H2" lat="N37 11.187370" lon="W3 46.796333" heading="0"  radius="8" airlineCodes="" />
+        <Parking index="20" type="gate" name="Ramp_Start_1" lat="N37 11.183526" lon="W3 46.747043" heading="-90"  radius="40" airlineCodes="" />
+        <Parking index="21" type="gate" name="Ramp_Start_2" lat="N37 11.145773" lon="W3 46.746731" heading="-90.49"  radius="40" airlineCodes="" />
+        <Parking index="22" type="gate" name="Ramp_Start_3" lat="N37 11.192442" lon="W3 46.632913" heading="-90"  radius="36" airlineCodes="" />
+        <Parking index="23" type="gate" name="Ramp_Start_4" lat="N37 11.165804" lon="W3 46.632540" heading="-90"  radius="36" airlineCodes="" />
+        <Parking index="24" type="gate" name="Ramp_Start_5" lat="N37 11.139692" lon="W3 46.632327" heading="-90"  radius="36" airlineCodes="" />
+        <Parking index="25" type="gate" name="Ramp_Start_6" lat="N37 11.189834" lon="W3 46.556221" heading="-90"  radius="32" airlineCodes="" />
+        <Parking index="26" type="gate" name="Ramp_Start_7" lat="N37 11.165285" lon="W3 46.556157" heading="-90"  radius="32" airlineCodes="" />
+        <Parking index="27" type="gate" name="Ramp_Start_8" lat="N37 11.140947" lon="W3 46.556076" heading="-90"  radius="32" airlineCodes="" />
+        <Parking index="28" type="gate" name="Ramp_Start_9" lat="N37 11.186299" lon="W3 46.485622" heading="-90"  radius="32" airlineCodes="" />
+        <Parking index="29" type="gate" name="Ramp_Start_10" lat="N37 11.164329" lon="W3 46.485358" heading="-90"  radius="32" airlineCodes="" />
+        <Parking index="30" type="gate" name="Ramp_Start_11" lat="N37 11.142796" lon="W3 46.484980" heading="-90"  radius="32" airlineCodes="" />
+        <Parking index="31" type="ga" name="Ramp_Start_H1" lat="N37 11.187288" lon="W3 46.825292" heading="0"  radius="20" airlineCodes="" />
+        <Parking index="32" type="ga" name="Ramp_Start_H2" lat="N37 11.187370" lon="W3 46.796333" heading="0"  radius="20" airlineCodes="" />
  </parkingList>
 </groundnet>

@@ -2,17 +2,17 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="New_Ramp_Start_31" lat="N18 15.259111" lon="W67 8.979803" heading="163.3"  radius="44" pushBackRoute="42" airlineCodes="" />
-        <Parking index="1" type="gate" name="New_Ramp_Start_10" lat="N18 15.259359" lon="W67 8.933952" heading="169.11"  radius="19" pushBackRoute="39" airlineCodes="" />
-        <Parking index="2" type="gate" name="New_Ramp_Start_9" lat="N18 15.261741" lon="W67 8.919266" heading="163.74"  radius="19" pushBackRoute="39" airlineCodes="" />
-        <Parking index="3" type="gate" name="New_Ramp_Start_8" lat="N18 15.263967" lon="W67 8.911798" heading="161.57"  radius="19" pushBackRoute="39" airlineCodes="" />
-        <Parking index="4" type="gate" name="New_Ramp_Start_7" lat="N18 15.240106" lon="W67 8.885555" heading="344.48"  radius="19" pushBackRoute="26" airlineCodes="" />
-        <Parking index="5" type="gate" name="New_Ramp_Start_6" lat="N18 15.241725" lon="W67 8.879564" heading="350.27"  radius="19" pushBackRoute="27" airlineCodes="" />
-        <Parking index="6" type="gate" name="New_Ramp_Start_5" lat="N18 15.244025" lon="W67 8.872160" heading="354.64"  radius="19" pushBackRoute="27" airlineCodes="" />
-        <Parking index="7" type="gate" name="New_Ramp_Start_4" lat="N18 15.245704" lon="W67 8.862394" heading="342.55"  radius="19" pushBackRoute="29" airlineCodes="" />
-        <Parking index="8" type="gate" name="New_Ramp_Start_3" lat="N18 15.272666" lon="W67 8.868970" heading="165.07"  radius="19" pushBackRoute="37" airlineCodes="" />
-        <Parking index="9" type="gate" name="New_Ramp_Start_2" lat="N18 15.271390" lon="W67 8.875903" heading="169.05"  radius="19" pushBackRoute="37" airlineCodes="" />
-        <Parking index="10" type="gate" name="New_Ramp_Start_1" lat="N18 15.268011" lon="W67 8.891168" heading="169.88"  radius="19" pushBackRoute="36" airlineCodes="" />
+        <Parking index="0" type="gate" name="New_Ramp_Start_31" lat="N18 15.259111" lon="W67 8.979803" heading="163.3"  radius="36" pushBackRoute="42" airlineCodes="" />
+        <Parking index="1" type="gate" name="New_Ramp_Start_10" lat="N18 15.259359" lon="W67 8.933952" heading="169.11"  radius="36" pushBackRoute="39" airlineCodes="" />
+        <Parking index="2" type="gate" name="New_Ramp_Start_9" lat="N18 15.261741" lon="W67 8.919266" heading="163.74"  radius="36" pushBackRoute="39" airlineCodes="" />
+        <Parking index="3" type="gate" name="New_Ramp_Start_8" lat="N18 15.263967" lon="W67 8.911798" heading="161.57"  radius="36" pushBackRoute="39" airlineCodes="" />
+        <Parking index="4" type="gate" name="New_Ramp_Start_7" lat="N18 15.240106" lon="W67 8.885555" heading="344.48"  radius="36" pushBackRoute="26" airlineCodes="" />
+        <Parking index="5" type="gate" name="New_Ramp_Start_6" lat="N18 15.241725" lon="W67 8.879564" heading="350.27"  radius="36" pushBackRoute="27" airlineCodes="" />
+        <Parking index="6" type="gate" name="New_Ramp_Start_5" lat="N18 15.244025" lon="W67 8.872160" heading="354.64"  radius="36" pushBackRoute="27" airlineCodes="" />
+        <Parking index="7" type="gate" name="New_Ramp_Start_4" lat="N18 15.245704" lon="W67 8.862394" heading="342.55"  radius="36" pushBackRoute="29" airlineCodes="" />
+        <Parking index="8" type="gate" name="New_Ramp_Start_3" lat="N18 15.272666" lon="W67 8.868970" heading="165.07"  radius="36" pushBackRoute="37" airlineCodes="" />
+        <Parking index="9" type="gate" name="New_Ramp_Start_2" lat="N18 15.271390" lon="W67 8.875903" heading="169.05"  radius="36" pushBackRoute="37" airlineCodes="" />
+        <Parking index="10" type="gate" name="New_Ramp_Start_1" lat="N18 15.268011" lon="W67 8.891168" heading="169.88"  radius="36" pushBackRoute="36" airlineCodes="" />
         <Parking index="11" type="gate" name="Gen_Avia_Ramp" lat="N18 15.260890" lon="W67 8.883739" heading="166"  radius="17" pushBackRoute="36" airlineCodes="" />
         <Parking index="12" type="gate" name="Terminal" lat="N18 15.232786" lon="W67 9.008584" heading="77.96"  radius="17" pushBackRoute="44" airlineCodes="" />
  </parkingList>

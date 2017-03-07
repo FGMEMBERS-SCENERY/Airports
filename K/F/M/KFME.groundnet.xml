@@ -2,18 +2,18 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="New_Ramp_Start_1" lat="N39 5.240273" lon="W76 45.325194" heading="274.16"  radius="10" pushBackRoute="25" airlineCodes="" />
-        <Parking index="1" type="ga" name="New_Ramp_Start_1" lat="N39 5.234540" lon="W76 45.299031" heading="274.16"  radius="10" pushBackRoute="23" airlineCodes="" />
-        <Parking index="2" type="ga" name="New_Ramp_Start_1" lat="N39 5.248066" lon="W76 45.324383" heading="274.16"  radius="10" pushBackRoute="25" airlineCodes="" />
-        <Parking index="3" type="ga" name="New_Ramp_Start_1" lat="N39 5.242651" lon="W76 45.298528" heading="274.16"  radius="10" pushBackRoute="24" airlineCodes="" />
-        <Parking index="4" type="ga" name="New_Ramp_Start_1" lat="N39 5.226723" lon="W76 45.299759" heading="274.16"  radius="10" pushBackRoute="23" airlineCodes="" />
-        <Parking index="5" type="ga" name="New_Ramp_Start_1" lat="N39 5.219714" lon="W76 45.300170" heading="274.16"  radius="10" pushBackRoute="15" airlineCodes="" />
-        <Parking index="6" type="ga" name="New_Ramp_Start_1" lat="N39 5.209810" lon="W76 45.327854" heading="274.16"  radius="10" pushBackRoute="35" airlineCodes="" />
-        <Parking index="7" type="ga" name="New_Ramp_Start_1" lat="N39 5.212438" lon="W76 45.300871" heading="274.16"  radius="10" pushBackRoute="15" airlineCodes="" />
-        <Parking index="8" type="ga" name="New_Ramp_Start_1" lat="N39 5.204482" lon="W76 45.301572" heading="274.16"  radius="10" pushBackRoute="15" airlineCodes="" />
-        <Parking index="9" type="ga" name="New_Ramp_Start_1" lat="N39 5.232296" lon="W76 45.325666" heading="274.16"  radius="10" pushBackRoute="25" airlineCodes="" />
-        <Parking index="10" type="ga" name="New_Ramp_Start_1" lat="N39 5.225155" lon="W76 45.326804" heading="274.16"  radius="10" pushBackRoute="25" airlineCodes="" />
-        <Parking index="11" type="ga" name="New_Ramp_Start_1" lat="N39 5.217607" lon="W76 45.327155" heading="274.16"  radius="10" pushBackRoute="35" airlineCodes="" />
+        <Parking index="0" type="ga" name="New_Ramp_Start_1" lat="N39 5.240273" lon="W76 45.325194" heading="274.16"  radius="18" pushBackRoute="25" airlineCodes="" />
+        <Parking index="1" type="ga" name="New_Ramp_Start_1" lat="N39 5.234540" lon="W76 45.299031" heading="274.16"  radius="18" pushBackRoute="23" airlineCodes="" />
+        <Parking index="2" type="ga" name="New_Ramp_Start_1" lat="N39 5.248066" lon="W76 45.324383" heading="274.16"  radius="18" pushBackRoute="25" airlineCodes="" />
+        <Parking index="3" type="ga" name="New_Ramp_Start_1" lat="N39 5.242651" lon="W76 45.298528" heading="274.16"  radius="18" pushBackRoute="24" airlineCodes="" />
+        <Parking index="4" type="ga" name="New_Ramp_Start_1" lat="N39 5.226723" lon="W76 45.299759" heading="274.16"  radius="18" pushBackRoute="23" airlineCodes="" />
+        <Parking index="5" type="ga" name="New_Ramp_Start_1" lat="N39 5.219714" lon="W76 45.300170" heading="274.16"  radius="18" pushBackRoute="15" airlineCodes="" />
+        <Parking index="6" type="ga" name="New_Ramp_Start_1" lat="N39 5.209810" lon="W76 45.327854" heading="274.16"  radius="18" pushBackRoute="35" airlineCodes="" />
+        <Parking index="7" type="ga" name="New_Ramp_Start_1" lat="N39 5.212438" lon="W76 45.300871" heading="274.16"  radius="18" pushBackRoute="15" airlineCodes="" />
+        <Parking index="8" type="ga" name="New_Ramp_Start_1" lat="N39 5.204482" lon="W76 45.301572" heading="274.16"  radius="18" pushBackRoute="15" airlineCodes="" />
+        <Parking index="9" type="ga" name="New_Ramp_Start_1" lat="N39 5.232296" lon="W76 45.325666" heading="274.16"  radius="18" pushBackRoute="25" airlineCodes="" />
+        <Parking index="10" type="ga" name="New_Ramp_Start_1" lat="N39 5.225155" lon="W76 45.326804" heading="274.16"  radius="18" pushBackRoute="25" airlineCodes="" />
+        <Parking index="11" type="ga" name="New_Ramp_Start_1" lat="N39 5.217607" lon="W76 45.327155" heading="274.16"  radius="18" pushBackRoute="35" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="12" lat="N39 5.161259" lon="W76 45.251446" isOnRunway="0" holdPointType="none"  />

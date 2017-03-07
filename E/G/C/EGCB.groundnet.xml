@@ -2,14 +2,14 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="Apron" lat="N53 28.246535" lon="W2 23.143429" heading="131.46"  radius="10" pushBackRoute="27" airlineCodes="" />
-        <Parking index="1" type="ga" name="Apron" lat="N53 28.240292" lon="W2 23.188169" heading="131.46"  radius="10" pushBackRoute="17" airlineCodes="" />
-        <Parking index="2" type="ga" name="West_Grass" lat="N53 28.234826" lon="W2 23.490250" heading="262.01"  radius="10" pushBackRoute="33" airlineCodes="" />
-        <Parking index="3" type="ga" name="West_Grass" lat="N53 28.238372" lon="W2 23.445699" heading="262.01"  radius="10" pushBackRoute="29" airlineCodes="" />
-        <Parking index="4" type="ga" name="Grass" lat="N53 28.253020" lon="W2 23.273911" heading="219.35"  radius="10" pushBackRoute="38" airlineCodes="" />
-        <Parking index="5" type="ga" name="Grass" lat="N53 28.248403" lon="W2 23.265292" heading="219.35"  radius="10" pushBackRoute="38" airlineCodes="" />
-        <Parking index="6" type="ga" name="Grass" lat="N53 28.244196" lon="W2 23.258225" heading="219.35"  radius="10" pushBackRoute="38" airlineCodes="" />
-        <Parking index="7" type="ga" name="Grass" lat="N53 28.219981" lon="W2 23.271842" heading="219.35"  radius="10" pushBackRoute="15" airlineCodes="" />
+        <Parking index="0" type="ga" name="Apron" lat="N53 28.246535" lon="W2 23.143429" heading="131.46"  radius="18" pushBackRoute="27" airlineCodes="" />
+        <Parking index="1" type="ga" name="Apron" lat="N53 28.240292" lon="W2 23.188169" heading="131.46"  radius="18" pushBackRoute="17" airlineCodes="" />
+        <Parking index="2" type="ga" name="West_Grass" lat="N53 28.234826" lon="W2 23.490250" heading="262.01"  radius="18" pushBackRoute="33" airlineCodes="" />
+        <Parking index="3" type="ga" name="West_Grass" lat="N53 28.238372" lon="W2 23.445699" heading="262.01"  radius="18" pushBackRoute="29" airlineCodes="" />
+        <Parking index="4" type="ga" name="Grass" lat="N53 28.253020" lon="W2 23.273911" heading="219.35"  radius="18" pushBackRoute="38" airlineCodes="" />
+        <Parking index="5" type="ga" name="Grass" lat="N53 28.248403" lon="W2 23.265292" heading="219.35"  radius="18" pushBackRoute="38" airlineCodes="" />
+        <Parking index="6" type="ga" name="Grass" lat="N53 28.244196" lon="W2 23.258225" heading="219.35"  radius="18" pushBackRoute="38" airlineCodes="" />
+        <Parking index="7" type="ga" name="Grass" lat="N53 28.219981" lon="W2 23.271842" heading="219.35"  radius="18" pushBackRoute="15" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="8" lat="N53 28.421300" lon="W2 23.226636" isOnRunway="0" holdPointType="none"  />

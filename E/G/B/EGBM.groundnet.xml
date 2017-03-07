@@ -6,8 +6,8 @@
         <Parking index="1" type="ga" name="Disused_Runway" lat="N52 48.887759" lon="W1 46.041617" heading="254.43"  radius="10" pushBackRoute="11" airlineCodes="" />
         <Parking index="2" type="ga" name="Disused_Runway" lat="N52 48.869185" lon="W1 46.034788" heading="254.43"  radius="10" pushBackRoute="12" airlineCodes="" />
         <Parking index="3" type="ga" name="Disused_Runway" lat="N52 48.859166" lon="W1 46.031123" heading="254.43"  radius="10" pushBackRoute="12" airlineCodes="" />
-        <Parking index="4" type="gate" name="Apron_Parking" lat="N52 48.997492" lon="W1 45.357649" heading="228.58"  radius="19" pushBackRoute="14" airlineCodes="" />
-        <Parking index="5" type="gate" name="Apron_Parking" lat="N52 48.990030" lon="W1 45.345183" heading="228.58"  radius="19" pushBackRoute="14" airlineCodes="" />
+        <Parking index="4" type="gate" name="Apron_Parking" lat="N52 48.997492" lon="W1 45.357649" heading="228.58"  radius="10" pushBackRoute="14" airlineCodes="" />
+        <Parking index="5" type="gate" name="Apron_Parking" lat="N52 48.990030" lon="W1 45.345183" heading="228.58"  radius="10" pushBackRoute="14" airlineCodes="" />
         <Parking index="6" type="ga" name="Grass_Parking" lat="N52 48.965320" lon="W1 45.383891" heading="164.06"  radius="10" pushBackRoute="14" airlineCodes="" />
         <Parking index="7" type="ga" name="Grass_Parking" lat="N52 48.963622" lon="W1 45.395501" heading="164.06"  radius="10" pushBackRoute="14" airlineCodes="" />
         <Parking index="8" type="ga" name="Grass_Parking" lat="N52 48.961735" lon="W1 45.408792" heading="171.44"  radius="10" pushBackRoute="14" airlineCodes="" />

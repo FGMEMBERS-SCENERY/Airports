@@ -2,24 +2,24 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="A_ramp" lat="N47 56.897870" lon="W97 10.634665" heading="-90"  radius="19" pushBackRoute="27" airlineCodes="" />
-        <Parking index="1" type="gate" name="A_ramp" lat="N47 56.808215" lon="W97 10.642065" heading="-90"  radius="19" pushBackRoute="95" airlineCodes="" />
-        <Parking index="2" type="gate" name="A_ramp" lat="N47 56.642459" lon="W97 10.646232" heading="-90"  radius="19" pushBackRoute="19" airlineCodes="" />
-        <Parking index="3" type="gate" name="A_ramp" lat="N47 56.763993" lon="W97 10.641537" heading="-90"  radius="19" pushBackRoute="96" airlineCodes="" />
-        <Parking index="4" type="gate" name="A_ramp" lat="N47 56.828709" lon="W97 10.642007" heading="-90"  radius="19" pushBackRoute="95" airlineCodes="" />
-        <Parking index="5" type="gate" name="A_ramp" lat="N47 56.725387" lon="W97 10.607638" heading="-90"  radius="19" pushBackRoute="97" airlineCodes="" />
-        <Parking index="6" type="gate" name="GATE" lat="N47 56.980371" lon="W97 10.625657" heading="223.62"  radius="19" pushBackRoute="67" airlineCodes="" />
-        <Parking index="7" type="gate" name="GATE" lat="N47 57.016344" lon="W97 10.611352" heading="90.27"  radius="19" pushBackRoute="36" airlineCodes="" />
-        <Parking index="8" type="gate" name="GATE" lat="N47 57.018979" lon="W97 10.310783" heading="90"  radius="19" pushBackRoute="65" airlineCodes="" />
-        <Parking index="9" type="gate" name="CARGO" lat="N47 56.388008" lon="W97 10.608101" heading="270"  radius="44" pushBackRoute="25" airlineCodes="" />
-        <Parking index="10" type="gate" name="CARGO" lat="N47 56.478224" lon="W97 10.647100" heading="270"  radius="44" pushBackRoute="23" airlineCodes="" />
-        <Parking index="11" type="gate" name="DELTA" lat="N47 56.582282" lon="W97 10.650650" heading="180"  radius="44" pushBackRoute="18" airlineCodes="" />
-        <Parking index="12" type="gate" name="DELTA" lat="N47 56.543707" lon="W97 10.642808" heading="90"  radius="44" pushBackRoute="21" airlineCodes="" />
-        <Parking index="13" type="gate" name="DELTA" lat="N47 56.598458" lon="W97 10.643233" heading="90"  radius="44" pushBackRoute="18" airlineCodes="" />
-        <Parking index="14" type="gate" name="GA" lat="N47 56.924898" lon="W97 10.368240" heading="91.35"  radius="19" pushBackRoute="65" airlineCodes="" />
-        <Parking index="15" type="gate" name="GA" lat="N47 56.865579" lon="W97 10.370482" heading="91.35"  radius="19" pushBackRoute="71" airlineCodes="" />
-        <Parking index="16" type="gate" name="GA" lat="N47 56.884351" lon="W97 10.373845" heading="91.35"  radius="19" pushBackRoute="65" airlineCodes="" />
-        <Parking index="17" type="gate" name="GA" lat="N47 56.904624" lon="W97 10.371603" heading="91.35"  radius="19" pushBackRoute="65" airlineCodes="" />
+        <Parking index="0" type="gate" name="A_ramp" lat="N47 56.897870" lon="W97 10.634665" heading="-90"  radius="36" pushBackRoute="27" airlineCodes="" />
+        <Parking index="1" type="gate" name="A_ramp" lat="N47 56.808215" lon="W97 10.642065" heading="-90"  radius="36" pushBackRoute="95" airlineCodes="" />
+        <Parking index="2" type="gate" name="A_ramp" lat="N47 56.642459" lon="W97 10.646232" heading="-90"  radius="36" pushBackRoute="19" airlineCodes="" />
+        <Parking index="3" type="gate" name="A_ramp" lat="N47 56.763993" lon="W97 10.641537" heading="-90"  radius="36" pushBackRoute="96" airlineCodes="" />
+        <Parking index="4" type="gate" name="A_ramp" lat="N47 56.828709" lon="W97 10.642007" heading="-90"  radius="36" pushBackRoute="95" airlineCodes="" />
+        <Parking index="5" type="gate" name="A_ramp" lat="N47 56.725387" lon="W97 10.607638" heading="-90"  radius="36" pushBackRoute="97" airlineCodes="" />
+        <Parking index="6" type="gate" name="GATE" lat="N47 56.980371" lon="W97 10.625657" heading="223.62"  radius="36" pushBackRoute="67" airlineCodes="" />
+        <Parking index="7" type="gate" name="GATE" lat="N47 57.016344" lon="W97 10.611352" heading="90.27"  radius="36" pushBackRoute="36" airlineCodes="" />
+        <Parking index="8" type="gate" name="GATE" lat="N47 57.018979" lon="W97 10.310783" heading="90"  radius="36" pushBackRoute="65" airlineCodes="" />
+        <Parking index="9" type="gate" name="CARGO" lat="N47 56.388008" lon="W97 10.608101" heading="270"  radius="36" pushBackRoute="25" airlineCodes="" />
+        <Parking index="10" type="gate" name="CARGO" lat="N47 56.478224" lon="W97 10.647100" heading="270"  radius="36" pushBackRoute="23" airlineCodes="" />
+        <Parking index="11" type="gate" name="DELTA" lat="N47 56.582282" lon="W97 10.650650" heading="180"  radius="36" pushBackRoute="18" airlineCodes="" />
+        <Parking index="12" type="gate" name="DELTA" lat="N47 56.543707" lon="W97 10.642808" heading="90"  radius="36" pushBackRoute="21" airlineCodes="" />
+        <Parking index="13" type="gate" name="DELTA" lat="N47 56.598458" lon="W97 10.643233" heading="90"  radius="36" pushBackRoute="18" airlineCodes="" />
+        <Parking index="14" type="gate" name="GA" lat="N47 56.924898" lon="W97 10.368240" heading="91.35"  radius="36" pushBackRoute="65" airlineCodes="" />
+        <Parking index="15" type="gate" name="GA" lat="N47 56.865579" lon="W97 10.370482" heading="91.35"  radius="36" pushBackRoute="71" airlineCodes="" />
+        <Parking index="16" type="gate" name="GA" lat="N47 56.884351" lon="W97 10.373845" heading="91.35"  radius="36" pushBackRoute="65" airlineCodes="" />
+        <Parking index="17" type="gate" name="GA" lat="N47 56.904624" lon="W97 10.371603" heading="91.35"  radius="36" pushBackRoute="65" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="18" lat="N47 56.607790" lon="W97 10.696882" isOnRunway="0" holdPointType="PushBack"  />

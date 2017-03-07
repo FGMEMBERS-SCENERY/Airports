@@ -2,14 +2,14 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Terminal_4" lat="N30 12.437225" lon="W91 59.568230" heading="-1.2"  radius="19" pushBackRoute="61" airlineCodes="" />
+        <Parking index="0" type="gate" name="Terminal_4" lat="N30 12.437225" lon="W91 59.568230" heading="-1.2"  radius="20" pushBackRoute="61" airlineCodes="" />
         <Parking index="1" type="gate" name="Terminal_1" lat="N30 12.453403" lon="W91 59.626012" heading="0.8"  radius="17" pushBackRoute="60" airlineCodes="" />
-        <Parking index="2" type="gate" name="Terminal_2" lat="N30 12.444665" lon="W91 59.607468" heading="359.86"  radius="44" pushBackRoute="60" airlineCodes="" />
-        <Parking index="3" type="gate" name="Cargo_Ramp_1" lat="N30 11.854939" lon="W91 59.719882" heading="71.91"  radius="44" pushBackRoute="93" airlineCodes="" />
+        <Parking index="2" type="gate" name="Terminal_2" lat="N30 12.444665" lon="W91 59.607468" heading="359.86"  radius="36" pushBackRoute="60" airlineCodes="" />
+        <Parking index="3" type="gate" name="Cargo_Ramp_1" lat="N30 11.854939" lon="W91 59.719882" heading="71.91"  radius="36" pushBackRoute="93" airlineCodes="" />
         <Parking index="4" type="gate" name="Cargo_Ramp_2" lat="N30 11.856888" lon="W91 59.654926" heading="124.99"  radius="17" pushBackRoute="93" airlineCodes="" />
-        <Parking index="5" type="gate" name="RAMP_START_3" lat="N30 12.561531" lon="W91 59.332839" heading="108.23"  radius="19" pushBackRoute="25" airlineCodes="" />
-        <Parking index="6" type="gate" name="RAMP_START_4" lat="N30 12.524114" lon="W91 59.421426" heading="156.98"  radius="19" pushBackRoute="26" airlineCodes="" />
-        <Parking index="7" type="gate" name="Landmark_Aviation_FBO" lat="N30 12.693607" lon="W91 59.345266" heading="-161.58"  radius="19" pushBackRoute="11" airlineCodes="" />
+        <Parking index="5" type="gate" name="RAMP_START_3" lat="N30 12.561531" lon="W91 59.332839" heading="108.23"  radius="20" pushBackRoute="25" airlineCodes="" />
+        <Parking index="6" type="gate" name="RAMP_START_4" lat="N30 12.524114" lon="W91 59.421426" heading="156.98"  radius="20" pushBackRoute="26" airlineCodes="" />
+        <Parking index="7" type="gate" name="Landmark_Aviation_FBO" lat="N30 12.693607" lon="W91 59.345266" heading="-161.58"  radius="20" pushBackRoute="11" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="8" lat="N30 11.825717" lon="W91 59.599225" isOnRunway="0" holdPointType="none"  />

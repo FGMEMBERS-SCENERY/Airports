@@ -2,9 +2,9 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="Aviation_Tech_School" lat="N35 21.655692" lon="W96 56.401660" heading="180"  radius="10" pushBackRoute="3" airlineCodes="" />
-        <Parking index="1" type="ga" name="Maintainance_hanger" lat="N35 21.436976" lon="W96 56.458082" heading="234.46"  radius="10" pushBackRoute="6" airlineCodes="" />
-        <Parking index="2" type="ga" name="Terminal_Building" lat="N35 21.409938" lon="W96 56.454754" heading="268.85"  radius="10" pushBackRoute="7" airlineCodes="" />
+        <Parking index="0" type="ga" name="Aviation_Tech_School" lat="N35 21.655692" lon="W96 56.401660" heading="180"  radius="18" pushBackRoute="3" airlineCodes="" />
+        <Parking index="1" type="ga" name="Maintainance_hanger" lat="N35 21.436976" lon="W96 56.458082" heading="234.46"  radius="18" pushBackRoute="6" airlineCodes="" />
+        <Parking index="2" type="ga" name="Terminal_Building" lat="N35 21.409938" lon="W96 56.454754" heading="268.85"  radius="18" pushBackRoute="7" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="3" lat="N35 21.653740" lon="W96 56.401941" isOnRunway="0" holdPointType="PushBack"  />

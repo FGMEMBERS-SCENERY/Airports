@@ -16,23 +16,23 @@
         <Parking index="11" type="ga" name="General_Aviation_North" lat="N51 34.322818" lon="E0 41.569019" heading="106.74"  radius="10" pushBackRoute="33" airlineCodes="" />
         <Parking index="12" type="ga" name="General_Aviation_North" lat="N51 34.317199" lon="E0 41.566006" heading="106.74"  radius="10" pushBackRoute="33" airlineCodes="" />
         <Parking index="13" type="ga" name="General_Aviation_North" lat="N51 34.311185" lon="E0 41.562596" heading="106.74"  radius="10" pushBackRoute="33" airlineCodes="" />
-        <Parking index="14" type="gate" name="Terminal_Parking" lat="N51 34.098134" lon="E0 42.082141" heading="144.67"  radius="44" pushBackRoute="42" airlineCodes="" />
-        <Parking index="15" type="gate" name="Terminal_Parking" lat="N51 34.112095" lon="E0 42.112410" heading="144.67"  radius="44" pushBackRoute="43" airlineCodes="" />
-        <Parking index="16" type="gate" name="Terminal_Parking" lat="N51 34.131749" lon="E0 42.144526" heading="130"  radius="44" pushBackRoute="43" airlineCodes="" />
-        <Parking index="17" type="gate" name="Terminal_Parking" lat="N51 34.156497" lon="E0 42.164460" heading="93.99"  radius="44" pushBackRoute="45" airlineCodes="" />
-        <Parking index="18" type="gate" name="Terminal_Parking" lat="N51 34.180189" lon="E0 42.166289" heading="93.99"  radius="44" pushBackRoute="46" airlineCodes="" />
-        <Parking index="19" type="gate" name="Terminal_Parking" lat="N51 34.295793" lon="E0 42.184693" heading="93.99"  radius="44" pushBackRoute="48" airlineCodes="" />
-        <Parking index="20" type="gate" name="Terminal_Parking" lat="N51 34.272673" lon="E0 42.180783" heading="93.99"  radius="44" pushBackRoute="48" airlineCodes="" />
-        <Parking index="21" type="gate" name="Terminal_Parking" lat="N51 34.249422" lon="E0 42.179093" heading="93.99"  radius="44" pushBackRoute="47" airlineCodes="" />
-        <Parking index="22" type="gate" name="Terminal_Parking" lat="N51 34.226499" lon="E0 42.176556" heading="93.99"  radius="44" pushBackRoute="47" airlineCodes="" />
-        <Parking index="23" type="gate" name="Terminal_Parking" lat="N51 34.203356" lon="E0 42.173321" heading="93.99"  radius="44" pushBackRoute="47" airlineCodes="" />
-        <Parking index="24" type="gate" name="Cargo_Apron" lat="N51 34.088692" lon="E0 42.035089" heading="316.43"  radius="44" pushBackRoute="42" airlineCodes="" />
-        <Parking index="25" type="gate" name="Cargo_Apron" lat="N51 34.093024" lon="E0 41.996165" heading="316.43"  radius="44" pushBackRoute="42" airlineCodes="" />
-        <Parking index="26" type="gate" name="Cargo_Apron" lat="N51 34.108161" lon="E0 41.884721" heading="316.43"  radius="44" pushBackRoute="42" airlineCodes="" />
-        <Parking index="27" type="gate" name="Cargo_Apron" lat="N51 34.104326" lon="E0 41.919067" heading="316.43"  radius="44" pushBackRoute="42" airlineCodes="" />
-        <Parking index="28" type="gate" name="Cargo_Apron" lat="N51 34.097039" lon="E0 41.955881" heading="316.43"  radius="44" pushBackRoute="42" airlineCodes="" />
-        <Parking index="29" type="gate" name="Maintenance_Area" lat="N51 34.297936" lon="E0 41.155425" heading="145.52"  radius="19" pushBackRoute="35" airlineCodes="" />
-        <Parking index="30" type="gate" name="Maintenance_Area" lat="N51 34.300748" lon="E0 41.124778" heading="145.52"  radius="19" pushBackRoute="35" airlineCodes="" />
+        <Parking index="14" type="gate" name="Terminal_Parking" lat="N51 34.098134" lon="E0 42.082141" heading="144.67"  radius="20" pushBackRoute="42" airlineCodes="" />
+        <Parking index="15" type="gate" name="Terminal_Parking" lat="N51 34.112095" lon="E0 42.112410" heading="144.67"  radius="20" pushBackRoute="43" airlineCodes="" />
+        <Parking index="16" type="gate" name="Terminal_Parking" lat="N51 34.131749" lon="E0 42.144526" heading="130"  radius="20" pushBackRoute="43" airlineCodes="" />
+        <Parking index="17" type="gate" name="Terminal_Parking" lat="N51 34.156497" lon="E0 42.164460" heading="93.99"  radius="20" pushBackRoute="45" airlineCodes="" />
+        <Parking index="18" type="gate" name="Terminal_Parking" lat="N51 34.180189" lon="E0 42.166289" heading="93.99"  radius="20" pushBackRoute="46" airlineCodes="" />
+        <Parking index="19" type="gate" name="Terminal_Parking" lat="N51 34.295793" lon="E0 42.184693" heading="93.99"  radius="20" pushBackRoute="48" airlineCodes="" />
+        <Parking index="20" type="gate" name="Terminal_Parking" lat="N51 34.272673" lon="E0 42.180783" heading="93.99"  radius="20" pushBackRoute="48" airlineCodes="" />
+        <Parking index="21" type="gate" name="Terminal_Parking" lat="N51 34.249422" lon="E0 42.179093" heading="93.99"  radius="20" pushBackRoute="47" airlineCodes="" />
+        <Parking index="22" type="gate" name="Terminal_Parking" lat="N51 34.226499" lon="E0 42.176556" heading="93.99"  radius="20" pushBackRoute="47" airlineCodes="" />
+        <Parking index="23" type="gate" name="Terminal_Parking" lat="N51 34.203356" lon="E0 42.173321" heading="93.99"  radius="20" pushBackRoute="47" airlineCodes="" />
+        <Parking index="24" type="gate" name="Cargo_Apron" lat="N51 34.088692" lon="E0 42.035089" heading="316.43"  radius="20" pushBackRoute="42" airlineCodes="" />
+        <Parking index="25" type="gate" name="Cargo_Apron" lat="N51 34.093024" lon="E0 41.996165" heading="316.43"  radius="20" pushBackRoute="42" airlineCodes="" />
+        <Parking index="26" type="gate" name="Cargo_Apron" lat="N51 34.108161" lon="E0 41.884721" heading="316.43"  radius="20" pushBackRoute="42" airlineCodes="" />
+        <Parking index="27" type="gate" name="Cargo_Apron" lat="N51 34.104326" lon="E0 41.919067" heading="316.43"  radius="20" pushBackRoute="42" airlineCodes="" />
+        <Parking index="28" type="gate" name="Cargo_Apron" lat="N51 34.097039" lon="E0 41.955881" heading="316.43"  radius="20" pushBackRoute="42" airlineCodes="" />
+        <Parking index="29" type="gate" name="Maintenance_Area" lat="N51 34.297936" lon="E0 41.155425" heading="145.52"  radius="18" pushBackRoute="35" airlineCodes="" />
+        <Parking index="30" type="gate" name="Maintenance_Area" lat="N51 34.300748" lon="E0 41.124778" heading="145.52"  radius="18" pushBackRoute="35" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="31" lat="N51 34.096376" lon="E0 41.604797" isOnRunway="0" holdPointType="PushBack"  />

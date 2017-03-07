@@ -2,21 +2,21 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Run-Up" lat="N33 55.341728" lon="W118 19.808175" heading="86.99"  radius="19" pushBackRoute="21" airlineCodes="" />
+        <Parking index="0" type="gate" name="Run-Up" lat="N33 55.341728" lon="W118 19.808175" heading="86.99"  radius="20" pushBackRoute="21" airlineCodes="" />
         <Parking index="1" type="ga" name="SW_Ramp" lat="N33 55.321931" lon="W118 20.280165" heading="-2.62"  radius="10" pushBackRoute="40" airlineCodes="" />
         <Parking index="2" type="ga" name="SW_Ramp" lat="N33 55.322088" lon="W118 20.303233" heading="-2.62"  radius="10" pushBackRoute="40" airlineCodes="" />
         <Parking index="3" type="ga" name="SW_Ramp" lat="N33 55.321774" lon="W118 20.292266" heading="-2.62"  radius="10" pushBackRoute="40" airlineCodes="" />
-        <Parking index="4" type="gate" name="SW_Ramp" lat="N33 55.306838" lon="W118 20.350210" heading="-2.62"  radius="19" pushBackRoute="41" airlineCodes="" />
-        <Parking index="5" type="gate" name="SW_Ramp" lat="N33 55.305238" lon="W118 20.413772" heading="10.12"  radius="19" pushBackRoute="41" airlineCodes="" />
-        <Parking index="6" type="gate" name="SW_Ramp" lat="N33 55.304184" lon="W118 20.459863" heading="0"  radius="19" pushBackRoute="42" airlineCodes="" />
+        <Parking index="4" type="gate" name="SW_Ramp" lat="N33 55.306838" lon="W118 20.350210" heading="-2.62"  radius="18" pushBackRoute="41" airlineCodes="" />
+        <Parking index="5" type="gate" name="SW_Ramp" lat="N33 55.305238" lon="W118 20.413772" heading="10.12"  radius="18" pushBackRoute="41" airlineCodes="" />
+        <Parking index="6" type="gate" name="SW_Ramp" lat="N33 55.304184" lon="W118 20.459863" heading="0"  radius="18" pushBackRoute="42" airlineCodes="" />
         <Parking index="7" type="ga" name="SE_Ramp" lat="N33 55.322124" lon="W118 19.780493" heading="-1.1"  radius="10" pushBackRoute="20" airlineCodes="" />
         <Parking index="8" type="ga" name="SE_Ramp" lat="N33 55.321967" lon="W118 19.760450" heading="-1.1"  radius="10" pushBackRoute="19" airlineCodes="" />
         <Parking index="9" type="ga" name="SE_Ramp" lat="N33 55.348327" lon="W118 19.699945" heading="-112.53"  radius="10" pushBackRoute="45" airlineCodes="" />
         <Parking index="10" type="ga" name="SE_Ramp" lat="N33 55.317103" lon="W118 19.699567" heading="-56.1"  radius="10" pushBackRoute="45" airlineCodes="" />
-        <Parking index="11" type="gate" name="SE_Ramp" lat="N33 55.313445" lon="W118 19.736106" heading="359.06"  radius="19" pushBackRoute="44" airlineCodes="" />
-        <Parking index="12" type="gate" name="NW_Ramp" lat="N33 55.402924" lon="W118 20.627784" heading="91.67"  radius="19" pushBackRoute="68" airlineCodes="" />
-        <Parking index="13" type="gate" name="NW_Ramp" lat="N33 55.393588" lon="W118 20.627628" heading="91.67"  radius="19" pushBackRoute="68" airlineCodes="" />
-        <Parking index="14" type="ga" name="NW_Ramp" lat="N33 55.382313" lon="W118 20.619577" heading="91.67"  radius="10" pushBackRoute="68" airlineCodes="" />
+        <Parking index="11" type="gate" name="SE_Ramp" lat="N33 55.313445" lon="W118 19.736106" heading="359.06"  radius="10" pushBackRoute="44" airlineCodes="" />
+        <Parking index="12" type="gate" name="NW_Ramp" lat="N33 55.402924" lon="W118 20.627784" heading="91.67"  radius="10" pushBackRoute="68" airlineCodes="" />
+        <Parking index="13" type="gate" name="NW_Ramp" lat="N33 55.393588" lon="W118 20.627628" heading="91.67"  radius="18" pushBackRoute="68" airlineCodes="" />
+        <Parking index="14" type="ga" name="NW_Ramp" lat="N33 55.382313" lon="W118 20.619577" heading="91.67"  radius="18" pushBackRoute="68" airlineCodes="" />
         <Parking index="15" type="ga" name="NW_Ramp" lat="N33 55.391001" lon="W118 20.597856" heading="88.99"  radius="10" pushBackRoute="68" airlineCodes="" />
         <Parking index="16" type="ga" name="NW_Ramp" lat="N33 55.391909" lon="W118 20.576603" heading="267.34"  radius="10" pushBackRoute="69" airlineCodes="" />
         <Parking index="17" type="ga" name="NW_Ramp" lat="N33 55.397744" lon="W118 20.549725" heading="267.34"  radius="10" pushBackRoute="69" airlineCodes="" />

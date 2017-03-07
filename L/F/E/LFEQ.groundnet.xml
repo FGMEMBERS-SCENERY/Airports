@@ -2,12 +2,12 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="GA_Ramp_6" lat="N47 28.821274" lon="W3 6.066770" heading="289.11"  radius="19" pushBackRoute="6" airlineCodes="" />
-        <Parking index="1" type="gate" name="GA_Ramp_5" lat="N47 28.811425" lon="W3 6.071472" heading="289.11"  radius="19" pushBackRoute="6" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA_Ramp_4" lat="N47 28.853796" lon="W3 6.135886" heading="202.59"  radius="19" pushBackRoute="14" airlineCodes="" />
-        <Parking index="3" type="gate" name="GA_Ramp_3" lat="N47 28.843927" lon="W3 6.149107" heading="21.34"  radius="19" pushBackRoute="10" airlineCodes="" />
-        <Parking index="4" type="gate" name="GA_Ramp_2" lat="N47 28.858980" lon="W3 6.153120" heading="210.57"  radius="19" pushBackRoute="7" airlineCodes="" />
-        <Parking index="5" type="gate" name="GA_Ramp_1" lat="N47 28.849598" lon="W3 6.168392" heading="28.41"  radius="19" pushBackRoute="10" airlineCodes="" />
+        <Parking index="0" type="gate" name="GA_Ramp_6" lat="N47 28.821274" lon="W3 6.066770" heading="289.11"  radius="10" pushBackRoute="6" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA_Ramp_5" lat="N47 28.811425" lon="W3 6.071472" heading="289.11"  radius="10" pushBackRoute="6" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_Ramp_4" lat="N47 28.853796" lon="W3 6.135886" heading="202.59"  radius="10" pushBackRoute="14" airlineCodes="" />
+        <Parking index="3" type="gate" name="GA_Ramp_3" lat="N47 28.843927" lon="W3 6.149107" heading="21.34"  radius="10" pushBackRoute="10" airlineCodes="" />
+        <Parking index="4" type="gate" name="GA_Ramp_2" lat="N47 28.858980" lon="W3 6.153120" heading="210.57"  radius="10" pushBackRoute="7" airlineCodes="" />
+        <Parking index="5" type="gate" name="GA_Ramp_1" lat="N47 28.849598" lon="W3 6.168392" heading="28.41"  radius="10" pushBackRoute="10" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="6" lat="N47 28.832806" lon="W3 6.053743" isOnRunway="0" holdPointType="PushBack"  />

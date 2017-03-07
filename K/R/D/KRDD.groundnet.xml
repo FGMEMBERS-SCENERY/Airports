@@ -2,7 +2,7 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="North_hangar" lat="N40 31.273923" lon="W122 17.482034" heading="178.63"  radius="19" pushBackRoute="156" airlineCodes="" />
+        <Parking index="0" type="gate" name="North_hangar" lat="N40 31.273923" lon="W122 17.482034" heading="178.63"  radius="20" pushBackRoute="156" airlineCodes="" />
         <Parking index="1" type="ga" name="North_Parking" lat="N40 31.176259" lon="W122 17.499974" heading="359.53"  radius="10" pushBackRoute="155" airlineCodes="" />
         <Parking index="2" type="ga" name="North_Parking" lat="N40 31.188096" lon="W122 17.518966" heading="-179.05"  radius="10" pushBackRoute="161" airlineCodes="" />
         <Parking index="3" type="ga" name="North_Parking" lat="N40 31.173590" lon="W122 17.506364" heading="-179.05"  radius="10" pushBackRoute="159" airlineCodes="" />
@@ -10,17 +10,17 @@
         <Parking index="5" type="ga" name="North_Parking" lat="N40 31.161821" lon="W122 17.499884" heading="359.53"  radius="10" pushBackRoute="155" airlineCodes="" />
         <Parking index="6" type="ga" name="North_Parking" lat="N40 31.191107" lon="W122 17.512396" heading="359.53"  radius="10" pushBackRoute="153" airlineCodes="" />
         <Parking index="7" type="ga" name="North_Parking" lat="N40 31.191038" lon="W122 17.525537" heading="359.53"  radius="10" pushBackRoute="153" airlineCodes="" />
-        <Parking index="8" type="gate" name="Fire_service_start" lat="N40 31.141231" lon="W122 17.871495" heading="160.63"  radius="19" pushBackRoute="164" airlineCodes="" />
-        <Parking index="9" type="gate" name="Fire_service_start" lat="N40 31.211317" lon="W122 17.856398" heading="200.17"  radius="19" pushBackRoute="164" airlineCodes="" />
-        <Parking index="10" type="gate" name="Fire_service_start" lat="N40 31.175482" lon="W122 17.869165" heading="178.99"  radius="19" pushBackRoute="164" airlineCodes="" />
-        <Parking index="11" type="gate" name="Hangar_start" lat="N40 30.812773" lon="W122 18.075330" heading="90"  radius="19" pushBackRoute="177" airlineCodes="" />
+        <Parking index="8" type="gate" name="Fire_service_start" lat="N40 31.141231" lon="W122 17.871495" heading="160.63"  radius="18" pushBackRoute="164" airlineCodes="" />
+        <Parking index="9" type="gate" name="Fire_service_start" lat="N40 31.211317" lon="W122 17.856398" heading="200.17"  radius="18" pushBackRoute="164" airlineCodes="" />
+        <Parking index="10" type="gate" name="Fire_service_start" lat="N40 31.175482" lon="W122 17.869165" heading="178.99"  radius="18" pushBackRoute="164" airlineCodes="" />
+        <Parking index="11" type="gate" name="Hangar_start" lat="N40 30.812773" lon="W122 18.075330" heading="90"  radius="18" pushBackRoute="177" airlineCodes="" />
         <Parking index="12" type="ga" name="Hangar_start" lat="N40 30.762014" lon="W122 17.981911" heading="90"  radius="10" pushBackRoute="179" airlineCodes="" />
         <Parking index="13" type="ga" name="Hangar_start" lat="N40 30.762014" lon="W122 17.981911" heading="90"  radius="10" pushBackRoute="179" airlineCodes="" />
         <Parking index="14" type="ga" name="Hangar_start" lat="N40 30.761800" lon="W122 18.005073" heading="359.11"  radius="10" pushBackRoute="148" airlineCodes="" />
         <Parking index="15" type="ga" name="Hangar_start" lat="N40 30.749344" lon="W122 18.028517" heading="359.11"  radius="10" pushBackRoute="148" airlineCodes="" />
         <Parking index="16" type="ga" name="Hangar_start" lat="N40 30.774470" lon="W122 18.051961" heading="179.79"  radius="10" pushBackRoute="179" airlineCodes="" />
         <Parking index="17" type="ga" name="Hangar_start" lat="N40 30.707683" lon="W122 18.053090" heading="359.6"  radius="10" pushBackRoute="190" airlineCodes="" />
-        <Parking index="18" type="gate" name="Hangar_start_size_B" lat="N40 30.826045" lon="W122 18.108965" heading="1.26"  radius="19" pushBackRoute="184" airlineCodes="" />
+        <Parking index="18" type="gate" name="Hangar_start_size_B" lat="N40 30.826045" lon="W122 18.108965" heading="1.26"  radius="18" pushBackRoute="184" airlineCodes="" />
         <Parking index="19" type="ga" name="Parking" lat="N40 30.634205" lon="W122 18.032660" heading="180"  radius="10" pushBackRoute="190" airlineCodes="" />
         <Parking index="20" type="ga" name="Parking" lat="N40 30.619453" lon="W122 18.032660" heading="180"  radius="10" pushBackRoute="185" airlineCodes="" />
         <Parking index="21" type="ga" name="Parking" lat="N40 30.648835" lon="W122 17.890859" heading="180"  radius="10" pushBackRoute="150" airlineCodes="" />
@@ -116,30 +116,30 @@
         <Parking index="111" type="gate" name="Parking" lat="N40 30.614069" lon="W122 18.014287" heading="0"  radius="10" pushBackRoute="186" airlineCodes="" />
         <Parking index="112" type="ga" name="Parking" lat="N40 30.637568" lon="W122 17.990057" heading="0"  radius="10" pushBackRoute="186" airlineCodes="" />
         <Parking index="113" type="ga" name="Parking" lat="N40 30.622816" lon="W122 17.990057" heading="0"  radius="10" pushBackRoute="186" airlineCodes="" />
-        <Parking index="114" type="ga" name="Helipad" lat="N40 30.462124" lon="W122 17.950781" heading="90.88"  radius="8" pushBackRoute="208" airlineCodes="" />
-        <Parking index="115" type="ga" name="Helipad" lat="N40 30.462048" lon="W122 17.967412" heading="90.88"  radius="8" pushBackRoute="208" airlineCodes="" />
-        <Parking index="116" type="ga" name="Helipad" lat="N40 30.450080" lon="W122 17.967115" heading="90.88"  radius="8" pushBackRoute="208" airlineCodes="" />
-        <Parking index="117" type="ga" name="Helipad" lat="N40 30.438038" lon="W122 17.983251" heading="90.88"  radius="8" pushBackRoute="208" airlineCodes="" />
-        <Parking index="118" type="ga" name="Helipad" lat="N40 30.438188" lon="W122 17.966818" heading="90.88"  radius="8" pushBackRoute="208" airlineCodes="" />
-        <Parking index="119" type="ga" name="Helipad" lat="N40 30.438188" lon="W122 17.951672" heading="90.88"  radius="8" pushBackRoute="208" airlineCodes="" />
-        <Parking index="120" type="gate" name="Cargo_ramp" lat="N40 30.182390" lon="W122 17.940458" heading="-179.56"  radius="19" pushBackRoute="212" airlineCodes="" />
-        <Parking index="121" type="gate" name="Apron_turboprop" lat="N40 30.528963" lon="W122 17.959698" heading="0"  radius="19" pushBackRoute="209" airlineCodes="" />
-        <Parking index="122" type="gate" name="Apron_Airline" lat="N40 30.517272" lon="W122 17.980083" heading="269.81"  radius="10" pushBackRoute="209" airlineCodes="" />
-        <Parking index="123" type="gate" name="Jet_Apron" lat="N40 30.209217" lon="W122 17.949172" heading="314.22"  radius="10" pushBackRoute="212" airlineCodes="" />
-        <Parking index="124" type="gate" name="Jet_Apron" lat="N40 30.232098" lon="W122 17.949751" heading="314.22"  radius="10" pushBackRoute="212" airlineCodes="" />
-        <Parking index="125" type="gate" name="Jet_Apron" lat="N40 30.255127" lon="W122 17.949172" heading="314.22"  radius="10" pushBackRoute="212" airlineCodes="" />
-        <Parking index="126" type="gate" name="Apron_Terminal" lat="N40 30.352952" lon="W122 17.941853" heading="314.23"  radius="10" pushBackRoute="211" airlineCodes="" />
-        <Parking index="127" type="gate" name="Apron_Terminal" lat="N40 30.325943" lon="W122 17.939687" heading="313.71"  radius="10" pushBackRoute="211" airlineCodes="" />
-        <Parking index="128" type="gate" name="Jet_Apron" lat="N40 30.305437" lon="W122 17.951101" heading="314.22"  radius="10" pushBackRoute="211" airlineCodes="" />
-        <Parking index="129" type="gate" name="South_Pad" lat="N40 30.027836" lon="W122 17.301714" heading="-1.23"  radius="19" pushBackRoute="143" airlineCodes="" />
-        <Parking index="130" type="gate" name="South_Pad" lat="N40 30.123242" lon="W122 17.497389" heading="-179.4"  radius="19" pushBackRoute="144" airlineCodes="" />
-        <Parking index="131" type="gate" name="South_Pad" lat="N40 30.121859" lon="W122 17.361398" heading="-179.4"  radius="19" pushBackRoute="143" airlineCodes="" />
-        <Parking index="132" type="gate" name="South_Pad" lat="N40 30.043512" lon="W122 17.417001" heading="359.19"  radius="19" pushBackRoute="144" airlineCodes="" />
-        <Parking index="133" type="gate" name="South_Pad" lat="N40 30.042473" lon="W122 17.551295" heading="359.19"  radius="19" pushBackRoute="144" airlineCodes="" />
-        <Parking index="134" type="gate" name="South_Pad" lat="N40 30.162724" lon="W122 17.876718" heading="45"  radius="19" pushBackRoute="212" airlineCodes="" />
-        <Parking index="135" type="gate" name="Hangar_start" lat="N40 30.619865" lon="W122 18.104987" heading="359.44"  radius="19" pushBackRoute="187" airlineCodes="" />
-        <Parking index="136" type="gate" name="Fire_service_start" lat="N40 31.103430" lon="W122 17.896632" heading="93.09"  radius="19" pushBackRoute="176" airlineCodes="" />
-        <Parking index="137" type="gate" name="Inside_Hangar_start" lat="N40 31.025057" lon="W122 17.886803" heading="118.02"  radius="19" pushBackRoute="174" airlineCodes="" />
+        <Parking index="114" type="ga" name="Helipad" lat="N40 30.462124" lon="W122 17.950781" heading="90.88"  radius="10" pushBackRoute="208" airlineCodes="" />
+        <Parking index="115" type="ga" name="Helipad" lat="N40 30.462048" lon="W122 17.967412" heading="90.88"  radius="10" pushBackRoute="208" airlineCodes="" />
+        <Parking index="116" type="ga" name="Helipad" lat="N40 30.450080" lon="W122 17.967115" heading="90.88"  radius="10" pushBackRoute="208" airlineCodes="" />
+        <Parking index="117" type="ga" name="Helipad" lat="N40 30.438038" lon="W122 17.983251" heading="90.88"  radius="10" pushBackRoute="208" airlineCodes="" />
+        <Parking index="118" type="ga" name="Helipad" lat="N40 30.438188" lon="W122 17.966818" heading="90.88"  radius="10" pushBackRoute="208" airlineCodes="" />
+        <Parking index="119" type="ga" name="Helipad" lat="N40 30.438188" lon="W122 17.951672" heading="90.88"  radius="10" pushBackRoute="208" airlineCodes="" />
+        <Parking index="120" type="gate" name="Cargo_ramp" lat="N40 30.182390" lon="W122 17.940458" heading="-179.56"  radius="18" pushBackRoute="212" airlineCodes="" />
+        <Parking index="121" type="gate" name="Apron_turboprop" lat="N40 30.528963" lon="W122 17.959698" heading="0"  radius="18" pushBackRoute="209" airlineCodes="" />
+        <Parking index="122" type="gate" name="Apron_Airline" lat="N40 30.517272" lon="W122 17.980083" heading="269.81"  radius="20" pushBackRoute="209" airlineCodes="" />
+        <Parking index="123" type="gate" name="Jet_Apron" lat="N40 30.209217" lon="W122 17.949172" heading="314.22"  radius="20" pushBackRoute="212" airlineCodes="" />
+        <Parking index="124" type="gate" name="Jet_Apron" lat="N40 30.232098" lon="W122 17.949751" heading="314.22"  radius="20" pushBackRoute="212" airlineCodes="" />
+        <Parking index="125" type="gate" name="Jet_Apron" lat="N40 30.255127" lon="W122 17.949172" heading="314.22"  radius="20" pushBackRoute="212" airlineCodes="" />
+        <Parking index="126" type="gate" name="Apron_Terminal" lat="N40 30.352952" lon="W122 17.941853" heading="314.23"  radius="20" pushBackRoute="211" airlineCodes="" />
+        <Parking index="127" type="gate" name="Apron_Terminal" lat="N40 30.325943" lon="W122 17.939687" heading="313.71"  radius="20" pushBackRoute="211" airlineCodes="" />
+        <Parking index="128" type="gate" name="Jet_Apron" lat="N40 30.305437" lon="W122 17.951101" heading="314.22"  radius="20" pushBackRoute="211" airlineCodes="" />
+        <Parking index="129" type="gate" name="South_Pad" lat="N40 30.027836" lon="W122 17.301714" heading="-1.23"  radius="18" pushBackRoute="143" airlineCodes="" />
+        <Parking index="130" type="gate" name="South_Pad" lat="N40 30.123242" lon="W122 17.497389" heading="-179.4"  radius="18" pushBackRoute="144" airlineCodes="" />
+        <Parking index="131" type="gate" name="South_Pad" lat="N40 30.121859" lon="W122 17.361398" heading="-179.4"  radius="18" pushBackRoute="143" airlineCodes="" />
+        <Parking index="132" type="gate" name="South_Pad" lat="N40 30.043512" lon="W122 17.417001" heading="359.19"  radius="18" pushBackRoute="144" airlineCodes="" />
+        <Parking index="133" type="gate" name="South_Pad" lat="N40 30.042473" lon="W122 17.551295" heading="359.19"  radius="18" pushBackRoute="144" airlineCodes="" />
+        <Parking index="134" type="gate" name="South_Pad" lat="N40 30.162724" lon="W122 17.876718" heading="45"  radius="18" pushBackRoute="212" airlineCodes="" />
+        <Parking index="135" type="gate" name="Hangar_start" lat="N40 30.619865" lon="W122 18.104987" heading="359.44"  radius="18" pushBackRoute="187" airlineCodes="" />
+        <Parking index="136" type="gate" name="Fire_service_start" lat="N40 31.103430" lon="W122 17.896632" heading="93.09"  radius="18" pushBackRoute="176" airlineCodes="" />
+        <Parking index="137" type="gate" name="Inside_Hangar_start" lat="N40 31.025057" lon="W122 17.886803" heading="118.02"  radius="18" pushBackRoute="174" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="138" lat="N40 30.510808" lon="W122 17.879089" isOnRunway="0" holdPointType="PushBack"  />

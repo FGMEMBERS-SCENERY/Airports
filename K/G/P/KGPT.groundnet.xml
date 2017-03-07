@@ -3,14 +3,14 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="gate" name="Air_Natl_Guard_Ramp" lat="N30 24.572302" lon="W89 3.841465" heading="270.17"  radius="17" pushBackRoute="49" airlineCodes="" />
-        <Parking index="1" type="gate" name="New_Ramp_Start_3" lat="N30 24.997115" lon="W89 3.863726" heading="68.89"  radius="19" pushBackRoute="9" airlineCodes="" />
-        <Parking index="2" type="gate" name="GATE" lat="N30 24.747583" lon="W89 4.415786" heading="45.77"  radius="44" pushBackRoute="22" airlineCodes="" />
+        <Parking index="1" type="gate" name="New_Ramp_Start_3" lat="N30 24.997115" lon="W89 3.863726" heading="68.89"  radius="20" pushBackRoute="9" airlineCodes="" />
+        <Parking index="2" type="gate" name="GATE" lat="N30 24.747583" lon="W89 4.415786" heading="45.77"  radius="36" pushBackRoute="22" airlineCodes="" />
         <Parking index="3" type="gate" name="Quest_Aviation_Services" lat="N30 24.057293" lon="W89 4.184273" heading="41.1"  radius="17" pushBackRoute="97" airlineCodes="" />
         <Parking index="4" type="gate" name="Army_890_ANG_Ramp" lat="N30 24.150116" lon="W89 3.840042" heading="269.17"  radius="17" pushBackRoute="55" airlineCodes="" />
         <Parking index="5" type="gate" name="MIllion_AIr_FBO" lat="N30 24.139467" lon="W89 4.535075" heading="-49.6"  radius="17" pushBackRoute="28" airlineCodes="" />
-        <Parking index="6" type="gate" name="GATE_3" lat="N30 24.697199" lon="W89 4.331447" heading="20.56"  radius="19" pushBackRoute="21" airlineCodes="" />
-        <Parking index="7" type="gate" name="GATE_2" lat="N30 24.720403" lon="W89 4.378191" heading="46"  radius="19" pushBackRoute="20" airlineCodes="" />
-        <Parking index="8" type="gate" name="ANG" lat="N30 24.376151" lon="W89 3.843943" heading="0"  radius="19" pushBackRoute="52" airlineCodes="" />
+        <Parking index="6" type="gate" name="GATE_3" lat="N30 24.697199" lon="W89 4.331447" heading="20.56"  radius="20" pushBackRoute="21" airlineCodes="" />
+        <Parking index="7" type="gate" name="GATE_2" lat="N30 24.720403" lon="W89 4.378191" heading="46"  radius="20" pushBackRoute="20" airlineCodes="" />
+        <Parking index="8" type="gate" name="ANG" lat="N30 24.376151" lon="W89 3.843943" heading="0"  radius="20" pushBackRoute="52" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="9" lat="N30 24.882438" lon="W89 3.851310" isOnRunway="0" holdPointType="PushBack"  />

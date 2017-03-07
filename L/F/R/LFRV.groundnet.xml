@@ -2,18 +2,18 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Club_North_Ramp" lat="N47 43.724896" lon="W2 43.005625" heading="254.57"  radius="19" pushBackRoute="17" airlineCodes="" />
-        <Parking index="1" type="gate" name="Para" lat="N47 43.607128" lon="W2 43.465939" heading="130.31"  radius="19" pushBackRoute="14" airlineCodes="" />
-        <Parking index="2" type="gate" name="Club_West_Ramp" lat="N47 43.476865" lon="W2 44.069285" heading="71.7"  radius="19" pushBackRoute="40" airlineCodes="" />
-        <Parking index="3" type="gate" name="catB_Ramp_3" lat="N47 43.373970" lon="W2 43.857083" heading="34.78"  radius="19" pushBackRoute="46" airlineCodes="" />
-        <Parking index="4" type="gate" name="catB_Ramp_2" lat="N47 43.365028" lon="W2 43.836793" heading="34.78"  radius="19" pushBackRoute="47" airlineCodes="" />
-        <Parking index="5" type="gate" name="GA_Ramp_6" lat="N47 43.302052" lon="W2 43.710356" heading="37.38"  radius="19" pushBackRoute="43" airlineCodes="" />
-        <Parking index="6" type="gate" name="GA_Ramp_5" lat="N47 43.297239" lon="W2 43.700752" heading="37.38"  radius="19" pushBackRoute="43" airlineCodes="" />
-        <Parking index="7" type="gate" name="GA_Ramp_4" lat="N47 43.292425" lon="W2 43.691149" heading="37.38"  radius="19" pushBackRoute="43" airlineCodes="" />
-        <Parking index="8" type="gate" name="GA_Ramp_3" lat="N47 43.287612" lon="W2 43.681546" heading="37.38"  radius="19" pushBackRoute="44" airlineCodes="" />
-        <Parking index="9" type="gate" name="GA_Ramp_2" lat="N47 43.282799" lon="W2 43.671944" heading="37.38"  radius="19" pushBackRoute="44" airlineCodes="" />
-        <Parking index="10" type="gate" name="GA_Ramp_1" lat="N47 43.277985" lon="W2 43.662341" heading="37.38"  radius="19" pushBackRoute="44" airlineCodes="" />
-        <Parking index="11" type="gate" name="catB_Ramp_1" lat="N47 43.246909" lon="W2 43.629762" heading="302.46"  radius="19" pushBackRoute="45" airlineCodes="" />
+        <Parking index="0" type="gate" name="Club_North_Ramp" lat="N47 43.724896" lon="W2 43.005625" heading="254.57"  radius="10" pushBackRoute="17" airlineCodes="" />
+        <Parking index="1" type="gate" name="Para" lat="N47 43.607128" lon="W2 43.465939" heading="130.31"  radius="10" pushBackRoute="14" airlineCodes="" />
+        <Parking index="2" type="gate" name="Club_West_Ramp" lat="N47 43.476865" lon="W2 44.069285" heading="71.7"  radius="10" pushBackRoute="40" airlineCodes="" />
+        <Parking index="3" type="gate" name="catB_Ramp_3" lat="N47 43.373970" lon="W2 43.857083" heading="34.78"  radius="18" pushBackRoute="46" airlineCodes="" />
+        <Parking index="4" type="gate" name="catB_Ramp_2" lat="N47 43.365028" lon="W2 43.836793" heading="34.78"  radius="18" pushBackRoute="47" airlineCodes="" />
+        <Parking index="5" type="gate" name="GA_Ramp_6" lat="N47 43.302052" lon="W2 43.710356" heading="37.38"  radius="10" pushBackRoute="43" airlineCodes="" />
+        <Parking index="6" type="gate" name="GA_Ramp_5" lat="N47 43.297239" lon="W2 43.700752" heading="37.38"  radius="10" pushBackRoute="43" airlineCodes="" />
+        <Parking index="7" type="gate" name="GA_Ramp_4" lat="N47 43.292425" lon="W2 43.691149" heading="37.38"  radius="10" pushBackRoute="43" airlineCodes="" />
+        <Parking index="8" type="gate" name="GA_Ramp_3" lat="N47 43.287612" lon="W2 43.681546" heading="37.38"  radius="10" pushBackRoute="44" airlineCodes="" />
+        <Parking index="9" type="gate" name="GA_Ramp_2" lat="N47 43.282799" lon="W2 43.671944" heading="37.38"  radius="10" pushBackRoute="44" airlineCodes="" />
+        <Parking index="10" type="gate" name="GA_Ramp_1" lat="N47 43.277985" lon="W2 43.662341" heading="37.38"  radius="10" pushBackRoute="44" airlineCodes="" />
+        <Parking index="11" type="gate" name="catB_Ramp_1" lat="N47 43.246909" lon="W2 43.629762" heading="302.46"  radius="18" pushBackRoute="45" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="12" lat="N47 43.575429" lon="W2 43.417943" isOnRunway="0" holdPointType="none"  />

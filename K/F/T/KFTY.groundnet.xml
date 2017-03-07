@@ -2,12 +2,12 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="TRANS_Ramp_Start_2" lat="N33 46.653144" lon="W84 31.427500" heading="112.38"  radius="19" pushBackRoute="17" airlineCodes="" />
+        <Parking index="0" type="gate" name="TRANS_Ramp_Start_2" lat="N33 46.653144" lon="W84 31.427500" heading="112.38"  radius="20" pushBackRoute="17" airlineCodes="" />
         <Parking index="1" type="ga" name="SOUTH_GA_Ramp_Start_3" lat="N33 46.579345" lon="W84 31.576091" heading="46.07"  radius="10" pushBackRoute="8" airlineCodes="" />
         <Parking index="2" type="ga" name="SOUTH_GA_Ramp_Start_3" lat="N33 46.539393" lon="W84 31.535969" heading="46.07"  radius="10" pushBackRoute="9" airlineCodes="" />
         <Parking index="3" type="ga" name="SOUTH_GA_Ramp_Start_3" lat="N33 46.424749" lon="W84 31.400978" heading="46.07"  radius="10" pushBackRoute="19" airlineCodes="" />
         <Parking index="4" type="ga" name="SOUTH_GA_Ramp_Start_3" lat="N33 46.420552" lon="W84 31.224020" heading="221.95"  radius="10" pushBackRoute="16" airlineCodes="" />
-        <Parking index="5" type="ga" name="NORTH_GA_Ramp_Start_1" lat="N33 46.714815" lon="W84 31.036249" heading="-9.58"  radius="10" pushBackRoute="47" airlineCodes="" />
+        <Parking index="5" type="ga" name="NORTH_GA_Ramp_Start_1" lat="N33 46.714815" lon="W84 31.036249" heading="-9.58"  radius="18" pushBackRoute="47" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="6" lat="N33 46.415586" lon="W84 31.233663" isOnRunway="0" holdPointType="none"  />

@@ -2,8 +2,8 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Civil_Apron_North" lat="N53 44.685267" lon="W2 53.514098" heading="-19.08"  radius="19" pushBackRoute="36" airlineCodes="" />
-        <Parking index="1" type="gate" name="Civil_Apron_North" lat="N53 44.738858" lon="W2 53.388038" heading="240.27"  radius="44" pushBackRoute="31" airlineCodes="" />
+        <Parking index="0" type="gate" name="Civil_Apron_North" lat="N53 44.685267" lon="W2 53.514098" heading="-19.08"  radius="10" pushBackRoute="36" airlineCodes="" />
+        <Parking index="1" type="gate" name="Civil_Apron_North" lat="N53 44.738858" lon="W2 53.388038" heading="240.27"  radius="18" pushBackRoute="31" airlineCodes="" />
         <Parking index="2" type="gate" name="Military_Apron_North" lat="N53 44.705584" lon="W2 53.779698" heading="-136.82"  radius="10" pushBackRoute="37" airlineCodes="" />
         <Parking index="3" type="gate" name="Military_Apron_North" lat="N53 44.699410" lon="W2 53.769054" heading="-136.82"  radius="10" pushBackRoute="37" airlineCodes="" />
         <Parking index="4" type="gate" name="Military_Apron_North" lat="N53 44.693551" lon="W2 53.757918" heading="-136.82"  radius="10" pushBackRoute="37" airlineCodes="" />
@@ -11,15 +11,15 @@
         <Parking index="6" type="gate" name="Military_Apron_North" lat="N53 44.681713" lon="W2 53.736385" heading="-136.82"  radius="10" pushBackRoute="38" airlineCodes="" />
         <Parking index="7" type="gate" name="Military_Apron_North" lat="N53 44.675902" lon="W2 53.725046" heading="-136.82"  radius="10" pushBackRoute="38" airlineCodes="" />
         <Parking index="8" type="gate" name="Military_Apron_North" lat="N53 44.669947" lon="W2 53.714238" heading="-136.82"  radius="10" pushBackRoute="38" airlineCodes="" />
-        <Parking index="9" type="gate" name="Civil_Apron_North" lat="N53 44.687631" lon="W2 53.655937" heading="-16.55"  radius="44" pushBackRoute="40" airlineCodes="" />
-        <Parking index="10" type="gate" name="Civil_Apron_North" lat="N53 44.703404" lon="W2 53.576754" heading="-18.69"  radius="44" pushBackRoute="36" airlineCodes="" />
-        <Parking index="11" type="gate" name="Civil_Apron_North" lat="N53 44.682838" lon="W2 53.528764" heading="-19.08"  radius="19" pushBackRoute="36" airlineCodes="" />
-        <Parking index="12" type="gate" name="Civil_Apron_North" lat="N53 44.718554" lon="W2 53.505898" heading="248.43"  radius="44" pushBackRoute="33" airlineCodes="" />
-        <Parking index="13" type="gate" name="Military_Apron_South" lat="N53 44.448933" lon="W2 52.691563" heading="239.31"  radius="19" pushBackRoute="19" airlineCodes="" />
-        <Parking index="14" type="gate" name="Military_Apron_South" lat="N53 44.453065" lon="W2 52.711880" heading="239.31"  radius="10" pushBackRoute="19" airlineCodes="" />
-        <Parking index="15" type="gate" name="Military_Apron_South" lat="N53 44.456980" lon="W2 52.733575" heading="239.31"  radius="10" pushBackRoute="19" airlineCodes="" />
-        <Parking index="16" type="gate" name="Military_Apron_South" lat="N53 44.460351" lon="W2 52.754535" heading="239.31"  radius="10" pushBackRoute="19" airlineCodes="" />
-        <Parking index="17" type="gate" name="Military_Apron_South" lat="N53 44.467419" lon="W2 52.796455" heading="239.31"  radius="10" pushBackRoute="20" airlineCodes="" />
+        <Parking index="9" type="gate" name="Civil_Apron_North" lat="N53 44.687631" lon="W2 53.655937" heading="-16.55"  radius="20" pushBackRoute="40" airlineCodes="" />
+        <Parking index="10" type="gate" name="Civil_Apron_North" lat="N53 44.703404" lon="W2 53.576754" heading="-18.69"  radius="20" pushBackRoute="36" airlineCodes="" />
+        <Parking index="11" type="gate" name="Civil_Apron_North" lat="N53 44.682838" lon="W2 53.528764" heading="-19.08"  radius="10" pushBackRoute="36" airlineCodes="" />
+        <Parking index="12" type="gate" name="Civil_Apron_North" lat="N53 44.718554" lon="W2 53.505898" heading="248.43"  radius="18" pushBackRoute="33" airlineCodes="" />
+        <Parking index="13" type="gate" name="Military_Apron_South" lat="N53 44.448933" lon="W2 52.691563" heading="239.31"  radius="18" pushBackRoute="19" airlineCodes="" />
+        <Parking index="14" type="gate" name="Military_Apron_South" lat="N53 44.453065" lon="W2 52.711880" heading="239.31"  radius="18" pushBackRoute="19" airlineCodes="" />
+        <Parking index="15" type="gate" name="Military_Apron_South" lat="N53 44.456980" lon="W2 52.733575" heading="239.31"  radius="18" pushBackRoute="19" airlineCodes="" />
+        <Parking index="16" type="gate" name="Military_Apron_South" lat="N53 44.460351" lon="W2 52.754535" heading="239.31"  radius="18" pushBackRoute="19" airlineCodes="" />
+        <Parking index="17" type="gate" name="Military_Apron_South" lat="N53 44.467419" lon="W2 52.796455" heading="239.31"  radius="18" pushBackRoute="20" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="18" lat="N53 44.382651" lon="W2 53.197619" isOnRunway="0" holdPointType="none"  />

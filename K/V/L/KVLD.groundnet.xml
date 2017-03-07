@@ -2,17 +2,17 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="GA_1" lat="N30 47.167251" lon="W83 16.303834" heading="-98.04"  radius="44" pushBackRoute="16" airlineCodes="" />
-        <Parking index="1" type="gate" name="GA_2" lat="N30 46.876553" lon="W83 16.239521" heading="262.15"  radius="44" pushBackRoute="24" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA_3" lat="N30 46.853453" lon="W83 16.239951" heading="-83.44"  radius="44" pushBackRoute="24" airlineCodes="" />
-        <Parking index="3" type="gate" name="TERMINAL1" lat="N30 47.348236" lon="W83 16.695118" heading="126.48"  radius="44" pushBackRoute="25" airlineCodes="" />
-        <Parking index="4" type="gate" name="TERMINAL2" lat="N30 47.319775" lon="W83 16.709010" heading="32.94"  radius="44" pushBackRoute="25" airlineCodes="" />
-        <Parking index="5" type="ga" name="HELO1" lat="N30 47.189248" lon="W83 16.315904" heading="-97.01"  radius="8" pushBackRoute="18" airlineCodes="" />
-        <Parking index="6" type="ga" name="HELO2" lat="N30 47.022973" lon="W83 16.327231" heading="-97.32"  radius="8" pushBackRoute="69" airlineCodes="" />
-        <Parking index="7" type="ga" name="HELO3" lat="N30 47.221874" lon="W83 16.322165" heading="262.73"  radius="8" pushBackRoute="18" airlineCodes="" />
-        <Parking index="8" type="ga" name="HELO4" lat="N30 47.266494" lon="W83 16.336461" heading="-98.75"  radius="8" pushBackRoute="19" airlineCodes="" />
-        <Parking index="9" type="gate" name="FIGHTER1" lat="N30 46.990666" lon="W83 16.296886" heading="170.1"  radius="10" pushBackRoute="69" airlineCodes="" />
-        <Parking index="10" type="gate" name="FIGHTER2" lat="N30 46.964942" lon="W83 16.269414" heading="-96.44"  radius="10" pushBackRoute="23" airlineCodes="" />
+        <Parking index="0" type="gate" name="GA_1" lat="N30 47.167251" lon="W83 16.303834" heading="-98.04"  radius="32" pushBackRoute="16" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA_2" lat="N30 46.876553" lon="W83 16.239521" heading="262.15"  radius="32" pushBackRoute="24" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_3" lat="N30 46.853453" lon="W83 16.239951" heading="-83.44"  radius="32" pushBackRoute="24" airlineCodes="" />
+        <Parking index="3" type="gate" name="TERMINAL1" lat="N30 47.348236" lon="W83 16.695118" heading="126.48"  radius="20" pushBackRoute="25" airlineCodes="" />
+        <Parking index="4" type="gate" name="TERMINAL2" lat="N30 47.319775" lon="W83 16.709010" heading="32.94"  radius="20" pushBackRoute="25" airlineCodes="" />
+        <Parking index="5" type="ga" name="HELO1" lat="N30 47.189248" lon="W83 16.315904" heading="-97.01"  radius="20" pushBackRoute="18" airlineCodes="" />
+        <Parking index="6" type="ga" name="HELO2" lat="N30 47.022973" lon="W83 16.327231" heading="-97.32"  radius="20" pushBackRoute="69" airlineCodes="" />
+        <Parking index="7" type="ga" name="HELO3" lat="N30 47.221874" lon="W83 16.322165" heading="262.73"  radius="20" pushBackRoute="18" airlineCodes="" />
+        <Parking index="8" type="ga" name="HELO4" lat="N30 47.266494" lon="W83 16.336461" heading="-98.75"  radius="20" pushBackRoute="19" airlineCodes="" />
+        <Parking index="9" type="gate" name="FIGHTER1" lat="N30 46.990666" lon="W83 16.296886" heading="170.1"  radius="20" pushBackRoute="69" airlineCodes="" />
+        <Parking index="10" type="gate" name="FIGHTER2" lat="N30 46.964942" lon="W83 16.269414" heading="-96.44"  radius="20" pushBackRoute="23" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="11" lat="N30 47.071843" lon="W83 16.939868" isOnRunway="0" holdPointType="none"  />

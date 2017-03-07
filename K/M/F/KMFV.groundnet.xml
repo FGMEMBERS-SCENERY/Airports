@@ -2,12 +2,12 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Accomack_County_FBO" lat="N37 38.551009" lon="W75 45.679221" heading="19.68"  radius="19" pushBackRoute="21" airlineCodes="" />
-        <Parking index="1" type="gate" name="Fuel_Pumps" lat="N37 38.596652" lon="W75 45.639557" heading="19.68"  radius="19" pushBackRoute="14" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA_Parking_1" lat="N37 38.541855" lon="W75 45.712037" heading="23.82"  radius="44" pushBackRoute="21" airlineCodes="" />
-        <Parking index="3" type="gate" name="GA_Parking_2" lat="N37 38.581134" lon="W75 45.675428" heading="-65.21"  radius="44" pushBackRoute="12" airlineCodes="" />
-        <Parking index="4" type="gate" name="Hangars_1" lat="N37 38.626217" lon="W75 45.594760" heading="-68"  radius="19" pushBackRoute="15" airlineCodes="" />
-        <Parking index="5" type="gate" name="Hangars_2" lat="N37 38.665973" lon="W75 45.646973" heading="-156.02"  radius="19" pushBackRoute="16" airlineCodes="" />
+        <Parking index="0" type="gate" name="Accomack_County_FBO" lat="N37 38.551009" lon="W75 45.679221" heading="19.68"  radius="18" pushBackRoute="21" airlineCodes="" />
+        <Parking index="1" type="gate" name="Fuel_Pumps" lat="N37 38.596652" lon="W75 45.639557" heading="19.68"  radius="18" pushBackRoute="14" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_Parking_1" lat="N37 38.541855" lon="W75 45.712037" heading="23.82"  radius="10" pushBackRoute="21" airlineCodes="" />
+        <Parking index="3" type="gate" name="GA_Parking_2" lat="N37 38.581134" lon="W75 45.675428" heading="-65.21"  radius="10" pushBackRoute="12" airlineCodes="" />
+        <Parking index="4" type="gate" name="Hangars_1" lat="N37 38.626217" lon="W75 45.594760" heading="-68"  radius="10" pushBackRoute="15" airlineCodes="" />
+        <Parking index="5" type="gate" name="Hangars_2" lat="N37 38.665973" lon="W75 45.646973" heading="-156.02"  radius="10" pushBackRoute="16" airlineCodes="" />
         <Parking index="6" type="ga" name="Repair_Shop" lat="N37 38.835548" lon="W75 45.721034" heading="112.08"  radius="10" pushBackRoute="7" airlineCodes="" />
  </parkingList>
  <TaxiNodes>

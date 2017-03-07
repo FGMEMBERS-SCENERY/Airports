@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="TERM_GA_Prop" lat="N41 14.695668" lon="W76 55.116460" heading="128.05"  radius="19" pushBackRoute="64" airlineCodes="" />
-        <Parking index="1" type="gate" name="NW_Com_Ramp" lat="N41 14.754496" lon="W76 55.449608" heading="227.86"  radius="19" pushBackRoute="19" airlineCodes="" />
-        <Parking index="2" type="gate" name="W_GA_Ramp" lat="N41 14.597472" lon="W76 55.660205" heading="90"  radius="19" pushBackRoute="86" airlineCodes="" />
-        <Parking index="3" type="gate" name="KIPT_RAMP" lat="N41 14.681713" lon="W76 55.154879" heading="70.36"  radius="19" pushBackRoute="23" airlineCodes="" />
+        <Parking index="0" type="gate" name="TERM_GA_Prop" lat="N41 14.695668" lon="W76 55.116460" heading="128.05"  radius="10" pushBackRoute="64" airlineCodes="" />
+        <Parking index="1" type="gate" name="NW_Com_Ramp" lat="N41 14.754496" lon="W76 55.449608" heading="227.86"  radius="20" pushBackRoute="19" airlineCodes="" />
+        <Parking index="2" type="gate" name="W_GA_Ramp" lat="N41 14.597472" lon="W76 55.660205" heading="90"  radius="10" pushBackRoute="86" airlineCodes="" />
+        <Parking index="3" type="gate" name="KIPT_RAMP" lat="N41 14.681713" lon="W76 55.154879" heading="70.36"  radius="20" pushBackRoute="23" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="4" lat="N41 14.554115" lon="W76 54.720944" isOnRunway="1" holdPointType="none"  />

@@ -2,12 +2,12 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="FBO" lat="N38 58.502157" lon="W76 19.603243" heading="102.45"  radius="19" pushBackRoute="29" airlineCodes="" />
-        <Parking index="1" type="gate" name="Fuel" lat="N38 58.488032" lon="W76 19.570497" heading="282.13"  radius="19" pushBackRoute="25" airlineCodes="" />
-        <Parking index="2" type="gate" name="Trident_Aircraft" lat="N38 58.480705" lon="W76 19.543440" heading="6.7"  radius="19" pushBackRoute="25" airlineCodes="" />
-        <Parking index="3" type="gate" name="South_Hangars" lat="N38 58.499380" lon="W76 19.706890" heading="-16.12"  radius="19" pushBackRoute="37" airlineCodes="" />
-        <Parking index="4" type="gate" name="South_Ramp" lat="N38 58.522659" lon="W76 19.660443" heading="283.14"  radius="19" pushBackRoute="29" airlineCodes="" />
-        <Parking index="5" type="gate" name="North_Ramp" lat="N38 58.606338" lon="W76 19.481156" heading="254.96"  radius="19" pushBackRoute="9" airlineCodes="" />
+        <Parking index="0" type="gate" name="FBO" lat="N38 58.502157" lon="W76 19.603243" heading="102.45"  radius="10" pushBackRoute="29" airlineCodes="" />
+        <Parking index="1" type="gate" name="Fuel" lat="N38 58.488032" lon="W76 19.570497" heading="282.13"  radius="10" pushBackRoute="25" airlineCodes="" />
+        <Parking index="2" type="gate" name="Trident_Aircraft" lat="N38 58.480705" lon="W76 19.543440" heading="6.7"  radius="10" pushBackRoute="25" airlineCodes="" />
+        <Parking index="3" type="gate" name="South_Hangars" lat="N38 58.499380" lon="W76 19.706890" heading="-16.12"  radius="10" pushBackRoute="37" airlineCodes="" />
+        <Parking index="4" type="gate" name="South_Ramp" lat="N38 58.522659" lon="W76 19.660443" heading="283.14"  radius="10" pushBackRoute="29" airlineCodes="" />
+        <Parking index="5" type="gate" name="North_Ramp" lat="N38 58.606338" lon="W76 19.481156" heading="254.96"  radius="10" pushBackRoute="9" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="6" lat="N38 58.598238" lon="W76 19.621802" isOnRunway="0" holdPointType="none"  />

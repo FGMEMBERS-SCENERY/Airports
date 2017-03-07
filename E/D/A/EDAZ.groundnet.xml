@@ -14,17 +14,17 @@
         <Parking index="9" type="ga" name="Front_of_Tower" lat="N52 12.249739" lon="E13 9.110547" heading="165.75"  radius="10" pushBackRoute="117" airlineCodes="" />
         <Parking index="10" type="ga" name="Front_of_Tower" lat="N52 12.251599" lon="E13 9.122506" heading="165.75"  radius="10" pushBackRoute="119" airlineCodes="" />
         <Parking index="11" type="ga" name="Front_of_Tower" lat="N52 12.253453" lon="E13 9.134461" heading="165.75"  radius="10" pushBackRoute="119" airlineCodes="" />
-        <Parking index="12" type="gate" name="Right_of_Tower" lat="N52 12.245593" lon="E13 9.233419" heading="165.75"  radius="19" pushBackRoute="37" airlineCodes="" />
-        <Parking index="13" type="gate" name="Right_of_Tower" lat="N52 12.249142" lon="E13 9.256344" heading="165.75"  radius="19" pushBackRoute="39" airlineCodes="" />
-        <Parking index="14" type="gate" name="Right_of_Tower" lat="N52 12.252703" lon="E13 9.279431" heading="165.75"  radius="19" pushBackRoute="41" airlineCodes="" />
-        <Parking index="15" type="gate" name="Right_of_Tower" lat="N52 12.256252" lon="E13 9.302542" heading="165.75"  radius="19" pushBackRoute="43" airlineCodes="" />
-        <Parking index="16" type="gate" name="Right_of_Tower" lat="N52 12.259759" lon="E13 9.325206" heading="165.75"  radius="19" pushBackRoute="45" airlineCodes="" />
-        <Parking index="17" type="gate" name="Right_of_Tower" lat="N52 12.263327" lon="E13 9.348315" heading="165.75"  radius="19" pushBackRoute="47" airlineCodes="" />
-        <Parking index="18" type="gate" name="Right_of_Tower" lat="N52 12.266868" lon="E13 9.371317" heading="165.75"  radius="19" pushBackRoute="49" airlineCodes="" />
-        <Parking index="19" type="gate" name="Right_of_Tower" lat="N52 12.270396" lon="E13 9.394219" heading="165.75"  radius="19" pushBackRoute="51" airlineCodes="" />
-        <Parking index="20" type="gate" name="New_Hangars" lat="N52 12.379230" lon="E13 8.986256" heading="-194.63"  radius="19" pushBackRoute="107" airlineCodes="" />
-        <Parking index="21" type="gate" name="New_Hangars" lat="N52 12.374837" lon="E13 9.065452" heading="-0.18"  radius="19" pushBackRoute="106" airlineCodes="" />
-        <Parking index="22" type="gate" name="New_Hangars" lat="N52 12.466218" lon="E13 9.052051" heading="165.34"  radius="19" pushBackRoute="108" airlineCodes="" />
+        <Parking index="12" type="gate" name="Right_of_Tower" lat="N52 12.245593" lon="E13 9.233419" heading="165.75"  radius="18" pushBackRoute="37" airlineCodes="" />
+        <Parking index="13" type="gate" name="Right_of_Tower" lat="N52 12.249142" lon="E13 9.256344" heading="165.75"  radius="18" pushBackRoute="39" airlineCodes="" />
+        <Parking index="14" type="gate" name="Right_of_Tower" lat="N52 12.252703" lon="E13 9.279431" heading="165.75"  radius="18" pushBackRoute="41" airlineCodes="" />
+        <Parking index="15" type="gate" name="Right_of_Tower" lat="N52 12.256252" lon="E13 9.302542" heading="165.75"  radius="18" pushBackRoute="43" airlineCodes="" />
+        <Parking index="16" type="gate" name="Right_of_Tower" lat="N52 12.259759" lon="E13 9.325206" heading="165.75"  radius="18" pushBackRoute="45" airlineCodes="" />
+        <Parking index="17" type="gate" name="Right_of_Tower" lat="N52 12.263327" lon="E13 9.348315" heading="165.75"  radius="18" pushBackRoute="47" airlineCodes="" />
+        <Parking index="18" type="gate" name="Right_of_Tower" lat="N52 12.266868" lon="E13 9.371317" heading="165.75"  radius="18" pushBackRoute="49" airlineCodes="" />
+        <Parking index="19" type="gate" name="Right_of_Tower" lat="N52 12.270396" lon="E13 9.394219" heading="165.75"  radius="18" pushBackRoute="51" airlineCodes="" />
+        <Parking index="20" type="gate" name="New_Hangars" lat="N52 12.379230" lon="E13 8.986256" heading="-194.63"  radius="10" pushBackRoute="107" airlineCodes="" />
+        <Parking index="21" type="gate" name="New_Hangars" lat="N52 12.374837" lon="E13 9.065452" heading="-0.18"  radius="10" pushBackRoute="106" airlineCodes="" />
+        <Parking index="22" type="gate" name="New_Hangars" lat="N52 12.466218" lon="E13 9.052051" heading="165.34"  radius="10" pushBackRoute="108" airlineCodes="" />
         <Parking index="23" type="ga" name="Old_Hangars" lat="N52 12.618229" lon="E13 9.158707" heading="-80.24"  radius="10" pushBackRoute="98" airlineCodes="" />
  </parkingList>
  <TaxiNodes>

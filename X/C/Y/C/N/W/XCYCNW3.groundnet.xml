@@ -2,8 +2,8 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="GA_ramp_start" lat="N45 4.322801" lon="W77 52.828985" heading="108.21"  radius="10" pushBackRoute="2" airlineCodes="" />
-        <Parking index="1" type="ga" name="helo_ramp_start" lat="N45 4.311945" lon="W77 52.742919" heading="-7.39"  radius="8" pushBackRoute="3" airlineCodes="" />
+        <Parking index="0" type="ga" name="GA_ramp_start" lat="N45 4.322801" lon="W77 52.828985" heading="108.21"  radius="20" pushBackRoute="2" airlineCodes="" />
+        <Parking index="1" type="ga" name="helo_ramp_start" lat="N45 4.311945" lon="W77 52.742919" heading="-7.39"  radius="36" pushBackRoute="3" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="2" lat="N45 4.322800" lon="W77 52.829003" isOnRunway="0" holdPointType="PushBack"  />

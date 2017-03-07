@@ -2,13 +2,13 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Ramp_Start" lat="N58 46.014934" lon="W111 6.782234" heading="176.34"  radius="19" pushBackRoute="13" airlineCodes="" />
-        <Parking index="1" type="gate" name="Cargo_Ramp" lat="N58 46.026863" lon="W111 6.753681" heading="176.34"  radius="19" pushBackRoute="13" airlineCodes="" />
+        <Parking index="0" type="gate" name="Ramp_Start" lat="N58 46.014934" lon="W111 6.782234" heading="176.34"  radius="18" pushBackRoute="13" airlineCodes="NCB,SYN" />
+        <Parking index="1" type="gate" name="Cargo_Ramp" lat="N58 46.026863" lon="W111 6.753681" heading="176.34"  radius="18" pushBackRoute="13" airlineCodes="" />
         <Parking index="2" type="ga" name="Tie-Down_A" lat="N58 46.015691" lon="W111 6.836593" heading="53.22"  radius="10" pushBackRoute="22" airlineCodes="" />
         <Parking index="3" type="ga" name="Tie-Down_B" lat="N58 46.008968" lon="W111 6.826604" heading="53.22"  radius="10" pushBackRoute="22" airlineCodes="" />
         <Parking index="4" type="ga" name="Tie-Down_C" lat="N58 46.002179" lon="W111 6.816418" heading="53.22"  radius="10" pushBackRoute="22" airlineCodes="" />
-        <Parking index="5" type="gate" name="NE_Hangar_A" lat="N58 46.050364" lon="W111 6.651241" heading="-40.3"  radius="19" pushBackRoute="26" airlineCodes="" />
-        <Parking index="6" type="gate" name="NE_Hangar_B" lat="N58 46.056014" lon="W111 6.637963" heading="-40.3"  radius="19" pushBackRoute="26" airlineCodes="" />
+        <Parking index="5" type="gate" name="NE_Hangar_A" lat="N58 46.050364" lon="W111 6.651241" heading="-40.3"  radius="10" pushBackRoute="26" airlineCodes="" />
+        <Parking index="6" type="gate" name="NE_Hangar_B" lat="N58 46.056014" lon="W111 6.637963" heading="-40.3"  radius="10" pushBackRoute="26" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="7" lat="N58 46.021930" lon="W111 6.820798" isOnRunway="0" holdPointType="none"  />

@@ -2,12 +2,12 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Hangers_2" lat="N33 25.618470" lon="W112 21.961541" heading="220.78"  radius="44" pushBackRoute="9" airlineCodes="" />
-        <Parking index="1" type="gate" name="Hangers_1" lat="N33 25.516569" lon="W112 21.895703" heading="307.76"  radius="44" pushBackRoute="70" airlineCodes="" />
-        <Parking index="2" type="gate" name="North_Ramp" lat="N33 25.952745" lon="W112 21.794422" heading="309.97"  radius="44" pushBackRoute="13" airlineCodes="" />
-        <Parking index="3" type="gate" name="Lux_Air_Jet_Center_3" lat="N33 25.864263" lon="W112 21.861391" heading="130.56"  radius="19" pushBackRoute="49" airlineCodes="" />
-        <Parking index="4" type="gate" name="Lux_Air_Jet_Center_2" lat="N33 25.833479" lon="W112 21.892603" heading="130.56"  radius="19" pushBackRoute="17" airlineCodes="" />
-        <Parking index="5" type="gate" name="Lux_Air_Jet_Center_1" lat="N33 25.807578" lon="W112 21.918672" heading="130.56"  radius="19" pushBackRoute="19" airlineCodes="" />
+        <Parking index="0" type="gate" name="Hangers_2" lat="N33 25.618470" lon="W112 21.961541" heading="220.78"  radius="20" pushBackRoute="9" airlineCodes="" />
+        <Parking index="1" type="gate" name="Hangers_1" lat="N33 25.516569" lon="W112 21.895703" heading="307.76"  radius="20" pushBackRoute="70" airlineCodes="" />
+        <Parking index="2" type="gate" name="North_Ramp" lat="N33 25.952745" lon="W112 21.794422" heading="309.97"  radius="18" pushBackRoute="13" airlineCodes="" />
+        <Parking index="3" type="gate" name="Lux_Air_Jet_Center_3" lat="N33 25.864263" lon="W112 21.861391" heading="130.56"  radius="20" pushBackRoute="49" airlineCodes="" />
+        <Parking index="4" type="gate" name="Lux_Air_Jet_Center_2" lat="N33 25.833479" lon="W112 21.892603" heading="130.56"  radius="20" pushBackRoute="17" airlineCodes="" />
+        <Parking index="5" type="gate" name="Lux_Air_Jet_Center_1" lat="N33 25.807578" lon="W112 21.918672" heading="130.56"  radius="20" pushBackRoute="19" airlineCodes="" />
         <Parking index="6" type="ga" name="East_T_Hanger" lat="N33 25.507598" lon="W112 22.018245" heading="311"  radius="10" pushBackRoute="8" airlineCodes="" />
         <Parking index="7" type="ga" name="West_T_Hanger" lat="N33 24.968632" lon="W112 22.719313" heading="310"  radius="10" pushBackRoute="41" airlineCodes="" />
  </parkingList>

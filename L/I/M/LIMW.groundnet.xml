@@ -2,18 +2,18 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="CAT_B_parking_west_1" lat="N45 44.376874" lon="E7 21.916546" heading="355.5"  radius="19" pushBackRoute="45" airlineCodes="" />
+        <Parking index="0" type="gate" name="CAT_B_parking_west_1" lat="N45 44.376874" lon="E7 21.916546" heading="355.5"  radius="18" pushBackRoute="45" airlineCodes="" />
         <Parking index="1" type="ga" name="CAT_A_parking_west_1" lat="N45 44.366150" lon="E7 21.880960" heading="354.8"  radius="10" pushBackRoute="46" airlineCodes="" />
         <Parking index="2" type="ga" name="CAT_A_parking_west_2" lat="N45 44.367349" lon="E7 21.895238" heading="354.8"  radius="10" pushBackRoute="46" airlineCodes="" />
         <Parking index="3" type="ga" name="CAT_A_parking_west_3" lat="N45 44.380900" lon="E7 21.871121" heading="84.8"  radius="10" pushBackRoute="34" airlineCodes="" />
         <Parking index="4" type="ga" name="CAT_A_parking_west_4" lat="N45 44.374370" lon="E7 21.871849" heading="84.8"  radius="10" pushBackRoute="13" airlineCodes="" />
-        <Parking index="5" type="gate" name="CAT_A_parking_east_1" lat="N45 44.382668" lon="E7 21.933222" heading="354.8"  radius="19" pushBackRoute="42" airlineCodes="" />
-        <Parking index="6" type="gate" name="CAT_A_parking_east_2" lat="N45 44.383454" lon="E7 21.944627" heading="354.8"  radius="19" pushBackRoute="24" airlineCodes="" />
-        <Parking index="7" type="gate" name="CAT_A_parking_east_3" lat="N45 44.375047" lon="E7 21.964550" heading="174.8"  radius="19" pushBackRoute="23" airlineCodes="" />
-        <Parking index="8" type="gate" name="CAT_A_parking_east_4" lat="N45 44.376221" lon="E7 21.978394" heading="174.8"  radius="19" pushBackRoute="22" airlineCodes="" />
-        <Parking index="9" type="gate" name="CAT_A_parking_east_5" lat="N45 44.377035" lon="E7 21.992200" heading="174.8"  radius="19" pushBackRoute="19" airlineCodes="" />
-        <Parking index="10" type="ga" name="CAT_B_Helicopter_park_position" lat="N45 44.372690" lon="E7 22.028854" heading="354.8"  radius="8" pushBackRoute="41" airlineCodes="" />
-        <Parking index="11" type="ga" name="CAT_A_Helicopter_park_position" lat="N45 44.370173" lon="E7 22.052674" heading="354.8"  radius="8" pushBackRoute="41" airlineCodes="" />
+        <Parking index="5" type="gate" name="CAT_A_parking_east_1" lat="N45 44.382668" lon="E7 21.933222" heading="354.8"  radius="10" pushBackRoute="42" airlineCodes="" />
+        <Parking index="6" type="gate" name="CAT_A_parking_east_2" lat="N45 44.383454" lon="E7 21.944627" heading="354.8"  radius="10" pushBackRoute="24" airlineCodes="" />
+        <Parking index="7" type="gate" name="CAT_A_parking_east_3" lat="N45 44.375047" lon="E7 21.964550" heading="174.8"  radius="10" pushBackRoute="23" airlineCodes="" />
+        <Parking index="8" type="gate" name="CAT_A_parking_east_4" lat="N45 44.376221" lon="E7 21.978394" heading="174.8"  radius="10" pushBackRoute="22" airlineCodes="" />
+        <Parking index="9" type="gate" name="CAT_A_parking_east_5" lat="N45 44.377035" lon="E7 21.992200" heading="174.8"  radius="10" pushBackRoute="19" airlineCodes="" />
+        <Parking index="10" type="ga" name="CAT_B_Helicopter_park_position" lat="N45 44.372690" lon="E7 22.028854" heading="354.8"  radius="18" pushBackRoute="41" airlineCodes="" />
+        <Parking index="11" type="ga" name="CAT_A_Helicopter_park_position" lat="N45 44.370173" lon="E7 22.052674" heading="354.8"  radius="10" pushBackRoute="41" airlineCodes="" />
         <Parking index="12" type="ga" name="Fuel_station" lat="N45 44.386982" lon="E7 22.064290" heading="354.8"  radius="10" pushBackRoute="41" airlineCodes="" />
  </parkingList>
  <TaxiNodes>

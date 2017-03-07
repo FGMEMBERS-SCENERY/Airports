@@ -2,13 +2,13 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="GA_Ramp_7" lat="N48 0.073901" lon="W2 22.763567" heading="219.28"  radius="19" pushBackRoute="11" airlineCodes="" />
-        <Parking index="1" type="gate" name="GA_Ramp_6" lat="N48 0.072677" lon="W2 22.747286" heading="219.28"  radius="19" pushBackRoute="7" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA_Ramp_5" lat="N48 0.071330" lon="W2 22.730915" heading="219.28"  radius="19" pushBackRoute="7" airlineCodes="" />
-        <Parking index="3" type="gate" name="GA_Ramp_4" lat="N48 0.048156" lon="W2 22.713143" heading="325.31"  radius="19" pushBackRoute="7" airlineCodes="" />
-        <Parking index="4" type="gate" name="GA_Ramp_3" lat="N48 0.043711" lon="W2 22.737771" heading="325.31"  radius="19" pushBackRoute="7" airlineCodes="" />
-        <Parking index="5" type="gate" name="GA_Ramp_2" lat="N48 0.044824" lon="W2 22.756562" heading="325.31"  radius="19" pushBackRoute="7" airlineCodes="" />
-        <Parking index="6" type="gate" name="GA_Ramp_1" lat="N48 0.045880" lon="W2 22.775103" heading="325.31"  radius="19" pushBackRoute="7" airlineCodes="" />
+        <Parking index="0" type="gate" name="GA_Ramp_7" lat="N48 0.073901" lon="W2 22.763567" heading="219.28"  radius="10" pushBackRoute="11" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA_Ramp_6" lat="N48 0.072677" lon="W2 22.747286" heading="219.28"  radius="10" pushBackRoute="7" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_Ramp_5" lat="N48 0.071330" lon="W2 22.730915" heading="219.28"  radius="10" pushBackRoute="7" airlineCodes="" />
+        <Parking index="3" type="gate" name="GA_Ramp_4" lat="N48 0.048156" lon="W2 22.713143" heading="325.31"  radius="10" pushBackRoute="7" airlineCodes="" />
+        <Parking index="4" type="gate" name="GA_Ramp_3" lat="N48 0.043711" lon="W2 22.737771" heading="325.31"  radius="10" pushBackRoute="7" airlineCodes="" />
+        <Parking index="5" type="gate" name="GA_Ramp_2" lat="N48 0.044824" lon="W2 22.756562" heading="325.31"  radius="10" pushBackRoute="7" airlineCodes="" />
+        <Parking index="6" type="gate" name="GA_Ramp_1" lat="N48 0.045880" lon="W2 22.775103" heading="325.31"  radius="10" pushBackRoute="7" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="7" lat="N48 0.056699" lon="W2 22.740092" isOnRunway="0" holdPointType="PushBack"  />

@@ -2,15 +2,15 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="GA1" lat="N40 6.773385" lon="W85 36.808186" heading="93.05"  radius="19" pushBackRoute="25" airlineCodes="" />
-        <Parking index="1" type="gate" name="GA2" lat="N40 6.701068" lon="W85 36.784868" heading="89.76"  radius="19" pushBackRoute="30" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA3" lat="N40 6.720868" lon="W85 36.784829" heading="89.53"  radius="19" pushBackRoute="31" airlineCodes="" />
-        <Parking index="3" type="gate" name="GA4" lat="N40 6.760565" lon="W85 36.784729" heading="90.08"  radius="19" pushBackRoute="33" airlineCodes="" />
-        <Parking index="4" type="gate" name="GA5" lat="N40 6.691207" lon="W85 36.784524" heading="90"  radius="19" pushBackRoute="29" airlineCodes="" />
-        <Parking index="5" type="gate" name="GA6" lat="N40 6.709754" lon="W85 36.932633" heading="296.38"  radius="19" pushBackRoute="13" airlineCodes="" />
-        <Parking index="6" type="gate" name="GA7" lat="N40 6.710996" lon="W85 36.784849" heading="90"  radius="19" pushBackRoute="30" airlineCodes="" />
-        <Parking index="7" type="gate" name="GA8" lat="N40 6.730671" lon="W85 36.784785" heading="88.88"  radius="19" pushBackRoute="32" airlineCodes="" />
-        <Parking index="8" type="gate" name="GA9" lat="N40 6.740868" lon="W85 36.784767" heading="-269.34"  radius="19" pushBackRoute="32" airlineCodes="" />
+        <Parking index="0" type="gate" name="GA1" lat="N40 6.773385" lon="W85 36.808186" heading="93.05"  radius="36" pushBackRoute="25" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA2" lat="N40 6.701068" lon="W85 36.784868" heading="89.76"  radius="36" pushBackRoute="30" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA3" lat="N40 6.720868" lon="W85 36.784829" heading="89.53"  radius="32" pushBackRoute="31" airlineCodes="" />
+        <Parking index="3" type="gate" name="GA4" lat="N40 6.760565" lon="W85 36.784729" heading="90.08"  radius="32" pushBackRoute="33" airlineCodes="" />
+        <Parking index="4" type="gate" name="GA5" lat="N40 6.691207" lon="W85 36.784524" heading="90"  radius="32" pushBackRoute="29" airlineCodes="" />
+        <Parking index="5" type="gate" name="GA6" lat="N40 6.709754" lon="W85 36.932633" heading="296.38"  radius="32" pushBackRoute="13" airlineCodes="" />
+        <Parking index="6" type="gate" name="GA7" lat="N40 6.710996" lon="W85 36.784849" heading="90"  radius="32" pushBackRoute="30" airlineCodes="" />
+        <Parking index="7" type="gate" name="GA8" lat="N40 6.730671" lon="W85 36.784785" heading="88.88"  radius="32" pushBackRoute="32" airlineCodes="" />
+        <Parking index="8" type="gate" name="GA9" lat="N40 6.740868" lon="W85 36.784767" heading="-269.34"  radius="32" pushBackRoute="32" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="9" lat="N40 6.786153" lon="W85 37.138012" isOnRunway="0" holdPointType="none"  />

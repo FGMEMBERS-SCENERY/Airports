@@ -2,13 +2,13 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="TRamp_Pstt" lat="N43 6.809343" lon="W76 6.558098" heading="-60.04"  radius="19" pushBackRoute="112" airlineCodes="" />
-        <Parking index="1" type="gate" name="GA_Prop_Stt" lat="N43 6.378611" lon="W76 7.055666" heading="121.62"  radius="19" pushBackRoute="61" airlineCodes="" />
-        <Parking index="2" type="gate" name="TRamp_Jstt" lat="N43 6.790956" lon="W76 6.536062" heading="-90"  radius="10" pushBackRoute="112" airlineCodes="" />
-        <Parking index="3" type="gate" name="FEDEX_Rmp_Stt" lat="N43 6.681002" lon="W76 7.358659" heading="270"  radius="19" pushBackRoute="104" airlineCodes="" />
-        <Parking index="4" type="gate" name="ANG_Stt" lat="N43 6.139834" lon="W76 6.153358" heading="0"  radius="19" pushBackRoute="95" airlineCodes="" />
-        <Parking index="5" type="gate" name="Mil_D_1" lat="N43 6.196888" lon="W76 6.389415" heading="-2.75"  radius="44" pushBackRoute="76" airlineCodes="" />
-        <Parking index="6" type="gate" name="Mil_D_2" lat="N43 6.193567" lon="W76 6.438700" heading="-2.75"  radius="44" pushBackRoute="75" airlineCodes="" />
+        <Parking index="0" type="gate" name="TRamp_Pstt" lat="N43 6.809343" lon="W76 6.558098" heading="-60.04"  radius="18" pushBackRoute="112" airlineCodes="" />
+        <Parking index="1" type="gate" name="GA_Prop_Stt" lat="N43 6.378611" lon="W76 7.055666" heading="121.62"  radius="18" pushBackRoute="61" airlineCodes="" />
+        <Parking index="2" type="gate" name="TRamp_Jstt" lat="N43 6.790956" lon="W76 6.536062" heading="-90"  radius="20" pushBackRoute="112" airlineCodes="" />
+        <Parking index="3" type="gate" name="FEDEX_Rmp_Stt" lat="N43 6.681002" lon="W76 7.358659" heading="270"  radius="20" pushBackRoute="104" airlineCodes="" />
+        <Parking index="4" type="gate" name="ANG_Stt" lat="N43 6.139834" lon="W76 6.153358" heading="0"  radius="18" pushBackRoute="95" airlineCodes="" />
+        <Parking index="5" type="gate" name="Mil_D_1" lat="N43 6.196888" lon="W76 6.389415" heading="-2.75"  radius="32" pushBackRoute="76" airlineCodes="" />
+        <Parking index="6" type="gate" name="Mil_D_2" lat="N43 6.193567" lon="W76 6.438700" heading="-2.75"  radius="32" pushBackRoute="75" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="7" lat="N43 6.481014" lon="W76 7.527692" isOnRunway="0" holdPointType="none"  />

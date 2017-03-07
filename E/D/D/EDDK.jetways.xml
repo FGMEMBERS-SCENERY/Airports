@@ -7,7 +7,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.879106274</latitude-deg>
   <longitude-deg type="double">7.123241478</longitude-deg>
-  <elevation-m type="double">67.036</elevation-m>
+  <elevation-m type="double">67.767</elevation-m>
   <heading-deg type="double">237.660004</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -23,7 +23,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.879379199</latitude-deg>
   <longitude-deg type="double">7.123639867</longitude-deg>
-  <elevation-m type="double">67.171</elevation-m>
+  <elevation-m type="double">67.909</elevation-m>
   <heading-deg type="double">195.14</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -39,7 +39,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.879300194</latitude-deg>
   <longitude-deg type="double">7.124214686</longitude-deg>
-  <elevation-m type="double">67.449</elevation-m>
+  <elevation-m type="double">68.165</elevation-m>
   <heading-deg type="double">241.329987</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -55,7 +55,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.878937492</latitude-deg>
   <longitude-deg type="double">7.124419572</longitude-deg>
-  <elevation-m type="double">67.614</elevation-m>
+  <elevation-m type="double">68.292</elevation-m>
   <heading-deg type="double">139.529999</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -71,7 +71,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.878678931</latitude-deg>
   <longitude-deg type="double">7.124026874</longitude-deg>
-  <elevation-m type="double">67.459</elevation-m>
+  <elevation-m type="double">68.145</elevation-m>
   <heading-deg type="double">95.959999</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -87,7 +87,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.87826388</latitude-deg>
   <longitude-deg type="double">7.123694774</longitude-deg>
-  <elevation-m type="double">67.366</elevation-m>
+  <elevation-m type="double">68.032</elevation-m>
   <heading-deg type="double">71.990005</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -103,7 +103,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.877807116</latitude-deg>
   <longitude-deg type="double">7.123450991</longitude-deg>
-  <elevation-m type="double">67.344</elevation-m>
+  <elevation-m type="double">67.976</elevation-m>
   <heading-deg type="double">71.990005</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -119,7 +119,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.877482201</latitude-deg>
   <longitude-deg type="double">7.123281835</longitude-deg>
-  <elevation-m type="double">67.319</elevation-m>
+  <elevation-m type="double">67.933</elevation-m>
   <heading-deg type="double">71.990005</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -135,7 +135,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.877299943</latitude-deg>
   <longitude-deg type="double">7.123321144</longitude-deg>
-  <elevation-m type="double">67.374</elevation-m>
+  <elevation-m type="double">67.97</elevation-m>
   <heading-deg type="double">61.350006</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -151,7 +151,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.876926468</latitude-deg>
   <longitude-deg type="double">7.123383747</longitude-deg>
-  <elevation-m type="double">67.477</elevation-m>
+  <elevation-m type="double">68.037</elevation-m>
   <heading-deg type="double">350.240005</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -167,7 +167,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.876700227</latitude-deg>
   <longitude-deg type="double">7.122877234</longitude-deg>
-  <elevation-m type="double">67.29</elevation-m>
+  <elevation-m type="double">67.849</elevation-m>
   <heading-deg type="double">24.270004</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -183,7 +183,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.876703943</latitude-deg>
   <longitude-deg type="double">7.122262038</longitude-deg>
-  <elevation-m type="double">67.024</elevation-m>
+  <elevation-m type="double">67.594</elevation-m>
   <heading-deg type="double">240.649994</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -199,7 +199,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.880253541</latitude-deg>
   <longitude-deg type="double">7.121702503</longitude-deg>
-  <elevation-m type="double">66.264</elevation-m>
+  <elevation-m type="double">67.17</elevation-m>
   <heading-deg type="double">121.879997</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -215,7 +215,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.880470531</latitude-deg>
   <longitude-deg type="double">7.121231498</longitude-deg>
-  <elevation-m type="double">66.082</elevation-m>
+  <elevation-m type="double">67.022</elevation-m>
   <heading-deg type="double">115.82</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -231,7 +231,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.880709927</latitude-deg>
   <longitude-deg type="double">7.120781052</longitude-deg>
-  <elevation-m type="double">65.914</elevation-m>
+  <elevation-m type="double">66.89</elevation-m>
   <heading-deg type="double">142.82</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -247,7 +247,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.880911586</latitude-deg>
   <longitude-deg type="double">7.120287615</longitude-deg>
-  <elevation-m type="double">65.761</elevation-m>
+  <elevation-m type="double">66.763</elevation-m>
   <heading-deg type="double">40.679993</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -263,7 +263,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.881126662</latitude-deg>
   <longitude-deg type="double">7.119814193</longitude-deg>
-  <elevation-m type="double">65.62</elevation-m>
+  <elevation-m type="double">66.654</elevation-m>
   <heading-deg type="double">168.84</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -279,7 +279,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.881342575</latitude-deg>
   <longitude-deg type="double">7.119342552</longitude-deg>
-  <elevation-m type="double">65.507</elevation-m>
+  <elevation-m type="double">66.56</elevation-m>
   <heading-deg type="double">155.849998</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -295,7 +295,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.881781305</latitude-deg>
   <longitude-deg type="double">7.118385311</longitude-deg>
-  <elevation-m type="double">65.353</elevation-m>
+  <elevation-m type="double">66.451</elevation-m>
   <heading-deg type="double">183.360001</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>
@@ -311,7 +311,7 @@
   <airline type="string">FGFS</airline>
   <latitude-deg type="double">50.881558067</latitude-deg>
   <longitude-deg type="double">7.118855504</longitude-deg>
-  <elevation-m type="double">65.427</elevation-m>
+  <elevation-m type="double">66.513</elevation-m>
   <heading-deg type="double">183.360001</heading-deg>
   <initial-position>
     <jetway-extension-m type="double">0</jetway-extension-m>

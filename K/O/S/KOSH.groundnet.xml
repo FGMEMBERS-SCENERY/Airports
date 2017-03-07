@@ -2,16 +2,16 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Main_Terminal" lat="N43 59.620230" lon="W88 33.075030" heading="90.7"  radius="19" pushBackRoute="52" airlineCodes="" />
-        <Parking index="1" type="ga" name="North_Ramp_1" lat="N43 59.660248" lon="W88 33.178884" heading="181.65"  radius="10" pushBackRoute="49" airlineCodes="" />
-        <Parking index="2" type="gate" name="Basler_Flight_Service_FBO" lat="N43 59.672964" lon="W88 33.317804" heading="270.54"  radius="19" pushBackRoute="32" airlineCodes="" />
-        <Parking index="3" type="gate" name="North_Ts" lat="N43 59.630398" lon="W88 33.562017" heading="90.71"  radius="19" pushBackRoute="195" airlineCodes="" />
-        <Parking index="4" type="ga" name="Sonex_Aircraft_Ramp" lat="N43 59.261584" lon="W88 33.072316" heading="145.75"  radius="10" pushBackRoute="38" airlineCodes="" />
-        <Parking index="5" type="ga" name="Air_Academy_Lodge_Helipad" lat="N43 59.164499" lon="W88 34.415113" heading="218.66"  radius="8" pushBackRoute="157" airlineCodes="" />
-        <Parking index="6" type="gate" name="Fox_Valley_Tech" lat="N43 58.270315" lon="W88 32.740027" heading="270"  radius="19" pushBackRoute="21" airlineCodes="" />
-        <Parking index="7" type="gate" name="Hilton_Garden_Inn_Hotel" lat="N43 59.661647" lon="W88 34.274384" heading="360"  radius="19" pushBackRoute="192" airlineCodes="" />
-        <Parking index="8" type="gate" name="EAA_Flight_Research_Center" lat="N43 59.703691" lon="W88 33.974675" heading="180.69"  radius="19" pushBackRoute="186" airlineCodes="" />
-        <Parking index="9" type="gate" name="Basler_DC3_Turbo_Conversion" lat="N43 58.329113" lon="W88 32.677449" heading="1.65"  radius="19" pushBackRoute="16" airlineCodes="" />
+        <Parking index="0" type="gate" name="Main_Terminal" lat="N43 59.620230" lon="W88 33.075030" heading="90.7"  radius="20" pushBackRoute="52" airlineCodes="" />
+        <Parking index="1" type="ga" name="North_Ramp_1" lat="N43 59.660248" lon="W88 33.178884" heading="181.65"  radius="18" pushBackRoute="49" airlineCodes="" />
+        <Parking index="2" type="gate" name="Basler_Flight_Service_FBO" lat="N43 59.672964" lon="W88 33.317804" heading="270.54"  radius="20" pushBackRoute="32" airlineCodes="" />
+        <Parking index="3" type="gate" name="North_Ts" lat="N43 59.630398" lon="W88 33.562017" heading="90.71"  radius="20" pushBackRoute="195" airlineCodes="" />
+        <Parking index="4" type="ga" name="Sonex_Aircraft_Ramp" lat="N43 59.261584" lon="W88 33.072316" heading="145.75"  radius="18" pushBackRoute="38" airlineCodes="" />
+        <Parking index="5" type="ga" name="Air_Academy_Lodge_Helipad" lat="N43 59.164499" lon="W88 34.415113" heading="218.66"  radius="18" pushBackRoute="157" airlineCodes="" />
+        <Parking index="6" type="gate" name="Fox_Valley_Tech" lat="N43 58.270315" lon="W88 32.740027" heading="270"  radius="20" pushBackRoute="21" airlineCodes="" />
+        <Parking index="7" type="gate" name="Hilton_Garden_Inn_Hotel" lat="N43 59.661647" lon="W88 34.274384" heading="360"  radius="20" pushBackRoute="192" airlineCodes="" />
+        <Parking index="8" type="gate" name="EAA_Flight_Research_Center" lat="N43 59.703691" lon="W88 33.974675" heading="180.69"  radius="20" pushBackRoute="186" airlineCodes="" />
+        <Parking index="9" type="gate" name="Basler_DC3_Turbo_Conversion" lat="N43 58.329113" lon="W88 32.677449" heading="1.65"  radius="20" pushBackRoute="16" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="10" lat="N43 59.654347" lon="W88 33.627076" isOnRunway="0" holdPointType="none"  />

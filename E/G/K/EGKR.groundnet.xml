@@ -2,21 +2,21 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="North_10" lat="N51 12.936215" lon="W0 8.242886" heading="173.37"  radius="19" pushBackRoute="204" airlineCodes="" />
-        <Parking index="1" type="gate" name="North_9" lat="N51 12.934106" lon="W0 8.276312" heading="181.51"  radius="19" pushBackRoute="206" airlineCodes="" />
-        <Parking index="2" type="ga" name="North_8" lat="N51 12.952748" lon="W0 8.632351" heading="301.79"  radius="10" pushBackRoute="187" airlineCodes="" />
-        <Parking index="3" type="ga" name="North_7" lat="N51 13.082723" lon="W0 8.528079" heading="78.5"  radius="10" pushBackRoute="119" airlineCodes="" />
-        <Parking index="4" type="gate" name="North_1" lat="N51 13.159796" lon="W0 8.479327" heading="238.5"  radius="19" pushBackRoute="210" airlineCodes="" />
-        <Parking index="5" type="gate" name="North_2" lat="N51 13.155371" lon="W0 8.514396" heading="108.28"  radius="19" pushBackRoute="191" airlineCodes="" />
-        <Parking index="6" type="gate" name="North_3" lat="N51 13.143982" lon="W0 8.520286" heading="287.59"  radius="19" pushBackRoute="131" airlineCodes="" />
-        <Parking index="7" type="gate" name="North_4" lat="N51 13.160025" lon="W0 8.523575" heading="267.6"  radius="19" pushBackRoute="195" airlineCodes="" />
-        <Parking index="8" type="gate" name="North_5" lat="N51 13.170721" lon="W0 8.524837" heading="267.08"  radius="19" pushBackRoute="195" airlineCodes="" />
-        <Parking index="9" type="gate" name="North_6" lat="N51 13.181132" lon="W0 8.525233" heading="267.99"  radius="19" pushBackRoute="195" airlineCodes="" />
-        <Parking index="10" type="ga" name="South_Helipad" lat="N51 12.705996" lon="W0 8.293218" heading="258.98"  radius="8" pushBackRoute="97" airlineCodes="" />
-        <Parking index="11" type="ga" name="North_Helipad_4" lat="N51 13.113009" lon="W0 8.516178" heading="115.19"  radius="8" pushBackRoute="126" airlineCodes="" />
-        <Parking index="12" type="ga" name="North_Helipad_3" lat="N51 13.140200" lon="W0 8.481464" heading="334.38"  radius="8" pushBackRoute="136" airlineCodes="" />
-        <Parking index="13" type="ga" name="North_Helipad_2" lat="N51 13.133671" lon="W0 8.501692" heading="289.29"  radius="8" pushBackRoute="197" airlineCodes="" />
-        <Parking index="14" type="ga" name="North_Helipad_1" lat="N51 13.126523" lon="W0 8.517524" heading="277.36"  radius="8" pushBackRoute="198" airlineCodes="" />
+        <Parking index="0" type="gate" name="North_10" lat="N51 12.936215" lon="W0 8.242886" heading="173.37"  radius="20" pushBackRoute="204" airlineCodes="" />
+        <Parking index="1" type="gate" name="North_9" lat="N51 12.934106" lon="W0 8.276312" heading="181.51"  radius="20" pushBackRoute="206" airlineCodes="" />
+        <Parking index="2" type="ga" name="North_8" lat="N51 12.952748" lon="W0 8.632351" heading="301.79"  radius="18" pushBackRoute="187" airlineCodes="" />
+        <Parking index="3" type="ga" name="North_7" lat="N51 13.082723" lon="W0 8.528079" heading="78.5"  radius="18" pushBackRoute="119" airlineCodes="" />
+        <Parking index="4" type="gate" name="North_1" lat="N51 13.159796" lon="W0 8.479327" heading="238.5"  radius="20" pushBackRoute="210" airlineCodes="" />
+        <Parking index="5" type="gate" name="North_2" lat="N51 13.155371" lon="W0 8.514396" heading="108.28"  radius="20" pushBackRoute="191" airlineCodes="" />
+        <Parking index="6" type="gate" name="North_3" lat="N51 13.143982" lon="W0 8.520286" heading="287.59"  radius="20" pushBackRoute="131" airlineCodes="" />
+        <Parking index="7" type="gate" name="North_4" lat="N51 13.160025" lon="W0 8.523575" heading="267.6"  radius="20" pushBackRoute="195" airlineCodes="" />
+        <Parking index="8" type="gate" name="North_5" lat="N51 13.170721" lon="W0 8.524837" heading="267.08"  radius="20" pushBackRoute="195" airlineCodes="" />
+        <Parking index="9" type="gate" name="North_6" lat="N51 13.181132" lon="W0 8.525233" heading="267.99"  radius="20" pushBackRoute="195" airlineCodes="" />
+        <Parking index="10" type="ga" name="South_Helipad" lat="N51 12.705996" lon="W0 8.293218" heading="258.98"  radius="18" pushBackRoute="97" airlineCodes="" />
+        <Parking index="11" type="ga" name="North_Helipad_4" lat="N51 13.113009" lon="W0 8.516178" heading="115.19"  radius="18" pushBackRoute="126" airlineCodes="" />
+        <Parking index="12" type="ga" name="North_Helipad_3" lat="N51 13.140200" lon="W0 8.481464" heading="334.38"  radius="18" pushBackRoute="136" airlineCodes="" />
+        <Parking index="13" type="ga" name="North_Helipad_2" lat="N51 13.133671" lon="W0 8.501692" heading="289.29"  radius="18" pushBackRoute="197" airlineCodes="" />
+        <Parking index="14" type="ga" name="North_Helipad_1" lat="N51 13.126523" lon="W0 8.517524" heading="277.36"  radius="18" pushBackRoute="198" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="15" lat="N51 13.209843" lon="W0 8.550952" isOnRunway="0" holdPointType="none"  />

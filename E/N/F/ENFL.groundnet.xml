@@ -3,8 +3,8 @@
   <version>1</version>
   <parkingList>
         <Parking index="0" type="ga" name="Stand_6" lat="N61 35.142754" lon="E5 1.546633" heading="10"  radius="10" pushBackRoute="23" airlineCodes="" />
-        <Parking index="1" type="gate" name="Stand_3" lat="N61 35.122365" lon="E5 1.486388" heading="50"  radius="19" pushBackRoute="20" airlineCodes="" />
-        <Parking index="2" type="gate" name="Stand_2" lat="N61 35.113860" lon="E5 1.429261" heading="50"  radius="19" pushBackRoute="19" airlineCodes="" />
+        <Parking index="1" type="gate" name="Stand_3" lat="N61 35.122365" lon="E5 1.486388" heading="50"  radius="18" pushBackRoute="20" airlineCodes="" />
+        <Parking index="2" type="gate" name="Stand_2" lat="N61 35.113860" lon="E5 1.429261" heading="50"  radius="18" pushBackRoute="19" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="3" lat="N61 35.072779" lon="E5 1.780212" isOnRunway="0" holdPointType="none"  />

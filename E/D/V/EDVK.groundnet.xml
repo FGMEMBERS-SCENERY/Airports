@@ -2,21 +2,21 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Main_apron_position_1" lat="N51 25.020054" lon="E9 23.249027" heading="275.16"  radius="19" pushBackRoute="54" airlineCodes="" />
-        <Parking index="1" type="gate" name="Main_apron_position_2" lat="N51 25.055683" lon="E9 23.253976" heading="275.16"  radius="19" pushBackRoute="53" airlineCodes="" />
-        <Parking index="2" type="gate" name="Main_apron_position_3" lat="N51 25.094370" lon="E9 23.247897" heading="275.11"  radius="19" pushBackRoute="76" airlineCodes="" />
+        <Parking index="0" type="gate" name="Main_apron_position_1" lat="N51 25.020054" lon="E9 23.249027" heading="275.16"  radius="20" pushBackRoute="54" airlineCodes="GMI,AEE" />
+        <Parking index="1" type="gate" name="Main_apron_position_2" lat="N51 25.055683" lon="E9 23.253976" heading="275.16"  radius="20" pushBackRoute="53" airlineCodes="GMI,AEE" />
+        <Parking index="2" type="gate" name="Main_apron_position_3" lat="N51 25.094370" lon="E9 23.247897" heading="275.11"  radius="20" pushBackRoute="76" airlineCodes="" />
         <Parking index="3" type="ga" name="General_aviation_spot_1" lat="N51 25.050997" lon="E9 23.587682" heading="275"  radius="10" pushBackRoute="99" airlineCodes="" />
         <Parking index="4" type="ga" name="General_aviation_spot_2" lat="N51 25.060579" lon="E9 23.596353" heading="280"  radius="10" pushBackRoute="64" airlineCodes="" />
         <Parking index="5" type="ga" name="General_aviation_spot_3" lat="N51 25.049492" lon="E9 23.630239" heading="95"  radius="10" pushBackRoute="83" airlineCodes="" />
         <Parking index="6" type="ga" name="General_aviation_spot_4" lat="N51 25.059109" lon="E9 23.632050" heading="95"  radius="10" pushBackRoute="83" airlineCodes="" />
         <Parking index="7" type="ga" name="General_aviation_spot_5" lat="N51 25.047145" lon="E9 23.661692" heading="275"  radius="10" pushBackRoute="99" airlineCodes="" />
         <Parking index="8" type="ga" name="General_aviation_spot_6" lat="N51 25.057862" lon="E9 23.663503" heading="275"  radius="10" pushBackRoute="64" airlineCodes="" />
-        <Parking index="9" type="gate" name="General_aviation_spot_7" lat="N51 25.038879" lon="E9 23.705227" heading="95"  radius="19" pushBackRoute="99" airlineCodes="" />
-        <Parking index="10" type="gate" name="General_aviation_spot_8" lat="N51 25.053521" lon="E9 23.707828" heading="95"  radius="19" pushBackRoute="64" airlineCodes="" />
-        <Parking index="11" type="gate" name="General_aviation_spot_9" lat="N51 25.043184" lon="E9 23.775423" heading="54.33"  radius="19" pushBackRoute="98" airlineCodes="" />
-        <Parking index="12" type="gate" name="General_aviation_spot_10" lat="N51 25.037415" lon="E9 23.823767" heading="54.33"  radius="19" pushBackRoute="97" airlineCodes="" />
-        <Parking index="13" type="gate" name="General_aviation_spot_11" lat="N51 25.109281" lon="E9 23.576142" heading="95"  radius="19" pushBackRoute="82" airlineCodes="" />
-        <Parking index="14" type="gate" name="General_aviation_spot_12" lat="N51 25.092050" lon="E9 23.573599" heading="95"  radius="19" pushBackRoute="82" airlineCodes="" />
+        <Parking index="9" type="gate" name="General_aviation_spot_7" lat="N51 25.038879" lon="E9 23.705227" heading="95"  radius="18" pushBackRoute="99" airlineCodes="" />
+        <Parking index="10" type="gate" name="General_aviation_spot_8" lat="N51 25.053521" lon="E9 23.707828" heading="95"  radius="18" pushBackRoute="64" airlineCodes="" />
+        <Parking index="11" type="gate" name="General_aviation_spot_9" lat="N51 25.043184" lon="E9 23.775423" heading="54.33"  radius="20" pushBackRoute="98" airlineCodes="" />
+        <Parking index="12" type="gate" name="General_aviation_spot_10" lat="N51 25.037415" lon="E9 23.823767" heading="54.33"  radius="20" pushBackRoute="97" airlineCodes="" />
+        <Parking index="13" type="gate" name="General_aviation_spot_11" lat="N51 25.109281" lon="E9 23.576142" heading="95"  radius="18" pushBackRoute="82" airlineCodes="" />
+        <Parking index="14" type="gate" name="General_aviation_spot_12" lat="N51 25.092050" lon="E9 23.573599" heading="95"  radius="18" pushBackRoute="82" airlineCodes="" />
         <Parking index="15" type="ga" name="Hangars_west_spot_1" lat="N51 25.014106" lon="E9 23.569873" heading="275.91"  radius="10" pushBackRoute="86" airlineCodes="" />
         <Parking index="16" type="ga" name="Hangars_west_spot_2" lat="N51 24.990638" lon="E9 23.564125" heading="275.91"  radius="10" pushBackRoute="85" airlineCodes="" />
         <Parking index="17" type="ga" name="Hangars_east_spot_1" lat="N51 25.075852" lon="E9 23.937049" heading="309.9"  radius="10" pushBackRoute="95" airlineCodes="" />

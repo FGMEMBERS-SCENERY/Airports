@@ -2,54 +2,54 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.154584" lon="W2 12.575875" heading="169.84"  radius="8" pushBackRoute="137" airlineCodes="" />
-        <Parking index="1" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.322554" lon="W2 12.288104" heading="-40.76"  radius="8" pushBackRoute="70" airlineCodes="" />
-        <Parking index="2" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.340534" lon="W2 12.316643" heading="138.68"  radius="8" pushBackRoute="49" airlineCodes="" />
-        <Parking index="3" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.356332" lon="W2 12.341733" heading="138.68"  radius="8" pushBackRoute="53" airlineCodes="" />
-        <Parking index="4" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.372260" lon="W2 12.367677" heading="138.68"  radius="8" pushBackRoute="53" airlineCodes="" />
-        <Parking index="5" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.383139" lon="W2 12.395360" heading="-178.14"  radius="8" pushBackRoute="53" airlineCodes="" />
-        <Parking index="6" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.377305" lon="W2 12.396128" heading="2.34"  radius="8" pushBackRoute="49" airlineCodes="" />
-        <Parking index="7" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.355642" lon="W2 12.398313" heading="2.34"  radius="8" pushBackRoute="48" airlineCodes="" />
-        <Parking index="8" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.334025" lon="W2 12.400330" heading="2.34"  radius="8" pushBackRoute="48" airlineCodes="" />
-        <Parking index="9" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.313227" lon="W2 12.402598" heading="2.34"  radius="8" pushBackRoute="48" airlineCodes="" />
-        <Parking index="10" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.258714" lon="W2 12.356588" heading="-130.78"  radius="8" pushBackRoute="153" airlineCodes="" />
-        <Parking index="11" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.244081" lon="W2 12.329245" heading="239.5"  radius="8" pushBackRoute="153" airlineCodes="" />
-        <Parking index="12" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.138733" lon="W2 12.527039" heading="239.5"  radius="8" pushBackRoute="148" airlineCodes="" />
-        <Parking index="13" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.123121" lon="W2 12.527828" heading="278.87"  radius="8" pushBackRoute="148" airlineCodes="" />
-        <Parking index="14" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.091563" lon="W2 12.517096" heading="9.92"  radius="8" pushBackRoute="144" airlineCodes="" />
-        <Parking index="15" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.071920" lon="W2 12.522461" heading="9.92"  radius="8" pushBackRoute="144" airlineCodes="" />
-        <Parking index="16" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.061855" lon="W2 12.586448" heading="9.92"  radius="8" pushBackRoute="143" airlineCodes="" />
-        <Parking index="17" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.083430" lon="W2 12.581172" heading="9.92"  radius="8" pushBackRoute="143" airlineCodes="" />
-        <Parking index="18" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.105074" lon="W2 12.572538" heading="9.92"  radius="8" pushBackRoute="144" airlineCodes="" />
-        <Parking index="19" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.149614" lon="W2 12.229815" heading="136"  radius="19" pushBackRoute="146" airlineCodes="" />
-        <Parking index="20" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.134494" lon="W2 12.255733" heading="136"  radius="19" pushBackRoute="157" airlineCodes="" />
-        <Parking index="21" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.123290" lon="W2 12.281029" heading="136"  radius="19" pushBackRoute="157" airlineCodes="" />
-        <Parking index="22" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.109250" lon="W2 12.308692" heading="136"  radius="19" pushBackRoute="157" airlineCodes="" />
-        <Parking index="23" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.097573" lon="W2 12.333613" heading="136"  radius="19" pushBackRoute="156" airlineCodes="" />
-        <Parking index="24" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.084802" lon="W2 12.357529" heading="136"  radius="19" pushBackRoute="150" airlineCodes="" />
-        <Parking index="25" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.066553" lon="W2 12.414228" heading="136"  radius="19" pushBackRoute="147" airlineCodes="" />
-        <Parking index="26" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.072908" lon="W2 12.383742" heading="136"  radius="19" pushBackRoute="150" airlineCodes="" />
-        <Parking index="27" type="ga" name="Bond_East_Apron" lat="N57 12.121892" lon="W2 11.620226" heading="-21.43"  radius="8" pushBackRoute="59" airlineCodes="" />
-        <Parking index="28" type="ga" name="Bond_East_Apron" lat="N57 12.141581" lon="W2 11.633987" heading="-21.43"  radius="8" pushBackRoute="59" airlineCodes="" />
-        <Parking index="29" type="ga" name="Bond_East_Apron" lat="N57 12.127236" lon="W2 11.689291" heading="-21.43"  radius="8" pushBackRoute="60" airlineCodes="" />
-        <Parking index="30" type="ga" name="Bond_East_Apron" lat="N57 12.107194" lon="W2 11.674362" heading="-21.43"  radius="8" pushBackRoute="58" airlineCodes="" />
+        <Parking index="0" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.154584" lon="W2 12.575875" heading="169.84"  radius="18" pushBackRoute="137" airlineCodes="" />
+        <Parking index="1" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.322554" lon="W2 12.288104" heading="-40.76"  radius="18" pushBackRoute="70" airlineCodes="" />
+        <Parking index="2" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.340534" lon="W2 12.316643" heading="138.68"  radius="18" pushBackRoute="49" airlineCodes="" />
+        <Parking index="3" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.356332" lon="W2 12.341733" heading="138.68"  radius="18" pushBackRoute="53" airlineCodes="" />
+        <Parking index="4" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.372260" lon="W2 12.367677" heading="138.68"  radius="18" pushBackRoute="53" airlineCodes="" />
+        <Parking index="5" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.383139" lon="W2 12.395360" heading="-178.14"  radius="18" pushBackRoute="53" airlineCodes="" />
+        <Parking index="6" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.377305" lon="W2 12.396128" heading="2.34"  radius="18" pushBackRoute="49" airlineCodes="" />
+        <Parking index="7" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.355642" lon="W2 12.398313" heading="2.34"  radius="18" pushBackRoute="48" airlineCodes="" />
+        <Parking index="8" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.334025" lon="W2 12.400330" heading="2.34"  radius="18" pushBackRoute="48" airlineCodes="" />
+        <Parking index="9" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.313227" lon="W2 12.402598" heading="2.34"  radius="18" pushBackRoute="48" airlineCodes="" />
+        <Parking index="10" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.258714" lon="W2 12.356588" heading="-130.78"  radius="18" pushBackRoute="153" airlineCodes="" />
+        <Parking index="11" type="ga" name="CHC_Scotia_Helicopters_Apron" lat="N57 12.244081" lon="W2 12.329245" heading="239.5"  radius="18" pushBackRoute="153" airlineCodes="" />
+        <Parking index="12" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.138733" lon="W2 12.527039" heading="239.5"  radius="18" pushBackRoute="148" airlineCodes="" />
+        <Parking index="13" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.123121" lon="W2 12.527828" heading="278.87"  radius="18" pushBackRoute="148" airlineCodes="" />
+        <Parking index="14" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.091563" lon="W2 12.517096" heading="9.92"  radius="18" pushBackRoute="144" airlineCodes="" />
+        <Parking index="15" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.071920" lon="W2 12.522461" heading="9.92"  radius="18" pushBackRoute="144" airlineCodes="" />
+        <Parking index="16" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.061855" lon="W2 12.586448" heading="9.92"  radius="18" pushBackRoute="143" airlineCodes="" />
+        <Parking index="17" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.083430" lon="W2 12.581172" heading="9.92"  radius="18" pushBackRoute="143" airlineCodes="" />
+        <Parking index="18" type="ga" name="Bristow_Helicopters_Apron" lat="N57 12.105074" lon="W2 12.572538" heading="9.92"  radius="18" pushBackRoute="144" airlineCodes="" />
+        <Parking index="19" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.149614" lon="W2 12.229815" heading="136"  radius="18" pushBackRoute="146" airlineCodes="" />
+        <Parking index="20" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.134494" lon="W2 12.255733" heading="136"  radius="18" pushBackRoute="157" airlineCodes="" />
+        <Parking index="21" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.123290" lon="W2 12.281029" heading="136"  radius="18" pushBackRoute="157" airlineCodes="" />
+        <Parking index="22" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.109250" lon="W2 12.308692" heading="136"  radius="18" pushBackRoute="157" airlineCodes="" />
+        <Parking index="23" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.097573" lon="W2 12.333613" heading="136"  radius="18" pushBackRoute="156" airlineCodes="" />
+        <Parking index="24" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.084802" lon="W2 12.357529" heading="136"  radius="18" pushBackRoute="150" airlineCodes="" />
+        <Parking index="25" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.066553" lon="W2 12.414228" heading="136"  radius="10" pushBackRoute="147" airlineCodes="" />
+        <Parking index="26" type="gate" name="North_Ramp_Main_Terminal" lat="N57 12.072908" lon="W2 12.383742" heading="136"  radius="18" pushBackRoute="150" airlineCodes="" />
+        <Parking index="27" type="ga" name="Bond_East_Apron" lat="N57 12.121892" lon="W2 11.620226" heading="-21.43"  radius="18" pushBackRoute="59" airlineCodes="" />
+        <Parking index="28" type="ga" name="Bond_East_Apron" lat="N57 12.141581" lon="W2 11.633987" heading="-21.43"  radius="18" pushBackRoute="59" airlineCodes="" />
+        <Parking index="29" type="ga" name="Bond_East_Apron" lat="N57 12.127236" lon="W2 11.689291" heading="-21.43"  radius="18" pushBackRoute="60" airlineCodes="" />
+        <Parking index="30" type="ga" name="Bond_East_Apron" lat="N57 12.107194" lon="W2 11.674362" heading="-21.43"  radius="18" pushBackRoute="58" airlineCodes="" />
         <Parking index="31" type="ga" name="GA_Apron" lat="N57 11.923363" lon="W2 11.524223" heading="-158.3"  radius="10" pushBackRoute="55" airlineCodes="" />
         <Parking index="32" type="ga" name="GA_Apron" lat="N57 11.917912" lon="W2 11.519547" heading="-113.19"  radius="10" pushBackRoute="55" airlineCodes="" />
         <Parking index="33" type="ga" name="GA_Apron" lat="N57 11.908220" lon="W2 11.513041" heading="-113.19"  radius="10" pushBackRoute="54" airlineCodes="" />
         <Parking index="34" type="ga" name="GA_Apron" lat="N57 11.910202" lon="W2 11.529610" heading="62.69"  radius="10" pushBackRoute="81" airlineCodes="" />
         <Parking index="35" type="ga" name="GA_Apron" lat="N57 11.915874" lon="W2 11.535608" heading="62.69"  radius="10" pushBackRoute="81" airlineCodes="" />
-        <Parking index="36" type="ga" name="Bond_East_Apron" lat="N57 12.087082" lon="W2 11.659562" heading="-21.43"  radius="8" pushBackRoute="58" airlineCodes="" />
-        <Parking index="37" type="gate" name="East_Apron" lat="N57 12.199898" lon="W2 11.695147" heading="242.16"  radius="44" pushBackRoute="60" airlineCodes="" />
-        <Parking index="38" type="ga" name="Bond_East_Apron" lat="N57 12.180838" lon="W2 11.642416" heading="318.31"  radius="8" pushBackRoute="60" airlineCodes="" />
-        <Parking index="39" type="ga" name="Bond_East_Apron" lat="N57 12.102201" lon="W2 11.608933" heading="0"  radius="8" pushBackRoute="59" airlineCodes="" />
-        <Parking index="40" type="gate" name="Main_Terminal_South" lat="N57 11.951384" lon="W2 12.079334" heading="-133.52"  radius="19" pushBackRoute="66" airlineCodes="" />
-        <Parking index="41" type="gate" name="Main_Terminal_South" lat="N57 11.972958" lon="W2 12.103859" heading="248"  radius="19" pushBackRoute="66" airlineCodes="" />
-        <Parking index="42" type="gate" name="Main_Terminal_South" lat="N57 11.994496" lon="W2 12.122323" heading="248"  radius="19" pushBackRoute="66" airlineCodes="" />
-        <Parking index="43" type="gate" name="Main_Terminal_South" lat="N57 12.017139" lon="W2 12.135916" heading="248"  radius="19" pushBackRoute="66" airlineCodes="" />
-        <Parking index="44" type="gate" name="Main_Terminal_South" lat="N57 12.038800" lon="W2 12.152907" heading="248"  radius="19" pushBackRoute="66" airlineCodes="" />
-        <Parking index="45" type="gate" name="Main_Terminal_South" lat="N57 12.060339" lon="W2 12.169332" heading="248"  radius="19" pushBackRoute="63" airlineCodes="" />
-        <Parking index="46" type="gate" name="Main_Terminal_South" lat="N57 12.080588" lon="W2 12.189382" heading="248"  radius="19" pushBackRoute="63" airlineCodes="" />
-        <Parking index="47" type="gate" name="Main_Terminal_South" lat="N57 12.115995" lon="W2 12.214064" heading="248"  radius="19" pushBackRoute="69" airlineCodes="" />
+        <Parking index="36" type="ga" name="Bond_East_Apron" lat="N57 12.087082" lon="W2 11.659562" heading="-21.43"  radius="18" pushBackRoute="58" airlineCodes="" />
+        <Parking index="37" type="gate" name="East_Apron" lat="N57 12.199898" lon="W2 11.695147" heading="242.16"  radius="20" pushBackRoute="60" airlineCodes="" />
+        <Parking index="38" type="ga" name="Bond_East_Apron" lat="N57 12.180838" lon="W2 11.642416" heading="318.31"  radius="18" pushBackRoute="60" airlineCodes="" />
+        <Parking index="39" type="ga" name="Bond_East_Apron" lat="N57 12.102201" lon="W2 11.608933" heading="0"  radius="18" pushBackRoute="59" airlineCodes="" />
+        <Parking index="40" type="gate" name="Main_Terminal_South" lat="N57 11.951384" lon="W2 12.079334" heading="-133.52"  radius="20" pushBackRoute="66" airlineCodes="" />
+        <Parking index="41" type="gate" name="Main_Terminal_South" lat="N57 11.972958" lon="W2 12.103859" heading="248"  radius="20" pushBackRoute="66" airlineCodes="" />
+        <Parking index="42" type="gate" name="Main_Terminal_South" lat="N57 11.994496" lon="W2 12.122323" heading="248"  radius="20" pushBackRoute="66" airlineCodes="" />
+        <Parking index="43" type="gate" name="Main_Terminal_South" lat="N57 12.017139" lon="W2 12.135916" heading="248"  radius="20" pushBackRoute="66" airlineCodes="" />
+        <Parking index="44" type="gate" name="Main_Terminal_South" lat="N57 12.038800" lon="W2 12.152907" heading="248"  radius="20" pushBackRoute="66" airlineCodes="" />
+        <Parking index="45" type="gate" name="Main_Terminal_South" lat="N57 12.060339" lon="W2 12.169332" heading="248"  radius="20" pushBackRoute="63" airlineCodes="" />
+        <Parking index="46" type="gate" name="Main_Terminal_South" lat="N57 12.080588" lon="W2 12.189382" heading="248"  radius="20" pushBackRoute="63" airlineCodes="" />
+        <Parking index="47" type="gate" name="Main_Terminal_South" lat="N57 12.115995" lon="W2 12.214064" heading="248"  radius="18" pushBackRoute="69" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="48" lat="N57 12.312199" lon="W2 12.425832" isOnRunway="0" holdPointType="PushBack"  />

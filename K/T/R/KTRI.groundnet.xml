@@ -2,14 +2,14 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Terminal" lat="N36 28.805163" lon="W82 24.436274" heading="42.68"  radius="19" pushBackRoute="75" airlineCodes="" />
-        <Parking index="1" type="gate" name="Tri-Cities_Aviation" lat="N36 28.620645" lon="W82 23.906140" heading="-2.54"  radius="19" pushBackRoute="8" airlineCodes="" />
-        <Parking index="2" type="gate" name="FBO" lat="N36 28.974701" lon="W82 24.251724" heading="171.88"  radius="19" pushBackRoute="89" airlineCodes="" />
-        <Parking index="3" type="gate" name="TERMINAL_RAMP" lat="N36 28.777533" lon="W82 24.494095" heading="178.34"  radius="19" pushBackRoute="75" airlineCodes="" />
-        <Parking index="4" type="gate" name="TOWER" lat="N36 28.589877" lon="W82 24.673235" heading="99.34"  radius="19" pushBackRoute="14" airlineCodes="" />
-        <Parking index="5" type="gate" name="NW_GA_RAMP" lat="N36 28.986530" lon="W82 24.162330" heading="172.34"  radius="19" pushBackRoute="86" airlineCodes="" />
-        <Parking index="6" type="gate" name="North_GA_Ramp" lat="N36 28.921893" lon="W82 24.296745" heading="140.66"  radius="19" pushBackRoute="17" airlineCodes="" />
-        <Parking index="7" type="gate" name="Cargo_Ramp" lat="N36 28.288483" lon="W82 24.293075" heading="312.96"  radius="19" pushBackRoute="27" airlineCodes="" />
+        <Parking index="0" type="gate" name="Terminal" lat="N36 28.805163" lon="W82 24.436274" heading="42.68"  radius="20" pushBackRoute="75" airlineCodes="" />
+        <Parking index="1" type="gate" name="Tri-Cities_Aviation" lat="N36 28.620645" lon="W82 23.906140" heading="-2.54"  radius="20" pushBackRoute="8" airlineCodes="" />
+        <Parking index="2" type="gate" name="FBO" lat="N36 28.974701" lon="W82 24.251724" heading="171.88"  radius="20" pushBackRoute="89" airlineCodes="" />
+        <Parking index="3" type="gate" name="TERMINAL_RAMP" lat="N36 28.777533" lon="W82 24.494095" heading="178.34"  radius="20" pushBackRoute="75" airlineCodes="" />
+        <Parking index="4" type="gate" name="TOWER" lat="N36 28.589877" lon="W82 24.673235" heading="99.34"  radius="20" pushBackRoute="14" airlineCodes="" />
+        <Parking index="5" type="gate" name="NW_GA_RAMP" lat="N36 28.986530" lon="W82 24.162330" heading="172.34"  radius="20" pushBackRoute="86" airlineCodes="" />
+        <Parking index="6" type="gate" name="North_GA_Ramp" lat="N36 28.921893" lon="W82 24.296745" heading="140.66"  radius="20" pushBackRoute="17" airlineCodes="" />
+        <Parking index="7" type="gate" name="Cargo_Ramp" lat="N36 28.288483" lon="W82 24.293075" heading="312.96"  radius="20" pushBackRoute="27" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="8" lat="N36 28.632655" lon="W82 23.906315" isOnRunway="0" holdPointType="PushBack"  />

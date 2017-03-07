@@ -5,7 +5,7 @@
         <Parking index="0" type="gate" name="Jetway_2" lat="N35 48.614356" lon="W84 0.185588" heading="134.93"  radius="17" pushBackRoute="50" airlineCodes="" />
         <Parking index="1" type="gate" name="TacAir" lat="N35 48.728344" lon="W83 59.146254" heading="-45.44"  radius="17" pushBackRoute="19" airlineCodes="" />
         <Parking index="2" type="gate" name="Terminal" lat="N35 48.428799" lon="W83 59.488190" heading="113.32"  radius="17" pushBackRoute="25" airlineCodes="" />
-        <Parking index="3" type="gate" name="ANG" lat="N35 48.425343" lon="W84 0.552620" heading="96.08"  radius="44" pushBackRoute="49" airlineCodes="" />
+        <Parking index="3" type="gate" name="ANG" lat="N35 48.425343" lon="W84 0.552620" heading="96.08"  radius="36" pushBackRoute="49" airlineCodes="" />
         <Parking index="4" type="gate" name="Jetway_3" lat="N35 48.437477" lon="W83 59.407437" heading="292.86"  radius="17" pushBackRoute="26" airlineCodes="" />
  </parkingList>
  <TaxiNodes>

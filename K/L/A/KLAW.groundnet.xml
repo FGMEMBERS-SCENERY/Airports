@@ -2,11 +2,11 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Apron_Hold" lat="N34 34.313246" lon="W98 24.868380" heading="357.61"  radius="19" pushBackRoute="20" airlineCodes="" />
-        <Parking index="1" type="ga" name="GA_Hanger" lat="N34 34.620214" lon="W98 24.675220" heading="138.37"  radius="10" pushBackRoute="9" airlineCodes="" />
-        <Parking index="2" type="ga" name="GA_North" lat="N34 34.567557" lon="W98 24.613932" heading="-41.43"  radius="10" pushBackRoute="24" airlineCodes="" />
-        <Parking index="3" type="gate" name="Gate2" lat="N34 34.385260" lon="W98 24.878075" heading="104.62"  radius="19" pushBackRoute="53" airlineCodes="" />
-        <Parking index="4" type="ga" name="Maint" lat="N34 34.562846" lon="W98 24.774352" heading="135"  radius="10" pushBackRoute="31" airlineCodes="" />
+        <Parking index="0" type="gate" name="Apron_Hold" lat="N34 34.313246" lon="W98 24.868380" heading="357.61"  radius="20" pushBackRoute="20" airlineCodes="" />
+        <Parking index="1" type="ga" name="GA_Hanger" lat="N34 34.620214" lon="W98 24.675220" heading="138.37"  radius="18" pushBackRoute="9" airlineCodes="" />
+        <Parking index="2" type="ga" name="GA_North" lat="N34 34.567557" lon="W98 24.613932" heading="-41.43"  radius="18" pushBackRoute="24" airlineCodes="" />
+        <Parking index="3" type="gate" name="Gate2" lat="N34 34.385260" lon="W98 24.878075" heading="104.62"  radius="20" pushBackRoute="53" airlineCodes="" />
+        <Parking index="4" type="ga" name="Maint" lat="N34 34.562846" lon="W98 24.774352" heading="135"  radius="18" pushBackRoute="31" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="5" lat="N34 34.648414" lon="W98 24.606414" isOnRunway="0" holdPointType="none"  />

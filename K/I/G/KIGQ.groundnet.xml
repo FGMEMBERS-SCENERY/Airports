@@ -4,7 +4,7 @@
   <parkingList>
         <Parking index="0" type="ga" name="GA_1_Ramp_Start_11" lat="N41 32.323325" lon="W87 32.163089" heading="180"  radius="10" pushBackRoute="4" airlineCodes="" />
         <Parking index="1" type="ga" name="GA_1_Ramp_Start_11" lat="N41 32.469315" lon="W87 31.837378" heading="180"  radius="10" pushBackRoute="20" airlineCodes="" />
-        <Parking index="2" type="gate" name="GA_1_MAIN_Ramp_Start_11" lat="N41 32.499707" lon="W87 32.113642" heading="180"  radius="19" pushBackRoute="50" airlineCodes="" />
+        <Parking index="2" type="gate" name="GA_1_MAIN_Ramp_Start_11" lat="N41 32.499707" lon="W87 32.113642" heading="180"  radius="18" pushBackRoute="50" airlineCodes="" />
         <Parking index="3" type="ga" name="GA_1_MAIN_Ramp_Start_11" lat="N41 32.472031" lon="W87 32.171546" heading="180"  radius="10" pushBackRoute="50" airlineCodes="" />
  </parkingList>
  <TaxiNodes>

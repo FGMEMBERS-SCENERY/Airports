@@ -9,7 +9,7 @@
         <Parking index="4" type="ga" name="Katmai_Air_Service" lat="N61 10.961108" lon="W149 58.764151" heading="-91.16"  radius="10" pushBackRoute="91" airlineCodes="" />
         <Parking index="5" type="ga" name="Grant_Aviation_Corp" lat="N61 10.840856" lon="W149 58.685582" heading="-115.92"  radius="10" pushBackRoute="92" airlineCodes="" />
         <Parking index="6" type="ga" name="Alaska_Air_Taxi_1" lat="N61 10.778086" lon="W149 58.669058" heading="-115.92"  radius="10" pushBackRoute="93" airlineCodes="" />
-        <Parking index="7" type="gate" name="Alaska_Air_Taxi_2" lat="N61 10.769262" lon="W149 58.658100" heading="-115.92"  radius="19" pushBackRoute="93" airlineCodes="" />
+        <Parking index="7" type="gate" name="Alaska_Air_Taxi_2" lat="N61 10.769262" lon="W149 58.658100" heading="-115.92"  radius="10" pushBackRoute="93" airlineCodes="" />
         <Parking index="8" type="ga" name="Alaksa_Aviation_Museum_1" lat="N61 10.728494" lon="W149 58.373505" heading="178.83"  radius="10" pushBackRoute="95" airlineCodes="" />
         <Parking index="9" type="ga" name="Alaksa_Aviation_Museum_2" lat="N61 10.733584" lon="W149 58.416023" heading="178.83"  radius="10" pushBackRoute="96" airlineCodes="" />
         <Parking index="10" type="ga" name="Rusts_Fly_Service" lat="N61 10.716196" lon="W149 58.289056" heading="178.83"  radius="10" pushBackRoute="97" airlineCodes="" />
@@ -21,17 +21,17 @@
         <Parking index="16" type="ga" name="GA_North_Hangers" lat="N61 11.202111" lon="W149 58.286827" heading="50.45"  radius="10" pushBackRoute="262" airlineCodes="" />
         <Parking index="17" type="ga" name="GA_North_Hangers" lat="N61 11.243626" lon="W149 58.234691" heading="175.49"  radius="10" pushBackRoute="105" airlineCodes="" />
         <Parking index="18" type="ga" name="GA_West_1" lat="N61 10.878318" lon="W149 58.749982" heading="-115.92"  radius="10" pushBackRoute="107" airlineCodes="" />
-        <Parking index="19" type="gate" name="GA_West_2" lat="N61 10.892047" lon="W149 58.751621" heading="-115.92"  radius="19" pushBackRoute="107" airlineCodes="" />
+        <Parking index="19" type="gate" name="GA_West_2" lat="N61 10.892047" lon="W149 58.751621" heading="-115.92"  radius="10" pushBackRoute="107" airlineCodes="" />
         <Parking index="20" type="ga" name="GA_South_1" lat="N61 10.690794" lon="W149 58.198512" heading="193.01"  radius="10" pushBackRoute="108" airlineCodes="" />
-        <Parking index="21" type="gate" name="GA_South_2" lat="N61 10.701393" lon="W149 58.129940" heading="121.49"  radius="19" pushBackRoute="109" airlineCodes="" />
+        <Parking index="21" type="gate" name="GA_South_2" lat="N61 10.701393" lon="W149 58.129940" heading="121.49"  radius="10" pushBackRoute="109" airlineCodes="" />
         <Parking index="22" type="ga" name="GA_South_3" lat="N61 10.695023" lon="W149 57.986482" heading="-177.61"  radius="10" pushBackRoute="210" airlineCodes="" />
         <Parking index="23" type="ga" name="GA_South_4" lat="N61 10.695343" lon="W149 57.955033" heading="180.5"  radius="10" pushBackRoute="112" airlineCodes="" />
-        <Parking index="24" type="gate" name="GA_South_5" lat="N61 10.723253" lon="W149 57.956281" heading="180.5"  radius="19" pushBackRoute="112" airlineCodes="" />
-        <Parking index="25" type="gate" name="GA_North" lat="N61 11.203881" lon="W149 58.707518" heading="111.86"  radius="19" pushBackRoute="274" airlineCodes="" />
+        <Parking index="24" type="gate" name="GA_South_5" lat="N61 10.723253" lon="W149 57.956281" heading="180.5"  radius="10" pushBackRoute="112" airlineCodes="" />
+        <Parking index="25" type="gate" name="GA_North" lat="N61 11.203881" lon="W149 58.707518" heading="111.86"  radius="10" pushBackRoute="274" airlineCodes="" />
         <Parking index="26" type="ga" name="GA_North" lat="N61 11.210742" lon="W149 58.690945" heading="145.79"  radius="10" pushBackRoute="144" airlineCodes="" />
         <Parking index="27" type="ga" name="GA_North" lat="N61 11.216558" lon="W149 58.672490" heading="145.79"  radius="10" pushBackRoute="143" airlineCodes="" />
-        <Parking index="28" type="gate" name="GA_North" lat="N61 11.250591" lon="W149 58.596454" heading="145.79"  radius="19" pushBackRoute="278" airlineCodes="" />
-        <Parking index="29" type="gate" name="GA_North" lat="N61 11.263933" lon="W149 58.561319" heading="145.79"  radius="19" pushBackRoute="140" airlineCodes="" />
+        <Parking index="28" type="gate" name="GA_North" lat="N61 11.250591" lon="W149 58.596454" heading="145.79"  radius="10" pushBackRoute="278" airlineCodes="" />
+        <Parking index="29" type="gate" name="GA_North" lat="N61 11.263933" lon="W149 58.561319" heading="145.79"  radius="10" pushBackRoute="140" airlineCodes="" />
         <Parking index="30" type="ga" name="GA_North" lat="N61 11.262913" lon="W149 58.537629" heading="145.79"  radius="10" pushBackRoute="139" airlineCodes="" />
         <Parking index="31" type="ga" name="GA_North" lat="N61 11.267873" lon="W149 58.522013" heading="145.79"  radius="10" pushBackRoute="139" airlineCodes="" />
         <Parking index="32" type="ga" name="GA_North" lat="N61 11.273176" lon="W149 58.505687" heading="145.79"  radius="10" pushBackRoute="138" airlineCodes="" />
@@ -44,51 +44,51 @@
         <Parking index="39" type="ga" name="GA_North" lat="N61 11.283268" lon="W149 58.325394" heading="238.19"  radius="10" pushBackRoute="292" airlineCodes="" />
         <Parking index="40" type="ga" name="GA_North" lat="N61 11.306531" lon="W149 58.397440" heading="145.79"  radius="10" pushBackRoute="135" airlineCodes="" />
         <Parking index="41" type="ga" name="GA_North" lat="N61 11.319190" lon="W149 58.353431" heading="-217.26"  radius="10" pushBackRoute="133" airlineCodes="" />
-        <Parking index="42" type="gate" name="GA_North" lat="N61 11.331841" lon="W149 58.342695" heading="145.79"  radius="19" pushBackRoute="133" airlineCodes="" />
+        <Parking index="42" type="gate" name="GA_North" lat="N61 11.331841" lon="W149 58.342695" heading="145.79"  radius="10" pushBackRoute="133" airlineCodes="" />
         <Parking index="43" type="ga" name="GA_North" lat="N61 11.340742" lon="W149 58.282804" heading="145.79"  radius="10" pushBackRoute="131" airlineCodes="" />
         <Parking index="44" type="ga" name="GA_North" lat="N61 11.359729" lon="W149 58.298065" heading="145.79"  radius="10" pushBackRoute="132" airlineCodes="" />
         <Parking index="45" type="ga" name="GA_North" lat="N61 11.353742" lon="W149 58.316165" heading="145.79"  radius="10" pushBackRoute="132" airlineCodes="" />
         <Parking index="46" type="ga" name="GA_North" lat="N61 11.342111" lon="W149 58.354141" heading="145.79"  radius="10" pushBackRoute="133" airlineCodes="" />
         <Parking index="47" type="ga" name="GA_North" lat="N61 11.330821" lon="W149 58.386082" heading="173.68"  radius="10" pushBackRoute="134" airlineCodes="" />
-        <Parking index="48" type="gate" name="GA_North" lat="N61 11.329566" lon="W149 58.418365" heading="145.19"  radius="19" pushBackRoute="135" airlineCodes="" />
+        <Parking index="48" type="gate" name="GA_North" lat="N61 11.329566" lon="W149 58.418365" heading="145.19"  radius="10" pushBackRoute="135" airlineCodes="" />
         <Parking index="49" type="ga" name="GA_North" lat="N61 11.309953" lon="W149 58.451386" heading="145.19"  radius="10" pushBackRoute="136" airlineCodes="" />
         <Parking index="50" type="ga" name="GA_North" lat="N61 11.300032" lon="W149 58.481553" heading="145.19"  radius="10" pushBackRoute="137" airlineCodes="" />
         <Parking index="51" type="ga" name="GA_North" lat="N61 11.290453" lon="W149 58.513495" heading="145.19"  radius="10" pushBackRoute="138" airlineCodes="" />
         <Parking index="52" type="ga" name="GA_North" lat="N61 11.280018" lon="W149 58.544017" heading="145.19"  radius="10" pushBackRoute="139" airlineCodes="" />
-        <Parking index="53" type="gate" name="GA_North" lat="N61 11.278592" lon="W149 58.575235" heading="145.19"  radius="19" pushBackRoute="140" airlineCodes="" />
-        <Parking index="54" type="gate" name="GA_North" lat="N61 11.262684" lon="W149 58.627405" heading="145.19"  radius="19" pushBackRoute="142" airlineCodes="" />
+        <Parking index="53" type="gate" name="GA_North" lat="N61 11.278592" lon="W149 58.575235" heading="145.19"  radius="10" pushBackRoute="140" airlineCodes="" />
+        <Parking index="54" type="gate" name="GA_North" lat="N61 11.262684" lon="W149 58.627405" heading="145.19"  radius="10" pushBackRoute="142" airlineCodes="" />
         <Parking index="55" type="ga" name="GA_North" lat="N61 11.247860" lon="W149 58.647293" heading="143.86"  radius="10" pushBackRoute="142" airlineCodes="" />
         <Parking index="56" type="ga" name="GA_North" lat="N61 11.239307" lon="W149 58.674975" heading="143.86"  radius="10" pushBackRoute="275" airlineCodes="" />
         <Parking index="57" type="ga" name="GA_North" lat="N61 11.231439" lon="W149 58.700173" heading="143.86"  radius="10" pushBackRoute="144" airlineCodes="" />
-        <Parking index="58" type="gate" name="GA_North" lat="N61 11.231093" lon="W149 58.730490" heading="143.86"  radius="19" pushBackRoute="145" airlineCodes="" />
+        <Parking index="58" type="gate" name="GA_North" lat="N61 11.231093" lon="W149 58.730490" heading="143.86"  radius="10" pushBackRoute="145" airlineCodes="" />
         <Parking index="59" type="ga" name="GA_East" lat="N61 11.139594" lon="W149 57.962416" heading="64.5"  radius="10" pushBackRoute="320" airlineCodes="" />
-        <Parking index="60" type="gate" name="GA_East" lat="N61 11.127475" lon="W149 57.962443" heading="64.5"  radius="19" pushBackRoute="169" airlineCodes="" />
+        <Parking index="60" type="gate" name="GA_East" lat="N61 11.127475" lon="W149 57.962443" heading="64.5"  radius="10" pushBackRoute="169" airlineCodes="" />
         <Parking index="61" type="ga" name="GA_East" lat="N61 11.123173" lon="W149 57.946802" heading="64.5"  radius="10" pushBackRoute="168" airlineCodes="" />
-        <Parking index="62" type="gate" name="GA_East" lat="N61 11.066752" lon="W149 57.969896" heading="64.5"  radius="19" pushBackRoute="149" airlineCodes="" />
+        <Parking index="62" type="gate" name="GA_East" lat="N61 11.066752" lon="W149 57.969896" heading="64.5"  radius="10" pushBackRoute="149" airlineCodes="" />
         <Parking index="63" type="ga" name="GA_East" lat="N61 11.120949" lon="W149 58.018841" heading="64.5"  radius="10" pushBackRoute="198" airlineCodes="" />
         <Parking index="64" type="ga" name="GA_East" lat="N61 11.114107" lon="W149 57.938285" heading="64.5"  radius="10" pushBackRoute="167" airlineCodes="" />
         <Parking index="65" type="ga" name="GA_East" lat="N61 11.100765" lon="W149 57.921961" heading="64.5"  radius="10" pushBackRoute="166" airlineCodes="" />
         <Parking index="66" type="ga" name="GA_East" lat="N61 11.079212" lon="W149 57.905637" heading="64.5"  radius="10" pushBackRoute="165" airlineCodes="" />
-        <Parking index="67" type="gate" name="GA_East" lat="N61 11.057344" lon="W149 57.895018" heading="64.5"  radius="19" pushBackRoute="164" airlineCodes="" />
+        <Parking index="67" type="gate" name="GA_East" lat="N61 11.057344" lon="W149 57.895018" heading="64.5"  radius="10" pushBackRoute="164" airlineCodes="" />
         <Parking index="68" type="ga" name="GA_East" lat="N61 11.052528" lon="W149 57.878667" heading="64.5"  radius="10" pushBackRoute="328" airlineCodes="" />
         <Parking index="69" type="ga" name="GA_East" lat="N61 10.984059" lon="W149 57.828584" heading="7.83"  radius="10" pushBackRoute="156" airlineCodes="" />
-        <Parking index="70" type="gate" name="GA_East" lat="N61 10.986379" lon="W149 57.805096" heading="64.5"  radius="19" pushBackRoute="156" airlineCodes="" />
+        <Parking index="70" type="gate" name="GA_East" lat="N61 10.986379" lon="W149 57.805096" heading="64.5"  radius="10" pushBackRoute="156" airlineCodes="" />
         <Parking index="71" type="ga" name="GA_East" lat="N61 11.003722" lon="W149 57.834229" heading="64.5"  radius="10" pushBackRoute="317" airlineCodes="" />
         <Parking index="72" type="ga" name="GA_East" lat="N61 11.034794" lon="W149 57.863002" heading="64.5"  radius="10" pushBackRoute="329" airlineCodes="" />
         <Parking index="73" type="ga" name="GA_East" lat="N61 10.983814" lon="W149 57.860723" heading="64.5"  radius="10" pushBackRoute="161" airlineCodes="" />
-        <Parking index="74" type="gate" name="GA_East" lat="N61 10.980077" lon="W149 57.868557" heading="64.5"  radius="19" pushBackRoute="161" airlineCodes="" />
+        <Parking index="74" type="gate" name="GA_East" lat="N61 10.980077" lon="W149 57.868557" heading="64.5"  radius="10" pushBackRoute="161" airlineCodes="" />
         <Parking index="75" type="ga" name="GA_East" lat="N61 10.992328" lon="W149 57.869646" heading="64.5"  radius="10" pushBackRoute="161" airlineCodes="" />
         <Parking index="76" type="ga" name="GA_East" lat="N61 11.000579" lon="W149 57.878023" heading="64.5"  radius="10" pushBackRoute="161" airlineCodes="" />
         <Parking index="77" type="ga" name="GA_East" lat="N61 11.028067" lon="W149 57.901024" heading="64.5"  radius="10" pushBackRoute="162" airlineCodes="" />
         <Parking index="78" type="ga" name="GA_East" lat="N61 11.040383" lon="W149 57.912380" heading="64.5"  radius="10" pushBackRoute="163" airlineCodes="" />
         <Parking index="79" type="ga" name="GA_East" lat="N61 11.053896" lon="W149 57.923381" heading="64.5"  radius="10" pushBackRoute="164" airlineCodes="" />
         <Parking index="80" type="ga" name="GA_East" lat="N61 11.066041" lon="W149 57.934382" heading="64.5"  radius="10" pushBackRoute="149" airlineCodes="" />
-        <Parking index="81" type="gate" name="GA_East" lat="N61 11.078212" lon="W149 57.956411" heading="64.5"  radius="19" pushBackRoute="149" airlineCodes="" />
+        <Parking index="81" type="gate" name="GA_East" lat="N61 11.078212" lon="W149 57.956411" heading="64.5"  radius="10" pushBackRoute="149" airlineCodes="" />
         <Parking index="82" type="ga" name="GA_East" lat="N61 11.095804" lon="W149 57.962416" heading="64.5"  radius="10" pushBackRoute="167" airlineCodes="" />
         <Parking index="83" type="ga" name="GA_East" lat="N61 11.108120" lon="W149 57.973772" heading="64.5"  radius="10" pushBackRoute="168" airlineCodes="" />
         <Parking index="84" type="ga" name="GA_East" lat="N61 11.120582" lon="W149 57.984805" heading="64.5"  radius="10" pushBackRoute="150" airlineCodes="" />
         <Parking index="85" type="ga" name="GA_East" lat="N61 11.135396" lon="W149 57.999760" heading="64.5"  radius="10" pushBackRoute="150" airlineCodes="" />
-        <Parking index="86" type="gate" name="GA_East" lat="N61 11.139066" lon="W149 58.015909" heading="64.5"  radius="19" pushBackRoute="198" airlineCodes="" />
+        <Parking index="86" type="gate" name="GA_East" lat="N61 11.139066" lon="W149 58.015909" heading="64.5"  radius="10" pushBackRoute="198" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="87" lat="N61 10.945962" lon="W149 58.154386" isOnRunway="0" holdPointType="none"  />

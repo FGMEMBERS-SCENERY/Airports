@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="ga" name="East_T-Hanger" lat="N40 57.711149" lon="W72 14.862403" heading="234.82"  radius="10" pushBackRoute="11" airlineCodes="" />
-        <Parking index="1" type="gate" name="Gen_Avia._Parking" lat="N40 57.634040" lon="W72 14.789622" heading="268"  radius="19" pushBackRoute="9" airlineCodes="" />
-        <Parking index="2" type="gate" name="Sound_Aircraft_Services" lat="N40 57.644730" lon="W72 14.914286" heading="108.69"  radius="19" pushBackRoute="20" airlineCodes="" />
-        <Parking index="3" type="ga" name="Myers_Aero_Exec_Terminal" lat="N40 57.448657" lon="W72 14.951830" heading="338.06"  radius="10" pushBackRoute="4" airlineCodes="" />
+        <Parking index="0" type="ga" name="East_T-Hanger" lat="N40 57.711149" lon="W72 14.862403" heading="234.82"  radius="18" pushBackRoute="11" airlineCodes="" />
+        <Parking index="1" type="gate" name="Gen_Avia._Parking" lat="N40 57.634040" lon="W72 14.789622" heading="268"  radius="20" pushBackRoute="9" airlineCodes="" />
+        <Parking index="2" type="gate" name="Sound_Aircraft_Services" lat="N40 57.644730" lon="W72 14.914286" heading="108.69"  radius="20" pushBackRoute="20" airlineCodes="" />
+        <Parking index="3" type="ga" name="Myers_Aero_Exec_Terminal" lat="N40 57.448657" lon="W72 14.951830" heading="338.06"  radius="20" pushBackRoute="4" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="4" lat="N40 57.460046" lon="W72 14.956672" isOnRunway="0" holdPointType="PushBack"  />

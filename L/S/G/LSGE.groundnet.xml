@@ -2,13 +2,13 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Custom_Startup_Location" lat="N46 45.286149" lon="E7 4.366381" heading="95.15"  radius="19" pushBackRoute="49" airlineCodes="" />
-        <Parking index="1" type="gate" name="Custom_Startup_Location" lat="N46 45.295095" lon="E7 4.367588" heading="95.15"  radius="19" pushBackRoute="48" airlineCodes="" />
-        <Parking index="2" type="gate" name="Custom_Startup_Location" lat="N46 45.274722" lon="E7 4.559222" heading="5.15"  radius="19" pushBackRoute="50" airlineCodes="" />
-        <Parking index="3" type="gate" name="Custom_Startup_Location" lat="N46 45.275473" lon="E7 4.546066" heading="5.15"  radius="19" pushBackRoute="50" airlineCodes="" />
-        <Parking index="4" type="gate" name="Custom_Startup_Location" lat="N46 45.278291" lon="E7 4.614617" heading="95.15"  radius="19" pushBackRoute="16" airlineCodes="" />
-        <Parking index="5" type="gate" name="Custom_Startup_Location" lat="N46 45.269050" lon="E7 4.613814" heading="94.71"  radius="19" pushBackRoute="16" airlineCodes="" />
-        <Parking index="6" type="gate" name="Custom_Startup_Location" lat="N46 45.272748" lon="E7 4.420238" heading="5.28"  radius="19" pushBackRoute="50" airlineCodes="" />
+        <Parking index="0" type="gate" name="Custom_Startup_Location" lat="N46 45.286149" lon="E7 4.366381" heading="95.15"  radius="10" pushBackRoute="49" airlineCodes="" />
+        <Parking index="1" type="gate" name="Custom_Startup_Location" lat="N46 45.295095" lon="E7 4.367588" heading="95.15"  radius="10" pushBackRoute="48" airlineCodes="" />
+        <Parking index="2" type="gate" name="Custom_Startup_Location" lat="N46 45.274722" lon="E7 4.559222" heading="5.15"  radius="10" pushBackRoute="50" airlineCodes="" />
+        <Parking index="3" type="gate" name="Custom_Startup_Location" lat="N46 45.275473" lon="E7 4.546066" heading="5.15"  radius="10" pushBackRoute="50" airlineCodes="" />
+        <Parking index="4" type="gate" name="Custom_Startup_Location" lat="N46 45.278291" lon="E7 4.614617" heading="95.15"  radius="10" pushBackRoute="16" airlineCodes="" />
+        <Parking index="5" type="gate" name="Custom_Startup_Location" lat="N46 45.269050" lon="E7 4.613814" heading="94.71"  radius="10" pushBackRoute="16" airlineCodes="" />
+        <Parking index="6" type="gate" name="Custom_Startup_Location" lat="N46 45.272748" lon="E7 4.420238" heading="5.28"  radius="10" pushBackRoute="50" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="7" lat="N46 45.297688" lon="E7 4.840486" isOnRunway="1" holdPointType="none"  />

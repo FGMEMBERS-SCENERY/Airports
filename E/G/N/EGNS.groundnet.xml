@@ -2,28 +2,28 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Maintenance" lat="N54 5.314953" lon="W4 37.728025" heading="183.71"  radius="19" pushBackRoute="24" airlineCodes="" />
-        <Parking index="1" type="gate" name="Maintenance" lat="N54 5.288363" lon="W4 37.706829" heading="325.45"  radius="19" pushBackRoute="23" airlineCodes="" />
-        <Parking index="2" type="gate" name="Maintenance" lat="N54 5.225571" lon="W4 37.686477" heading="325.45"  radius="19" pushBackRoute="23" airlineCodes="" />
-        <Parking index="3" type="gate" name="Maintenance" lat="N54 5.250862" lon="W4 37.686149" heading="231.5"  radius="19" pushBackRoute="23" airlineCodes="" />
-        <Parking index="4" type="gate" name="East_Apron_2" lat="N54 5.212026" lon="W4 38.008194" heading="226.66"  radius="19" pushBackRoute="85" airlineCodes="" />
-        <Parking index="5" type="gate" name="East_Apron_2" lat="N54 5.197781" lon="W4 37.982163" heading="226.66"  radius="19" pushBackRoute="85" airlineCodes="" />
-        <Parking index="6" type="gate" name="East_Apron_2" lat="N54 5.180478" lon="W4 37.956513" heading="226.66"  radius="19" pushBackRoute="85" airlineCodes="" />
-        <Parking index="7" type="gate" name="East_Apron_2" lat="N54 5.164197" lon="W4 37.927301" heading="-135.07"  radius="19" pushBackRoute="28" airlineCodes="" />
-        <Parking index="8" type="gate" name="East_Apron_2" lat="N54 5.212179" lon="W4 37.890941" heading="42.55"  radius="19" pushBackRoute="28" airlineCodes="" />
-        <Parking index="9" type="gate" name="East_Apron_2" lat="N54 5.226590" lon="W4 37.917995" heading="42.55"  radius="19" pushBackRoute="85" airlineCodes="" />
-        <Parking index="10" type="gate" name="East_Apron_2" lat="N54 5.241803" lon="W4 37.944309" heading="42.55"  radius="19" pushBackRoute="85" airlineCodes="" />
-        <Parking index="11" type="gate" name="GA_Apron" lat="N54 4.949768" lon="W4 36.888095" heading="269.83"  radius="19" pushBackRoute="87" airlineCodes="" />
-        <Parking index="12" type="gate" name="GA_Apron" lat="N54 4.944775" lon="W4 36.939887" heading="12.4"  radius="19" pushBackRoute="89" airlineCodes="" />
-        <Parking index="13" type="gate" name="GA_Apron" lat="N54 4.968357" lon="W4 36.949446" heading="147.68"  radius="19" pushBackRoute="45" airlineCodes="" />
-        <Parking index="14" type="gate" name="GA_Apron" lat="N54 4.969876" lon="W4 36.908589" heading="238.91"  radius="19" pushBackRoute="88" airlineCodes="" />
-        <Parking index="15" type="gate" name="West_Apron" lat="N54 5.139046" lon="W4 38.090163" heading="-135.2"  radius="19" pushBackRoute="81" airlineCodes="" />
-        <Parking index="16" type="gate" name="West_Apron" lat="N54 5.124579" lon="W4 38.065237" heading="-135.2"  radius="19" pushBackRoute="81" airlineCodes="" />
-        <Parking index="17" type="gate" name="West_Apron" lat="N54 5.110711" lon="W4 38.040067" heading="-135.2"  radius="19" pushBackRoute="82" airlineCodes="" />
-        <Parking index="18" type="gate" name="West_Apron" lat="N54 5.134319" lon="W4 37.963529" heading="43.02"  radius="19" pushBackRoute="82" airlineCodes="" />
-        <Parking index="19" type="gate" name="West_Apron" lat="N54 5.149279" lon="W4 37.992040" heading="43.02"  radius="19" pushBackRoute="82" airlineCodes="" />
-        <Parking index="20" type="gate" name="West_Apron" lat="N54 5.162088" lon="W4 38.023546" heading="42.8"  radius="19" pushBackRoute="81" airlineCodes="" />
-        <Parking index="21" type="gate" name="West_Apron" lat="N54 5.176668" lon="W4 38.048893" heading="42.8"  radius="19" pushBackRoute="81" airlineCodes="" />
+        <Parking index="0" type="gate" name="Maintenance" lat="N54 5.314953" lon="W4 37.728025" heading="183.71"  radius="10" pushBackRoute="24" airlineCodes="" />
+        <Parking index="1" type="gate" name="Maintenance" lat="N54 5.288363" lon="W4 37.706829" heading="325.45"  radius="10" pushBackRoute="23" airlineCodes="" />
+        <Parking index="2" type="gate" name="Maintenance" lat="N54 5.225571" lon="W4 37.686477" heading="325.45"  radius="10" pushBackRoute="23" airlineCodes="" />
+        <Parking index="3" type="gate" name="Maintenance" lat="N54 5.250862" lon="W4 37.686149" heading="231.5"  radius="10" pushBackRoute="23" airlineCodes="" />
+        <Parking index="4" type="gate" name="East_Apron_2" lat="N54 5.212026" lon="W4 38.008194" heading="226.66"  radius="18" pushBackRoute="85" airlineCodes="" />
+        <Parking index="5" type="gate" name="East_Apron_2" lat="N54 5.197781" lon="W4 37.982163" heading="226.66"  radius="18" pushBackRoute="85" airlineCodes="" />
+        <Parking index="6" type="gate" name="East_Apron_2" lat="N54 5.180478" lon="W4 37.956513" heading="226.66"  radius="20" pushBackRoute="85" airlineCodes="" />
+        <Parking index="7" type="gate" name="East_Apron_2" lat="N54 5.164197" lon="W4 37.927301" heading="-135.07"  radius="20" pushBackRoute="28" airlineCodes="" />
+        <Parking index="8" type="gate" name="East_Apron_2" lat="N54 5.212179" lon="W4 37.890941" heading="42.55"  radius="18" pushBackRoute="28" airlineCodes="" />
+        <Parking index="9" type="gate" name="East_Apron_2" lat="N54 5.226590" lon="W4 37.917995" heading="42.55"  radius="18" pushBackRoute="85" airlineCodes="" />
+        <Parking index="10" type="gate" name="East_Apron_2" lat="N54 5.241803" lon="W4 37.944309" heading="42.55"  radius="18" pushBackRoute="85" airlineCodes="" />
+        <Parking index="11" type="gate" name="GA_Apron" lat="N54 4.949768" lon="W4 36.888095" heading="269.83"  radius="10" pushBackRoute="87" airlineCodes="" />
+        <Parking index="12" type="gate" name="GA_Apron" lat="N54 4.944775" lon="W4 36.939887" heading="12.4"  radius="10" pushBackRoute="89" airlineCodes="" />
+        <Parking index="13" type="gate" name="GA_Apron" lat="N54 4.968357" lon="W4 36.949446" heading="147.68"  radius="10" pushBackRoute="45" airlineCodes="" />
+        <Parking index="14" type="gate" name="GA_Apron" lat="N54 4.969876" lon="W4 36.908589" heading="238.91"  radius="10" pushBackRoute="88" airlineCodes="" />
+        <Parking index="15" type="gate" name="West_Apron" lat="N54 5.139046" lon="W4 38.090163" heading="-135.2"  radius="18" pushBackRoute="81" airlineCodes="" />
+        <Parking index="16" type="gate" name="West_Apron" lat="N54 5.124579" lon="W4 38.065237" heading="-135.2"  radius="18" pushBackRoute="81" airlineCodes="" />
+        <Parking index="17" type="gate" name="West_Apron" lat="N54 5.110711" lon="W4 38.040067" heading="-135.2"  radius="18" pushBackRoute="82" airlineCodes="" />
+        <Parking index="18" type="gate" name="West_Apron" lat="N54 5.134319" lon="W4 37.963529" heading="43.02"  radius="20" pushBackRoute="82" airlineCodes="" />
+        <Parking index="19" type="gate" name="West_Apron" lat="N54 5.149279" lon="W4 37.992040" heading="43.02"  radius="20" pushBackRoute="82" airlineCodes="" />
+        <Parking index="20" type="gate" name="West_Apron" lat="N54 5.162088" lon="W4 38.023546" heading="42.8"  radius="18" pushBackRoute="81" airlineCodes="" />
+        <Parking index="21" type="gate" name="West_Apron" lat="N54 5.176668" lon="W4 38.048893" heading="42.8"  radius="18" pushBackRoute="81" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="22" lat="N54 5.301218" lon="W4 37.706399" isOnRunway="0" holdPointType="none"  />

@@ -2,18 +2,18 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Gate_4" lat="N45 27.584954" lon="E9 16.819433" heading="359.68"  radius="44" pushBackRoute="60" airlineCodes="" />
-        <Parking index="1" type="gate" name="Gate_1" lat="N45 27.583283" lon="E9 16.709736" heading="358.67"  radius="19" pushBackRoute="58" airlineCodes="" />
-        <Parking index="2" type="gate" name="Gate_3" lat="N45 27.584185" lon="E9 16.780265" heading="358.64"  radius="19" pushBackRoute="59" airlineCodes="" />
-        <Parking index="3" type="gate" name="Ramp_6" lat="N45 27.485517" lon="E9 16.838140" heading="90.3"  radius="19" pushBackRoute="60" airlineCodes="" />
-        <Parking index="4" type="gate" name="Ramp_8" lat="N45 27.438079" lon="E9 16.837354" heading="90"  radius="19" pushBackRoute="60" airlineCodes="" />
-        <Parking index="5" type="gate" name="Ramp_10" lat="N45 27.374567" lon="E9 16.835783" heading="90"  radius="19" pushBackRoute="69" airlineCodes="" />
-        <Parking index="6" type="gate" name="Ramp_14" lat="N45 27.514676" lon="E9 16.739971" heading="90"  radius="19" pushBackRoute="58" airlineCodes="" />
-        <Parking index="7" type="gate" name="Ramp_16" lat="N45 27.464650" lon="E9 16.740230" heading="90.67"  radius="19" pushBackRoute="58" airlineCodes="" />
-        <Parking index="8" type="gate" name="Ramp_19" lat="N45 27.391259" lon="E9 16.739020" heading="90.38"  radius="19" pushBackRoute="54" airlineCodes="" />
-        <Parking index="9" type="gate" name="Ramp_67" lat="N45 27.133592" lon="E9 16.877264" heading="116.03"  radius="19" pushBackRoute="66" airlineCodes="" />
-        <Parking index="10" type="gate" name="Ramp_53" lat="N45 27.265132" lon="E9 15.712646" heading="245.24"  radius="19" pushBackRoute="34" airlineCodes="" />
-        <Parking index="11" type="ga" name="Heli" lat="N45 27.500677" lon="E9 16.139924" heading="85.49"  radius="8" pushBackRoute="13" airlineCodes="" />
+        <Parking index="0" type="gate" name="Gate_4" lat="N45 27.584954" lon="E9 16.819433" heading="359.68"  radius="36" pushBackRoute="60" airlineCodes="" />
+        <Parking index="1" type="gate" name="Gate_1" lat="N45 27.583283" lon="E9 16.709736" heading="358.67"  radius="32" pushBackRoute="58" airlineCodes="" />
+        <Parking index="2" type="gate" name="Gate_3" lat="N45 27.584185" lon="E9 16.780265" heading="358.64"  radius="32" pushBackRoute="59" airlineCodes="" />
+        <Parking index="3" type="gate" name="Ramp_6" lat="N45 27.485517" lon="E9 16.838140" heading="90.3"  radius="32" pushBackRoute="60" airlineCodes="" />
+        <Parking index="4" type="gate" name="Ramp_8" lat="N45 27.438079" lon="E9 16.837354" heading="90"  radius="32" pushBackRoute="60" airlineCodes="" />
+        <Parking index="5" type="gate" name="Ramp_10" lat="N45 27.374567" lon="E9 16.835783" heading="90"  radius="32" pushBackRoute="69" airlineCodes="" />
+        <Parking index="6" type="gate" name="Ramp_14" lat="N45 27.514676" lon="E9 16.739971" heading="90"  radius="32" pushBackRoute="58" airlineCodes="" />
+        <Parking index="7" type="gate" name="Ramp_16" lat="N45 27.464650" lon="E9 16.740230" heading="90.67"  radius="32" pushBackRoute="58" airlineCodes="" />
+        <Parking index="8" type="gate" name="Ramp_19" lat="N45 27.391259" lon="E9 16.739020" heading="90.38"  radius="32" pushBackRoute="54" airlineCodes="" />
+        <Parking index="9" type="gate" name="Ramp_67" lat="N45 27.133592" lon="E9 16.877264" heading="116.03"  radius="20" pushBackRoute="66" airlineCodes="" />
+        <Parking index="10" type="gate" name="Ramp_53" lat="N45 27.265132" lon="E9 15.712646" heading="245.24"  radius="18" pushBackRoute="34" airlineCodes="" />
+        <Parking index="11" type="ga" name="Heli" lat="N45 27.500677" lon="E9 16.139924" heading="85.49"  radius="18" pushBackRoute="13" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="12" lat="N45 27.612730" lon="E9 16.081709" isOnRunway="0" holdPointType="none"  />

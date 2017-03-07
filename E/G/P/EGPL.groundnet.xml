@@ -2,10 +2,10 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Apron_Remote_Stand" lat="N57 28.532109" lon="W7 22.345845" heading="197"  radius="19" pushBackRoute="4" airlineCodes="" />
-        <Parking index="1" type="gate" name="Passenger_Terminal" lat="N57 28.482904" lon="W7 22.385150" heading="104.03"  radius="19" pushBackRoute="5" airlineCodes="" />
-        <Parking index="2" type="gate" name="Passenger_Terminal" lat="N57 28.480324" lon="W7 22.341043" heading="168.77"  radius="19" pushBackRoute="5" airlineCodes="" />
-        <Parking index="3" type="gate" name="Passenger_Terminal" lat="N57 28.469419" lon="W7 22.299927" heading="287"  radius="19" pushBackRoute="4" airlineCodes="" />
+        <Parking index="0" type="gate" name="Apron_Remote_Stand" lat="N57 28.532109" lon="W7 22.345845" heading="197"  radius="18" pushBackRoute="4" airlineCodes="" />
+        <Parking index="1" type="gate" name="Passenger_Terminal" lat="N57 28.482904" lon="W7 22.385150" heading="104.03"  radius="10" pushBackRoute="5" airlineCodes="" />
+        <Parking index="2" type="gate" name="Passenger_Terminal" lat="N57 28.480324" lon="W7 22.341043" heading="168.77"  radius="18" pushBackRoute="5" airlineCodes="" />
+        <Parking index="3" type="gate" name="Passenger_Terminal" lat="N57 28.469419" lon="W7 22.299927" heading="287"  radius="18" pushBackRoute="4" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="4" lat="N57 28.491601" lon="W7 22.298713" isOnRunway="0" holdPointType="PushBack"  />

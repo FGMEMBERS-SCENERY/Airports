@@ -2,14 +2,14 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Ramp_105" lat="N43 48.172823" lon="E11 11.978487" heading="184.74"  radius="44" pushBackRoute="12" airlineCodes="" />
-        <Parking index="1" type="gate" name="Ramp_107" lat="N43 48.191005" lon="E11 12.058543" heading="129.38"  radius="44" pushBackRoute="13" airlineCodes="" />
-        <Parking index="2" type="gate" name="Ramp_101" lat="N43 48.285152" lon="E11 12.085862" heading="129.38"  radius="19" pushBackRoute="10" airlineCodes="" />
-        <Parking index="3" type="gate" name="Ramp_201" lat="N43 48.394306" lon="E11 11.744978" heading="268.13"  radius="19" pushBackRoute="36" airlineCodes="" />
-        <Parking index="4" type="gate" name="Ramp_207" lat="N43 48.436721" lon="E11 11.698667" heading="228.25"  radius="19" pushBackRoute="37" airlineCodes="" />
-        <Parking index="5" type="gate" name="Ramp_304_(B_146)" lat="N43 48.456791" lon="E11 11.751522" heading="324.16"  radius="19" pushBackRoute="9" airlineCodes="" />
-        <Parking index="6" type="gate" name="Ramp_306_(B_146)" lat="N43 48.488544" lon="E11 11.793112" heading="-127.48"  radius="19" pushBackRoute="8" airlineCodes="" />
-        <Parking index="7" type="gate" name="RWY_23-05_Hold_(Emergency_Stand)" lat="N43 48.717175" lon="E11 12.274352" heading="138.2"  radius="19" pushBackRoute="41" airlineCodes="" />
+        <Parking index="0" type="gate" name="Ramp_105" lat="N43 48.172823" lon="E11 11.978487" heading="184.74"  radius="36" pushBackRoute="12" airlineCodes="" />
+        <Parking index="1" type="gate" name="Ramp_107" lat="N43 48.191005" lon="E11 12.058543" heading="129.38"  radius="36" pushBackRoute="13" airlineCodes="" />
+        <Parking index="2" type="gate" name="Ramp_101" lat="N43 48.285152" lon="E11 12.085862" heading="129.38"  radius="32" pushBackRoute="10" airlineCodes="" />
+        <Parking index="3" type="gate" name="Ramp_201" lat="N43 48.394306" lon="E11 11.744978" heading="268.13"  radius="20" pushBackRoute="36" airlineCodes="" />
+        <Parking index="4" type="gate" name="Ramp_207" lat="N43 48.436721" lon="E11 11.698667" heading="228.25"  radius="20" pushBackRoute="37" airlineCodes="" />
+        <Parking index="5" type="gate" name="Ramp_304_(B_146)" lat="N43 48.456791" lon="E11 11.751522" heading="324.16"  radius="20" pushBackRoute="9" airlineCodes="" />
+        <Parking index="6" type="gate" name="Ramp_306_(B_146)" lat="N43 48.488544" lon="E11 11.793112" heading="-127.48"  radius="20" pushBackRoute="8" airlineCodes="" />
+        <Parking index="7" type="gate" name="RWY_23-05_Hold_(Emergency_Stand)" lat="N43 48.717175" lon="E11 12.274352" heading="138.2"  radius="18" pushBackRoute="41" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="8" lat="N43 48.467107" lon="E11 11.812105" isOnRunway="0" holdPointType="PushBack"  />

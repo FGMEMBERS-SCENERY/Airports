@@ -10,23 +10,23 @@
         <Parking index="5" type="gate" name="Hold_Short_Rwy22R" lat="N40 42.168184" lon="W74 9.848044" heading="94.98"  radius="17" pushBackRoute="52" airlineCodes="" />
         <Parking index="6" type="gate" name="Hold_Short_Rwy29_@_CC" lat="N40 42.018843" lon="W74 9.453271" heading="30"  radius="17" pushBackRoute="515" airlineCodes="" />
         <Parking index="7" type="gate" name="Hold_Short_Rwy29_@_Z" lat="N40 42.127114" lon="W74 9.394447" heading="185.1"  radius="17" pushBackRoute="513" airlineCodes="" />
-        <Parking index="8" type="gate" name="Terminal_A_Gate_16" lat="N40 41.177348" lon="W74 11.104457" heading="347.17"  radius="44" pushBackRoute="430" airlineCodes="" />
-        <Parking index="9" type="gate" name="Terminal_A_Gate_24A" lat="N40 41.161889" lon="W74 11.033256" heading="117.77"  radius="10" pushBackRoute="547" airlineCodes="" />
-        <Parking index="10" type="gate" name="Terminal_A_Gate_33" lat="N40 41.121167" lon="W74 10.776040" heading="0.58"  radius="44" pushBackRoute="544" airlineCodes="" />
-        <Parking index="11" type="gate" name="Terminal_B_Gate_44" lat="N40 41.222572" lon="W74 10.594613" heading="358.68"  radius="44" pushBackRoute="543" airlineCodes="" />
-        <Parking index="12" type="gate" name="Terminal_B_Gate_56" lat="N40 41.420702" lon="W74 10.480557" heading="261.2"  radius="44" pushBackRoute="541" airlineCodes="" />
-        <Parking index="13" type="gate" name="Terminal_B_Gate_63" lat="N40 41.509984" lon="W74 10.388593" heading="276.45"  radius="44" pushBackRoute="539" airlineCodes="" />
-        <Parking index="14" type="gate" name="Terminal_C_Gate_74" lat="N40 41.641396" lon="W74 10.457718" heading="12.4"  radius="19" pushBackRoute="536" airlineCodes="" />
-        <Parking index="15" type="gate" name="Terminal_C_Gate_106A" lat="N40 41.855050" lon="W74 10.583102" heading="131.55"  radius="44" pushBackRoute="528" airlineCodes="" />
-        <Parking index="16" type="gate" name="Signature_Flight_Support" lat="N40 42.380574" lon="W74 10.224204" heading="3.07"  radius="44" pushBackRoute="502" airlineCodes="" />
+        <Parking index="8" type="gate" name="Terminal_A_Gate_16" lat="N40 41.177348" lon="W74 11.104457" heading="347.17"  radius="40" pushBackRoute="430" airlineCodes="" />
+        <Parking index="9" type="gate" name="Terminal_A_Gate_24A" lat="N40 41.161889" lon="W74 11.033256" heading="117.77"  radius="20" pushBackRoute="547" airlineCodes="" />
+        <Parking index="10" type="gate" name="Terminal_A_Gate_33" lat="N40 41.121167" lon="W74 10.776040" heading="0.58"  radius="40" pushBackRoute="544" airlineCodes="" />
+        <Parking index="11" type="gate" name="Terminal_B_Gate_44" lat="N40 41.222572" lon="W74 10.594613" heading="358.68"  radius="40" pushBackRoute="543" airlineCodes="" />
+        <Parking index="12" type="gate" name="Terminal_B_Gate_56" lat="N40 41.420702" lon="W74 10.480557" heading="261.2"  radius="40" pushBackRoute="541" airlineCodes="" />
+        <Parking index="13" type="gate" name="Terminal_B_Gate_63" lat="N40 41.509984" lon="W74 10.388593" heading="276.45"  radius="40" pushBackRoute="539" airlineCodes="" />
+        <Parking index="14" type="gate" name="Terminal_C_Gate_74" lat="N40 41.641396" lon="W74 10.457718" heading="12.4"  radius="20" pushBackRoute="536" airlineCodes="" />
+        <Parking index="15" type="gate" name="Terminal_C_Gate_106A" lat="N40 41.855050" lon="W74 10.583102" heading="131.55"  radius="40" pushBackRoute="528" airlineCodes="" />
+        <Parking index="16" type="gate" name="Signature_Flight_Support" lat="N40 42.380574" lon="W74 10.224204" heading="3.07"  radius="36" pushBackRoute="502" airlineCodes="" />
         <Parking index="17" type="gate" name="Ball_Park" lat="N40 41.915995" lon="W74 10.180063" heading="95.19"  radius="17" pushBackRoute="374" airlineCodes="" />
-        <Parking index="18" type="gate" name="FedEx_Ramp" lat="N40 40.774329" lon="W74 10.854537" heading="114.81"  radius="44" pushBackRoute="411" airlineCodes="" />
-        <Parking index="19" type="gate" name="UPS_Ramp" lat="N40 40.937956" lon="W74 11.203219" heading="295.33"  radius="44" pushBackRoute="362" airlineCodes="" />
-        <Parking index="20" type="gate" name="Air_Cargo_Ramp" lat="N40 42.307536" lon="W74 10.431630" heading="90"  radius="44" pushBackRoute="498" airlineCodes="" />
-        <Parking index="21" type="gate" name="Parking_Area_340" lat="N40 42.268876" lon="W74 9.948390" heading="93.47"  radius="44" pushBackRoute="509" airlineCodes="" />
-        <Parking index="22" type="gate" name="Parking_Area_Amelia" lat="N40 41.052473" lon="W74 10.899574" heading="0"  radius="44" pushBackRoute="422" airlineCodes="" />
-        <Parking index="23" type="gate" name="Parking_Area_Lindy" lat="N40 41.049866" lon="W74 10.764334" heading="341.72"  radius="44" pushBackRoute="426" airlineCodes="" />
-        <Parking index="24" type="gate" name="Parking_Area_Wilbur" lat="N40 41.074157" lon="W74 11.244544" heading="42.87"  radius="44" pushBackRoute="417" airlineCodes="" />
+        <Parking index="18" type="gate" name="FedEx_Ramp" lat="N40 40.774329" lon="W74 10.854537" heading="114.81"  radius="36" pushBackRoute="411" airlineCodes="" />
+        <Parking index="19" type="gate" name="UPS_Ramp" lat="N40 40.937956" lon="W74 11.203219" heading="295.33"  radius="36" pushBackRoute="362" airlineCodes="" />
+        <Parking index="20" type="gate" name="Air_Cargo_Ramp" lat="N40 42.307536" lon="W74 10.431630" heading="90"  radius="36" pushBackRoute="498" airlineCodes="" />
+        <Parking index="21" type="gate" name="Parking_Area_340" lat="N40 42.268876" lon="W74 9.948390" heading="93.47"  radius="40" pushBackRoute="509" airlineCodes="" />
+        <Parking index="22" type="gate" name="Parking_Area_Amelia" lat="N40 41.052473" lon="W74 10.899574" heading="0"  radius="40" pushBackRoute="422" airlineCodes="" />
+        <Parking index="23" type="gate" name="Parking_Area_Lindy" lat="N40 41.049866" lon="W74 10.764334" heading="341.72"  radius="40" pushBackRoute="426" airlineCodes="" />
+        <Parking index="24" type="gate" name="Parking_Area_Wilbur" lat="N40 41.074157" lon="W74 11.244544" heading="42.87"  radius="40" pushBackRoute="417" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="25" lat="N40 40.699694" lon="W74 10.547471" isOnRunway="0" holdPointType="none"  />

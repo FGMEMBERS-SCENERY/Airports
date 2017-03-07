@@ -2,14 +2,14 @@
 <groundnet>
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="New_Ramp_Start_19" lat="N29 31.971701" lon="W98 27.524584" heading="40.64"  radius="19" pushBackRoute="174" airlineCodes="" />
-        <Parking index="1" type="gate" name="FBO" lat="N29 32.243334" lon="W98 29.012470" heading="37.69"  radius="19" pushBackRoute="41" airlineCodes="" />
-        <Parking index="2" type="gate" name="GATE_C7" lat="N29 31.762343" lon="W98 28.523264" heading="-38.38"  radius="44" pushBackRoute="33" airlineCodes="" />
-        <Parking index="3" type="gate" name="GATE_C4" lat="N29 31.843008" lon="W98 28.562375" heading="180"  radius="44" pushBackRoute="66" airlineCodes="" />
-        <Parking index="4" type="gate" name="EAST_CARGO" lat="N29 32.002048" lon="W98 27.331855" heading="-49.7"  radius="44" pushBackRoute="45" airlineCodes="" />
-        <Parking index="5" type="gate" name="GATE_B5" lat="N29 31.751319" lon="W98 28.363303" heading="132.84"  radius="44" pushBackRoute="58" airlineCodes="" />
-        <Parking index="6" type="gate" name="GATE_A30" lat="N29 31.672280" lon="W98 28.257409" heading="128.85"  radius="44" pushBackRoute="59" airlineCodes="" />
-        <Parking index="7" type="gate" name="GATE_A15" lat="N29 31.531829" lon="W98 28.276876" heading="310"  radius="44" pushBackRoute="73" airlineCodes="" />
+        <Parking index="0" type="gate" name="New_Ramp_Start_19" lat="N29 31.971701" lon="W98 27.524584" heading="40.64"  radius="20" pushBackRoute="174" airlineCodes="" />
+        <Parking index="1" type="gate" name="FBO" lat="N29 32.243334" lon="W98 29.012470" heading="37.69"  radius="20" pushBackRoute="41" airlineCodes="" />
+        <Parking index="2" type="gate" name="GATE_C7" lat="N29 31.762343" lon="W98 28.523264" heading="-38.38"  radius="36" pushBackRoute="33" airlineCodes="" />
+        <Parking index="3" type="gate" name="GATE_C4" lat="N29 31.843008" lon="W98 28.562375" heading="180"  radius="36" pushBackRoute="66" airlineCodes="" />
+        <Parking index="4" type="gate" name="EAST_CARGO" lat="N29 32.002048" lon="W98 27.331855" heading="-49.7"  radius="36" pushBackRoute="45" airlineCodes="" />
+        <Parking index="5" type="gate" name="GATE_B5" lat="N29 31.751319" lon="W98 28.363303" heading="132.84"  radius="36" pushBackRoute="58" airlineCodes="" />
+        <Parking index="6" type="gate" name="GATE_A30" lat="N29 31.672280" lon="W98 28.257409" heading="128.85"  radius="36" pushBackRoute="59" airlineCodes="" />
+        <Parking index="7" type="gate" name="GATE_A15" lat="N29 31.531829" lon="W98 28.276876" heading="310"  radius="36" pushBackRoute="73" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="8" lat="N29 32.529733" lon="W98 29.279797" isOnRunway="0" holdPointType="none"  />
