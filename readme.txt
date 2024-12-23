@@ -1,3 +1,18 @@
+To install airport parking, after unzipping the files, remove "master" from Airports-Master so your airport files are in the file named Airports. This is important as it is the only way flightgear will recognize it. Create a folder someplace on your system (not in any FG files or folders), name it whatever you want, so you will know what it is. 
+example (Airport Parking)
+ Then create a file system like this:
+					Airport Parking\
+					       Airports\
+					  airport files (1 to 0 and a to z) 
+
+These are the parking files. Then open flightgear, and in add-ons\additional scenery folders, select add, and direct it to the file named Airport Parking, it must be done this way or it will not work.
+					
+			
+
+
+then place the file where you would like it (not in any FG files and folders), then 
+
+
 new Version: 2017-03
 
 local "push" repo:  i3:~/d-laser-fgtools/Airports
