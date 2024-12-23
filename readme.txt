@@ -6,11 +6,9 @@ example (Airport Parking)
 					  airport files (1 to 0 and a to z) 
 
 These are the parking files. Then open flightgear, and in add-ons\additional scenery folders, select add, and direct it to the file named Airport Parking, it must be done this way or it will not work.
-					
-			
 
 
-then place the file where you would like it (not in any FG files and folders), then 
+
 
 
 new Version: 2017-03
