@@ -2,7 +2,7 @@ W.I.P. to update Airport Parking, if you know one that has issues, like parking 
 
 N929Q
 
-Parking originally forked from FG-SCENERY.
+Parking originally forked from FGMEMBERS-SCENERY.
 
 
 
