@@ -1,3 +1,28 @@
+W.I.P. to update Airport Parking, if you know one that has issues, like parking not loading properly, or loading off of airport taxyways and parking, leave a comment and I will put it on the list.
+
+N929Q
+
+Parking originally forked from FGMEMBERS-SCENERY.
+
+
+
+
+
+
+
+To install airport parking, after unzipping the files, remove "master" from Airports-Master so your airport files are in the file named Airports. This is important as it is the only way flightgear will recognize it. Create a folder someplace on your system (not in any FG files or folders), name it whatever you want, so you will know what it is. 
+example (Airport Parking)
+ Then create a file system like this:
+					Airport Parking\
+					       Airports\
+					  airport files (1 to 0 and a to z) 
+
+These are the parking files. Then open flightgear, and in add-ons\additional scenery folders, select add, and direct it to the file named Airport Parking, it must be done this way or it will not work.
+
+
+
+
+
 new Version: 2017-03
 
 local "push" repo:  i3:~/d-laser-fgtools/Airports
